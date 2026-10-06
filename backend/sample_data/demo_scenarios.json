@@ -1,0 +1,28 @@
+{
+  "scenarios": [
+    {
+      "id": "scenario_01",
+      "name": "Fintech Scale-Up (Razorpay)",
+      "target_role": "Senior Python Backend Engineer",
+      "company": "Razorpay",
+      "location": "Bengaluru, India",
+      "focus": "High growth, recent technical hiring expansion, low risk"
+    },
+    {
+      "id": "scenario_02",
+      "name": "Hyperlocal Consumer Tech (Swiggy)",
+      "target_role": "Staff AI Platform Engineer",
+      "company": "Swiggy",
+      "location": "Bengaluru, India",
+      "focus": "AI agent infrastructure, minor restructuring risk signal, strong tech reputation"
+    },
+    {
+      "id": "scenario_03",
+      "name": "High-Trust Financial Systems (CRED)",
+      "target_role": "Backend Architect",
+      "company": "CRED",
+      "location": "Bengaluru, India",
+      "focus": "Mission-critical financial ledgers, system design rigor"
+    }
+  ]
+}

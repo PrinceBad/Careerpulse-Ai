@@ -1,0 +1,41 @@
+{
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "2025-10",
+        "values": [
+          {
+            "extracted_value": 68
+          }
+        ]
+      },
+      {
+        "date": "2026-02",
+        "values": [
+          {
+            "extracted_value": 82
+          }
+        ]
+      },
+      {
+        "date": "2026-06",
+        "values": [
+          {
+            "extracted_value": 91
+          }
+        ]
+      },
+      {
+        "date": "2026-10",
+        "values": [
+          {
+            "extracted_value": 96
+          }
+        ]
+      }
+    ]
+  },
+  "search_parameters": {
+    "q": "FastAPI"
+  }
+}

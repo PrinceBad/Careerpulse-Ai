@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CareerPulse AI | Evidence-Backed Employer Due Diligence & Application Copilot</title>
+  <meta name="description" content="Autonomous job market intelligence agent powered by SerpApi multi-engine search. Real-time employer due diligence, risk scanning, and strictly grounded outreach.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <!-- Header / Navigation -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="logo-icon">⚡</div>
+        <div class="brand-text">
+          <h1>CareerPulse <span class="badge-ai">AI</span></h1>
+          <p class="tagline">Investigative Career Intelligence · Powered by SerpApi</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <div class="cache-indicator" id="cacheStatusBadge" title="Disk Caching Active">
+          <span class="status-dot"></span>
+          <span class="status-label">SerpApi Resilient Cache Active</span>
+        </div>
+        <div class="community-tag">
+          <span class="pydelhi-pill">🐍 PyDelhi 2026 Edition</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-layout">
+    <!-- Left Panel: Candidate Context & Discovery Filters -->
+    <aside class="sidebar-panel">
+      <div class="card glass-card">
+        <div class="card-header">
+          <h2>1. Candidate Radar</h2>
+          <span class="step-num">STEP 1</span>
+        </div>
+        
+        <!-- Quick Demo Scenarios -->
+        <div class="demo-scenarios-box">
+          <label class="input-label">⚡ 1-Click Judge Demo Scenarios</label>
+          <div class="scenario-buttons">
+            <button type="button" class="btn-scenario active" data-scenario="razorpay">
+              <strong>Razorpay</strong>
+              <small>Senior Python · Fintech</small>
+            </button>
+            <button type="button" class="btn-scenario" data-scenario="swiggy">
+              <strong>Swiggy</strong>
+              <small>Staff AI Platform</small>
+            </button>
+            <button type="button" class="btn-scenario" data-scenario="cred">
+              <strong>CRED</strong>
+              <small>Backend Architect</small>
+            </button>
+          </div>
+        </div>
+
+        <!-- Search Controls -->
+        <form id="jobSearchForm" class="search-form">
+          <div class="form-group">
+            <label for="roleInput" class="input-label">Target Role / Keywords</label>
+            <input type="text" id="roleInput" class="form-input" value="Senior Python Backend Engineer" required>
+          </div>
+
+          <div class="form-group">
+            <label for="locationInput" class="input-label">Target Location</label>
+            <input type="text" id="locationInput" class="form-input" value="Bengaluru, India" required>
+          </div>
+
+          <div class="form-group">
+            <label for="resumeInput" class="input-label">Candidate Skills / Resume Snippet</label>
+            <textarea id="resumeInput" class="form-textarea" rows="4" placeholder="Paste technical skills or experience summary...">Python 3.14, FastAPI, Pydantic, PostgreSQL, Redis, Celery, Docker, Distributed Systems, Microservices, AsyncIO, REST API Design, AWS.</textarea>
+          </div>
+
+          <button type="submit" id="btnScanJobs" class="btn btn-primary btn-block">
+            <span class="btn-icon">🔍</span>
+            <span>Query Live Jobs (google_jobs)</span>
+          </button>
+        </form>
+      </div>
+
+      <!-- Engine Telemetry Card -->
+      <div class="card glass-card engine-telemetry">
+        <h3>SerpApi Engine Telemetry</h3>
+        <ul class="engine-list">
+          <li><span class="engine-tag engine-jobs">google_jobs</span> Live postings & compensation</li>
+          <li><span class="engine-tag engine-news">google_news</span> Layoff & funding scanner</li>
+          <li><span class="engine-tag engine-web">google</span> Culture & Glassdoor ratings</li>
+          <li><span class="engine-tag engine-trends">google_trends</span> 12-Month skill demand slope</li>
+          <li><span class="engine-tag engine-maps">google_maps</span> Verified HQ & transit intel</li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Center/Right: Live Radar, Due Diligence Dossier & Outreach -->
+    <section class="content-panel">
+      <!-- Section A: Live Job Postings -->
+      <div class="section-card card glass-card">
+        <div class="section-header">
+          <div>
+            <h2>Real-Time Opportunity Radar</h2>
+            <p class="section-subtitle">Ranked by algorithmic candidate skill overlap</p>
+          </div>
+          <div class="results-stats" id="jobsStats">Found 3 matching positions</div>
+        </div>
+
+        <div id="jobsList" class="jobs-grid">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+
+      <!-- Section B: Employer Due-Diligence & Evidence Dossier -->
+      <div class="section-card card glass-card" id="dueDiligenceSection">
+        <div class="section-header">
+          <div>
+            <h2>360° Employer Due-Diligence Dossier</h2>
+            <p class="section-subtitle">Multi-engine investigative evidence with zero hallucinations</p>
+          </div>
+          <div id="companyHealthBadge" class="verdict-badge verdict-strong">Strong Profile</div>
+        </div>
+
+        <!-- Target Company Bar -->
+        <div class="dossier-target-bar">
+          <div>
+            <h3 id="targetCompanyTitle">Razorpay</h3>
+            <span id="targetRoleTitle" class="target-role-badge">Senior Python Backend Engineer</span>
+          </div>
+          <button id="btnRefreshDiligence" class="btn btn-secondary btn-sm">
+            <span>🔄 Re-scan Evidence</span>
+          </button>
+        </div>
+
+        <!-- Executive Summary -->
+        <div class="executive-summary-box">
+          <p id="executiveSummaryText">Razorpay presents a strong employer profile based on 48% YoY growth, active engineering hiring, and high Glassdoor sentiment (4.3/5). No systemic layoff signals detected.</p>
+        </div>
+
+        <!-- Intelligence Metric Cards -->
+        <div class="intel-grid">
+          <!-- Corporate Risk & Layoff Scanner -->
+          <div class="intel-card risk-card">
+            <div class="intel-card-header">
+              <span class="intel-icon">🛡️</span>
+              <h4>Health & Layoff Risk Scanner</h4>
+              <span id="riskLevelBadge" class="badge-risk-low">LOW RISK</span>
+            </div>
+            <p id="riskSummaryText" class="intel-text">No workforce reductions detected in recent news. 250+ new technical openings announced.</p>
+            <div class="intel-citations" id="riskCitations">
+              <!-- Linked citations -->
+            </div>
+          </div>
+
+          <!-- Culture & Glassdoor Sentiment -->
+          <div class="intel-card culture-card">
+            <div class="intel-card-header">
+              <span class="intel-icon">⭐</span>
+              <h4>Culture & Review Intel</h4>
+              <span id="cultureScoreBadge" class="badge-score">4.3 / 5.0</span>
+            </div>
+            <div class="pros-cons-list">
+              <div><strong>Top Pros:</strong> <span id="culturePros">Engineering autonomy, smart peers, competitive pay</span></div>
+              <div><strong>Critique:</strong> <span id="cultureCons">High sprint velocity during quarterly product launches</span></div>
+            </div>
+            <div class="intel-citations" id="cultureCitations">
+              <!-- Linked citations -->
+            </div>
+          </div>
+
+          <!-- Google Trends Tech Velocity -->
+          <div class="intel-card trends-card">
+            <div class="intel-card-header">
+              <span class="intel-icon">📈</span>
+              <h4>Tech Stack Demand Velocity</h4>
+              <span id="trendsVerdictBadge" class="badge-trend-surging">SURGING</span>
+            </div>
+            <p id="trendsSummaryText" class="intel-text">FastAPI relative search interest is up 41% over the past 12 months in India, showing high ecosystem longevity.</p>
+            <div class="trend-visual-bar">
+              <div class="trend-fill" style="width: 88%;"></div>
+            </div>
+            <div class="intel-citations" id="trendsCitations">
+              <!-- Linked citations -->
+            </div>
+          </div>
+
+          <!-- Google Maps Office & Transit -->
+          <div class="intel-card maps-card">
+            <div class="intel-card-header">
+              <span class="intel-icon">📍</span>
+              <h4>HQ & Commute Context</h4>
+              <span id="mapsRatingBadge" class="badge-maps">4.6 ★</span>
+            </div>
+            <p id="mapsAddressText" class="intel-text">Salarpuria Softzone, Outer Ring Road, Bellandur, Bengaluru.</p>
+            <p class="transit-note">🚇 Transit: Prime tech corridor with shuttle connectivity & close to metro access.</p>
+            <div class="intel-citations" id="mapsCitations">
+              <!-- Linked citations -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Evidence Vault / Citations Catalog -->
+        <div class="citations-catalog">
+          <div class="catalog-header">
+            <h4>Verified SerpApi Evidence Vault</h4>
+            <span class="catalog-count" id="citationCountBadge">7 Citations Loaded</span>
+          </div>
+          <div class="citations-accordion" id="citationsVaultList">
+            <!-- Populated by app.js -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Section C: Grounded Outreach Pack -->
+      <div class="section-card card glass-card" id="outreachSection">
+        <div class="section-header">
+          <div>
+            <h2>Evidence-Grounded Outreach Pack</h2>
+            <p class="section-subtitle">Strictly anti-hallucination: every claim explicitly cites SerpApi sources</p>
+          </div>
+          <button id="btnGenerateOutreach" class="btn btn-primary">
+            <span class="btn-icon">⚡</span>
+            <span>Regenerate Grounded Pack</span>
+          </button>
+        </div>
+
+        <div class="outreach-content-box">
+          <div class="outreach-field">
+            <label class="outreach-label">Optimized Subject Line</label>
+            <div class="subject-display" id="outreachSubject">
+              Application: Senior Python Backend Engineer | Proven Async & Scalable Services - Razorpay
+            </div>
+          </div>
+
+          <div class="outreach-field">
+            <label class="outreach-label">Personalized Outreach Email (Citations Linked)</label>
+            <div class="letter-display" id="outreachEmail">
+              <!-- Populated by app.js with clickable citation chips -->
+            </div>
+          </div>
+
+          <div class="outreach-field">
+            <label class="outreach-label">Tailored Evidence-Aligned Resume Bullets</label>
+            <ul class="bullets-display" id="outreachBullets">
+              <!-- Populated by app.js -->
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal / Floating Citation Preview -->
+  <div id="citationModal" class="modal hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h4 id="modalCitTitle">Citation Details</h4>
+        <button id="btnCloseModal" class="btn-close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-meta">
+          <span id="modalCitEngine" class="engine-tag">google_news</span>
+          <span id="modalCitSignal" class="signal-tag">POSITIVE</span>
+          <span id="modalCitDate" class="date-tag">Recent</span>
+        </div>
+        <p id="modalCitSnippet" class="modal-snippet"></p>
+        <div class="modal-source">
+          <strong>Source URL:</strong>
+          <a id="modalCitUrl" href="#" target="_blank" rel="noopener noreferrer">Visit Source</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>CareerPulse AI · Built for <strong>SerpApi India Hackathon 2026</strong> · Community Submission: <strong>PyDelhi</strong></p>
+      <p class="footer-sub">Multi-Engine Search: Google Jobs, News, Organic, Trends, Maps · Local Disk Caching Enabled</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

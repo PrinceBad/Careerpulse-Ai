@@ -1,0 +1,49 @@
+{
+  "jobs_results": [
+    {
+      "job_id": "job_01",
+      "title": "Senior Senior Python Backend Engineer",
+      "company_name": "Razorpay",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "via LinkedIn",
+      "description": "We are seeking an experienced Backend Engineer to scale our core payment infrastructure. Experience with Python, FastAPI, distributed systems, PostgreSQL, and high-throughput systems required. Competitive compensation and equity.",
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time",
+        "salary": "₹28,00,000 - ₹42,00,000 a year"
+      },
+      "thumbnail": "https://img.icons8.com/color/96/razorpay.png",
+      "share_link": "https://careers.razorpay.com/jobs/01"
+    },
+    {
+      "job_id": "job_02",
+      "title": "Staff AI Platform Engineer",
+      "company_name": "Swiggy",
+      "location": "Remote / Bengaluru, India",
+      "via": "via Swiggy Careers",
+      "description": "Lead the engineering efforts behind our agentic dispatch and recommendation engine. Must have deep Python expertise, FastAPI, Redis, LLM orchestration, and async architectures.",
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time",
+        "salary": "₹35,00,000 - ₹50,00,000 a year"
+      },
+      "thumbnail": "https://img.icons8.com/color/96/swiggy.png",
+      "share_link": "https://careers.swiggy.com/jobs/02"
+    },
+    {
+      "job_id": "job_03",
+      "title": "Backend Architect - Real-Time Systems",
+      "company_name": "CRED",
+      "location": "Bengaluru, Karnataka, India",
+      "via": "via Instahyre",
+      "description": "Architect mission-critical financial ledger pipelines. Expertise in Python, Go, Event-Driven Architecture, Kafka, and ultra low-latency APIs required.",
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time",
+        "salary": "₹40,00,000 - ₹60,00,000 a year"
+      },
+      "thumbnail": "https://img.icons8.com/color/96/bank-building.png",
+      "share_link": "https://careers.cred.club/jobs/03"
+    }
+  ]
+}

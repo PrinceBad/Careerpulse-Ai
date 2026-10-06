@@ -1,0 +1,34 @@
+{
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Razorpay reports 48% YoY revenue expansion, initiates major engineering hiring drive",
+      "source": {
+        "name": "Economic Times"
+      },
+      "link": "https://economictimes.indiatimes.com/tech/news/razorpay-growth",
+      "snippet": "Razorpay today announced stellar quarter earnings, confirming profitability and announcing plans to hire 250+ senior technical leaders across backend, platform, and applied AI infrastructure.",
+      "date": "1 week ago"
+    },
+    {
+      "position": 2,
+      "title": "Razorpay restructures customer ops division to focus on AI automation; tech headcount spared",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "link": "https://techcrunch.com/2026/08/razorpay-restructuring",
+      "snippet": "In a strategic realignment, Razorpay confirmed minor operational restructuring in support while expanding investments in core platform engineering and distributed systems.",
+      "date": "3 weeks ago"
+    },
+    {
+      "position": 3,
+      "title": "Leadership update: Razorpay appoints new Chief Technology Officer from Big Tech",
+      "source": {
+        "name": "Mint"
+      },
+      "link": "https://livemint.com/technology/razorpay-new-cto",
+      "snippet": "Former engineering director joins Razorpay to steer global technical architecture and modernize backend microservices stack.",
+      "date": "1 month ago"
+    }
+  ]
+}

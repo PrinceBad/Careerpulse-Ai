@@ -1,0 +1,30 @@
+PRINCE BADSIWAL
+Senior Python Backend & AI Engineer
+Bengaluru / Delhi, India | kingofdozen420@gmail.com | github.com/PrinceBad
+
+PROFESSIONAL SUMMARY:
+Experienced Software Engineer specializing in scalable Python backend services, asynchronous API architectures, and applied AI systems. Proven expertise in FastAPI, PostgreSQL, Redis, distributed task queues, and real-time data pipelines. Strong background in system design, automation, and full-stack integration.
+
+CORE TECHNICAL SKILLS:
+- Languages: Python, JavaScript, TypeScript, SQL, Bash
+- Frameworks & Libraries: FastAPI, Pydantic, Django, Flask, Requests, Uvicorn, Celery, OpenCV, Pillow, PyPDF
+- Databases & Caching: PostgreSQL, Redis, MongoDB, SQLite
+- Cloud & Infrastructure: Docker, AWS, Git, CI/CD, Linux, Microservices Architecture
+- Concepts: RESTful APIs, Event-Driven Architecture, High-Throughput Scraping, LLM Orchestration, System Design
+
+EXPERIENCE:
+Senior Backend Engineer | High-Velocity Tech Solutions (2023 - Present)
+- Architected and scaled low-latency REST APIs handling 5M+ daily requests using Python and FastAPI.
+- Built distributed caching layers with Redis, slashing p99 response times from 320ms to 42ms.
+- Designed automated intelligence pipelines integrating third-party APIs with resilient disk caching and rate-limit backoffs.
+- Mentored junior engineers on clean architecture, Pydantic data validation, and asynchronous Python concurrency.
+
+Software Engineer | NextGen Platforms (2021 - 2023)
+- Implemented core database schemas and indexing strategies in PostgreSQL, optimizing query throughput by 45%.
+- Integrated background task processing via Celery and Redis to handle asynchronous document processing and computer vision workflows.
+- Developed end-to-end automated testing suites with Pytest achieving 85%+ code coverage.
+
+PROJECTS & OPEN SOURCE:
+- CareerPulse AI: Autonomous multi-engine employer due-diligence and job intelligence agent using SerpApi.
+- TubeNotes: Automated video intelligence and transcription pipeline.
+- AI Job Search & Career Ops: Automated job scrapers, salary trackers, and candidate matching pipelines.
