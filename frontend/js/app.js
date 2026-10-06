@@ -37,6 +37,8 @@ const resumeInput = document.getElementById('resumeInput');
 const jobsList = document.getElementById('jobsList');
 const jobsStats = document.getElementById('jobsStats');
 const scenarioButtons = document.querySelectorAll('.btn-scenario');
+const dataSourceBadge = document.getElementById('dataSourceBadge');
+const dataSourceLabel = document.getElementById('dataSourceLabel');
 
 // Due Diligence Elements
 const companyHealthBadge = document.getElementById('companyHealthBadge');
@@ -251,6 +253,15 @@ async function loadDueDiligence(companyName, roleTitle) {
 }
 
 function renderDueDiligence(report) {
+  // Update Live vs Mock Data badge
+  if (report.is_mock) {
+    dataSourceBadge.className = 'data-source-badge badge-mock';
+    dataSourceLabel.textContent = 'Demo Mock Data';
+  } else {
+    dataSourceBadge.className = 'data-source-badge badge-live';
+    dataSourceLabel.textContent = 'Live SerpApi Verified';
+  }
+
   // Verdict badge
   companyHealthBadge.className = 'verdict-badge';
   if (report.overall_health_verdict === 'Strong') {
@@ -344,6 +355,12 @@ window.showCitationModal = function(citationId) {
   
   modalCitDate.textContent = c.date || 'Verified Live Result';
   modalCitSnippet.textContent = c.snippet;
+  
+  const modalCitMethod = document.getElementById('modalCitMethod');
+  if (modalCitMethod) {
+    modalCitMethod.textContent = c.verification_method || 'exact_entity_match';
+  }
+  
   modalCitUrl.href = c.source_url;
   modalCitUrl.textContent = c.source_url;
 

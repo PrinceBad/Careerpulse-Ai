@@ -5,11 +5,12 @@ from typing import List, Dict, Any, Optional
 import requests
 from ..config import settings
 from ..models.schemas import Citation, GroundedOutreachPack
+from .grounding_validator import grounding_validator
 
 logger = logging.getLogger(__name__)
 
 class LLMService:
-    """Pluggable LLM provider with strict citation grounding."""
+    """Pluggable LLM provider with strict citation grounding and validation."""
 
     def __init__(self):
         self.provider = settings.LLM_PROVIDER.lower()
@@ -24,7 +25,7 @@ class LLMService:
         citations: List[Citation]
     ) -> GroundedOutreachPack:
         """
-        Generates an outreach pack strictly anchored in provided SerpApi citations.
+        Generates an outreach pack and strictly validates citations and factual claims.
         """
         # Format citations as an evidence reference catalog
         evidence_catalog = []
@@ -33,21 +34,55 @@ class LLMService:
         evidence_text = "\n".join(evidence_catalog)
 
         # 1. Try Gemini if configured
+        pack = None
         if self.provider == "gemini" and self.gemini_key:
             try:
-                return self._call_gemini(company_name, role_title, candidate_profile, citations, evidence_text)
+                pack = self._call_gemini(company_name, role_title, candidate_profile, citations, evidence_text)
             except Exception as e:
                 logger.warning(f"Gemini call failed, falling back to deterministic generator: {e}")
 
         # 2. Try OpenAI if configured
-        if self.provider == "openai" and self.openai_key:
+        if not pack and self.provider == "openai" and self.openai_key:
             try:
-                return self._call_openai(company_name, role_title, candidate_profile, citations, evidence_text)
+                pack = self._call_openai(company_name, role_title, candidate_profile, citations, evidence_text)
             except Exception as e:
                 logger.warning(f"OpenAI call failed, falling back to deterministic generator: {e}")
 
         # 3. Deterministic Evidence-Grounded Fallback (zero-credit, reproducible, offline)
-        return self._deterministic_grounded_pack(company_name, role_title, candidate_profile, citations)
+        if not pack:
+            pack = self._deterministic_grounded_pack(company_name, role_title, candidate_profile, citations)
+
+        # 4. Strict Code-Level Grounding Validation & Sanitization
+        is_valid_letter, clean_letter, letter_violations, _ = grounding_validator.validate_and_clean_text(
+            pack.cover_letter, citations
+        )
+        clean_bullets = []
+        all_violations = list(letter_violations)
+
+        for bullet in pack.tailored_resume_bullets:
+            is_valid_b, clean_b, b_violations, _ = grounding_validator.validate_and_clean_text(bullet, citations)
+            if clean_b:
+                clean_bullets.append(clean_b)
+            all_violations.extend(b_violations)
+
+        # Extract strictly verified IDs
+        verified_letter_ids = grounding_validator.extract_cited_ids(clean_letter)
+        verified_bullet_ids = []
+        for b in clean_bullets:
+            verified_bullet_ids.extend(grounding_validator.extract_cited_ids(b))
+
+        final_cited_ids = sorted(list(set(verified_letter_ids + verified_bullet_ids)))
+        used_citations = [c for c in citations if c.id in final_cited_ids]
+        is_mock_run = any(getattr(c, "is_mock", False) for c in citations)
+
+        pack.cover_letter = clean_letter
+        pack.tailored_resume_bullets = clean_bullets
+        pack.cited_evidence_ids = final_cited_ids
+        pack.citations_used = used_citations
+        pack.is_mock = is_mock_run
+        pack.validation_status = "strictly_verified" if not all_violations else "sanitized_grounded"
+
+        return pack
 
     def _call_gemini(
         self, 

@@ -10,6 +10,10 @@ class Citation(BaseModel):
     snippet: str
     date: Optional[str] = None
     signal_type: Literal["positive", "neutral", "red_flag"] = "neutral"
+    verified: bool = Field(default=True, description="True if evidence verified against source query")
+    verification_method: str = Field(default="exact_entity_match", description="Method used to verify citation")
+    verification_confidence: float = Field(default=0.95, ge=0.0, le=1.0)
+    is_mock: bool = Field(default=False, description="Flag indicating if citation originates from offline mock data")
 
 class JobListing(BaseModel):
     """A real-time job posting retrieved from SerpApi google_jobs."""
@@ -43,6 +47,7 @@ class JobSearchResponse(BaseModel):
     total_found: int
     jobs: List[JobListing]
     is_cached: bool = False
+    is_mock: bool = False
 
 class CompanyRiskSignals(BaseModel):
     risk_level: Literal["Low", "Medium", "High"]
@@ -91,6 +96,7 @@ class DueDiligenceReport(BaseModel):
     # Consolidated Evidence Vault
     citations: List[Citation]
     is_cached: bool = False
+    is_mock: bool = False
 
 class DueDiligenceRequest(BaseModel):
     company_name: str
@@ -107,6 +113,8 @@ class GroundedOutreachPack(BaseModel):
     # Proof of groundedness: only cite IDs from the verified citations
     cited_evidence_ids: List[str]
     citations_used: List[Citation] = Field(default_factory=list)
+    is_mock: bool = False
+    validation_status: str = "strictly_verified"
 
 class OutreachRequest(BaseModel):
     company_name: str
