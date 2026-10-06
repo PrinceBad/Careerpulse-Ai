@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)](https://fastapi.tiangolo.com/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-5%20Engines%20Integrated-orange.svg)](https://serpapi.com/)
-[![Tests](https://img.shields.io/badge/Tests-20%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
+[![Tests](https://img.shields.io/badge/Tests-20%20Passing-brightgreen.svg)](https://github.com/PrinceBad/Careerpulse-Ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 ---
@@ -116,8 +116,8 @@ Earlier open-source experiments with resume parsing and job search prototyping w
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone https://github.com/PrinceBad/careerpulse-ai.git
-cd careerpulse-ai
+git clone https://github.com/PrinceBad/Careerpulse-Ai.git
+cd Careerpulse-Ai
 
 # Create virtual environment
 python -m venv .venv
