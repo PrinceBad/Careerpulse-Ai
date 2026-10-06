@@ -1,0 +1,533 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebd9dafa5fd5250b169a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bUQ9RljtLvgLNmyPE8-K4wCC-qTGdpJ68VNl7sS0zfQ/6ac4ebd9dafa5fd5250b169a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bUQ9RljtLvgLNmyPE8-K4wCC-qTGdpJ68VNl7sS0zfQ/6ac4ebd9dafa5fd5250b169a.md",
+    "created_at": "2026-10-06 12:38:49 UTC",
+    "processed_at": "2026-10-06 12:38:49 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Backend+Architect&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/bUQ9RljtLvgLNmyPE8-K4wCC-qTGdpJ68VNl7sS0zfQ/6ac4ebd9dafa5fd5250b169a.html",
+    "total_time_taken": 3.56
+  },
+  "search_parameters": {
+    "q": "Backend Architect",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC0KHk0-2Zwor7i_bcIMRMmEJh2wWD2toRqZWJq6sCVpB2m0lVZDPSm0SHLNguHsfgS3medWCTzGmdw9svaXdYranEqVuVT7CX72USMzHfElifXwcQBpF8pAQPraC-DsydP7hKvk",
+        "q": "Backend Architect remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC0KHk0-2Zwor7i_bcIMRMmEJh2wWD2toRqZWJq6sCVpB2m0lVZDPSm0SHLNguHsfgS3medWCTzGmdw9svaXdYranEqVuVT7CX72USMzHfElifXwcQBpF8pAQPraC-DsydP7hKvk&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rk9HWz-Wo36oyDDqa65SAC0KHk0-2Zwor7i_bcIMRMmEJh2wWD2toRqZWJq6sCVpB2m0lVZDPSm0SHLNguHsfgS3medWCTzGmdw9svaXdYranEqVuVT7CX72USMzHfElifXwcQBpF8pAQPraC-DsydP7hKvk"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y",
+            "q": "Backend Architect since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc",
+            "q": "Backend Architect in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU",
+            "q": "Backend Architect in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k",
+            "q": "Backend Architect in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y",
+            "q": "Backend Architect since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rgO-Aw68bXRhyO5czSlwHlVm2rIJ9yuPAvIBpKoYWNwWY7OetucFrcVmwSH18RnYHQddonvM6obeuccKA6nIfex5Uw5KBsyhD_Vzb1PWokNAtouLx2SvFEMS-IbEoi0x7WkHe3eeiyOo15lsEJO5aBOfgXNgDU6u9MtVTl6lrzxvSxLyiDFqwwnQb8ECW4QKUMCnNi28AAklSPmYGPUiEvfWe8XmJpF8JQQm27K_5S6Z02Tldzmooq1O47aCVDtEedivY7m13i5kWnb5_YqQR_CbGcDZgJyFYhWaRkPn-KqZALfDWo9EQvWufkkjao4Y_L6ntiR8JxtqD3GZUIwRj4h8fF1Y"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc",
+            "q": "Backend Architect in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGhy3EJ-Pjf_M-BgoHLWgiJXQ6b5_6r1AHGnV9EtsrtIR63MY0V1y4-w7gJi1V9MZMWqOpEoI0bK1xZaVun0yNh1zfBzy4MqtJbXcZ11WQvFnEpEIu71IBoavUSTHG1Tgee0aJTtAjCyAZ4JOdS3I5V5XcAgq8nwAAJCjNS1kDY-oOgXvAQLVJx8__ZV77OfEoygdzTft2ouEauEApr0c-GeIGOE4ENcLmvu3m8cE-XF-Q7hFQgbp8XCSW8MIzgfYX114PoCG3PeE3zYfSMLiMY2vnVIsLPmfWLIN1JWKPNkWclChnohO4p5NNlpMHxqpnc2V0V667ZpVflMP4t0W2RMWJMc"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU",
+            "q": "Backend Architect in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rC8yPJokVwOjCPeS0eHMeLKyHptWiCDhlKk2qEqx988-cT9r1x-BZTRNayhZSvQaT97kjCNOmuPi235RbdcxjcT3KX7jou_pQBPi2idMFeu8CHOZl5loURfYZ_9bFAEZiPELUfzdnOH8f7yVAIgfTJa9gy3kgSbina8SLKiuxlPJJLkDtNkQE45LuvKnGqR80nhFwiLkU0GyG1QOuOrR-xU3nNH-iZ-uxOcXOOFKiVV-G2eZnEAZPrt6pIqUBBDxbpOuvt6_XV7c2WJ__5YbwiI1M1AIH_wTg_G6ysC6FAGqrQjYRX7SpgYUz4CfZ08G_pNDVxgmzuuF-K5GcbLQ1oEYA6jU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k",
+            "q": "Backend Architect in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOlXwN1Kkg1slxefdo_4jCIgVQADdEKT9HZKkhLBl9Tt9S29w5gNggOU4HD3AuXCVMWlifAMPyvKdpyYV7sxb4TGdht0Dwkv5oFdvCzMnnnlyA1UkG1WEG_lCBThQBL2cQsu2sO4rpOGwWHjyuNAdvHKGyE_jW6fejoG3VB2JQtqdPlJDgbfyk2K2jVZHxrQnJmB7K0ICHHaz8Xl0PrZYUmJVIaXm_NFd8eqwQ14qWT6E4DsSZ_1RfdqNGraDXUa6izq8x6QKw3FAXWOc0ohru8YKzq4GD5Q6SODlbqPpFZHkWWnpus4QJlJtU5yyzV50L9JFMOYSx32Kw-ela39bcfniE4k"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g",
+            "q": "Backend Architect full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw",
+            "q": "Backend Architect part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww",
+            "q": "Backend Architect contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ",
+            "q": "Backend Architect internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g",
+            "q": "Backend Architect full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGBHKmNRKT7lkIFs1pJtV_H-V4v9eXb08cKEuhiPhP12hILNZTOCU9JWT0SrhwJxejMsTMsvD-mA1-Tehwe209ZVdt0SnH79QN_JN8mDvBxbSKt736ZlUGeMhViXpwo0KRRqa_7k077cc5m7roJ5_XJOaSOE34WWrlKc_sQbiMn3FWeN8UVbm2HRVCvuPvx9BxYNMkrgTA1K6xqu9CTr2PC0buyulfMhhW5aYlqyvPedZgrtnzJU17sw66wtSGVgvU6hbB-UysjtExYv9MDA2yDl3haG2g"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw",
+            "q": "Backend Architect part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9gOBp8Xb80MDFzWKXtzCroOX5v22IN_jmP2eRCKQDGB2DhyDqYXqmK_reUrEPt0JFqxmqLj5-OrHUsJXskLJXWzi1V0xgavA2gCxcYnfgbAqRKkxQFmnzoxVkcyU-Q76Khc9cqD_SPmw8RmVSnbuw6SZFdslQ4KzBKENeExbPF_8O2s-WYLhX97OekewdiwLYl8spopd35-4LM5nSvi4Ydoa_6EdoL9DbyU0Gc8ppZDd9UAkeIQtPYTh8eNe-lmozzvu30xeERg8J9O6TfhXCGFvgFljdWOXJ6QJBZtcAEUJaMN452rXkpvCNdb8006Wr5lGkw"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww",
+            "q": "Backend Architect contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rUoQZf4gR9RMlgEF9DTInFguFKhTL-R3XJY42G396vz-4-H2AIe0hyqEcOoz4gKzGjd47r8Nuq6lTNS_oL53uwI7wR_RM20ZbHHRYMDOLjITYqyqE9dHUpPQqmn2ddEOVwDuqUQBXWJL4JfjGNmOos-4mYrX9dSDFY49iKkwX9zV9Vi7_ZgVdTxVSsdrMBPGGeDSHxOy6xDbbCjBRM1eCvv2NBgHgQFwbxobIwndZ3E9HAbR3nk_nj6aB82NLDtBg4_R42z5UpKi817oOCi43HSBjnePVlCjcE3LC2idUZ-MpjKKT8o5YtE23zKS3YE3zsakDww"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ",
+            "q": "Backend Architect internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQnssw1cui1uAICr3XuRcUE4xmTu4pw:1791290332982&q=Backend+Architect+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ&udm=8&sa=X&ved=2ahUKEwj2lfK_tKWXAxVVmSYFHTnSK-kQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Backend+Architect+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rSHC3t_xwSZW5ycLfcSbZImu0EHtPI7BOBsrHTYnBc5jA9p5LMrfFRw4OzgK1BWWRRCnAxZMj7KwYLnzMSVBZCOYmOLsfQP8rgVVQBGjW91HuaGAAdTD5U_hEQdpZyarfX3VG650wReP3yOpM-b3pcaWxWXpArRBnGI50MXan7CwtpXUG0dtfHf3MQ4MGw7oXvo_Vq26Pubp1MOAT6S1nnirMolXDUXfmQdNq8nk9NRcIGowl4SOHp99DitDty9YLSLn9__87sy-lpMf0iawWC5S0kEUUio5DRZ30t1J_8novewOL459liXelwzQpI-VHGJtArQ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Principal / Senior Technology Architect (Backend Engineering) | 15+ Years | 2 Open Positions",
+      "company_name": "Kognitive Networks",
+      "location": "Chennai, Tamil Nadu",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=b-w9K3kkrzQxzqwiAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWNsUqDMRRGce0jOH2jVfmjhS46WREHoRbs4lTS9JLcNr035KZawcF38AEFn8S4fJzhHL7Rz8nosKgsgYvPcHghYa1YUkiiWeMH7mpI3Cg0nM182JFs8CCRhahncYxPXE8v8Eq-WucJngsJFmrcWMXw-_WNra5hXQgJKnhUjZlOb1NrxW6cM8tDtOYbhyHo3qnQWo-uR_Y_K0u-Usm-0WoyvToOReL5-Emj9Ic3wpzau9adgQX3iUQ8X2Lp95wx95vDH81eIn3iAAAA&shmds=v1_ARwrE21Ao8FpR9nObx7VJDxjhu0Oxz5lhuDAWMdl4qXpwqN91g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=b-w9K3kkrzQxzqwiAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd9dafa5fd5250b169a/images/A3TD7yxIza2GkG3mIxivxxn1obh6QcIemAr8hNfmNAw.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/principal-senior-technology-architect-backend-engineering-15%2B-years-2-open-positions-at-kognitive-networks-4474239990",
+      "job_title": "Principal / Senior Technology Architect (Backend Engineering) | 15+ Years | 2 Open Positions",
+      "description": "We're Hiring: Senior Technology Architect & Principal Technology Architect (Backend Engineering)\n\nKognitive Networks is hiring for 2 Backend Engineering leadership roles:\n\n✅ Senior Technology Architect (6-8 years of experience)\n\n✅ Principal Technology Architect (13-15 years of experience)\n\nIf you're passionate about building scalable backend platforms, designing distributed systems, and solving complex technical challenges while staying hands-on with development, we'd love to hear from you.\n\nKey SkillsNode.js & Python DevelopmentSystem Architecture & Distributed SystemsMicroservices & Event-Driven ArchitectureREST API Design & DevelopmentSQL & NoSQL DatabasesAWS, Azure, or GCPDocker & KubernetesScalability, Reliability & Performance OptimizationCI/CD, Observability & Infrastructure AutomationTechnical Leadership & Architecture GovernanceWhat You'll DoDesign and build secure, scalable, and highly available backend systemsArchitect cloud-native applications and distributed platformsLead technical discussions, design reviews, and solution developmentDrive performance, reliability, and modernization initiativesMentor engineers and contribute to engineering best practicesWork closely with cross-functional teams from concept to productionWho We're Looking ForSenior Technology Architect\n\n6-8 years of software engineering experienceStrong hands-on expertise in Node.js and PythonExperience with microservices, APIs, cloud platforms, and KubernetesStrong problem-solving and system design capabilitiesPrincipal Technology Architect\n\n13-15 years of software engineering experienceProven experience architecting and scaling enterprise-grade platformsDeep expertise in distributed systems, cloud-native technologies, and backend architectureStrong technical leadership and mentorship experienceLocationBengaluru, Chennai, Delhi NCR, Mumbai, or Remote\n\nEmployment TypeFull-Time\n\nOpen Positions2\n\nJoin Kognitive Networks and help architect next-generation connectivity, cloud, and enterprise solutions while working with cutting-edge technologies and high-performing engineering teams.\n\nTo Apply:\n\n📧 ramiya.s@kognitive.net\n\n📧 careers@kognitive.net\n\nCompany: Kognitive Networks\n\nKnow someone who would be a great fit? Feel free to like, share, or tag them in the comments.\n\n#Hiring #TechnologyArchitect #SeniorTechnologyArchitect #PrincipalTechnologyArchitect #BackendEngineering #NodeJS #Python #DistributedSystems #Microservices #CloudComputing #AWS #Azure #Kubernetes #EngineeringLeadership #KognitiveNetworks #TechJobs #NowHiring",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/principal-senior-technology-architect-backend-engineering-15%2B-years-2-open-positions-at-kognitive-networks-4474239990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-4112-73ae7a5495949d495647fdad1a6e5b4b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/7629362474042523648?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgLyBTZW5pb3IgVGVjaG5vbG9neSBBcmNoaXRlY3QgKEJhY2tlbmQgRW5naW5lZXJpbmcpIHwgMTUrIFllYXJzIHwgMiBPcGVuIFBvc2l0aW9ucyIsImNvbXBhbnlfbmFtZSI6IktvZ25pdGl2ZSBOZXR3b3JrcyIsImh0aWRvY2lkIjoiYi13OUsza2tyelF4enF3aUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0ZLUlRNdFUzazNXSE15VFRoMmVGTkNSV2RYTVRVNFFsazVaRkF5UjFsMkxUTm9kbXhhYzAxYVVqbHFZVGR4UlhodWMxVm9Ta2hXZGpCWmNucEVZMFp3U0VSV2FVUXRXbXhMTW5oT2NUbFdZMk5DU3pWaVVYQXdYMHBDUVRKVWQxSlBOVGhoWWtFNU4zZEpWMnRMZUVOeFlWZEZVRVZDYlVkalptZExVMVZyUW1Ka0xWSVNGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daVVgzUmhOSGgwTlVkMWVVVjZZVnBFUVhaelNtUkNjRmxNWWxCUiIsImZjdiI6IjMiLCJmY19pZCI6ImItdzlLM2trcnpReHpxd2lBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Software Backend Architect",
+      "company_name": "Uplers",
+      "location": "Bengaluru, Karnataka",
+      "via": "Uplers | Login",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=41AiEFioO3OW_BftAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMAwAxdonMCDPCDUIxAITXRgYEXNlgklLgx3FrujIG-CHvISy3HDSXfGeFOuT3OyJmaBC3xFfYZ990xp5g-_rA3e5gBKODoThIBIiTXeNWdKtc6qxDGporS-9PJwwXWRwY6R_1NqM5xTRqF5tlkOZOMxn5xQpK7QMFXHA2Od-AUfMjIYd_gBAYNKWlQAAAA&shmds=v1_ARwrE23arE0ltiy7MLUcheRc8frvUt0oVWYDeHE67mg1uS71Kg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=41AiEFioO3OW_BftAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEX82i4FBwgAAAcAAAP_3S__4S__3y8ABAgAAADhwyr_4zD00y20nCLMsSaSfx1sXhYlIQyhjB_UuCjCqCXpyisfHAssKA2vlyGAcBpMQxI-Nw-8oyQNDQl7axlYTROpkyEzLQ1fUxS_IhwbAAABiElEQVRIie2V0ZKCMAxFa9IU2gpIcV2LCvr_P7mlyI6VgrAz-8Z9o3om9yYlMLZp0ybGndZDgrjMMinEGkoQHffFFzqdvmlpKVLH6nxKEWDnBGjZZ7-cSGd5jU-oF9oPbgUxk1vnDpJdIGxnSE7sUsA71D_BdRLkSt4g8Of-Dpgm_RGaiZQkmzSgOuhatFKxQ3eMl3hJKjGshfAoJVOCM9V4cB8FKU_DYHfDSPTmtDeCWcwqlyHnmqh-fzPoDhLUsYKixbD7UEsiEr0Z9AcqCu7fwC6jzavOHVnvNI_fOh2OYeiqnzomkxEHPyO2IMYzHxGiEbuSu1FJBx5oiGin3g9RpZGSrpXzEZ3ULWIWM9IwF7ETt2OzUGcF-ClOYg7UhwjZX0Ro5lYAP14jDeotxy_qbE1fEOYwT9axcc71dCB5gcmIg8npv4haHNn9kHAg5f0NxWLZVuWihFe_2Cz-BJA-D6sugfS8Yv9z0mW3XB3-MEu3_1OCtKkuRtP6T5ULK_5Abdr0H_oBR3QOft1pxsMAAAAASUVORK5CYII.png",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://platform.uplers.com/talent/all-opportunities/HR1179084706617402",
+      "job_title": "Software Backend Architect",
+      "description": "Experience: 12.00 + years \n            Salary: Confidential (based on experience)\nShift: (GMT+05:30) Asia/Kolkata (IST) \n            Opportunity Type: Hybrid (Bengaluru) \n            Placement Type: Full time Permanent Position \n(*Note: This is a requirement for one of Uplers' client - Okta) \n\n            What do you need for this opportunity?            \n\n            Must have skills required:            \n            Java, Springboot, object-oriented, MySQL, AWS, GCP, Agile, IAM protocols, CyberSecurity, JavaScript, Team building            \n\n            Okta is Looking for:            Get to know Okta\n\n \n\nOkta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.\n\nAt Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences. \n\nJoin our team! We’re building a world where Identity belongs to you.\n\nAccess Essentials - Core Product\n\nThe Access Essentials organization drives Okta's core mission by designing and delivering robust authentication and authorization solutions across all Okta-protected resources. Our goal is to empower organizations with frictionless, highly secure access experiences. By engineering scalable cloud services and advanced client software, we enable seamless device logins and enforce strong authentication standards across enterprise applications. As a key group within Okta R&D Engineering, we push the boundaries of identity security. Discover more about our engineering vision on our blog.\n\nAs an Architect in this group, you will play a pivotal role in shaping next-generation identity and security architectures. You will solve complex, high-impact technical challenges, define long-term product strategy, and elevate our engineering standards while navigating a fast-moving cybersecurity landscape.\n\n \n\nIdeal candidate should be : Hands-on expert developer in Java who is deeply technical with a passion for building high-quality, secure, and performant applications and frameworks. Demonstrable experience leading technical projects involving 20+ engineers across multiple workstreams. Excited by the opportunity to work on cutting-edge security and identity management challenges and are a thought leader who can drive technical strategy and mentor other engineers. A collaborative individual with excellent communication skills, capable of working with cross-functional teams to deliver on a shared vision. Not just be a builder; but a force multiplier who can create frameworks and solutions that enable other teams to be more productive.\n\n \n\nThis role is to build, design solutions, and maintain our platform for scale. The ideal candidate is someone who has experience building software systems to manage and deploy reliable and performant infrastructure and product code at scale on a cloud infrastructure.\n\n \n\nMinimum Requirements:\n\nStrong hands-on experience designing &  developing enterprise software using Java with SpringbootDeep understanding of object-oriented programming principles, design patterns, server-side technologies and distributed system concepts(caching, asynchronous processing, multi-threading)Strong experience working with relational databases, ideally MySQL, PostgreSQL or GraphDBSkilled in debugging and troubleshooting complex java codebase Passionate about writing clean, maintainable and scalable code with a deep focus on securitySolid experience with cloud infrastructure platforms particularly AWS and GCP Proven experience with Agile methodologies (Scrum/Kanban), CI/CD pipelines, and automation toolsExcellent communication and interpersonal skills and proven ability to work with cross-functional(Product/Design/Quality) stakeholders across multiple geo-locationsPrior experience as an Architect/Technical Lead leading large scale architectural initiativesNice to have:\n\nStrong understanding of IAM protocols(FIDO, WebAuthn, SSO, SAML, OAuth,  SCIM, OpenID Connect) and identity management best practicesKnowledge of cybersecurity principles, secure coding practices, and certifications like CISSP or Security+.Some experience with javascript frameworks and basic UI developmentPrior experience building teams from ground-upEducation and Training:\n\nBachelor’s degree in Computer Science or equivalent experience18+ years of software development experience, with at least 12+ years of experience designing and building enterprise grade software using Java at scale \n\n#LI-Hybrid\n#P23224\n\nThe Okta Experience\n\nSupporting Your Well-Being Driving Social Impact Developing Talent and Fostering Connection + CommunityWe are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.\n\nOkta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.\n\nIf reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.\n\nNotice for New York City Applicants & Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice.\n\n            \n            How to apply for this opportunity?                        Step 1: Click On Apply! And Register or Login on our portal.            Step 2: Complete the Screening Form & Upload updated Resume            Step 3: Increase your chances to get shortlisted & meet the client for the Interview!                        \nAbout Uplers:\n            Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement.            \n\n            (Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well).            \n            So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you!",
+      "apply_options": [
+        {
+          "title": "Uplers | Login",
+          "link": "https://platform.uplers.com/talent/all-opportunities/HR1179084706617402?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/software-backend-architect/11443252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3414101082185951498?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/3c860c62-f083-4efb-b2a2-ff1cc243238f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/okta-software-backend-architect-bengaluru-india-8-to-15-years-1832406?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/software-backend-architect-okta-10249250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/software-backend-architect-at-okta-4472195450?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/vzvhf6D8fApd7FR5_NObE_kdFKDoNURE7T1bCL53TbI9AhXSVLLBSA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBCYWNrZW5kIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IlVwbGVycyIsImh0aWRvY2lkIjoiNDFBaUVGaW9PM09XX0JmdEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMnR3TFRCYVdXNDRZM2xQVXpkdWJXWkNRekp1Tkd4VWNTMDNVbTlIVEhKNmVHcDFWV1p4VkZodVVGUjZiM28wUzBkaFVYSnpOREIzYUc1TGJtMDBNbkpmY2pObmFWOTZUamhhUTNKWmJqZHllWFJrWTNRM2VWUjNSR3QzYUd4bWRXZGhaSFJPUmpOeFJtUTBTRXBmUVhsS1QzVmZla2RZZW1KNlYxTkZZVGhoUVhsTlozY1NGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daVVZIUXdOVGd6T0RSRlVFVmpSbXBUY1RReFNuWjZja2hwY2twUiIsImZjdiI6IjMiLCJmY19pZCI6IjQxQWlFRmlvTzNPV19CZnRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Principal Technology Architect – Backend Engineering",
+      "company_name": "Kognitive Networks",
+      "location": "Bengaluru, Karnataka",
+      "via": "SimplyHired",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=BBqrkivss0M_NzsMAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCQBAAsc0TrLYOkohgo5UBsQiohX3YnMvlzLkb7jYaO__gb3yOLzHaTDHMJO9JcjgGx8Z16OFEpmHxYh-wCaZxSkbh83xBgaYlPsOWrWOicbB_f5EaIuHYgjDsRKyn6bpR7eIqz2P0mY2K6kxm5JoLUy1DPk7xhyo2GKjzqFQtlvMh69imaSmWnbobwZ70LqGN4BgKYou-D_0MSgyMii1-ATUlS_29AAAA&shmds=v1_ARwrE23LYkM7lj3VwRlJbL9QKV4KATGzGct0Cq7oT6_m_yRSyg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=BBqrkivss0M_NzsMAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAoCAMAAACcjsm3AAAAaVBMVEX____r6_FZWpdkZp2Wl7nU1OEAAHjZ2eV-f6vOzt34-Pr8_P3h4eq1ts2cnb24uc-lpsPCwtXGx9hpa58AAGvy8vYkKIATGHx5eqhJS4-ursg8PoowM4WRkrZSVJRFR40eI39eYJqHibBznp_kAAAA6klEQVRIie3UTY-DIBCA4RkVB3SQD3XL0mq3_P8fubRpskfF7KWJb0Lg8mSSOQBwdvafzcMk8NlcCL_qC4Vn34Wwdi29HlUpNBnKNpZDvpJtm_KJt0XAGuAAvF3uDAfg6H6urToA83J4bM0BqKe81WkohlVHHQCJvhQ-qqpa13xkIfyElPt79wv2TbcTehNZ-j4FFdPsVul0h35ptqGx6gEhoE4NJ2lZuphCI_X2xFWPXA82Rd0FGd0ItbSD3v4IEBVbBpIeQQnQBghBbw98Z4egybNnIUh5NZu9MI9BygcpX8wo9u727MP6Bb6dC2cXoiQGAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.simplyhired.co.in/job/gO6_2GNWx17dPgQh0M-UH57Hcbzldu4bffF23n1k0MpTTlWPGd20tw",
+      "job_title": "Principal Technology Architect – Backend Engineering",
+      "description": "Experience:\n15+ years of software engineering experience with strong expertise in backend development, system architecture, and distributed systems.\n\n\nEducation:\nBachelor’s or Master’s degree in Computer Science, Engineering or a related field.\n\n\nLocation:\nRemote\n\n\nEmployment Type:\nFull-time\n\n\nRole Overview:\nWe are looking for an experienced Technology Architect / Principal Engineer with 15+ years of software engineering experience and strong expertise in backend development, system architecture, and distributed systems.\n\n\nThe ideal candidate will have a strong hands-on background in Node.js and Python, combined with the ability to architect and deliver complex, scalable, highly available software solutions. The role requires someone who can work across the full technology lifecycle—from understanding complex business requirements and designing technical solutions to guiding engineering teams through implementation and delivery.\n\n\nKey Responsibilities:\nDefine and own the technical architecture for complex, large-scale applications and platforms.\nDesign scalable, highly available, secure and high-performance backend systems.\nTranslate complex business and product requirements into robust technical designs and architecture.\nDevelop and review architecture diagrams, technical specifications, API designs and data models.\nProvide hands-on technical leadership in Node.js and Python development.\nDesign and implement RESTful APIs, microservices and distributed systems.\nEvaluate architectural trade-offs involving scalability, performance, reliability, maintainability and cost.\nLead the design of complex features involving multiple services, systems and integrations.\nIdentify technical risks and develop appropriate mitigation strategies.\nEstablish and promote architecture, coding and engineering best practices.\nConduct design and code reviews and ensure adherence to engineering standards.\nMentor senior engineers and technical leads and provide technical direction to development teams.\nCollaborate closely with Product, Engineering, DevOps, Security and other stakeholders.\nDrive modernization of legacy systems and adoption of appropriate technologies and architectural patterns.\nTroubleshoot and resolve complex production and performance issues at an architectural level.\nStay current with emerging technologies and assess their applicability to the organization’s technology landscape.\nRequired Technical Skills:\nBackend Development\nStrong hands-on experience with Node.js and Python.\nExcellent understanding of asynchronous programming, API development and backend architecture.\nStrong experience designing REST APIs, microservices and event-driven architectures.\nExperience with database design and optimization, including SQL and NoSQL databases.\nArchitecture & System Design\nProven experience designing large-scale, distributed and highly available systems.\nStrong knowledge of microservices architecture, distributed systems, event-driven architecture, caching, messaging/stream processing, API gateways, authentication and authorization, fault tolerance and resiliency, scalability and performance optimization.\nAbility to perform end-to-end system design and make appropriate technology and architecture decisions.\nCloud & DevOps\nExperience with one or more cloud platforms such as AWS, Azure or GCP.\nGood understanding of containers and orchestration technologies such as Docker and Kubernetes.\nFamiliarity with CI/CD, observability, logging, monitoring and infrastructure automation.\nLeadership & Problem-Solving\n15+ years of experience in software engineering, architecture and technical leadership.\nDemonstrated ability to own architecture for complex products/features from concept to production.\nStrong analytical and problem-solving skills with the ability to simplify complex technical problems.\nAbility to balance business requirements, technical feasibility, scalability, time-to-market and long-term maintainability.\nStrong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.\nExperience mentoring senior engineers and influencing architecture decisions across multiple teams.\nPreferred Qualifications\nBachelor’s or Master’s degree in Computer Science, Engineering or a related field.\nExperience working with high-scale consumer, enterprise or SaaS platforms.\nExperience with cloud-native architectures.\nExposure to AI/ML-enabled applications or modern data platforms is a plus.\nExperience leading architecture initiatives across multiple engineering teams is highly desirable.\nIdeal Candidate Profile\nThe ideal candidate is a hands-on architect rather than a purely managerial architect—someone who can:\n\n\nUnderstand the problem design the architecture break it into complex features guide implementation review the code/design ensure the solution scales in production.\n\n\nThey should be equally comfortable whiteboarding a distributed system, writing/reviewing Node.js or Python code, challenging architectural assumptions, and mentoring senior engineers.\n\n\nDoes this look like a good fit?\n\n\nPlease send your resume to:\n\n\ncareers@kognitive.net\n\n\n\n\nDoes this look like a good fit?\n\n\nPlease email a resume and cover letter to:\n\n\ncareers@kognitive.net",
+      "apply_options": [
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/gO6_2GNWx17dPgQh0M-UH57Hcbzldu4bffF23n1k0MpTTlWPGd20tw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/principal-technology-architect-backend-engineering-kognitive-networks-bengaluru-karnataka--t7xk-857537034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/796135064487329792?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340086388/principal-technology-architect-backend-engineering-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgVGVjaG5vbG9neSBBcmNoaXRlY3Qg4oCTIEJhY2tlbmQgRW5naW5lZXJpbmciLCJjb21wYW55X25hbWUiOiJLb2duaXRpdmUgTmV0d29ya3MiLCJodGlkb2NpZCI6IkJCcXJraXZzczBNX056c01BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dkSmEyRnpSWGhoUTAxaFlWODNXbU5RTXpONmIzbDBkbFJzUkhwTFZEaFpWblJNZUdabmJURlhabWRNZFZkc2JXZGhhbGxFYW1oRk0wUnVXVzVmWXpKNlNqazJNMWQxYkZObmEzaFRZMWRyWW5vNWVXWmtkVEZyY3paelZsUk1jMFJsY0dsTGJXaGFjRTg0YVZvM1NVOVllSGh5UzNWSk1HbHhibWM0TlRsWVQzaE9kMllTRnpOUGRrVmhkbUV6VHpsWGVXMTBhMUIxWVZOMmVWRTBHaUpCUkhOeU9XWlNka05DZGxkRU1UTXhUMGR0WlcxdlYzSkNTbE5SUlY5SFdFdEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJCQnFya2l2c3MwTV9OenNNQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Freelance - Senior Backend Architect",
+      "company_name": "Janitri",
+      "location": "Bengaluru, Karnataka",
+      "via": "Getmereferred.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=w3yOrc5f3cWzYeO4AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBBAUWw9go1Ti2ZFsFEsTKGgpQcIk3XYrFlnwuwEUnoHay_nSYzNLx786WcyPZyUKCF7ghXciKMolOhb4jsc1TfRyBt8X294SA2ZcDQQhrNISDTbN2Zd3jmXcypCNrToCy9PJ0y1DG6c8j9VblCpS2hUbbbroeg4LOYX5GgaITKUxAFTr_0SrqiMhi3-AGQmPGqgAAAA&shmds=v1_ARwrE22af9PiYjJVmuUmgZ2aPyHp38nHGwyP9olwwqqYSAfOAA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=w3yOrc5f3cWzYeO4AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://getmereferred.com/job-listing/freelance-senior-backend-architect-janitri-bengaluru-5-to-10-years-experience-e37d96e3-b555-4b86-9496-186c7a4f7f61",
+      "job_title": "Freelance - Senior Backend Architect",
+      "description": "About the Role  We are seeking an experienced  Senior Backend Architect  (812 years) to work on a  part-time, on-site  basis with our engineering team in the  medical technology domain .  This role is ideal for a seasoned engineer or architect who wants to contribute strategically to backend design and scalability while mentoring a growing team. The ideal candidate brings deep expertise in  Django ,  System Design ,  Microservices ,  AWS ,  Docker/Kubernetes , and optionally  Kafka/ETL , along with strong knowledge of  health-tech compliance frameworks  such as  HIPAA  and  ISO 27001 .  You will play a key role in shaping our backend architecture, ensuring scalability, reliability, and compliance for our  medical monitoring and data processing platforms .  Responsibilities  Backend Architecture:  Design, review, and evolve the backend architecture using  Django  (Class-Based Views, models, services); apply  SOLID principles  and  design patterns  to ensure long-term maintainability and scalability.  System Design & Planning:  Drive architectural discussions, evaluate trade-offs, and propose scalable, fault-tolerant designs for backend systems.  API Development:  Oversee and guide the development of  REST APIs  with robust authentication, versioning, and rate limiting.  Security & Compliance:  Implement and audit secure authentication (JWT, OAuth2), access control, and ensure compliance with  HIPAA  and  ISO 27001  standards.  Database Strategy:  Design optimized schemas using  Django ORM ; ensure  data integrity , manage migrations, and oversee query tuning and indexing strategies.  Business Logic:  Architect and modularize core backend logic  such as  patient monitoring workflows ,  health data analysis ,  device data pipelines , and  alerting systems   into reusable service components.  Testing & CI/CD:  Define and enforce testing standards (Pytest, Django TestCase); ensure CI/CD pipelines enable smooth, validated deployments.  DevOps & Cloud:  Advise and collaborate on deployment pipelines using  Docker ,  GitHub Actions/Jenkins , and  AWS/GCP  infrastructure.  Performance & Scalability:  Identify bottlenecks, drive caching and load balancing strategies, and ensure fault tolerance under scale.  Microservices:  Architect, integrate, and maintain  microservice-based components  for distributed and modular system design.  Technical Leadership:  Review pull requests, provide architectural guidance, mentor junior developers, and contribute actively to  technical planning and long-term product scalability .   Required Skills & Experience  812 years of backend or full-stack development experience.  Strong expertise in  Python (Django / DRF)  and  System Architecture Design .  Proven experience with  Microservices  and  Scalable Distributed Systems .  Hands-on experience with  AWS  (EC2, S3, RDS, Lambda, CloudWatch).  Proficiency in  Docker ,  Kubernetes , and  CI/CD pipelines  (GitHub Actions / Jenkins).  Familiarity with  Kafka ,  ETL pipelines , or event-driven architectures.  Understanding of  HIPAA ,  ISO 27001 , and healthcare data compliance principles.  Excellent leadership, documentation, and communication skills.   Preferred (Nice to Have)  Experience with  Prometheus, Grafana, ELK, or Loki  for observability.  Exposure to  IoT-based healthcare devices  or  real-time medical data systems .   Prior experience in  startups or health-tech platforms  dealing with large-scale medical data.",
+      "apply_options": [
+        {
+          "title": "Getmereferred.com",
+          "link": "https://getmereferred.com/job-listing/freelance-senior-backend-architect-janitri-bengaluru-5-to-10-years-experience-e37d96e3-b555-4b86-9496-186c7a4f7f61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGcmVlbGFuY2UgLSBTZW5pb3IgQmFja2VuZCBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJKYW5pdHJpIiwiaHRpZG9jaWQiOiJ3M3lPcmM1ZjNjV3pZZU80QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNYZFFTRU55YjJSMGVXdE9NR2xwUzFveVpXMVZkblJmZDNweVJHdHBUSEZQY1c1WVNrUlBkMFptVFdGTU4xSm1VemwwWm5CeU9XcFRjM1J5UVRaM1ZUSjFPV1ZTTTBwb1NIRlFjMnB0TWw5aWFtTk9ZMjlvWlMxb1JUaFVYMFJoUkdOSWJGcHFlRGR2YjFWelUxVkJPVXBsTm10alFYQkRjSGQyUWt3NFNIQk5SemRRZUhNU0Z6TlBka1ZoZG1FelR6bFhlVzEwYTFCMVlWTjJlVkUwR2lKQlJITnlPV1pSZURkeVFXMXZhRU5zTlRObmJYSmhhVVV4V0dWbFpXVkJPRlJuIiwiZmN2IjoiMyIsImZjX2lkIjoidzN5T3JjNWYzY1d6WWVPNEFBQUFBQT09In0="
+    },
+    {
+      "title": "Java Back end (Lead /Architect) (Bengaluru)",
+      "company_name": "Sonyo Management Consultants",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=F2z8aG3EzoUIBsjCAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2OOwrCQBBAsfUIVlMakayINlr5AcFP5QHCuA6b6DoTdiainXfwNF7Hk6iNzaveg9d-tdrLNV4R5ujPQHyE7pbwCG6WfFkZecugOycOGJvUZPB-POEkB1DCrwDCsBIJkTrT0qzWiXOqMQ9qaJXPvVycMB3k5r6R_lBoiYnqiEbFcDy45TWH3mgvfBfYIWOgC7HBQlibaMimUDH8D_qwwcRoeMYPqWhDxrwAAAA&shmds=v1_ARwrE224UG11XSY6icsh29Pk06L7NYk5szEGwJKL7yiSqGdNPg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=F2z8aG3EzoUIBsjCAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/java-back-end-lead-architect-bengaluru/sonyo-management-consultants/19493086",
+      "job_title": "Java Back end (Lead /Architect) (Bengaluru)",
+      "description": "Java Backend Developer\n\nCompany: Atos\n\nExperience: 10+ years\n\nCTC: Up to 31 LPA \n\nRole: Java Backend Developer\n\nEmployment Type: Full time \n\nCompany Stability: Stable/Career-focused organization\n\nRole Overview\n\nWe are looking for an experienced Java Backend Developer with 10+ years of strong software development experience. The ideal candidate should have solid expertise in Java backend technologies, scalable application development, and experience working with stable, long-term organizations. \n\nKey Responsibilities\n\n- Design, develop, and maintain scalable backend applications using Java.\n- Develop robust and high-performance REST APIs and microservices.\n- Work with databases, application integrations, and backend architecture.\n- Participate in design, coding, code reviews, testing, and production support.\n- Troubleshoot technical issues and improve application performance.\n- Collaborate with cross-functional teams and guide junior developers.\n- Follow clean coding, security, and software development best practices.\n\nRequired Skills\n\n- 10+ years of software development experience.\n- Strong hands-on experience with Core Java, Java 8+, Spring Boot, and REST APIs.\n- Good understanding of Microservices architecture.\n- Experience with SQL and relational databases.\n- Robust knowledge of OOP, design patterns, data structures, and multithreading.\n- Experience with Git, CI/CD, and Agile development practices.\n- Good problem-solving and communication skills.\n\nCandidate Profile\n\n- Candidates with 3+ years of stability in previous organizations preferred.\n- Strong preference for candidates with a consistent career history, such as 3 years+ tenure in multiple organizations.\n- Candidates should demonstrate good technical ownership and long-term commitment.\n\nCompensation Up to 31 LPA, depending on experience, technical skills, and interview performance. \n\nPreferred Background\n\nCandidates from established/stable organizations with strong experience in Java backend development and a proven record of long-term employment are preferred. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/java-back-end-lead-architect-bengaluru/sonyo-management-consultants/19493086?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIEJhY2sgZW5kIChMZWFkIC9BcmNoaXRlY3QpIChCZW5nYWx1cnUpIiwiY29tcGFueV9uYW1lIjoiU29ueW8gTWFuYWdlbWVudCBDb25zdWx0YW50cyIsImh0aWRvY2lkIjoiRjJ6OGFHM0V6b1VJQnNqQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSFJSUWxSWlh6WllXbGs0UTBoNWNFOU9aa2hmVEdWU1lsOTBjMlZrVjFoeVRURXlPVnBTTTBKVFpHZEJOWFpFYldwUFJEVm9MVVJ4TmpOelFVTldiVlZtZFd4UVEzWlNhbUZ0UW1WSVJtWkJWM1JWTlhkVmJXVmhORzEwUW5sSmFFUXpTMVp6T0RSamVqSlFjazVKY0V0UGFYbGhORE5zY0hKT2IzQnRiRkZOUVVsU2JTMFNGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daU01tUnRlVmRGUkhBM1R6SlFjVjlLT0RSM01URllYMHBCWTBsUiIsImZjdiI6IjMiLCJmY19pZCI6IkYyejhhRzNFem9VSUJzakNBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Java NodeJS Backend Architect",
+      "company_name": "Relevance Lab",
+      "location": "Bengaluru, Karnataka",
+      "via": "Adzuna",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=aKbRZy3ntE_LTiDfAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQ6CQBBA0dhyBKtpbIxhjYkWWkljgsZCD0CGZbIg6wzZHQild7D1dJ5EbH7xkp98ZskuxwHhKhXld8jQtsQVHIOtGyWr8H294SElRMLJQBhOIs7T_FCrdnFvTIw-dVFRG5taeRphKmU00xT_KWKNgTqPSsVmux7Tjt1ycSNPA7IluGAJDUNG7ND3oV_BGQOjYos_TkeNKJ8AAAA&shmds=v1_ARwrE20J75IL8-znqYmSsBn0sqRPGzBNpk4Lu_ZL2gPYZWA7Jg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=aKbRZy3ntE_LTiDfAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd9dafa5fd5250b169a/images/6mujdYK5mhoDZHa1JCK_B_qAdsi2yHaMlwQTCAAt62c.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.adzuna.in/details/5871271827",
+      "job_title": "Java NodeJS Backend Architect",
+      "description": "The candidate will be responsible for design, develop, test, and deliver high performant, high available and secured APIs / Microservices based on the architecture guidelines and the selected tooling.\n\nResponsible for the development of reusable, testable and standard compliant code.Define the logical design of the functional modules.Design data models for the API.Responsible for documenting the design and code.Responsible to develop quick prototype to identifying the feasibility of the technology.Analyze, track provide updates on the latest trends in the market by staying up to date with new technology trends in the API landscape.Required to adhere to established development standards/practices.Helping in evaluation of third-party products and/or building quick prototypes to prove the technical feasibility.Responsible to facilitate integration with front-end apps.Must-Have\n\n5+ years of development experience with good experience in API /microservices development.Expertise in building scalable distributed API systems in the cloud environment.Experience in REST/SOAP API development.Must have solid hands-on development abilities to convert functional concepts into a working model.Strong hands-on development experience and proficiency in Java and/or Node.Expertise in application frameworks like SpringBoot/NestJS/ etc.Expertise in databases like PostgreSQL/MongoDB/MySQL/Oracle etc.Must have an In-depth understanding of SOA/EAI/ESB concepts.Expertise in one or more cloud platforms like AWS/Azure/GCP.Hands-on experience with API management software like Azure API Management or Mulesoft, or APIGEE.Expertise in integrating the defined Non-Functional Requirements (security, performance etc.) in the solution.Expertise in Docker (Writing Docker files, managing versions of the images) and integration using Kubernetes cluster.Expertise in Test Driven Development and testing frameworks like Jest/JUnit.Expertise in CICD practices building release pipelines.Experienced setting up code quality, code coverage, unit testing, and integration testing in CICD pipelines.Worked in Agile environment and familiar with Scrum/Kanban/Lean etc.Proven track record in troubleshooting issues and identifying the solutionGood to have\n\nAirline/Aviation Industry experience.Experience with Amadeus DAPI expertise or Amadeus Loyalty APIs.Being full-stack engineerTechnology experience in large-scale distributed systems, analytics and visualization, and AI/Machine learning.Domain experience in over-the-top media services/retail/e-commerce.Experience in micro services/service mesh architecture and best practices in deploying highly scalable and resilient applications/platforms on the cloud.Experience with gRPC/Protocol buffers.Experience in building API/microservices that integrate with various data storages like RDBMS/NoSQL document store/Columnar storages.Proficiency in domain-driven design.Experience in service mesh, event-driven architecture.Experience in GraphQL.Experience in Messaging Queues (RabbitMQ, Kafka etc)\n\n\nSkills: SOAR, Dbms, Mysql, Postgresql\n\n\nExperience: 5.00-10.00 Years",
+      "apply_options": [
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5871271827?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/7465164250299632796?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/associate-java-architect-backend-tarento-technologies-bengaluru--t7xk-821285656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6537644837519228928?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "India Jobs Expertini",
+          "link": "https://in.expertini.com/job/java-nodejs-backend-architect-bengaluru-relevance-lab-636991637727676501/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIE5vZGVKUyBCYWNrZW5kIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IlJlbGV2YW5jZSBMYWIiLCJodGlkb2NpZCI6ImFLYlJaeTNudEVfTFRpRGZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNORVF6RmlURmN6TjNsNFNqVjJjVmRhYnpoM2FrZHplRjltUzE5NVpEWmZiVU5NTjBWc2NGQm1SalUyWHpsa1lqSjVNVXBYZDE5S05uaHdjbWxGY0ZKU05tUlBVVWRTVGkxS2EzTjZhMTkxY2s5SlpVbzVXbDlrYlVoVVpIbGhhbVJ6YkRobGEwRXRZWGcwYjJJeE1YTnRlbFJmVmxaalgyNTVTblZGZFdaSWMycERTRzBTRnpOUGRrVmhkbUV6VHpsWGVXMTBhMUIxWVZOMmVWRTBHaUpCUkhOeU9XWlJkaTFuZW5ScVNETmZNVTlKVlhwV2NqRmpaa1JtYVRCRGVXSlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJhS2JSWnkzbnRFX0xUaURmQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Software Architect, Java Backend",
+      "company_name": "Okta",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=IM3iuuKguzmMZAM7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMAwAxdonIAbPqGoQEgMw0QUJBgYeULnBpCXBrhIXOvIHJB7ISyjLTXeXfSbZ-ixXfWIk2EXbtEpWczjgA6FE64kv8H294SY1JMLRAGHYi7hA022j2qWNMSmFwiVFbW1h5W6EqZbBjFH6o0rN-O8CKlXL1WIoOnbz2ckrQstQEjsMfexzOGJkVPT4A_YqVA2ZAAAA&shmds=v1_ARwrE20_xwRoSGZSTMbSdgm12keHTzquc20fA-6Q48nS_LSokg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=IM3iuuKguzmMZAM7AAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/software-architect-java-backend-okta-bengaluru-bangalore-62206611",
+      "job_title": "Software Architect, Java Backend",
+      "description": "Secure Every Identity, from AI to Human\n\nIdentity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.\n\nThis is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.\n\nPosition Description\n\n\n\nOkta is an enterprise grade identity management platform, built from the ground up in the cloud and delivered with an unwavering focus on customer success. With Okta, organizations can manage access across any application, person or device. Whether the people are employees, partners or customers or the applications are in the cloud, on premises or on a mobile device, Okta helps organizations become more secure, make people more productive, and maintain compliance.\n\nThe Okta platform provides directory services, single sign-on, strong authentication, provisioning, workflow, and built in reporting. It runs in the cloud on a secure, reliable, extensively audited platform and integrates deeply with on premises applications, directories, and identity management systems.\n\nWe are looking for an experienced Principal Software Engineer to work on our Onboarding and Lifecycle Management (LCM) Platform team with focus on enhancing and managing services for importing, syncing and provisioning identities and access policies i.e., users, groups, roles, entitlements, etc. These features allow customers the flexibility to link and enhance their business processes with Okta's identity management product. We are looking for a seasoned Principal Engineer to join our team and help us build the future of identity and access management. Ideal candidate should be\n\n\n\nHands-on expert developer in Java who is deeply technical with a passion for building high-quality, secure, and performant applications and frameworks. \n\nDemonstrable experience leading technical projects involving more than 20 engineers across multiple workstreams\n\nExcited by the opportunity to work on cutting-edge security and identity management challenges and are a thought leader who can drive technical strategy and mentor other engineers.\n\nA collaborative individual with excellent communication skills, capable of working with cross-functional teams to deliver on a shared vision. \n\nNot just be a builder; but a force multiplier who can create frameworks and solutions that enable other teams to be more productive.\n\n\n\nThis role is to build, design solutions, and maintain our platform for scale. The ideal candidate is someone who has experience building software systems to manage and deploy reliable and performant infrastructure and product code at scale on a cloud infrastructure.\n\nJob Duties And Responsibilities\n\nWork with senior engineering team in major development projects, design and implementationLead the architectural design and implementation of new features and services, with a focus on scalability, performance, and security.Collaborate with product managers, architects, and other engineering teams to define the technical strategy and lead the prototyping of software components.Directly oversee and coordinate complex technical initiatives involving 20+ engineers, ensuring alignment across disparate sub-teamsDrive a culture of engineering excellence and continuous improvement, with a focus on robust testing, monitoring, and operational excellence.Stay up-to-date with the latest industry trends and technologies in identity, security, and distributed systems.Partner with our Product Development, QA, and Site Reliability Engineering teams for scoping the development and deployment work.Required Knowledge, Skills, And Abilities\n\nThe ideal candidate is someone who is experienced building software systems to manage and deploy reliable and performant infrastructure and product code at scale on a cloud infrastructure15+ years of Software Development in Java, preferably significant experience with Hibernate and Spring BootA deep understanding of design patterns, scalability patterns, security engineering, and object-oriented principles.4+ years experience automating and deploying large scale production services in AWS, GCP or similarDeep understanding of infrastructure level technologies: caching, stream processing, resilient architectures.Experience working with relational databases, ideally MySQL, PostgreSQL or GraphDBStrong communication skills and the ability to work across functions, distributed teams.Lead and mentor junior engineersNice to haves:\n\nExperience with server-side technologies including caching, asynchronous processing, and multi-threading.Experience with security best practices and threat modelingKnowledge of Identity and Access Management protocols and technologies: OAuth, OpenID Connect, SAML, SCIMEducation\n\nB.E. Computer Science or equivalent\n\n\n\nP24182_3429629\n\nThe Okta Experience\n\nSupporting Your Well-Being Driving Social Impact Developing Talent and Fostering Connection + CommunityWe are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.\n\nOkta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.\n\nIf reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.\n\nNotice for New York City Applicants & Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice.",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/software-architect-java-backend-okta-bengaluru-bangalore-62206611?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Smart Recruiters Jobs",
+          "link": "https://jobs.smartrecruiters.com/Eurofins/744000151111484-java-software-lead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/software-architect-java-backend-okta-8031263?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/software-architect-java-backend-okta-JV_IC2940587_KO0,31_KE32,36.htm?jl=1010163828178&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5760399144?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-3138408254774951388?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Haystack",
+          "link": "https://haystackapp.io/jobs/13412f68-a3ff-4ce4-a0c7-8855fdf87825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/software-architect-java-backend/9679920?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBBcmNoaXRlY3QsIEphdmEgQmFja2VuZCIsImNvbXBhbnlfbmFtZSI6Ik9rdGEiLCJodGlkb2NpZCI6IklNM2l1dUtndXptTVpBTTdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1V4ME1YTmhURlV3WkRZd1lUZHdjWEJSVGxGYU0ybHVVMWcxVEVKUlJUVTFhVWhoTURaSlRrSTJMVTlDT0ROUGIwYzRRVWRPVDB0YWRuQmFPVWhyWVV0MFEySktkbUl4ZGxkU2JWbEZTVmwzVEhwek1HRTFMVWxwUnpWRFpEZE1OeTFCYjFwSlZuUnJNM2RYTlhWV1FuVnNNMVpHT1ZkcFlWWnFUM3BFWkZsQmFsWlZiR3dTRnpOUGRrVmhkbUV6VHpsWGVXMTBhMUIxWVZOMmVWRTBHaUpCUkhOeU9XWlVUVkZ0VUhaQ09EQnRlRXRuU3pCbFpYQktUa3h2Um1KaWNsOUIiLCJmY3YiOiIzIiwiZmNfaWQiOiJJTTNpdXVLZ3V6bU1aQU03QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Fullstack Backend Architect",
+      "company_name": "Noon",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=w-BVTDEn-PIH40KaAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TxGJrkZyINlolhRaCXwibc7nEnLvhdgMp_YL4Q1_i2UwxMFO8F8X-PMWohn6AOoP4DlXyXW_kDb6vDzykBSXMDoThIhIiLU-d2ahH51RjGXJuvS-9PJ0wtTK7HOkfjXaYaIxo1OwO27kcOaxXN8mnnqEmDhinNG3gionRcMAfiBtIy5QAAAA&shmds=v1_ARwrE23E9-bCRgutnotW-KlwlkvT9koMxIG6JG_uyH7mAZE5Lg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=w-BVTDEn-PIH40KaAAAAAA%3D%3D",
+      "extensions": [
+        "30 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/fullstack-backend-architect-noon-bengaluru--ss-in-ecdsw",
+      "job_title": "Fullstack Backend Architect",
+      "description": "About Noon\nWe are on a mission to reinvent how designers work in the AI era. We’re backed by top investors including First Round, Chemistry, Homebrew, Scribble and senior leaders from OpenAI, Meta, Google, Ramp, Stripe and more. We’re building the next-generation AI design tool for product teams.\n\n\nWe’re hiring a Backend Architect to own the backend that powers a collaborative, real-time canvas used by design teams. You’ll architect the API surface, data layer, and real-time sync that everything else in the product builds on — including every AI feature. This is a deeply hands-on architect role: you’ll design the system and write the code, not just draw boxes.\n\n\nOur backend is TypeScript end-to-end, multi-tenant, and serves a live multi-user canvas. You’ll set the patterns the rest of the team builds against.\n\n\nWhat You’ll DoWork with AI Lead, and own parts of the backend architecture. API design, data modeling, service boundaries, real-time sync, auth and multi-tenancy. Make the calls that everyone else’s code lives inside\n\n\nBuild the real-time and multiplayer layer. WebSocket fanout, presence, conflict resolution, document sync — the substrate that makes the canvas feel live for every user in a workspace\n\n\nDesign the data layer with judgment, not defaults. Pick the right store for each workload — relational, document, event log, blob, cache — and own the schemas, migrations, and consistency model\n\n\nShip into our TypeScript monorepo. API, auth, database, and real-time services all live in one codebase — you’ll work across all of them and set the patterns for how they fit together\n\n\nOwn auth, orgs, and permissions. Workspaces, sharing, roles, audit — the things that make us safe to use inside a company\n\n\nBuild AI-friendly backend primitives. Streaming endpoints, long-running agent calls, idempotency, cost attribution — the AI features will call into your APIs and you’ll make sure they can\n\n\nSet the technical bar for backend engineers. Code review, design review, and the patterns the rest of the backend team learns from\n\n\nMust-Have Requirements12+ years software engineering experience, with significant time as a hands-on backend architect or senior backend engineer. This is a deeply hands-on role — you’ll write the code, not just review it\n\n\nProduction TypeScript experience in large, complex codebases — you’ve shipped non-trivial backend systems in TS, ideally in a monorepo, and have strong opinions on how to structure a TS backend at scale\n\n\nShipped a collaborative or real-time backend in production. WebSocket fanout, presence, document sync, conflict resolution (CRDT, OT, or equivalent) — you’ve owned this in a live multi-user product\n\n\nStrong database fundamentals. Schema design, indexing, query performance, transactions, migrations, consistency models. Comfortable making the call between relational, document, and event-sourced approaches based on the workload\n\n\nMulti-tenancy and auth depth — orgs, workspaces, RBAC, sharing semantics, audit\n\n\nComfortable with the infra surface — Kubernetes, Terraform, CI/CD — enough to debug, contribute, and design with infra constraints in mind. You don’t have to own it, but you can’t be helpless around it\n\n\nArchitect-level judgment without manager scope. You’re the technical anchor, not a people manager\n\n\nNice to HaveExperience designing AI-aware backend APIs — streaming responses, long-running agent calls, token-bounded request/response shapes, idempotency for retried LLM ops, cost attribution per tenant\n\n\nCRDT or OT internals experience — Yjs, Automerge, ShareJS lineage, or having built your own\n\n\nBackground shipping canvas, design-tool, IDE, or collaborative-document backends\n\n\nExperience with observability and reliability engineering at a serious level — SLOs, on-call, debugging production at scale\n\n\nWhat You’ll OwnThe backend architecture and the patterns it enforces The real-time / multiplayer layer the canvas depends on The data layer — schemas, stores, migrations, consistency\n\n\nAuth, multi-tenancy, and permissions The backend primitives every AI feature calls into The technical bar for backend code in the monorepo",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/fullstack-backend-architect-noon-bengaluru--ss-in-ecdsw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsc3RhY2sgQmFja2VuZCBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJOb29uIiwiaHRpZG9jaWQiOiJ3LUJWVERFbi1QSUg0MEthQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwaFRkbTV6YWpoamEzWjFUa2R3TjE5SE9UZEpOa0pZWjFJM01rWXhSbWhuVm5od2FIaGFkRlpEV25oTFFXYzRRbnBUYUZwTlZuVllXV0kyTkU4d1lVSk1jR1pRZUVaSlFVUlNkRU5DTkd4U1JGQnRTSGxRT1Y4MlN6Sk1kV3B4ZG5CMmJVeFNVMjF4VWpaT1EyaElaMjV3ZVZFMWRteHlOWFZhY0ROalNWRXdXSGxyZWtNU0Z6TlBka1ZoZG1FelR6bFhlVzEwYTFCMVlWTjJlVkUwR2lKQlJITnlPV1pVY0d4TmJuWmxkMUJFZUhSTmIwdHNUWE5VYkRaSVMzRmFRazFuIiwiZmN2IjoiMyIsImZjX2lkIjoidy1CVlRERW4tUElINDBLYUFBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Python Developer - Backend Architecture",
+      "company_name": "Andor Tech",
+      "location": "Bengaluru, Karnataka",
+      "via": "Hirist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=Nm4WK7ZqJ74Dtg3kAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrAZL0UQEG60ShBQ2gvZhshmSNetM2J1I7LyDt_BYnsS1ecWH93nJZ5aUF2IrHs5P7YThSA9yMpCHNRRoeuIGcm86q2R09ATf1xtuUkMgjDNEpRRpHc0PneoQ9lkWgkvboKjWpEbumTDVMmVRCn9UoUNPg0OlarvbTOnA7XKRcxMjrhQvLUNB3KIb_biCE3pGxR5_jK6chK0AAAA&shmds=v1_ARwrE23QY00gI5J0gL-GvnhI5mqHdxXdsRQ3MzkH3GW_mfnNNA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=Nm4WK7ZqJ74Dtg3kAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd9dafa5fd5250b169a/images/Q4OZEs_IE3TagmKHrTa4o3Ofk-ScINzTE8Vi0cvX6VA.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.hirist.tech/j/senior-python-developer-backend-architecture-1670064",
+      "job_title": "Senior Python Developer - Backend Architecture",
+      "description": "Company Overview : \n\nAndor Tech (India) Pvt Ltd is a technology-driven organization specializing in high-performance software solutions and intelligent automation platforms. Operating at the intersection of data engineering and artificial intelligence, the company builds scalable enterprise systems that streamline complex workflows for global clients. With a focus on engineering excellence and technical innovation, Andor Tech maintains a collaborative culture that empowers senior architects and developers to solve critical business challenges through robust, cloud-native architectures.\n\nRole Overview : \n\nAs a Senior Python Developer, you will lead the design and implementation of sophisticated backend systems and AI-driven applications. You will work closely with cross-functional product teams and stakeholders to translate complex business requirements into high-performance, maintainable code. This role is pivotal in shaping the technical roadmap of our core platforms, ensuring that our infrastructure remains scalable, secure, and capable of delivering significant value to our end users. You will be expected to drive architectural decisions and mentor junior team members while maintaining a hands-on approach to complex problem-solving in a fast-paced Bangalore-based environment.\n\nKey Responsibilities : \n\n- Architect and develop high-throughput backend services using Python and FastAPI to support mission-critical business operations.\n\n- Integrate advanced Artificial Intelligence models into production environments to enhance platform capabilities and user decision-making.\n\n- Design and optimize complex database schemas and stored procedures within SQL Server to ensure data integrity and high-speed retrieval.\n\n- Deploy and manage scalable cloud infrastructure using Azure services to ensure high availability and performance for global users.\n\n- Collaborate with frontend engineers to integrate React.js interfaces with backend APIs, ensuring a seamless and responsive user experience.\n\n- Lead code reviews and technical design discussions to maintain high standards of software quality and architectural consistency across the engineering team.\n\nRequired Skillset : \n\n- Demonstrated expertise in building enterprise-grade applications using Python and FastAPI with 8 - 18 years of relevant software development experience.\n\n- Proven ability to design and implement AI-integrated solutions that solve real-world business problems.\n\n- Strong proficiency in managing and optimizing SQL Server databases for large-scale data environments.\n\n- Hands-on experience in architecting and deploying solutions within the Azure ecosystem, including service bus, functions, and cloud storage.\n\n- Solid understanding of modern frontend integration using React.js to create cohesive full-stack applications.\n\n- Excellent communication skills with the ability to articulate complex technical concepts to non-technical stakeholders and lead cross-functional initiatives.\n\n- Ability to work effectively in a hybrid office environment in Bangalore, demonstrating strong self-management and team collaboration skills.",
+      "apply_options": [
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-python-developer-backend-architecture-1670064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-developer-python-backend-arctic-wolf-bengaluru-bangalore-58143572?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4486501452346448009?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/senior-python-backend-developer-fastapi-gyansys-inc-bengaluru-bangalore-62545205?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-developer-python-backend-arctic-wolf-networks-bengaluru--ss-in-1sonew6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-412074-senior-backend-developer-python-at-arctic-wolf-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4236198929923833856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TheJobsMap",
+          "link": "https://www.thejobsmap.com/job/c793e950-c7c6-4bb9-9a13-54222cd4e91c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlciAtIEJhY2tlbmQgQXJjaGl0ZWN0dXJlIiwiY29tcGFueV9uYW1lIjoiQW5kb3IgVGVjaCIsImh0aWRvY2lkIjoiTm00V0s3WnFKNzREdGcza0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTME5TUTNwQ1dITnBSaTFFUlRsdVJWOXhWVEZQTjNwNE5rdDFaMUZIVm5WcmRVaGZTMlJJWHpaWE4yMXVlVmxXYlMxUFFtcEVTSHAzV1RGTGNYRnZNRkZZV25ORWFqRXhVR0ZTVGxSeU1UQnVOM0o0YjJkMk5HVlpVMnhtU1VSWFMwWkNSbk5uY0haclgzaHZhVGsyZUZGeGVHOWZkRE00UVZKT09VTm5TMUZyVlVselZsOFNGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daVVVEaGFZbUZSVkVWV1VXUjBURlZWZG10dk0wbFFRV016YmxwUiIsImZjdiI6IjMiLCJmY19pZCI6Ik5tNFdLN1pxSjc0RHRnM2tBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Solution Architect : Backend Systems & Cloud Platforms (Bengaluru)",
+      "company_name": "Consult Asia",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Backend+Architect&htidocid=Ihjm8kH1Z5raUnVjAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z3NMQrCQBAFUGw9gtUUIiqSiGCjlUlhYSOktAjjOiar607YmQXtvIMX8iyexLWx-cWH_37_3esfKnZRLXvYBNNaJaOwggLNlfwJqoco3QRGUDqOJ9g71DOH1IwL8g26GOIEPs8XXPgIQpgMSNaWuXE0WLeqnazyXMRljSiqNZnhW86ejnzP00h-UUuLgbqEU71Yzu9Z55vpsGQv0SlsxCJYD__HGewweFS84hdxF7ztwwAAAA&shmds=v1_ARwrE23X2HifHR9RnEPmxfmtBtWYcPzqLUfxylhlhlnvcD9Bcw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Backend+Architect&htidocid=Ihjm8kH1Z5raUnVjAAAAAA%3D%3D",
+      "extensions": [
+        "9 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/4006290653418881024",
+      "job_title": "Solution Architect : Backend Systems & Cloud Platforms (Bengaluru)",
+      "description": "Design and implement scalable, secure, and high-performance backend architectures. Lead teams in developing microservices, APIs, and integrations using Java/Spring Boot, ensuring performance, reliability, and cloud readiness.  \n\nRequired Candidate profile\n\nBackend architect with solid Java/Spring Boot expertise, experience in microservices, API development, and cloud-native deployment. Skilled in CI/CD and distributed system design.",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4006290653418881024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2x1dGlvbiBBcmNoaXRlY3QgOiBCYWNrZW5kIFN5c3RlbXMgXHUwMDI2IENsb3VkIFBsYXRmb3JtcyAoQmVuZ2FsdXJ1KSIsImNvbXBhbnlfbmFtZSI6IkNvbnN1bHQgQXNpYSIsImh0aWRvY2lkIjoiSWhqbThrSDFaNXJhVW5WakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTalU0Ukhkck9XMTJNV3RLZW5GRlkyeFhUbEpJZWxRMWEwTjViR0UwY1dRelZVVTJiVEZrUm5aUWJrOW1hSFk1T1RCaFZHaEVSRU5xTWpKa2FVdFBiemswVGxSRGVVWm1Ra3d3VFVOaGRXbEdXVFJJYnpaSlFURm1jVTloYkhNek5YbHBaMVJoYzFocFVsSjVkSEpVYzJoU2RtRXlXbWxrVldzeU9VaHJjRGRqVTNFNWRua1NGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daUk9WQkRNMFJwYkhaNFNDMW1URkJTVWxSUFh6ZFFhVUZzY1VaMyIsImZjdiI6IjMiLCJmY19pZCI6Ikloam04a0gxWjVyYVVuVmpBQUFBQUE9PSJ9"
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTemhCVGpReWEwODFlRWxTWVU1SlNVTnZhV3haU0RKcVVrODNjbWN6WTBkV05WTk5VbVZwWW1ZeVRXdFlVRGxaV2taME1XTk1kVWN5UVVOMmMybFVlRFV0Wkc5S1pYcDZWbFJWYTFoU1dEUjJWRkpZVVdOcVRHOTBZbTAwZEhwVlkyTjRTM2g2VnpCa1ExZGpVamhtWDA1R1prSjFXRTlqVjI5S1IwSlNhVXROTmtKUVEyTjFkR04yZERaNVpVNHlTV1JNYjJ0MVZtcDRORk53UXpkNU1FcFJYMjlPWTNwSFRuUlpVVlJZZEhkT1owRnpNek0yYXpSdE9GSkNSSEpUVG5WaE5sbGxWbFEyU1UxS1ozaFdWazkwT1c1emRtcDZPVlJJVXpaRmNtNHhhamh0U21kR1RYcEhSR3d4VDB0Nk5GbExVelZVYkZFeFFqQndTek4yUVZwWlJqUlBWM052VFdVMGNqWTBTVU5XV0V0WVp6VkJXaTFoYW1oSVpXbGxVMEpTVFVoUFIxUkdORzU0UVdZM2NHWjNXa05qTlVaelVsbGZOa28yWnpNNFZsbHpTbkEzWDJwaFZHMDBPR1ExUkhacVpHUlVSbHBhTm5ORmVuQXdhbVJ6VHpGcmJFRkVSbmd0WjFrNWNYVXdhV3ByVTBob2JYUjVPWEZWUW5oeVVsQklZbk5FUkdWcGJERkdTblJTUzJ0Vk0yYzBUSFF4ZVdkRGJWTjRXbUpTYVdoa2RuVjRkakJaWnpsSmIyZzFWamhaTVhkeGRtbGhNbE16Y1d3Mk5qUmFNMm90U0dkQ09YUk9jRE16YUdOeVVXUmFURjlVU0ZWRU5GRVNGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daUmN6Tk9jWE5GTW5SZmJEQnBZVmxzWjFOcVZWSkhNV1pFZVU5biIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTemhCVGpReWEwODFlRWxTWVU1SlNVTnZhV3haU0RKcVVrODNjbWN6WTBkV05WTk5VbVZwWW1ZeVRXdFlVRGxaV2taME1XTk1kVWN5UVVOMmMybFVlRFV0Wkc5S1pYcDZWbFJWYTFoU1dEUjJWRkpZVVdOcVRHOTBZbTAwZEhwVlkyTjRTM2g2VnpCa1ExZGpVamhtWDA1R1prSjFXRTlqVjI5S1IwSlNhVXROTmtKUVEyTjFkR04yZERaNVpVNHlTV1JNYjJ0MVZtcDRORk53UXpkNU1FcFJYMjlPWTNwSFRuUlpVVlJZZEhkT1owRnpNek0yYXpSdE9GSkNSSEpUVG5WaE5sbGxWbFEyU1UxS1ozaFdWazkwT1c1emRtcDZPVlJJVXpaRmNtNHhhamh0U21kR1RYcEhSR3d4VDB0Nk5GbExVelZVYkZFeFFqQndTek4yUVZwWlJqUlBWM052VFdVMGNqWTBTVU5XV0V0WVp6VkJXaTFoYW1oSVpXbGxVMEpTVFVoUFIxUkdORzU0UVdZM2NHWjNXa05qTlVaelVsbGZOa28yWnpNNFZsbHpTbkEzWDJwaFZHMDBPR1ExUkhacVpHUlVSbHBhTm5ORmVuQXdhbVJ6VHpGcmJFRkVSbmd0WjFrNWNYVXdhV3ByVTBob2JYUjVPWEZWUW5oeVVsQklZbk5FUkdWcGJERkdTblJTUzJ0Vk0yYzBUSFF4ZVdkRGJWTjRXbUpTYVdoa2RuVjRkakJaWnpsSmIyZzFWamhaTVhkeGRtbGhNbE16Y1d3Mk5qUmFNMm90U0dkQ09YUk9jRE16YUdOeVVXUmFURjlVU0ZWRU5GRVNGek5QZGtWaGRtRXpUemxYZVcxMGExQjFZVk4yZVZFMEdpSkJSSE55T1daUmN6Tk9jWE5GTW5SZmJEQnBZVmxzWjFOcVZWSkhNV1pFZVU5biIsImZjdiI6IjMifQ%3D%3D&q=Backend+Architect"
+  }
+}

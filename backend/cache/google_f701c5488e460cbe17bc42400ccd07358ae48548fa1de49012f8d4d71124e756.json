@@ -1,0 +1,364 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebf6b2707df69ff4972d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ZoRjQji68cUMhjvbMC9AKkE2YFcYWWzaD8AG25LpVng/6ac4ebf6b2707df69ff4972d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ZoRjQji68cUMhjvbMC9AKkE2YFcYWWzaD8AG25LpVng/6ac4ebf6b2707df69ff4972d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/ZoRjQji68cUMhjvbMC9AKkE2YFcYWWzaD8AG25LpVng/6ac4ebf6b2707df69ff4972d.json_with_pixel_position",
+    "created_at": "2026-10-06 12:39:18 UTC",
+    "processed_at": "2026-10-06 12:39:18 UTC",
+    "google_url": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&oq=CRED+employee+reviews+glassdoor+ambitionbox+interview&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ZoRjQji68cUMhjvbMC9AKkE2YFcYWWzaD8AG25LpVng/6ac4ebf6b2707df69ff4972d.html",
+    "total_time_taken": 0.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "CRED employee reviews glassdoor ambitionbox interview",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "CRED employee reviews glassdoor ambitionbox interview",
+    "total_results": 5980,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is CRED a good company to work for?",
+      "type": "ai_overview",
+      "page_token": "UecrO3icHdDbboIwAIDh7GW81JaqiyZmGdoO8bC00oPcLKXIyQpMmaB3e5c91Z5mZk_w5_u_f2xeHn-frlnT1JfpYNC2bT-tqtQe-qY6DfTlVpqB0dZG2hyn4-cxfEnMDH8t3fnn0qW8rsWCgV2RaVOEFwo3jlEx3kKBpUfUgbzeAhyWGtJhFPiVfgOOtmEe8QkSyECmxGrvQP0ucUdV2myFv49g5sUo02vhh4HyK-7Asyz8IxMWMKceRWTSUMhaaXG3gZPsYJnYiknCOUGR7DrusYAidxUQcjVlfAth2OkFdziADldEruWIUsDmEovVBqfAICbj0q9pwfKIxLeHB-HMjGIVkr3yE3ncwwDaNiaEajB0tCfcd7fKKWd3U9iTWCyHhnfjDSC-gmQXlvWdqax5dIHguJE7gOK2l5jrDPX-f84-klMzrc9V-gfven_J",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UecrO3icHdDbboIwAIDh7GW81JaqiyZmGdoO8bC00oPcLKXIyQpMmaB3e5c91Z5mZk_w5_u_f2xeHn-frlnT1JfpYNC2bT-tqtQe-qY6DfTlVpqB0dZG2hyn4-cxfEnMDH8t3fnn0qW8rsWCgV2RaVOEFwo3jlEx3kKBpUfUgbzeAhyWGtJhFPiVfgOOtmEe8QkSyECmxGrvQP0ucUdV2myFv49g5sUo02vhh4HyK-7Asyz8IxMWMKceRWTSUMhaaXG3gZPsYJnYiknCOUGR7DrusYAidxUQcjVlfAth2OkFdziADldEruWIUsDmEovVBqfAICbj0q9pwfKIxLeHB-HMjGIVkr3yE3ncwwDaNiaEajB0tCfcd7fKKWd3U9iTWCyHhnfjDSC-gmQXlvWdqax5dIHguJE7gOK2l5jrDPX-f84-klMzrc9V-gfven_J",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJJcyBDUkVEIGEgZ29vZCBjb21wYW55IHRvIHdvcmsgZm9yPyIsImxrIjoiR2g1cGN5QmpjbVZrSUdFZ1oyOXZaQ0JqYjIxd1lXNTVJSFJ2SUhkdmNtcyIsImJzIjoiYzNYT1BRdkNNQlNGWVZ3ek9RZVJBeTVTbk9vUEtLSlNYSFdvYTlwZW05Q1BLMGt3LXU5dFJaRWl6dWU1TDFla1luRncyQjczT3loVXpDVUticS1xZThBekF0c2FGN1pKRERrM0RvV2w4ZzhUWnhGbDJoUWF2Y3ZKZTdJcmJOcmNlTU5kem5ld1Jkb281MG9lZXBGY2hyR0dHdVBxZzhWSnJET3RQSlFsZUUyd2RETVVIQnBUMF9EZHR3dlQ5YVhYbXNRekthdmY0WDA5blR3QiIsImlkIjoiZmNfOXV2RWFyX1pGNU9ZcHRRUGtONmh1QThfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJJcyBDUkVEIGEgZ29vZCBjb21wYW55IHRvIHdvcmsgZm9yPyIsImxrIjoiR2g1cGN5QmpjbVZrSUdFZ1oyOXZaQ0JqYjIxd1lXNTVJSFJ2SUhkdmNtcyIsImJzIjoiYzNYT1BRdkNNQlNGWVZ3ek9RZVJBeTVTbk9vUEtLSlNYSFdvYTlwZW05Q1BLMGt3LXU5dFJaRWl6dWU1TDFla1luRncyQjczT3loVXpDVUticS1xZThBekF0c2FGN1pKRERrM0RvV2w4ZzhUWnhGbDJoUWF2Y3ZKZTdJcmJOcmNlTU5kem5ld1Jkb281MG9lZXBGY2hyR0dHdVBxZzhWSnJET3RQSlFsZUUyd2RETVVIQnBUMF9EZHR3dlQ5YVhYbXNRekthdmY0WDA5blR3QiIsImlkIjoiZmNfOXV2RWFyX1pGNU9ZcHRRUGtONmh1QThfNCJ9"
+    },
+    {
+      "question": "Which is better, Ambitionbox or Glassdoor?",
+      "type": "ai_overview",
+      "page_token": "PfYWIHicHdBBjpswFABQ9TKznNg4STWRokoQTEIbUgjfjtlUYEOY8AF3hoSBXe_SU_U0rXqAt3m_fuNr1_z59KiHwb5vFotxHJ-vfX_F8ln37SJ_nzq90Dliketms_68pl8qvfXvB9f7eXBjsFbsEnJuXuKiw-C8DxkQyoDio2zCANKIw1yvyi78nsGVGl-QpBX3o7SRbOlaoNtLeHHzgEJO-QWcqDrPOBmsPyIwWPjiEXHrCYKnYoZV3OLylPJ7tnNZGQg0KYyS2wPczNd0ovcckjcl69nc9Aocn12I8RT0Uza7QdFZB2QiY1DLUxCiIniW-3CKpRqLgHvHRjOZZiwFwfxar8wl4-oSVrJRNKU4Gs7jnCydfC_ck9u_xpDM-oYtUOuZnU9S58BEl3WCfMA3oYZ_fiiFOKpbFGfjU6UfW_b0_3P7o2qHjX3rr38BmyyCbA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PfYWIHicHdBBjpswFABQ9TKznNg4STWRokoQTEIbUgjfjtlUYEOY8AF3hoSBXe_SU_U0rXqAt3m_fuNr1_z59KiHwb5vFotxHJ-vfX_F8ln37SJ_nzq90Dliketms_68pl8qvfXvB9f7eXBjsFbsEnJuXuKiw-C8DxkQyoDio2zCANKIw1yvyi78nsGVGl-QpBX3o7SRbOlaoNtLeHHzgEJO-QWcqDrPOBmsPyIwWPjiEXHrCYKnYoZV3OLylPJ7tnNZGQg0KYyS2wPczNd0ovcckjcl69nc9Aocn12I8RT0Uza7QdFZB2QiY1DLUxCiIniW-3CKpRqLgHvHRjOZZiwFwfxar8wl4-oSVrJRNKU4Gs7jnCydfC_ck9u_xpDM-oYtUOuZnU9S58BEl3WCfMA3oYZ_fiiFOKpbFGfjU6UfW_b0_3P7o2qHjX3rr38BmyyCbA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIsIEFtYml0aW9uYm94IG9yIEdsYXNzZG9vcj8iLCJsayI6IkdpaDNhR2xqYUNCcGN5QmlaWFIwWlhJZ1lXMWlhWFJwYjI1aWIzZ2diM0lnWjJ4aGMzTmtiMjl5IiwiYnMiOiJjM1hPUFF2Q01CU0ZZVnd6T1FlUkF5NVNuT29QS0tKU1hIV29hOXBlbTlDUEswa3ctdTl0UlpFaXp1ZTVMMWVrWW5GdzJCNzNPeWhVekNVS2JxLXFlOEF6QXRzYUY3WkpERGszRG9XbDhnOFRaeEZsMmhRYXZjdkplN0lyYk5yY2VNTmR6bmV3UmRvbzUwb2VlcEZjaHJHR0d1UHFnOFZKckRPdFBKUWxlRTJ3ZERNVUhCcFQwX0RkdHd2VDlhWFhtc1F6S2F2ZjRYMDluVHdCIiwiaWQiOiJmY185dXZFYXJfWkY1T1lwdFFQa042aHVBOF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIsIEFtYml0aW9uYm94IG9yIEdsYXNzZG9vcj8iLCJsayI6IkdpaDNhR2xqYUNCcGN5QmlaWFIwWlhJZ1lXMWlhWFJwYjI1aWIzZ2diM0lnWjJ4aGMzTmtiMjl5IiwiYnMiOiJjM1hPUFF2Q01CU0ZZVnd6T1FlUkF5NVNuT29QS0tKU1hIV29hOXBlbTlDUEswa3ctdTl0UlpFaXp1ZTVMMWVrWW5GdzJCNzNPeWhVekNVS2JxLXFlOEF6QXRzYUY3WkpERGszRG9XbDhnOFRaeEZsMmhRYXZjdkplN0lyYk5yY2VNTmR6bmV3UmRvbzUwb2VlcEZjaHJHR0d1UHFnOFZKckRPdFBKUWxlRTJ3ZERNVUhCcFQwX0RkdHd2VDlhWFhtc1F6S2F2ZjRYMDluVHdCIiwiaWQiOiJmY185dXZFYXJfWkY1T1lwdFFQa042aHVBOF80In0%3D"
+    },
+    {
+      "question": "What are the reviews like for Glassdoor interviews?",
+      "type": "ai_overview",
+      "page_token": "ek9XdXicHdBRbtsgAABQ7TL9bAA3mRQpmuQa3FgNGQQw5mfCEIfGOPYSN1b8tyvsDDvVTjNp7wjv15_4cWn_fvkdxnG4rReLaZqeT31_isdn13cLe3tc3MLZGGvr2vXq6wp-a9wG3136enUpk8OgMg4OyHCjQm6EIf5MLE2247FkQMP4aoHv-GzaA6ayQmNp1BbIJAU8-k6AYetBIQ8RT7vELxlSYoeUEVm4ihihzMytzgEymSr4HDIGA6kvvqyxmjgKjYDp_l0pTR9w6bqx43lYWRWihv67egvbeuaGRt7XmVy6_AW863RPAXwoyO9WpCsn6SdTOClbgyhMd7tZTlUZDEfVrDSbWImRwEXH9BAMINIQDHBwS68NqXTRlG0FBYyTJ4RZ8ILsm0r3af_BJJ_dOXZS0MuR4MkI2tKc3DQM50orSGXxs8zM7ET4ZOypcfdN8vT_evOj6cb1cO1P_wAdD4pH",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ek9XdXicHdBRbtsgAABQ7TL9bAA3mRQpmuQa3FgNGQQw5mfCEIfGOPYSN1b8tyvsDDvVTjNp7wjv15_4cWn_fvkdxnG4rReLaZqeT31_isdn13cLe3tc3MLZGGvr2vXq6wp-a9wG3136enUpk8OgMg4OyHCjQm6EIf5MLE2247FkQMP4aoHv-GzaA6ayQmNp1BbIJAU8-k6AYetBIQ8RT7vELxlSYoeUEVm4ihihzMytzgEymSr4HDIGA6kvvqyxmjgKjYDp_l0pTR9w6bqx43lYWRWihv67egvbeuaGRt7XmVy6_AW863RPAXwoyO9WpCsn6SdTOClbgyhMd7tZTlUZDEfVrDSbWImRwEXH9BAMINIQDHBwS68NqXTRlG0FBYyTJ4RZ8ILsm0r3af_BJJ_dOXZS0MuR4MkI2tKc3DQM50orSGXxs8zM7ET4ZOypcfdN8vT_evOj6cb1cO1P_wAdD4pH",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcmV2aWV3cyBsaWtlIGZvciBHbGFzc2Rvb3IgaW50ZXJ2aWV3cz8iLCJsayI6ImM1T1NTczlKTEM1T3ljOHZVc2pNSzBrdEtzdE1MVmNvU2dWUkFBIiwiYnMiOiJjM1hPUFF2Q01CU0ZZVnd6T1FlUkF5NVNuT29QS0tKU1hIV29hOXBlbTlDUEswa3ctdTl0UlpFaXp1ZTVMMWVrWW5GdzJCNzNPeWhVekNVS2JxLXFlOEF6QXRzYUY3WkpERGszRG9XbDhnOFRaeEZsMmhRYXZjdkplN0lyYk5yY2VNTmR6bmV3UmRvbzUwb2VlcEZjaHJHR0d1UHFnOFZKckRPdFBKUWxlRTJ3ZERNVUhCcFQwX0RkdHd2VDlhWFhtc1F6S2F2ZjRYMDluVHdCIiwiaWQiOiJmY185dXZFYXJfWkY1T1lwdFFQa042aHVBOF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU1VTm1kM1JYZFV0Sk1YWmthemsyZWtKUlkyeHlOWGRSYldSVFdsbEhXR0pLUlVoS2NGbDBiR1Z3VkRNMVNWWlhVbkpFYWtaa1ptUndORkF6VERKaFVrUnFZMjl5Y0ROMWRGRjVReTFMTm5CTVFtbE1WVWRYV1dFNFp4SVhPWFYyUldGeVgxcEdOVTlaY0hSUlVHdE9ObWgxUVRnYUlrRkVjM0k1WmxGV1RsbFpUbVppTW1oSVIxRmtNVjlZYzBWa1gyNVZjRVI0WjNjIiwiZmN2IjoiMyIsImVpIjoiOXV2RWFyX1pGNU9ZcHRRUGtONmh1QTgiLCJxYyI6IkNqVmpjbVZrSUdWdGNHeHZlV1ZsSUhKbGRtbGxkM01nWjJ4aGMzTmtiMjl5SUdGdFltbDBhVzl1WW05NElHbHVkR1Z5ZG1sbGR4QUFmZXJiR3o4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgcmV2aWV3cyBsaWtlIGZvciBHbGFzc2Rvb3IgaW50ZXJ2aWV3cz8iLCJsayI6ImM1T1NTczlKTEM1T3ljOHZVc2pNSzBrdEtzdE1MVmNvU2dWUkFBIiwiYnMiOiJjM1hPUFF2Q01CU0ZZVnd6T1FlUkF5NVNuT29QS0tKU1hIV29hOXBlbTlDUEswa3ctdTl0UlpFaXp1ZTVMMWVrWW5GdzJCNzNPeWhVekNVS2JxLXFlOEF6QXRzYUY3WkpERGszRG9XbDhnOFRaeEZsMmhRYXZjdkplN0lyYk5yY2VNTmR6bmV3UmRvbzUwb2VlcEZjaHJHR0d1UHFnOFZKckRPdFBKUWxlRTJ3ZERNVUhCcFQwX0RkdHd2VDlhWFhtc1F6S2F2ZjRYMDluVHdCIiwiaWQiOiJmY185dXZFYXJfWkY1T1lwdFFQa042aHVBOF80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "Zj3OvHiczZVdkqo4FMcXMOsYXrpHUNGWrqJuBQTEb1C7W18ogRhowSgg6H27e5mVzDJmNRNAbWw_pu99mJpUaYDknJycnF_-P_703NXy79_-cqJoHT7TdJIkJYQx8mDJwj49D_cri15gLwws55vj8XBFIY93V1SIt4EFXZu3nAD7kNrHfJWyQp6hoMtz21iaB8ZMrg2m60gbLvt1ZwsaVOaON8x5CN_Jarv3kDZo8rf8vdokL6WwBFeGIpTG3GsFy3E7AkmpwlSqpQE998kc8J82pIIp6drps3RzlgCA-BVvEnEhqEVHgpB1BWtEhoW0U7XsXb7jLTOTNJRFQJqxe__eJGYKOs5Z3rQ-G1FyB5qa9RIxF9WvbKgQzFmw94xvjaEzD1naz4euNkEoDqpARD0wVIFz3Zjk_mx5kqtm_t0CaqPFCuQ8tDuxgw4CgxmQnNz2XpsICjytLYdkGYm2ESlghjYD0pVp13Ks7CEI07oWxxyDZTboVjtvXrCp1fe71rDxFvvKeuFrSk-jLZPM8_DchrbhGMy37L1cKdcYrvrUeMyYssITVGERKsU3Db1hcfITLnVLQvmIk1g8kOKW0q-Ta3sU0mqVjiV32dQrqRFFfObiMIEcRk8E4jk8otxK03YCnTzsENieF8ERIQQucTp4-3Ca4XRcU9dO1mdhqpLgFiyKu2t93g7xfbl7NMgtRVK6uedDaUrg8_UgSkLK2CmApDiYXiYigVrIYdiwar7R3qGUBQwkRmpf3EZpKhxienrNt3V4nRbTl-aA3BokzjZQBUkdy-RaEo-rk_AOGSI45Tx8ZEq9ymKaYbJb7fYVea9NvjRLOnLzCYMiPoqesFCPdpPRJOp26yM9tsdux-1U2sPkOi7YN39OhKz_G1NHiUonSPeYEr_CFJEodEWiDv5ypyeJah8k6jZTcsbUQaJSR0eJal1I1CVTyyJTipYN6_iGRP0sU-odpk6OrzIlX2MK3WYqk6giU05PIxK1-0jTVYn6YOpXJGryqxKVIQbz7lyvtu_opm5J2B6wy2Q4YMd_9CfjVaNvKEPmaaZzjeRfdWvhR8_-3PYeDdd-FirtaG8_GuQDfoY2teFFXWo-QH_t4T2EDwGMXZiED8ibh6GNcfAw9003cvHKxLsHdxXBIJ1A-V6AeWbOyi0T-N2K_qR5auyC2SRJRsvRdLzQLd2Md_3JIg5mYnM6G40BwoaO3j1ryrW7bDyL39ataOKbL5ofC4OXF9aXtnCjj5TN4Hu99ca5cdwCdb-lApx4ltJx9s3dQO2jGlqs68i1OUHejAHb5TZZNCFf77_1mNfddL1ElB9YPCkPFoG-Bl4ROV2R1I5IDpxwrYkJ-dXJ4QsVUjdUaM0NGMY8a9YqsFyHdhVytZpVpnwU7dc8x1DhKuDL_wDoE1gd",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Zj3OvHiczZVdkqo4FMcXMOsYXrpHUNGWrqJuBQTEb1C7W18ogRhowSgg6H27e5mVzDJmNRNAbWw_pu99mJpUaYDknJycnF_-P_703NXy79_-cqJoHT7TdJIkJYQx8mDJwj49D_cri15gLwws55vj8XBFIY93V1SIt4EFXZu3nAD7kNrHfJWyQp6hoMtz21iaB8ZMrg2m60gbLvt1ZwsaVOaON8x5CN_Jarv3kDZo8rf8vdokL6WwBFeGIpTG3GsFy3E7AkmpwlSqpQE998kc8J82pIIp6drps3RzlgCA-BVvEnEhqEVHgpB1BWtEhoW0U7XsXb7jLTOTNJRFQJqxe__eJGYKOs5Z3rQ-G1FyB5qa9RIxF9WvbKgQzFmw94xvjaEzD1naz4euNkEoDqpARD0wVIFz3Zjk_mx5kqtm_t0CaqPFCuQ8tDuxgw4CgxmQnNz2XpsICjytLYdkGYm2ESlghjYD0pVp13Ks7CEI07oWxxyDZTboVjtvXrCp1fe71rDxFvvKeuFrSk-jLZPM8_DchrbhGMy37L1cKdcYrvrUeMyYssITVGERKsU3Db1hcfITLnVLQvmIk1g8kOKW0q-Ta3sU0mqVjiV32dQrqRFFfObiMIEcRk8E4jk8otxK03YCnTzsENieF8ERIQQucTp4-3Ca4XRcU9dO1mdhqpLgFiyKu2t93g7xfbl7NMgtRVK6uedDaUrg8_UgSkLK2CmApDiYXiYigVrIYdiwar7R3qGUBQwkRmpf3EZpKhxienrNt3V4nRbTl-aA3BokzjZQBUkdy-RaEo-rk_AOGSI45Tx8ZEq9ymKaYbJb7fYVea9NvjRLOnLzCYMiPoqesFCPdpPRJOp26yM9tsdux-1U2sPkOi7YN39OhKz_G1NHiUonSPeYEr_CFJEodEWiDv5ypyeJah8k6jZTcsbUQaJSR0eJal1I1CVTyyJTipYN6_iGRP0sU-odpk6OrzIlX2MK3WYqk6giU05PIxK1-0jTVYn6YOpXJGryqxKVIQbz7lyvtu_opm5J2B6wy2Q4YMd_9CfjVaNvKEPmaaZzjeRfdWvhR8_-3PYeDdd-FirtaG8_GuQDfoY2teFFXWo-QH_t4T2EDwGMXZiED8ibh6GNcfAw9003cvHKxLsHdxXBIJ1A-V6AeWbOyi0T-N2K_qR5auyC2SRJRsvRdLzQLd2Md_3JIg5mYnM6G40BwoaO3j1ryrW7bDyL39ataOKbL5ofC4OXF9aXtnCjj5TN4Hu99ca5cdwCdb-lApx4ltJx9s3dQO2jGlqs68i1OUHejAHb5TZZNCFf77_1mNfddL1ElB9YPCkPFoG-Bl4ROV2R1I5IDpxwrYkJ-dXJ4QsVUjdUaM0NGMY8a9YqsFyHdhVytZpVpnwU7dc8x1DhKuDL_wDoE1gd"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "AmbitionBox.com - Good - Glassdoor",
+      "link": "https://www.glassdoor.sg/Reviews/Employee-Review-AmbitionBox-com-E810170-RVW11189386.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFfcMLsGrxORPoiyq_Mrlqy5hBVslYReX3B0tdnLOjL8K3voN9Fp1vttjzyvHaosB3YLEJrvs-bk3KeOSzNj1J9iBtpoq4X-PsYpI9-MG5v96-HWtqvGzg0X2nJ9itLErLeSlrdYLu_N68FSVDpb5SIdTU5E0bNHx1Is8FtZnFnAy0RqEf-naS_5Tvyg&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.glassdoor.sg › Reviews › Employee-Revie...",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "snippet": "79% of AmbitionBox.com employees would recommend working there to a friend based on Glassdoor reviews. Employees also rated AmbitionBox.com 4.0 out of 5 for ...",
+      "snippet_highlighted_words": [
+        "AmbitionBox",
+        "employees",
+        "Glassdoor reviews",
+        "Employees",
+        "AmbitionBox"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "79% of AmbitionBox.com employees would recommend working there to a friend based on Glassdoor reviews. Employees also rated AmbitionBox.com 4.0 out of 5 for ...",
+          "source_info_link": "https://www.glassdoor.sg/Reviews/Employee-Review-AmbitionBox-com-E810170-RVW11189386.htm",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmY01Mc0dyeE9SUG9peXFfTXJscXk1aEJWc2xZUmVYM0IwdGRuTE9qTDhLM3ZvTjlGcDF2dHRqenl2SGFvc0IzWUxFSnJ2cy1iazNLZU9Tek5qMUo5aUJ0cG9xNFgtUHNZcEk5LU1HNXY5Ni1IV3Rxdkd6ZzBYMm5KOWl0TEVyTGVTbHJkWUx1X042OEZTVkRwYjVTSWRUVTVFMGJOSHgxSXM4RnRabkZuQXkwUnFFZi1uYVNfNVR2eWcSBBoCCAAahgYSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA4gUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFRYkMkAaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVrEZCQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFbAAU0AaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FcmSqkAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmY01Mc0dyeE9SUG9peXFfTXJscXk1aEJWc2xZUmVYM0IwdGRuTE9qTDhLM3ZvTjlGcDF2dHRqenl2SGFvc0IzWUxFSnJ2cy1iazNLZU9Tek5qMUo5aUJ0cG9xNFgtUHNZcEk5LU1HNXY5Ni1IV3Rxdkd6ZzBYMm5KOWl0TEVyTGVTbHJkWUx1X042OEZTVkRwYjVTSWRUVTVFMGJOSHgxSXM4RnRabkZuQXkwUnFFZi1uYVNfNVR2eWc6KTxiPkFtYml0aW9uQm94PC9iPi5jb20gLSBHb29kIC0gR2xhc3Nkb29yQsgBNzklIG9mIDxiPkFtYml0aW9uQm94PC9iPi5jb20gPGI-ZW1wbG95ZWVzPC9iPiB3b3VsZCByZWNvbW1lbmQgd29ya2luZyB0aGVyZSB0byBhIGZyaWVuZCBiYXNlZCBvbiA8Yj5HbGFzc2Rvb3IgcmV2aWV3czwvYj4uIDxiPkVtcGxveWVlczwvYj4gYWxzbyByYXRlZCA8Yj5BbWJpdGlvbkJveDwvYj4uY29tIDQuMCBvdXQgb2YgNSBmb3ImbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmY01Mc0dyeE9SUG9peXFfTXJscXk1aEJWc2xZUmVYM0IwdGRuTE9qTDhLM3ZvTjlGcDF2dHRqenl2SGFvc0IzWUxFSnJ2cy1iazNLZU9Tek5qMUo5aUJ0cG9xNFgtUHNZcEk5LU1HNXY5Ni1IV3Rxdkd6ZzBYMm5KOWl0TEVyTGVTbHJkWUx1X042OEZTVkRwYjVTSWRUVTVFMGJOSHgxSXM4RnRabkZuQXkwUnFFZi1uYVNfNVR2eWcSBBoCCAAahgYSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA4gUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFRYkMkAaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVrEZCQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFbAAU0AaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FcmSqkAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZmY01Mc0dyeE9SUG9peXFfTXJscXk1aEJWc2xZUmVYM0IwdGRuTE9qTDhLM3ZvTjlGcDF2dHRqenl2SGFvc0IzWUxFSnJ2cy1iazNLZU9Tek5qMUo5aUJ0cG9xNFgtUHNZcEk5LU1HNXY5Ni1IV3Rxdkd6ZzBYMm5KOWl0TEVyTGVTbHJkWUx1X042OEZTVkRwYjVTSWRUVTVFMGJOSHgxSXM4RnRabkZuQXkwUnFFZi1uYVNfNVR2eWc6KTxiPkFtYml0aW9uQm94PC9iPi5jb20gLSBHb29kIC0gR2xhc3Nkb29yQsgBNzklIG9mIDxiPkFtYml0aW9uQm94PC9iPi5jb20gPGI-ZW1wbG95ZWVzPC9iPiB3b3VsZCByZWNvbW1lbmQgd29ya2luZyB0aGVyZSB0byBhIGZyaWVuZCBiYXNlZCBvbiA8Yj5HbGFzc2Rvb3IgcmV2aWV3czwvYj4uIDxiPkVtcGxveWVlczwvYj4gYWxzbyByYXRlZCA8Yj5BbWJpdGlvbkJveDwvYj4uY29tIDQuMCBvdXQgb2YgNSBmb3ImbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "glassdoor.sg",
+      "read_more_link": "https://www.glassdoor.sg/Reviews/Employee-Review-AmbitionBox-com-E810170-RVW11189386.htm#:~:text=What%20are%20the%20top%20reviewed"
+    },
+    {
+      "position": 2,
+      "title": "Peak \"layoff\" Reviews",
+      "link": "https://www.glassdoor.co.uk/Reviews/Peak-layoff-Reviews-EI_IE2022431.0,4_KH5,11.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFTlQXbJYSlSf3bo-ODM_JmuiYvnKaixInTSQBsH7okUgr3yV7MoTZe7pIMPQ3qicZcFsW4WJlVTuGHoWlO_MWT7r2udVXeHU7yJveaR_6_ibnVhoUscXuoTkjUNbXMNn_IlF9HE0_mcYp6Ja6SKnBqphvBmYrLjJZl9JWa57dcyuTJvFcHKJ&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://www.glassdoor.co.uk › Reviews › Peak reviews",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "snippet": "Plenty of senior management are ill-experienced and seem to have got in at the beginning. Some pretty awful strategic decisions have been made in the past ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.6,
+            "reviews": 12
+          },
+          "extensions": [
+            "3.6(12)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Plenty of senior management are ill-experienced and seem to have got in at the beginning. Some pretty awful strategic decisions have been made in the past ...",
+          "source_info_link": "https://www.glassdoor.co.uk/Reviews/Peak-layoff-Reviews-EI_IE2022431.0,4_KH5,11.htm",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUbFFYYkpZU2xTZjNiby1PRE1fSm11aVl2bkthaXhJblRTUUJzSDdva1VncjN5VjdNb1RaZTdwSU1QUTNxaWNaY0ZzVzRXSmxWVHVHSG9XbE9fTVdUN3IydWRWWGVIVTd5SnZlYVJfNl9pYm5WaG9Vc2NYdW9Ua2pVTmJYTU5uX0lsRjlIRTBfbWNZcDZKYTZTS25CcXBodkJtWXJMakpabDlKV2E1N2RjeXVUSnZGY0hLShIEGgIIABr9BRIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWhMIARIPZ2xhc3Nkb29yLmNvLnVrcgB6AIJAxgUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFTEpnj8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV1p1TQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFd82wUAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FQ9gmD4aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUbFFYYkpZU2xTZjNiby1PRE1fSm11aVl2bkthaXhJblRTUUJzSDdva1VncjN5VjdNb1RaZTdwSU1QUTNxaWNaY0ZzVzRXSmxWVHVHSG9XbE9fTVdUN3IydWRWWGVIVTd5SnZlYVJfNl9pYm5WaG9Vc2NYdW9Ua2pVTmJYTU5uX0lsRjlIRTBfbWNZcDZKYTZTS25CcXBodkJtWXJMakpabDlKV2E1N2RjeXVUSnZGY0hLSjo5UGVhayAmcXVvdDtsYXlvZmYmcXVvdDsgPGI-UmV2aWV3czwvYj4gfCA8Yj5HbGFzc2Rvb3I8L2I-QqMBUGxlbnR5IG9mIHNlbmlvciBtYW5hZ2VtZW50IGFyZSBpbGwtZXhwZXJpZW5jZWQgYW5kIHNlZW0gdG8gaGF2ZSBnb3QgaW4gYXQgdGhlIGJlZ2lubmluZy4gU29tZSBwcmV0dHkgYXdmdWwgc3RyYXRlZ2ljIGRlY2lzaW9ucyBoYXZlIGJlZW4gbWFkZSBpbiB0aGUgcGFzdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUbFFYYkpZU2xTZjNiby1PRE1fSm11aVl2bkthaXhJblRTUUJzSDdva1VncjN5VjdNb1RaZTdwSU1QUTNxaWNaY0ZzVzRXSmxWVHVHSG9XbE9fTVdUN3IydWRWWGVIVTd5SnZlYVJfNl9pYm5WaG9Vc2NYdW9Ua2pVTmJYTU5uX0lsRjlIRTBfbWNZcDZKYTZTS25CcXBodkJtWXJMakpabDlKV2E1N2RjeXVUSnZGY0hLShIEGgIIABr9BRIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWhMIARIPZ2xhc3Nkb29yLmNvLnVrcgB6AIJAxgUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFTEpnj8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV1p1TQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFd82wUAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FQ9gmD4aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZUbFFYYkpZU2xTZjNiby1PRE1fSm11aVl2bkthaXhJblRTUUJzSDdva1VncjN5VjdNb1RaZTdwSU1QUTNxaWNaY0ZzVzRXSmxWVHVHSG9XbE9fTVdUN3IydWRWWGVIVTd5SnZlYVJfNl9pYm5WaG9Vc2NYdW9Ua2pVTmJYTU5uX0lsRjlIRTBfbWNZcDZKYTZTS25CcXBodkJtWXJMakpabDlKV2E1N2RjeXVUSnZGY0hLSjo5UGVhayAmcXVvdDtsYXlvZmYmcXVvdDsgPGI-UmV2aWV3czwvYj4gfCA8Yj5HbGFzc2Rvb3I8L2I-QqMBUGxlbnR5IG9mIHNlbmlvciBtYW5hZ2VtZW50IGFyZSBpbGwtZXhwZXJpZW5jZWQgYW5kIHNlZW0gdG8gaGF2ZSBnb3QgaW4gYXQgdGhlIGJlZ2lubmluZy4gU29tZSBwcmV0dHkgYXdmdWwgc3RyYXRlZ2ljIGRlY2lzaW9ucyBoYXZlIGJlZW4gbWFkZSBpbiB0aGUgcGFzdCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Glassdoor",
+      "read_more_link": "https://www.glassdoor.co.uk/Reviews/Peak-layoff-Reviews-EI_IE2022431.0,4_KH5,11.htm#:~:text=Plenty%20of%20senior%20management%20are,made%20in%20the%20past%20year."
+    },
+    {
+      "position": 3,
+      "title": "Midland Credit Management Senior Manager Reviews",
+      "link": "https://www.glassdoor.co.in/Reviews/Midland-Credit-Management-Senior-Manager-Reviews-EI_IE612365.0,25_KO26,40.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEB6zswFVq6QdXp6IHGtwc0Qpal7V25yiM12RB4c9hT9xqZDbl3wKjZc9sNX034s5mqF8ccRzfG8Tyz-s5my-WdpngnLoSdCxjHqT2ip6iQrzI3Y9u6abdng8v88PuxbaFvdh8AcxAbXpyzyvRw3eGfbfwtjSVo278VbO33n1OXvGbvgMvkioDYBjQ9is8j5VZ-RSp88miOZ7S10WqUqQSXfOCfVB39sItV&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.glassdoor.co.in › Reviews › Midland-Credi...",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "snippet": "The team is supportive, and employees get opportunities to take responsibility and develop new skills. A good workplace for those looking to grow in the ...",
+      "snippet_highlighted_words": [
+        "employees"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 2
+          },
+          "extensions": [
+            "5.0(2)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The team is supportive, and employees get opportunities to take responsibility and develop new skills. A good workplace for those looking to grow in the ...",
+          "source_info_link": "https://www.glassdoor.co.in/Reviews/Midland-Credit-Management-Senior-Manager-Reviews-EI_IE612365.0,25_KO26,40.htm",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZWcTZRZFhwNklIR3R3YzBRcGFsN1YyNXlpTTEyUkI0YzloVDl4cVpEYmwzd0tqWmM5c05YMDM0czVtcUY4Y2NSemZHOFR5ei1zNW15LVdkcG5nbkxvU2RDeGpIcVQyaXA2aVFyekkzWTl1NmFiZG5nOHY4OFB1eGJhRnZkaDhBY3hBYlhweXp5dlJ3M2VHZmJmd3RqU1ZvMjc4VmJPMzNuMU9YdkdidmdNdmtpb0RZQmpROWlzOGo1VlotUlNwODhtaU9aN1MxMFdxVXFRU1hmT0NmVkIzOXNJdFYSBBoCCAAanAYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFeV3uz8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV3B6LQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFV0gakAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FRLjMj0aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVRM7MPBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZWcTZRZFhwNklIR3R3YzBRcGFsN1YyNXlpTTEyUkI0YzloVDl4cVpEYmwzd0tqWmM5c05YMDM0czVtcUY4Y2NSemZHOFR5ei1zNW15LVdkcG5nbkxvU2RDeGpIcVQyaXA2aVFyekkzWTl1NmFiZG5nOHY4OFB1eGJhRnZkaDhBY3hBYlhweXp5dlJ3M2VHZmJmd3RqU1ZvMjc4VmJPMzNuMU9YdkdidmdNdmtpb0RZQmpROWlzOGo1VlotUlNwODhtaU9aN1MxMFdxVXFRU1hmT0NmVkIzOXNJdFY6Pk1pZGxhbmQgPGI-Q3JlZGl0PC9iPiBNYW5hZ2VtZW50IFNlbmlvciBNYW5hZ2VyIDxiPlJldmlld3M8L2I-QqgBVGhlIHRlYW0gaXMgc3VwcG9ydGl2ZSwgYW5kIDxiPmVtcGxveWVlczwvYj4gZ2V0IG9wcG9ydHVuaXRpZXMgdG8gdGFrZSByZXNwb25zaWJpbGl0eSBhbmQgZGV2ZWxvcCBuZXcgc2tpbGxzLiBBIGdvb2Qgd29ya3BsYWNlIGZvciB0aG9zZSBsb29raW5nIHRvIGdyb3cgaW4gdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZWcTZRZFhwNklIR3R3YzBRcGFsN1YyNXlpTTEyUkI0YzloVDl4cVpEYmwzd0tqWmM5c05YMDM0czVtcUY4Y2NSemZHOFR5ei1zNW15LVdkcG5nbkxvU2RDeGpIcVQyaXA2aVFyekkzWTl1NmFiZG5nOHY4OFB1eGJhRnZkaDhBY3hBYlhweXp5dlJ3M2VHZmJmd3RqU1ZvMjc4VmJPMzNuMU9YdkdidmdNdmtpb0RZQmpROWlzOGo1VlotUlNwODhtaU9aN1MxMFdxVXFRU1hmT0NmVkIzOXNJdFYSBBoCCAAanAYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFeV3uz8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV3B6LQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFV0gakAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FRLjMj0aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVRM7MPBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMvIBL2dvdG8_dXJsPUNBRVNxUUVCNnpzd0ZWcTZRZFhwNklIR3R3YzBRcGFsN1YyNXlpTTEyUkI0YzloVDl4cVpEYmwzd0tqWmM5c05YMDM0czVtcUY4Y2NSemZHOFR5ei1zNW15LVdkcG5nbkxvU2RDeGpIcVQyaXA2aVFyekkzWTl1NmFiZG5nOHY4OFB1eGJhRnZkaDhBY3hBYlhweXp5dlJ3M2VHZmJmd3RqU1ZvMjc4VmJPMzNuMU9YdkdidmdNdmtpb0RZQmpROWlzOGo1VlotUlNwODhtaU9aN1MxMFdxVXFRU1hmT0NmVkIzOXNJdFY6Pk1pZGxhbmQgPGI-Q3JlZGl0PC9iPiBNYW5hZ2VtZW50IFNlbmlvciBNYW5hZ2VyIDxiPlJldmlld3M8L2I-QqgBVGhlIHRlYW0gaXMgc3VwcG9ydGl2ZSwgYW5kIDxiPmVtcGxveWVlczwvYj4gZ2V0IG9wcG9ydHVuaXRpZXMgdG8gdGFrZSByZXNwb25zaWJpbGl0eSBhbmQgZGV2ZWxvcCBuZXcgc2tpbGxzLiBBIGdvb2Qgd29ya3BsYWNlIGZvciB0aG9zZSBsb29raW5nIHRvIGdyb3cgaW4gdGhlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Glassdoor",
+      "read_more_link": "https://www.glassdoor.co.in/Reviews/Midland-Credit-Management-Senior-Manager-Reviews-EI_IE612365.0,25_KO26,40.htm#:~:text=Jobs%20at%20Midland%20Credit%20Management"
+    },
+    {
+      "position": 4,
+      "title": "Verify Job Offers Before Responding",
+      "link": "https://www.linkedin.com/posts/krishna-tarachandani-85ba31214_jobscamalert-freshers-careeradvice-activity-7449026888053862400-KRDB",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuwEB6zswFboEVBwxL_W9i93pE7BjQfxkVw6zQ1wNd-xkI9VCcIrQNvo4KKgkzWjFNP7GYBTctgFpyTWmy2RcjUO2x7AAN7XUBT_ricsbvlsSuivqKHrxES_PyF4tu2ompjwpFrsYJRxzChTJNoiDN47s6ZqkyOd40ouq1_9yvNbIQ2qFCUzU5hsbb6_GVDQJA4TO6u2ooDiLalaU284hvgAq6JUC5iNPvw6uXZnal_ggXv6CrLbHdStDTnzS&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECBcQAQ&uoh=1",
+      "displayed_link": "230+ reactions · 5 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "/ Glassdoor / AmbitionBox ✓ Check if employees have realistic profile history and activity ✓ Verify leadership background and company ...",
+      "snippet_highlighted_words": [
+        "Glassdoor",
+        "AmbitionBox",
+        "employees"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "/ Glassdoor / AmbitionBox ✓ Check if employees have realistic profile history and activity ✓ Verify leadership background and company ...",
+          "source_info_link": "https://www.linkedin.com/posts/krishna-tarachandani-85ba31214_jobscamalert-freshers-careeradvice-activity-7449026888053862400-KRDB",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zib0VWQnd4TF9XOWk5M3BFN0JqUWZ4a1Z3NnpRMXdOZC14a0k5VkNjSXJRTnZvNEtLZ2t6V2pGTlA3R1lCVGN0Z0ZweVRXbXkyUmNqVU8yeDdBQU43WFVCVF9yaWNzYnZsc1N1aXZxS0hyeEVTX1B5RjR0dTJvbXBqd3BGcnNZSlJ4ekNoVEpOb2lETjQ3czZacWt5T2Q0MG91cTFfOXl2TmJJUTJxRkNVelU1aHNiYjZfR1ZEUUpBNFRPNnUyb29EaUxhbGFVMjg0aHZnQXE2SlVDNWlOUHZ3NnVYWm5hbF9nZ1h2NkNyTGJIZFN0RFRuelMSBBoCCAAaugYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlgYIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFenYqT4aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVAAAAABoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFe5-JD4aCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FZYBZD4aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVWDFlPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zib0VWQnd4TF9XOWk5M3BFN0JqUWZ4a1Z3NnpRMXdOZC14a0k5VkNjSXJRTnZvNEtLZ2t6V2pGTlA3R1lCVGN0Z0ZweVRXbXkyUmNqVU8yeDdBQU43WFVCVF9yaWNzYnZsc1N1aXZxS0hyeEVTX1B5RjR0dTJvbXBqd3BGcnNZSlJ4ekNoVEpOb2lETjQ3czZacWt5T2Q0MG91cTFfOXl2TmJJUTJxRkNVelU1aHNiYjZfR1ZEUUpBNFRPNnUyb29EaUxhbGFVMjg0aHZnQXE2SlVDNWlOUHZ3NnVYWm5hbF9nZ1h2NkNyTGJIZFN0RFRuelM6RVZlcmlmeSA8Yj5Kb2I8L2I-IE9mZmVycyBCZWZvcmUgUmVzcG9uZGluZyB8IEtyaXNobmEgVGFyYWNoYW5kYW5pIC4uLkKnAS8gPGI-R2xhc3Nkb29yPC9iPiAvIDxiPkFtYml0aW9uQm94PC9iPiDinJMgQ2hlY2sgaWYgPGI-ZW1wbG95ZWVzPC9iPiBoYXZlIHJlYWxpc3RpYyBwcm9maWxlIGhpc3RvcnkgYW5kIGFjdGl2aXR5IOKckyBWZXJpZnkgbGVhZGVyc2hpcCBiYWNrZ3JvdW5kIGFuZCBjb21wYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zib0VWQnd4TF9XOWk5M3BFN0JqUWZ4a1Z3NnpRMXdOZC14a0k5VkNjSXJRTnZvNEtLZ2t6V2pGTlA3R1lCVGN0Z0ZweVRXbXkyUmNqVU8yeDdBQU43WFVCVF9yaWNzYnZsc1N1aXZxS0hyeEVTX1B5RjR0dTJvbXBqd3BGcnNZSlJ4ekNoVEpOb2lETjQ3czZacWt5T2Q0MG91cTFfOXl2TmJJUTJxRkNVelU1aHNiYjZfR1ZEUUpBNFRPNnUyb29EaUxhbGFVMjg0aHZnQXE2SlVDNWlOUHZ3NnVYWm5hbF9nZ1h2NkNyTGJIZFN0RFRuelMSBBoCCAAaugYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlgYIABAAGAAgACoeCgRjcmVkFQAAAAAaBmNyZWRpdBoJaXY7cDtjcmVkKisKCGVtcGxveWVlFenYqT4aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVAAAAABoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFe5-JD4aCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FZYBZD4aDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVWDFlPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0Zib0VWQnd4TF9XOWk5M3BFN0JqUWZ4a1Z3NnpRMXdOZC14a0k5VkNjSXJRTnZvNEtLZ2t6V2pGTlA3R1lCVGN0Z0ZweVRXbXkyUmNqVU8yeDdBQU43WFVCVF9yaWNzYnZsc1N1aXZxS0hyeEVTX1B5RjR0dTJvbXBqd3BGcnNZSlJ4ekNoVEpOb2lETjQ3czZacWt5T2Q0MG91cTFfOXl2TmJJUTJxRkNVelU1aHNiYjZfR1ZEUUpBNFRPNnUyb29EaUxhbGFVMjg0aHZnQXE2SlVDNWlOUHZ3NnVYWm5hbF9nZ1h2NkNyTGJIZFN0RFRuelM6RVZlcmlmeSA8Yj5Kb2I8L2I-IE9mZmVycyBCZWZvcmUgUmVzcG9uZGluZyB8IEtyaXNobmEgVGFyYWNoYW5kYW5pIC4uLkKnAS8gPGI-R2xhc3Nkb29yPC9iPiAvIDxiPkFtYml0aW9uQm94PC9iPiDinJMgQ2hlY2sgaWYgPGI-ZW1wbG95ZWVzPC9iPiBoYXZlIHJlYWxpc3RpYyBwcm9maWxlIGhpc3RvcnkgYW5kIGFjdGl2aXR5IOKckyBWZXJpZnkgbGVhZGVyc2hpcCBiYWNrZ3JvdW5kIGFuZCBjb21wYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "LinkedIn · Krishna Tarachandani",
+      "read_more_link": "https://www.linkedin.com/posts/krishna-tarachandani-85ba31214_jobscamalert-freshers-careeradvice-activity-7449026888053862400-KRDB#:~:text=%2F%20Glassdoor%20%2F%20AmbitionBox%20%E2%9C%94,Verify%20leadership%20background%20and%20company"
+    },
+    {
+      "position": 5,
+      "title": "Ankit Agarwal (Co-founder, Mesa School of Business) explains ...",
+      "link": "https://www.facebook.com/thethinkschool/posts/ankit-agarwal-co-founder-mesa-school-of-business-explains-why-you-shouldnt-negot/1528806229253558/",
+      "displayed_link": "1.5K+ reactions · 8 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebf6b2707df69ff4972d/images/LS_Wf2qyzMbjvsdFXChyxK6w6mJhKhy7mJL6Y6a3jLg.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "... (Glassdoor, AmbitionBox, etc.) •Be flexible yet confident • Stay ... Before you walk into that interview, check Glassdoor and ask peers working in ...",
+      "duration": "1:12",
+      "about_this_result": {
+        "source": {
+          "description": "... (Glassdoor, AmbitionBox, etc.) •Be flexible yet confident • Stay ... Before you walk into that interview, check Glassdoor and ask peers working in ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZZRTVOd3NuTzk1c0s0aUxteV85TjlPa1VUcFUxNVVwdjl2dWJhYl91REIxdEZvRWpoSmJNTWhMeENmNnpJWUdNbDdKV1BYby1VWkcxT2ROdlp0Y2d3Y2hSaVlkSjBKSk5TYWZxV19UZGVZQ0dweExaaU5BeVNPWXRzSXVJWFZKem5Qa0Q1T2JQbHZQUGRYUmJfVDNqNDRON3Q0NnZuX0pXT0RDeUgxYjBPR3ZPYndiWmNLdGJiU09wYmpHNFpackRpTVZUTlBBM2piSGt5b1p0bXhXOFdGUl80RzJ3aU1TS0JvM1dRZmVIeDEyQ1oxYWxuVTF6cHV1enZ1XzlhaklNT2JVcTZnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZZRTVOd3NuTzk1c0s0aUxteV85TjlPa1VUcFUxNVVwdjl2dWJhYl91REIxdEZvRWpoSmJNTWhMeENmNnpJWUdNbDdKV1BYby1VWkcxT2ROdlp0Y2d3Y2hSaVlkSjBKSk5TYWZxV19UZGVZQ0dweExaaU5BeVNPWXRzSXVJWFZKem5Qa0Q1T2JQbHZQUGRYUmJfVDNqNDRON3Q0NnZuX0pXT0RDeUgxYjBPR3ZPYndiWmNLdGJiU09wYmpHNFpackRpTVZUTlBBM2piSGt5b1p0bXhXOFdGUl80RzJ3aU1TS0JvM1dRZmVIeDEyQ1oxYWxuVTF6cHV1enZ1XzlhaklNT2JVcTZnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Think School"
+    },
+    {
+      "position": 6,
+      "title": "Credit where it's due : r/IndianWorkplace",
+      "link": "https://www.reddit.com/r/IndianWorkplace/comments/1prjr4l/credit_where_its_due/",
+      "displayed_link": "70+ comments · 9 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebf6b2707df69ff4972d/images/LS_Wf2qyzMbjvsdFXChyxOceODl2cy_cPssJD95ll28.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I interviewed with this digital marketing company in February 2025. My previous salary was ₹20,000, yet they didn't offer even a 10% hike.",
+      "duration": "1:34",
+      "about_this_result": {
+        "source": {
+          "description": "I interviewed with this digital marketing company in February 2025. My previous salary was ₹20,000, yet they didn't offer even a 10% hike.",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZWZl9OZjZtTlpUaVFUelJpZVNuS2tsTDdLc2NiNzE1MDdMZk1FbFo3c3dxWks3eEZhZTlFb01Ld2U2cGhzV1IxNHRlVEI4cno4c3ZNakg3UzNwVHNLa3NIRE5oM1ZheF9pYUUza2Z4Q1FoaWFNbEZKZW1MeDI5NmlrZmtZYzVCaGFBellaclpFSzhVMk1aeGUwX0JQeWhadmtHRW9vVGFWVWJxUFBXWjZZSWRxSlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZWZl9OZjZtTlpUaVFUelJpZVNuS2tsTDdLc2NiNzE1MDdMZk1FbFo3c3dxWks3eEZhZTlFb01Ld2U2cGhzV1IxNHRlVEI4cno4c3ZNakg3UzNwVHNLa3NIRE5oM1ZheF9pYUUza2Z4Q1FoaWFNbEZKZW1MeDI5NmlrZmtZYzVCaGFBellaclpFSzhVMk1aeGUwX0JQeWhadmtHRW9vVGFWVWJxUFBXWjZZSWRxSlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "Reddit · r/IndianWorkplace"
+    },
+    {
+      "position": 7,
+      "title": "SDE - II - Mumbai - Newbazaar Technologies - 3 to 6 years ...",
+      "link": "https://www.naukri.com/job-listings-sde-ii-shopse-digital-finance-mumbai-3-to-6-years-170726501211",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFaaeym3J0yFTwobE70BdmcmuwoyLD72czFX7dYRONtClmiFaIjG-2cAOm6P6eF01swG0_4p4MAYVfVU1ehbFba7UEO4ktJu7s-Ys80XnQmxP9ix1OksUT0SFgv9E5YRnzEmaGKNgd8KvsGs1V7ofKgKr4mGzSWc15pmbi0o8Dt35RG1To2HR-oDcRSJ1qYmbisLw9pMr&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.naukri.com › job-listings-sde-ii-shopse-digi...",
+      "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmduGcA2ymezdaf6AHSer8Cpr10KeW9T1WzoP_EuXRUtAPA_dp3lI20yqm9AAAP72E0TJXaYL2PNCe4iW0hQE7T2QnXFFpP-dUon7JTZkHUf9vMq4kkkv3T7S1dSmod1nlyzu4cLxB4Qlm5J81Eh_4HhD6zisis2ZQmMqRpYm0ocSPYYLfSwMZj7-Z-KlUpwxobnrIoktzUBl_oZkHQcsLJTnM_yQCi2i9XpHQfk5Tzf-4tV7-YKscVRJSqLCzvNWuH55yT1lrnywQZjk5Q--iGKD_CCxSkoKqAi02bu_j1Jz-at0xkUsk9Wltfz8qG0NwzldUytzXgltei-airGrvU6LOOscNP_NJRVcKPqBi-a3TrvfRGEzahB2ZmuMy3p34gf6DyHlwHote4hNGr_TcFZ0m3rKpj2GIkDhPKnPkaqb3nF45QVGhUfB083Pl_8h7V4dV86sCRUXn3ng3pl8dKxeh_RAZzzHq3Uk4HL4JmLgAAA.webp",
+      "date": "17 Jul 2026",
+      "snippet": "Founders lack foresight. Absence of job security. Excessive focus on work with little regard for work-life balance. HR department operates ...",
+      "snippet_highlighted_words": [
+        "job"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Founders lack foresight. Absence of job security. Excessive focus on work with little regard for work-life balance. HR department operates ...",
+          "source_info_link": "https://www.naukri.com/job-listings-sde-ii-shopse-digital-finance-mumbai-3-to-6-years-170726501211",
+          "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAABwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfmduGcA2ymezdaf6AHSer8Cpr10KeW9T1WzoP_EuXRUtAPA_dp3lI20yqm9AAAP72E0TJXaYL2PNCe4iW0hQE7T2QnXFFpP-dUon7JTZkHUf9vMq4kkkv3T7S1dSmod1nlyzu4cLxB4Qlm5J81Eh_4HhD6zisis2ZQmMqRpYm0ocSPYYLfSwMZj7-Z-KlUpwxobnrIoktzUBl_oZkHQcsLJTnM_yQCi2i9XpHQfk5Tzf-4tV7-YKscVRJSqLCzvNWuH55yT1lrnywQZjk5Q--iGKD_CCxSkoKqAi02bu_j1Jz-at0xkUsk9Wltfz8qG0NwzldUytzXgltei-airGrvU6LOOscNP_NJRVcKPqBi-a3TrvfRGEzahB2ZmuMy3p34gf6DyHlwHote4hNGr_TcFZ0m3rKpj2GIkDhPKnPkaqb3nF45QVGhUfB083Pl_8h7V4dV86sCRUXn3ng3pl8dKxeh_RAZzzHq3Uk4HL4JmLgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZhYWV5bTNKMHlGVHdvYkU3MEJkbWNtdXdveUxENzJjekZYN2RZUk9OdENsbWlGYUlqRy0yY0FPbTZQNmVGMDFzd0cwXzRwNE1BWVZmVlUxZWhiRmJhN1VFTzRrdEp1N3MtWXM4MFhuUW14UDlpeDFPa3NVVDBTRmd2OUU1WVJuekVtYUdLTmdkOEt2c0dzMVY3b2ZLZ0tyNG1HelNXYzE1cG1iaTBvOER0MzVSRzFUbzJIUi1vRGNSU0oxcVltYmlzTHc5cE1yEgQaAggAGvoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNYFCAAQABgAIAAqHgoEY3JlZBUAAAAAGgZjcmVkaXQaCWl2O3A7Y3JlZCorCghlbXBsb3llZRUqyCQ_GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFUAN1D8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUob5g-GgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBUIAnE-GgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FWwoaD0aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYWFleW0zSjB5RlR3b2JFNzBCZG1jbXV3b3lMRDcyY3pGWDdkWVJPTnRDbG1pRmFJakctMmNBT202UDZlRjAxc3dHMF80cDRNQVlWZlZVMWVoYkZiYTdVRU80a3RKdTdzLVlzODBYblFteFA5aXgxT2tzVVQwU0ZndjlFNVlSbnpFbWFHS05nZDhLdnNHczFWN29mS2dLcjRtR3pTV2MxNXBtYmkwbzhEdDM1UkcxVG8ySFItb0RjUlNKMXFZbWJpc0x3OXBNcjo-U0RFIC0gSUkgLSBOZXdiYXphYXIgVGVjaG5vbG9naWVzIC0gMyB0byA2IHllYXJzIG9mIGV4cGVyaWVuY2VCmgFGb3VuZGVycyBsYWNrIGZvcmVzaWdodC4gQWJzZW5jZSBvZiA8Yj5qb2I8L2I-IHNlY3VyaXR5LiBFeGNlc3NpdmUgZm9jdXMgb24gd29yayB3aXRoIGxpdHRsZSByZWdhcmQgZm9yIHdvcmstbGlmZSBiYWxhbmNlLiBIUiBkZXBhcnRtZW50IG9wZXJhdGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZhYWV5bTNKMHlGVHdvYkU3MEJkbWNtdXdveUxENzJjekZYN2RZUk9OdENsbWlGYUlqRy0yY0FPbTZQNmVGMDFzd0cwXzRwNE1BWVZmVlUxZWhiRmJhN1VFTzRrdEp1N3MtWXM4MFhuUW14UDlpeDFPa3NVVDBTRmd2OUU1WVJuekVtYUdLTmdkOEt2c0dzMVY3b2ZLZ0tyNG1HelNXYzE1cG1iaTBvOER0MzVSRzFUbzJIUi1vRGNSU0oxcVltYmlzTHc5cE1yEgQaAggAGvoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNYFCAAQABgAIAAqHgoEY3JlZBUAAAAAGgZjcmVkaXQaCWl2O3A7Y3JlZCorCghlbXBsb3llZRUqyCQ_GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFUAN1D8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUob5g-GgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBUIAnE-GgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FWwoaD0aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGYWFleW0zSjB5RlR3b2JFNzBCZG1jbXV3b3lMRDcyY3pGWDdkWVJPTnRDbG1pRmFJakctMmNBT202UDZlRjAxc3dHMF80cDRNQVlWZlZVMWVoYkZiYTdVRU80a3RKdTdzLVlzODBYblFteFA5aXgxT2tzVVQwU0ZndjlFNVlSbnpFbWFHS05nZDhLdnNHczFWN29mS2dLcjRtR3pTV2MxNXBtYmkwbzhEdDM1UkcxVG8ySFItb0RjUlNKMXFZbWJpc0x3OXBNcjo-U0RFIC0gSUkgLSBOZXdiYXphYXIgVGVjaG5vbG9naWVzIC0gMyB0byA2IHllYXJzIG9mIGV4cGVyaWVuY2VCmgFGb3VuZGVycyBsYWNrIGZvcmVzaWdodC4gQWJzZW5jZSBvZiA8Yj5qb2I8L2I-IHNlY3VyaXR5LiBFeGNlc3NpdmUgZm9jdXMgb24gd29yayB3aXRoIGxpdHRsZSByZWdhcmQgZm9yIHdvcmstbGlmZSBiYWxhbmNlLiBIUiBkZXBhcnRtZW50IG9wZXJhdGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Naukri.com",
+      "read_more_link": "https://www.naukri.com/job-listings-sde-ii-shopse-digital-finance-mumbai-3-to-6-years-170726501211#:~:text=Founders%20lack%20foresight.%20Absence%20of,solely%20under%20the%20CEO's%20directives."
+    },
+    {
+      "position": 8,
+      "title": "My senior is saying me think whether you are made for ...",
+      "link": "https://www.glassdoor.co.uk/Community/tech-india/my-senior-is-saying-me-think-whether-you-are-made-for-development-or-not-its-been-around-8-months-as-a-frontend-developer-working",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES6wEB6zswFebRs0aHgmapdK6b5kpvQa0mVfzCZqZUD3pNcUObGv5ZN1BhUNzX-Q4Vs_r8yzUi_tpy9UEybiX_RqraZsJSru5deLsGE-Usq51LoN6weZDE_KmCg8RxT406vJpYPc1VVwPUqnskabpoWc1TmD55ftMICa7YmkHXM668jxOz-oo65tFmsYj84_q7HXWytMwP-qMtKPL6eJn5L06bIKL4vLdjx6UuJphTFjeEO3oMkw1ZTkRqwA1wue0q4Y0q2-GbCLjFfJxER4mKflqz6fcMQi_W6jiei9cqnHL4rf9NS_g4fa-EnjSi&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.glassdoor.co.uk › Community › tech-india",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "date": "29 Aug 2024",
+      "snippet": "Ignore him. He basically needs acceptance about his skills so showing you that you are not competent enough. Whenever you are getting such ...",
+      "about_this_result": {
+        "source": {
+          "description": "Ignore him. He basically needs acceptance about his skills so showing you that you are not competent enough. Whenever you are getting such ...",
+          "source_info_link": "https://www.glassdoor.co.uk/Community/tech-india/my-senior-is-saying-me-think-whether-you-are-made-for-development-or-not-its-been-around-8-months-as-a-frontend-developer-working",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoCL2dvdG8_dXJsPUNBRVM2d0VCNnpzd0ZlYlJzMGFIZ21hcGRLNmI1a3B2UWEwbVZmekNacVpVRDNwTmNVT2JHdjVaTjFCaFVOelgtUTRWc19yOHl6VWlfdHB5OVVFeWJpWF9ScXJhWnNKU3J1NWRlTHNHRS1Vc3E1MUxvTjZ3ZVpERV9LbUNnOFJ4VDQwNnZKcFlQYzFWVndQVXFuc2thYnBvV2MxVG1ENTVmdE1JQ2E3WW1rSFhNNjY4anhPei1vbzY1dEZtc1lqODRfcTdIWFd5dE13UC1xTXRLUEw2ZUpuNUwwNmJJS0w0dkxkang2VXVKcGhURmplRU8zb01rdzFaVGtScXdBMXd1ZTBxNFkwcTItR2JDTGpGZkp4RVI0bUtmbHF6NmZjTVFpX1c2amllaTljcW5ITDRyZjlOU19nNGZhLUVualNpEgQaAggAGu0GEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEwgBEg9nbGFzc2Rvb3IuY28udWtyAHoAgkC2BggAEAAYACAAKh4KBGNyZWQVAAAAABoGY3JlZGl0GglpdjtwO2NyZWQqKwoIZW1wbG95ZWUVAAAAABoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxWb2xY-Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IV6uOWQBoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVm9uWPRoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxUjOmg9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MyygIvZ290bz91cmw9Q0FFUzZ3RUI2enN3RmViUnMwYUhnbWFwZEs2YjVrcHZRYTBtVmZ6Q1pxWlVEM3BOY1VPYkd2NVpOMUJoVU56WC1RNFZzX3I4eXpVaV90cHk5VUV5YmlYX1JxcmFac0pTcnU1ZGVMc0dFLVVzcTUxTG9ONndlWkRFX0ttQ2c4UnhUNDA2dkpwWVBjMVZWd1BVcW5za2FicG9XYzFUbUQ1NWZ0TUlDYTdZbWtIWE02NjhqeE96LW9vNjV0Rm1zWWo4NF9xN0hYV3l0TXdQLXFNdEtQTDZlSm41TDA2YklLTDR2TGRqeDZVdUpwaFRGamVFTzNvTWt3MVpUa1Jxd0Exd3VlMHE0WTBxMi1HYkNMakZmSnhFUjRtS2ZscXo2ZmNNUWlfVzZqaWVpOWNxbkhMNHJmOU5TX2c0ZmEtRW5qU2k6OU15IHNlbmlvciBpcyBzYXlpbmcgbWUgdGhpbmsgd2hldGhlciB5b3UgYXJlIG1hZGUgZm9yIC4uLkKTAUlnbm9yZSBoaW0uIEhlIGJhc2ljYWxseSBuZWVkcyBhY2NlcHRhbmNlIGFib3V0IGhpcyBza2lsbHMgc28gc2hvd2luZyB5b3UgdGhhdCB5b3UgYXJlIG5vdCBjb21wZXRlbnQgZW5vdWdoLiBXaGVuZXZlciB5b3UgYXJlIGdldHRpbmcgc3VjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoCL2dvdG8_dXJsPUNBRVM2d0VCNnpzd0ZlYlJzMGFIZ21hcGRLNmI1a3B2UWEwbVZmekNacVpVRDNwTmNVT2JHdjVaTjFCaFVOelgtUTRWc19yOHl6VWlfdHB5OVVFeWJpWF9ScXJhWnNKU3J1NWRlTHNHRS1Vc3E1MUxvTjZ3ZVpERV9LbUNnOFJ4VDQwNnZKcFlQYzFWVndQVXFuc2thYnBvV2MxVG1ENTVmdE1JQ2E3WW1rSFhNNjY4anhPei1vbzY1dEZtc1lqODRfcTdIWFd5dE13UC1xTXRLUEw2ZUpuNUwwNmJJS0w0dkxkang2VXVKcGhURmplRU8zb01rdzFaVGtScXdBMXd1ZTBxNFkwcTItR2JDTGpGZkp4RVI0bUtmbHF6NmZjTVFpX1c2amllaTljcW5ITDRyZjlOU19nNGZhLUVualNpEgQaAggAGu0GEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEwgBEg9nbGFzc2Rvb3IuY28udWtyAHoAgkC2BggAEAAYACAAKh4KBGNyZWQVAAAAABoGY3JlZGl0GglpdjtwO2NyZWQqKwoIZW1wbG95ZWUVAAAAABoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxWb2xY-Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IV6uOWQBoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVm9uWPRoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxUjOmg9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MyygIvZ290bz91cmw9Q0FFUzZ3RUI2enN3RmViUnMwYUhnbWFwZEs2YjVrcHZRYTBtVmZ6Q1pxWlVEM3BOY1VPYkd2NVpOMUJoVU56WC1RNFZzX3I4eXpVaV90cHk5VUV5YmlYX1JxcmFac0pTcnU1ZGVMc0dFLVVzcTUxTG9ONndlWkRFX0ttQ2c4UnhUNDA2dkpwWVBjMVZWd1BVcW5za2FicG9XYzFUbUQ1NWZ0TUlDYTdZbWtIWE02NjhqeE96LW9vNjV0Rm1zWWo4NF9xN0hYV3l0TXdQLXFNdEtQTDZlSm41TDA2YklLTDR2TGRqeDZVdUpwaFRGamVFTzNvTWt3MVpUa1Jxd0Exd3VlMHE0WTBxMi1HYkNMakZmSnhFUjRtS2ZscXo2ZmNNUWlfVzZqaWVpOWNxbkhMNHJmOU5TX2c0ZmEtRW5qU2k6OU15IHNlbmlvciBpcyBzYXlpbmcgbWUgdGhpbmsgd2hldGhlciB5b3UgYXJlIG1hZGUgZm9yIC4uLkKTAUlnbm9yZSBoaW0uIEhlIGJhc2ljYWxseSBuZWVkcyBhY2NlcHRhbmNlIGFib3V0IGhpcyBza2lsbHMgc28gc2hvd2luZyB5b3UgdGhhdCB5b3UgYXJlIG5vdCBjb21wZXRlbnQgZW5vdWdoLiBXaGVuZXZlciB5b3UgYXJlIGdldHRpbmcgc3VjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Glassdoor"
+    },
+    {
+      "position": 9,
+      "title": "Inframart Realtech India Salaries by 30+ Employees",
+      "link": "https://app.ambitionbox.com/salaries/inframart-realtech-india-salaries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVbRbZRPsbzS5HOuZaoxyivZe5V4yOdpNL9uZTXgO1IVQjX0Cbq2A4uvSJZjftiMo4vf7skK0D92pv7li71Yfpe7y1PotPwWIU0co-TBKM8hPOjeO_9r6iMgdz8Ig6ujIQneIyZZBd_RGOawx_ZB_9jKVJatAsz4_8Ig&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQFnoECEAQAQ&uoh=1",
+      "displayed_link": "https://app.ambitionbox.com › Salaries",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "14 Feb 2025",
+      "snippet": "After joining you are clueless about what they do, if you approach your reporting manager he will just shout at you and ask irrelevant question.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.9,
+            "reviews": 18
+          },
+          "extensions": [
+            "3.9(18)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "After joining you are clueless about what they do, if you approach your reporting manager he will just shout at you and ask irrelevant question.",
+          "source_info_link": "https://app.ambitionbox.com/salaries/inframart-realtech-india-salaries",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmJSYlpSUHNielM1SE91WmFveHlpdlplNVY0eU9kcE5MOXVaVFhnTzFJVlFqWDBDYnEyQTR1dlNKWmpmdGlNbzR2Zjdza0swRDkycHY3bGk3MVlmcGU3eTFQb3RQd1dJVTBjby1UQktNOGhQT2plT185cjZpTWdkejhJZzZ1aklRbmVJeVpaQmRfUkdPYXd4X1pCXzlqS1ZKYXRBc3o0XzhJZxIEGgIIABrFBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkChBQgAEAAYACAAKh4KBGNyZWQVAAAAABoGY3JlZGl0GglpdjtwO2NyZWQqKwoIZW1wbG95ZWUVMnhkPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxU2vH8_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVy-sDQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxVvreM9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWYlJiWlJQc2J6UzVIT3VaYW94eWl2WmU1VjR5T2RwTkw5dVpUWGdPMUlWUWpYMENicTJBNHV2U0paamZ0aU1vNHZmN3NrSzBEOTJwdjdsaTcxWWZwZTd5MVBvdFB3V0lVMGNvLVRCS004aFBPamVPXzlyNmlNZ2R6OElnNnVqSVFuZUl5WlpCZF9SR09hd3hfWkJfOWpLVkphdEFzejRfOElnOjlJbmZyYW1hcnQgUmVhbHRlY2ggSW5kaWEgU2FsYXJpZXMgYnkgMzArIDxiPkVtcGxveWVlczwvYj5CkAFBZnRlciBqb2luaW5nIHlvdSBhcmUgY2x1ZWxlc3MgYWJvdXQgd2hhdCB0aGV5IGRvLCBpZiB5b3UgYXBwcm9hY2ggeW91ciByZXBvcnRpbmcgbWFuYWdlciBoZSB3aWxsIGp1c3Qgc2hvdXQgYXQgeW91IGFuZCBhc2sgaXJyZWxldmFudCBxdWVzdGlvbi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVmJSYlpSUHNielM1SE91WmFveHlpdlplNVY0eU9kcE5MOXVaVFhnTzFJVlFqWDBDYnEyQTR1dlNKWmpmdGlNbzR2Zjdza0swRDkycHY3bGk3MVlmcGU3eTFQb3RQd1dJVTBjby1UQktNOGhQT2plT185cjZpTWdkejhJZzZ1aklRbmVJeVpaQmRfUkdPYXd4X1pCXzlqS1ZKYXRBc3o0XzhJZxIEGgIIABrFBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkChBQgAEAAYACAAKh4KBGNyZWQVAAAAABoGY3JlZGl0GglpdjtwO2NyZWQqKwoIZW1wbG95ZWUVMnhkPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxU2vH8_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVy-sDQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxVvreM9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWYlJiWlJQc2J6UzVIT3VaYW94eWl2WmU1VjR5T2RwTkw5dVpUWGdPMUlWUWpYMENicTJBNHV2U0paamZ0aU1vNHZmN3NrSzBEOTJwdjdsaTcxWWZwZTd5MVBvdFB3V0lVMGNvLVRCS004aFBPamVPXzlyNmlNZ2R6OElnNnVqSVFuZUl5WlpCZF9SR09hd3hfWkJfOWpLVkphdEFzejRfOElnOjlJbmZyYW1hcnQgUmVhbHRlY2ggSW5kaWEgU2FsYXJpZXMgYnkgMzArIDxiPkVtcGxveWVlczwvYj5CkAFBZnRlciBqb2luaW5nIHlvdSBhcmUgY2x1ZWxlc3MgYWJvdXQgd2hhdCB0aGV5IGRvLCBpZiB5b3UgYXBwcm9hY2ggeW91ciByZXBvcnRpbmcgbWFuYWdlciBoZSB3aWxsIGp1c3Qgc2hvdXQgYXQgeW91IGFuZCBhc2sgaXJyZWxldmFudCBxdWVzdGlvbi4iAhABSABYAGgA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://app.ambitionbox.com/salaries/inframart-realtech-india-salaries#:~:text=%E2%80%A2%20After%20joining%20you%20are,you%20and%20ask%20irrelevant%20question."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=10&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=10&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=20&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=30&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=40&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=50&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=60&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=70&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=80&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=CRED+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntytZvn1lN-vLHon8WCC78EVz5rpQ:1791290358395&ei=9uvEar_ZF5OYptQPkN6huA8&start=90&sa=N&sstk=AS6-VmK70VVyAR8-iJlaekYynOHHgP1dTxWByOWYg-EulsZ97jkfuOD7mTDhp2RCRCdkkC22j9R230nTqJG1EBb7APrDkFRtA4AXXw&ved=2ahUKEwi_rIHMtKWXAxUTjIkEHRBvCPcQ8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=CRED+employee+reviews+glassdoor+ambitionbox+interview&start=90"
+    }
+  }
+}

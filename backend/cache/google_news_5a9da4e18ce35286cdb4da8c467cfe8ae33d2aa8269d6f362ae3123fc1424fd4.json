@@ -1,0 +1,1489 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebf3532a17fb699cb784",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9AAPdDT088f2Oy-FP_loZ1EV9lkL_tU4HdXkW3gjJOQ/6ac4ebf3532a17fb699cb784.json",
+    "markdown_endpoint": "https://serpapi.com/searches/9AAPdDT088f2Oy-FP_loZ1EV9lkL_tU4HdXkW3gjJOQ/6ac4ebf3532a17fb699cb784.md",
+    "created_at": "2026-10-06 12:39:15 UTC",
+    "processed_at": "2026-10-06 12:39:15 UTC",
+    "google_news_url": "https://news.google.com/search?q=CRED+news+hiring+OR+funding+OR+revenue+OR+restructuring&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/9AAPdDT088f2Oy-FP_loZ1EV9lkL_tU4HdXkW3gjJOQ/6ac4ebf3532a17fb699cb784.html",
+    "total_time_taken": 1.52
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "CRED news hiring OR funding OR revenue OR restructuring"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "LIV Golf secures funding from BC Partners Credit to support restructuring",
+      "source": {
+        "name": "Devdiscourse",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.devdiscourse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.devdiscourse.com/article/international/3987273-liv-golf-secures-funding-from-bc-partners-credit-to-support-restructuring?amp",
+      "date": "10/06/2026, 12:48 AM, +0000 UTC",
+      "iso_date": "2026-10-06T00:48:01Z"
+    },
+    {
+      "position": 2,
+      "title": "LIV Golf secures BC Partners ’ credit funding to support restructuring By Reuters",
+      "source": {
+        "name": "Investing.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.investing.com/news/stock-market-news/liv-golf-secures-bc-partners--credit-funding-to-support-restructuring-4933123",
+      "thumbnail": "https://content-media.investing.com/trkd-images/LYNXMPEM9420C_L.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlXREJ1TWxCcVJIcDFhRGxxVFJDOUF4aXhCU2dLTWdrQmdKQzJPQ2FLTEFJ",
+      "date": "10/06/2026, 05:48 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:48:49Z"
+    },
+    {
+      "position": 3,
+      "title": "Funding Wrap: CRED, Square Yards, Bodycraft raise fresh capital",
+      "source": {
+        "name": "ET Entrepreneur",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrepreneur.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrepreneur.economictimes.indiatimes.com/news/funding/cred-secures-900-million-square-yards-hits-unicorn-status-key-funding-news/132011574",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132011574,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlRWEZwYTNaelVuSnVSM0V0VFJDZkF4ampCU2dLTWdhVlFvNHluUWM",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "LIV Golf bags BC Partners Credit funding to support restructuring",
+      "source": {
+        "name": "Devdiscourse",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.devdiscourse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.devdiscourse.com/article/international/3987257-liv-golf-bags-bc-partners-credit-funding-to-support-restructuring",
+      "date": "10/05/2026, 11:45 PM, +0000 UTC",
+      "iso_date": "2026-10-05T23:45:27Z"
+    },
+    {
+      "position": 5,
+      "title": "Explained: Meta’s $900 million investment in Cred and hiring of Kunal Shah as WhatsApp chief",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aroon Deep"
+        ]
+      },
+      "link": "https://www.thehindu.com/business/Industry/explained-metas-900-million-investment-in-cred-and-hiring-of-kunal-shah-as-whatsapp-chief/article71136508.ece",
+      "thumbnail": "https://th-i.thgim.com/public/news/national/xi55iy/article71136603.ece/alternates/LANDSCAPE_1200/kunal%20shah%20cred%20meta%20ai%20collage.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNkalJuYkhCVlFtTk9VME4yVFJDZkF4ampCU2dLTWdZSmc1VEdyZ2M",
+      "date": "06/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-23T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "CRED to raise Rs 8,550 crore in funding round led by Meta",
+      "source": {
+        "name": "aninews.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/business/cred-to-raise-rs-8550-crore-in-funding-round-led-by-meta20260622202952",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260622145941.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jbU5mU1ZJMlRERm5kREJHVFJEQ0FSaURBaWdCTWdhQm9aVGt0Z1k",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Cred bags $900m investment from Meta, CEO Kunal Shah appointed to lead WhatsApp",
+      "source": {
+        "name": "FinTech Futures",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fintechfutures.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Francis Bignell"
+        ]
+      },
+      "link": "https://www.fintechfutures.com/venture-capital-funding/cred-bags-900m-investment-from-meta",
+      "thumbnail": "https://eu-images.contentstack.com/v3/assets/blt7dacf616844cf077/bltd95d83a3c687222d/6a3a57968052343c83b88cbb/Cred_-_FinTech_News.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpiSFUxY1hoWWQycGpNbE42VFJDcUJCaXFCQ2dLTWdZbGhKQ3RMUVk",
+      "date": "06/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-23T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "LIV Golf bags BC Partners Credit funding to support restructuring",
+      "source": {
+        "name": "The Lufkin Daily News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://lufkindailynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://lufkindailynews.com/news_reuters/sports/liv-golf-bags-bc-partners-credit-funding-to-support-restructuring/article_d3b477dc-0907-5a6b-ba61-6d7313c99ac5.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/3/51/351772d2-6b3d-5c29-8522-b8329510f8ef/6ac4385765e37.image.jpg?resize=400%2C259",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhRMWxJVms5R09ITjFlamswVFJDREFoaVFBeWdLTWdrQmdKQ1dPQ2FLTEFJ",
+      "date": "10/05/2026, 11:49 PM, +0000 UTC",
+      "iso_date": "2026-10-05T23:49:51Z"
+    },
+    {
+      "position": 9,
+      "title": "High credit-deposit ratio does not signal funding vulnerability: RBI report",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anjali Kumari"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/high-credit-deposit-ratio-does-not-signal-funding-vulnerability-rbi-report-126092700410_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/07/full/1746602844-8358.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjblZ5Y1RSRGFXWjZSMHhuVFJDZkF4ampCU2dLTWdZUkE0Z3BuZ2c",
+      "date": "09/27/2026, 03:24 PM, +0000 UTC",
+      "iso_date": "2026-09-27T15:24:25Z"
+    },
+    {
+      "position": 10,
+      "title": "CRED Kunal Shah to lead WhatsApp in surprise move",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Soumyarendra Barik"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/kunal-shah-whatsapp-global-head-meta-cred-funding-investment-10752184/",
+      "thumbnail": "https://images.indianexpress.com/2026/06/kunal-shah-cred-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlla05ZTjFoM05ESmhhSE5VVFJDZkF4ampCU2dLTWdhbE5ZN3NIUWs",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Lakewood-based credit union lays off workers amid restructuring",
+      "source": {
+        "name": "Tacoma News Tribune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thenewstribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debbie Cockrell"
+        ]
+      },
+      "link": "https://www.thenewstribune.com/news/local/article317499783.html",
+      "thumbnail": "https://www.thenewstribune.com/public/latest-news/j9me2o/picture277902523/alternates/LANDSCAPE_1200/Federal%20Way%20Branch%20.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJYMFZxWTJ0blJsWTBkWFZFVFJDZkF4ampCU2dLTWdZZFU1d3NJUWs",
+      "date": "10/05/2026, 08:25 PM, +0000 UTC",
+      "iso_date": "2026-10-05T20:25:06Z"
+    },
+    {
+      "position": 12,
+      "title": "Can Kunal Shah turn WhatsApp's scale into revenue?",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anand J"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/technology/can-kunal-shah-turn-whatsapp-s-scale-into-revenue-article-13955992.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250707063309_Kunal-Shah.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhZa3htWkZoSFRFdG5PSE5SVFJDZkF4ampCU2dLTWdheHM0WlF2UVE",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "LIV Golf bags BC Partners Credit funding to support restructuring",
+      "source": {
+        "name": "The Daily News | Texas' Oldest Newspaper",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.galvnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.galvnews.com/news_reuters/sports/liv-golf-bags-bc-partners-credit-funding-to-support-restructuring/article_6f7fe8b1-7265-5c9f-8ed3-9974078dc49c.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/1/f2/1f2cb48a-6d77-5f96-847f-7a9c5c64647e/6ac43b0519dae.image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhOMlZDVkdkV2JWVjBjMEZTVFJDOUF4aXhCU2dLTWdrQmdKQzJPQ2FLTEFJ",
+      "date": "10/05/2026, 11:49 PM, +0000 UTC",
+      "iso_date": "2026-10-05T23:49:51Z"
+    },
+    {
+      "position": 14,
+      "title": "Hong Kong's Aeon Credit Service HY revenue and profit rise",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45K08D:0-hong-kong-s-aeon-credit-service-hy-revenue-and-profit-rise/",
+      "date": "09/28/2026, 08:50 AM, +0000 UTC",
+      "iso_date": "2026-09-28T08:50:01Z"
+    },
+    {
+      "position": 15,
+      "title": "Weekly Recap: CMCO credit repricing and acquisition doubled revenue",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/tradingview:a7c8809cb8e6d:0-weekly-recap-cmco-credit-repricing-and-acquisition-doubled-revenue/",
+      "date": "09/28/2026, 11:00 AM, +0000 UTC",
+      "iso_date": "2026-09-28T11:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "CRED to Raise INR 8,550 Crore (~USD 900M) From Meta",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260622947239/en/CRED-to-Raise-INR-8550-Crore-USD-900M-From-Meta",
+      "thumbnail": "https://mms.businesswire.com/media/20260622947239/en/2836316/22/Type%3Dvertical%2C_Color%3Dblack.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlhR3hvYURSaGExWmxWM1F6VFJDSEF4aVBCaWdLTWdZcFZZYk9wUU0",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "KBRA Releases Research – Private Credit: Recurring Revenue Loan Metrics Dashboard, Q2 2026",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260925618239/en/KBRA-Releases-Research-Private-Credit-Recurring-Revenue-Loan-Metrics-Dashboard-Q2-2026",
+      "thumbnail": "https://mms.businesswire.com/media/20260925618239/en/2912674/22/kbra-logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUbmxMWjAxSVdIbG1kRzVqVFJDSEF4aVBCaWdLTWdZQmtKSnFQUWM",
+      "date": "09/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-25T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Cred revenue grows 16% to Rs 2,735 crore in FY25; operating losses halve to Rs 298 crore",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/startup/cred-revenue-grows-16-to-rs-2-735-crore-in-fy25-operating-losses-halve-to-rs-298-crore-13800818.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/09/Kunal-shah-cred.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRRblJ2Tld0ek9VSkhYMmx5VFJDZkF4ampCU2dLTWdhdGRZek5zUVU",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Spense raises $2.8 mn seed funding led by Arkam Ventures",
+      "source": {
+        "name": "ET Entrepreneur",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrepreneur.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrepreneur.economictimes.indiatimes.com/news/funding/spense-secures-28-million-seed-funding-to-transform-credit-infrastructure-in-india/132106963",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132106963,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtlbVZHVkRGU1QxRjBhVEUzVFJDZkF4ampCU2dLTWdZVk01d3BJUW8",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "CRED reports Rs 2,735 Cr revenue in FY25; operating losses fall 51%",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/cred-reports-rs-2735-cr-revenue-in-fy25-operating-losses-fall-51-11058243",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2025/08/19/cred-2025-08-19-15-49-29.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjMWcyYUdsZlEzSXRNazVpVFJDZkF4ampCU2dLTWdZcGRZN09zUVk",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Morgan Stanley went on a summer hiring spree for its European credit trading team",
+      "source": {
+        "name": "efinancialcareers.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.efinancialcareers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Butcher"
+        ]
+      },
+      "link": "https://www.efinancialcareers.com/news/morgan-stanley-credit-trading-hires",
+      "thumbnail": "https://www.efinancialcareers.com/img/resize=width:730,height:432,fit:crop/LbIBtqzMSjGR73Qy3Noi",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZPREJIY2tnM01XWnNXVlYzVFJDcUF4alFCU2dLTWdZQm9JWml2QVE",
+      "date": "09/28/2026, 11:44 AM, +0000 UTC",
+      "iso_date": "2026-09-28T11:44:26Z"
+    },
+    {
+      "position": 22,
+      "title": "Senegal: Debt restructuring announced after hidden debt crisis",
+      "source": {
+        "name": "Credendo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://credendo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://credendo.com/en/knowledge-hub/senegal-debt-restructuring-announced-after-hidden-debt-crisis",
+      "thumbnail": "https://credendo.com/sites/default/files/media/images/2026-09/itp-senegal-september2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNMVpETFhSeE4yOVdZa3haVFJDbUFSaXdBaWdCTWdZQmdKRE53QVk",
+      "date": "09/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-11T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Meta Spends Nearly $1 Billion to Give WhatsApp India Cred",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Menaka Doshi",
+          "Satviki Sanjay"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/why-meta-is-hiring-shah-and-betting-900-million-on-cred",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAQtaAxcvIic/v13/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVamhDWkd4bE5GTkpOM2xZVFJERUF4aW1CU2dLTWdZUkJJb0hEZ3M",
+      "date": "06/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-23T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Meta names CRED founder Kunal Shah as the next head of WhatsApp",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/funding/meta-names-cred-founder-kunal-shah-as-the-next-head-of-whatsapp/videoshow/131914362.cms",
+      "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-131914362,width-1600,height-900,resizemode-4/tech/funding/meta-names-cred-founder-kunal-shah-as-the-next-head-of-whatsapp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlbWd0YzA1Q1ptdDJjekpNVFJDZkF4ampCU2dLTWdZUnM0Nm52Z1U",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Safety first — Investors pressure private credit firms to hire restructuring talent",
+      "source": {
+        "name": "9fin",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.9fin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Francesca Veronesi",
+          "Bianca Francesca Boorer",
+          "Ryan Hesketh"
+        ]
+      },
+      "link": "https://www.9fin.com/insights/safety-first-investors-pressure",
+      "thumbnail": "https://cdn.sanity.io/images/2ot3aypi/production/931b253ce3f28ce066eecc870a9198f04b7fafc9-5472x3648.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNkRzAyU1VOSFEwWlpjVW80VFJERUF4aW1CU2dLTWdrQkJJNmdneXhjZ0FN",
+      "date": "07/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-29T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "India M&A Funding Rule to Squeeze Private Credit, Moody’s Says",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saikat Das"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-07-02/india-m-a-funding-rule-to-squeeze-private-credit-moody-s-says",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itV9l_vA_isg/v0/1200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHlTWGxLTVZaSWNVVnlTVlJCVFJERUF4aW1CU2dLTWdNQmdCSQ",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Credit surges 17.7% as deposit slowdown widens funding gap",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mayur Shetty"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/credit-surges-17-7-as-deposit-slowdown-widens-funding-gap/articleshow/131671151.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131671174,width-1280,height-720,imgsize-79794,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVZVzV2Tm5wQmJYbHFNMkZYVFJDZkF4ampCU2dLTWdZeGdZcnh3QVE",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Short-term rates to stay firm as credit demand, funding needs rise: Ind-Ra",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anupreksha Jain"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/short-term-rates-to-stay-firm-as-credit-demand-funding-needs-rise-ind-ra-126090101163_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/30/full/1777571710-8694.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJXV0pWVVc1ZlJ6Um9TMmhGVFJDbkJCaXRCQ2dLTWdhZElwQXRHUWs",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "India's private credit market poised for sustained growth as funding demand rises: Moody's",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/india-s-private-credit-market-poised-for-sustained-growth-as-funding-demand-rises-moody-s-13964085.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260613040613_stock1.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlka1ppVkZkNk9VWXpXbEJPVFJDZkF4ampCU2dLTWdZcHhJaHVSUVE",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/industry/banking/finance/rbi-proposal-to-curb-nbfcs-revolving-credit-may-choke-msme-funding-says-industry-body-fisme/articleshow/133508929.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133508975,width-1200,height-900,resizemode-4,imgsize-116014/rbi-moves-to-distance-self-from-bank-deposit-ratings.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxRMDR6Y0RsVlQxbGZhVFJqVFJEZ0F4aUFCU2dLTWdhaFJJck9NUVk",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "AEON Credit 2Q revenue climbs to RM665.2mil",
+      "source": {
+        "name": "The Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestar.com.my&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thestar.com.my/business/business-news/2026/09/30/aeon-credit-2q-revenue-climbs-to-rm6652mil",
+      "thumbnail": "https://apicms.thestar.com.my/uploads/images/2026/09/30/4136851.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVBUVTV6YVVWaVlrZERPRXgyVFJEZ0F4aUFCU2dLTWc0Qk1JNnBsZVE4eFFxNmE1SWJHUQ",
+      "date": "09/29/2026, 08:03 PM, +0000 UTC",
+      "iso_date": "2026-09-29T20:03:57Z"
+    },
+    {
+      "position": 32,
+      "title": "BIR updates tax refund, credit claim rules",
+      "source": {
+        "name": "Daily Tribune",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tribune.net.ph&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Toby Magsaysay",
+          "Mico Virata"
+        ]
+      },
+      "link": "https://tribune.net.ph/2026/10/05/bir-updates-tax-refund-credit-claim-rules-2",
+      "thumbnail": "https://images.assettype.com/tribune/2026-10-05/acabp67z/ARTCARDS-NIGHT-SHIFT-6.png?w=720&auto=format&q=55&mode=crop&ar=16%3A9&crop=entropy",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJWVWhqTFdORk0zcHVhRVE1VFJDVUF4alFCU2dLTWdZQlFKeklvQWs",
+      "date": "10/05/2026, 09:03 PM, +0000 UTC",
+      "iso_date": "2026-10-05T21:03:37Z"
+    },
+    {
+      "position": 33,
+      "title": "Cred FY25 revenue rises 16% to Rs 2,735 crore, losses narrow",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/startups/cred-fy25-revenue-rises-16-to-rs-2735-crore-losses-narrow/articleshow/127796869.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-127796862,width-1200,height-900,resizemode-4,imgsize-15758/cred-raises-fresh-funds-from-gic-others-valuation-cut-by-45-to-3-5-billion.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhMUYxUkRCQk9IUXplVTlEVFJEZ0F4aUFCU2dLTWdhZFZwQXFLZ2M",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Banks’ credit growth outpaces deposits for third straight quarter as funding pressures persist",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Archishma Iyer"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/banks/banks-credit-growth-outpaces-deposits-for-third-straight-quarter-as-funding-pressures-persist-13966526.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/01/20260120120204_Nifty-Bank.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXphV1p2T0VjNFJ6aHNTRWRuVFJDZkF4ampCU2dLTWdZQklvSVJJUWM",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "CoreWeave’s Credit Rebound Drives Cheaper Data Center Funding",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gowri Gurumurthy",
+          "Gerson Freitas Jr."
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-06-10/coreweave-s-credit-rebound-drives-cheaper-data-center-funding",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ityh.I1PHPJg/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlhRlJtYzNWV1JGbzBPVU5oVFJERUF4aW1CU2dLTWdZbFFZek5KUWM",
+      "date": "06/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-11T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "REC-PFC merger underway, set to boost power sector funding and credit flow: REC CMD",
+      "source": {
+        "name": "aninews.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aninews.in/news/business/rec-pfc-merger-underway-set-to-boost-power-sector-funding-and-credit-flow-rec-cmd20260826151253",
+      "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260826093443.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlORVZIYW1ad2RFSmxUV3BuVFJEQ0FSaURBaWdCTWdhUkU0eHFsUW8",
+      "date": "08/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-26T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "ETtech Deals Digest: Cred’s mega round lifts startup funding to $1.09 billion this week, up 290% on-year",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/funding/ettech-deals-digest-creds-mega-round-lifts-startup-funding-to-1-09-billion-this-week-up-290-on-year/articleshow/132019602.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132019641,width-1200,height-900,resizemode-4,imgsize-22970/deals.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhVMDVETmkxVmJIRmtWbTFQVFJEZ0F4aUFCU2dLTWdrSlVZb1FwZWFDamdF",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "CRED posts 16% jump in FY25 revenue, narrowing losses on broader product adoption",
+      "source": {
+        "name": "YourStory.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yourstory.com/2026/01/cred-posts-rs-2735-cr-revenue-in-fy25-as-losses-narrow-to-rs-1457-cr",
+      "thumbnail": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates-2026-01-30T140946-1769762390205.jpg?mode=fit&crop=faces&ar=16%3A9&format=auto&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhNMlZvTmpoQlVuaFpkUzFDVFJDZkF4ampCU2dLTWdZZE1KVHNIUWs",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Credilio Bags ₹100 Cr For FD-Backed Credit Card Business novio",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anjali Jain"
+        ]
+      },
+      "link": "https://inc42.com/buzz/credilio-bags-%E2%82%B9100-cr-for-fd-backed-credit-card-business-novio/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/04/Untitled-design-39-760x570.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNURka2xQT0VGSWQweFJXWEE1VFJEZ0F4aUFCU2dLTWc0Tk1aQUtzdVl0amlsVnFSYUxKQQ",
+      "date": "04/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-28T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "RenewCred raises ₹4.25 Cr in seed funding led by Campus Angels Network",
+      "source": {
+        "name": "The Economic Times B2B",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://b2b.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://b2b.economictimes.indiatimes.com/news/entrepreneur/renewcred-secures-425-crore-in-seed-funding-to-revolutionize-indias-carbon-credit-market/126546054",
+      "thumbnail": "https://etimg.etb2bimg.com/photo/126546043.cms",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUViRXR2ZDNWbVJVSjJRa2R3VFJERUF4aW1CU2dLTWdtSlFaYkZyR2hNcHdJ",
+      "date": "01/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-15T08:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Amid funding pressure, banks tap wider pool for credit expansion",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mayur Shetty"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/amid-funding-pressure-banks-tap-wider-pool-for-credit-expansion/articleshow/130065718.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-130065716,width-1280,height-720,imgsize-753498,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WbXQ2UzBWMWFUbDFUelpOVFJDZkF4ampCU2dLTWdZQk1JenJIUWs",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Watch Morgan Stanley Sees AI-Related Funding Expanding to 15% of All Credit Deals",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bloomberg.com/news/videos/2026-06-05/morgan-stanley-sees-ai-debt-becoming-15-of-credit-sales-video",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQx3en6H0c54/v3/500x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlNVEJ6VVhwTVlXSjNPR1o1VFJDb0FSaXNBaWdCTWdhMWNveFJNUVk",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "AmEx's steady profit outlook clouds revenue forecast boost; shares fall",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Manya Saini",
+          "Rishab Shaju"
+        ]
+      },
+      "link": "https://www.reuters.com/business/finance/amex-raises-2026-revenue-growth-forecast-affluent-cardholders-keep-spending-2026-07-24/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/3Y4FO2JZGVPFXIYGTJVAXYOVTE.jpg?auth=395a6530a1b1f1ec7aeedecc09968eb7b87f6360b363bdb125d26e64f416798c&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhhM015Tm1GcFptOVRPVlZGVFJERUF4aW1CU2dLTWdheGtJclJPQVU",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "RBI’s bank funding nod for M&A may squeeze private credit returns in India, says Moody’s",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/rbi-s-bank-funding-nod-for-m-a-may-squeeze-private-credit-returns-in-india-says-moody-s-13964033.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/08/Moody_s-USA-Reuters.jpeg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdaVVowZVZCUFdHVnhZbmRIVFJDZkF4ampCU2dLTWdZSmNwS0p0UVk",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Credit Data Firm 9fin Is Valued at $1.3 Billion in Funding Round",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Gould"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-03-31/credit-data-firm-9fin-is-valued-at-1-3-billion-in-funding-round",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwuE3YOO0Seg/v0/1200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVSR1YzZFVveFZGcEtaVUZUVFJERUF4aW1CU2dLTWdrWlVwUnBvbWs5cndF",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "UBS may be cutting costs, but if you're a US banker who's worked for Credit Suisse it's hiring",
+      "source": {
+        "name": "efinancialcareers.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.efinancialcareers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Butcher"
+        ]
+      },
+      "link": "https://www.efinancialcareers.com/news/ubs-cuts-hiring",
+      "thumbnail": "https://www.efinancialcareers.com/img/resize=width:730,height:432,fit:crop/QSUqWRezRsGGuiAP8wqz",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFaR1JOWlZOTU1FeHZaazB6VFJDcUF4alFCU2dLTWdB",
+      "date": "09/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Software companies need more than strong revenue to secure private credit loans",
+      "source": {
+        "name": "PitchBook",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pitchbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Madeline Shi"
+        ]
+      },
+      "link": "https://pitchbook.com/news/articles/software-companies-need-more-than-strong-revenue-to-secure-private-credit-loans",
+      "thumbnail": "https://pitchbook.brightspotcdn.com/dims4/default/b8b8049/2147483647/strip/true/crop/510x510+335+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-pitchbook-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2Fae%2F90c31fc843a89ae3dffad7ccfbac%2Fsoftware-lending-header-1180x510-02.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVaM2xFTjFGeGFGYzNOVTVmVFJDcUJCaXFCQ2dLTWdhQmFaWUFKd2c",
+      "date": "05/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "M&A funding norms to intensify competition for private credit: Moody's",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Khushboo Tiwari"
+        ]
+      },
+      "link": "https://www.business-standard.com/industry/banking/m-a-funding-norms-to-intensify-competition-for-private-credit-moody-s-126070201172_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/07/full/1717743584-1169.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdNRVppVlZwSFdrZFNZMEp1VFJERUF4aW1CU2dLTWdZSmNwS0p0UVk",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "India startup funding tops $1 billion as CRED mega-round powers sharp weekly rebound",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnbctv18.com/business/startup/india-startup-funding-tops-1-billion-dollars-as-cred-mega-round-powers-sharp-weekly-rebound-19933195.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/untitled-design-2026-06-26t223415063-2026-06-298759cee10fffd2a7d8ceaacce2ae6e.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRUa1J4VEZCdlREWnpjMHhRVFJDZkF4ampCU2dLTWdZSkE0SlNCUXM",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Partners to Power the AI Infrastructure Buildout",
+      "source": {
+        "name": "NVIDIA Blog",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+      "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2025/03/nvendeavor-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNhbkJ3YVdSMmRGa3hRUzFFVFJDVEF4ajRCU2dLTWdhTkY0ZG5WZ00",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Govt clears Rs 20,000 crore credit guarantee scheme for MFIs; funding access in focus",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/govt-clears-rs-20000-crore-credit-guarantee-scheme-for-mfis-funding-access-in-focus/articleshow/129705957.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-129706146,width-1280,height-720,imgsize-994139,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhjRlZ1VVc4ME5VSkdhVEowVFJDZkF4ampCU2dLTWdiSkFKRFdrQWc",
+      "date": "03/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-20T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "CreditChek Raises $600,000 to Expand Credit Infrastructure Across East Africa",
+      "source": {
+        "name": "TechAfrica News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techafricanews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akim Benamara"
+        ]
+      },
+      "link": "https://techafricanews.com/2026/06/08/creditchek-raises-600000-to-expand-credit-infrastructure-across-east-africa/",
+      "thumbnail": "https://techafricanews.com/wp-content/uploads/2026/06/credit-check.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlNVFZaVm5WeFlXOW9ORTlxVFJESEF4aWpCU2dLTWdhVmtwUUp0UVk",
+      "date": "06/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-08T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Delhi to generate revenue from green initiatives using carbon credit",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-to-generate-revenue-from-green-initiatives-using-carbon-credit/article70506248.ece",
+      "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+      "date": "01/14/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-14T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Bank depositors' role in funding credit growth on decline: RBI data",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/bank-depositors-role-in-funding-credit-growth-on-decline-rbi-data/articleshow/127194146.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-127194394,width-1280,height-720,imgsize-905668,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdNVTlhTlZkbFl6aFNObkJPVFJDZkF4ampCU2dLTWdhcFJZak90UVU",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Musk’s xAI Hiring Credit Experts, Bankers to Teach Grok Finance",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carmen Arroyo Nieto"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-03-16/musk-s-xai-hiring-credit-experts-bankers-to-teach-grok-finance",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRqX0yHkTls4/v8/1200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNXVFJpVVVOeGR6bElTMEpFVFJERUF4aW1CU2dLTWdZWjBZaXh6QU0",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Wayflyer Secures $250M Credit Facility with ATLAS SP Partners to Expand SME Funding Capacity",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260218768616/en/Wayflyer-Secures-%24250M-Credit-Facility-with-ATLAS-SP-Partners-to-Expand-SME-Funding-Capacity",
+      "thumbnail": "https://mms.businesswire.com/media/20260218768616/en/2723196/22/Wayflyer.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNRek54U0RaTlZITk5OWE0zVFJDSEF4aVBCaWdLTWdZWms1U0pOUWM",
+      "date": "02/18/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-18T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "More Than 2,000 Businesses Turn to Credit Rehabilitation Restructuring as Merchant Cash Advance Distress Spreads",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260811151439/en/More-Than-2000-Businesses-Turn-to-Credit-Rehabilitation-Restructuring-as-Merchant-Cash-Advance-Distress-Spreads",
+      "thumbnail": "https://mms.businesswire.com/media/20260811151439/en/2871580/22/sw_standard_logo%404x_%283%29.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtVbFE1Y1Y5bVRVTnhRV3N3VFJDSEF4aVBCaWdLTWdrRmtKSVB1YVdKN2dF",
+      "date": "08/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-11T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "How Delhi government’s carbon credit plan aims to tackle air pollution, raise revenue",
+      "source": {
+        "name": "indianexpress.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Devansh Mittal"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/delhi/carbon-credit-monetisation-how-new-policy-will-generate-revenue-from-carbon-credits-reduce-emission-10474160/",
+      "thumbnail": "https://images.indianexpress.com/2026/01/factory.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSbmN6VTB4MWQyZE1ValZGVFJDZkF4ampCU2dLTWdZUllJejByQWM",
+      "date": "01/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-15T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Nue Launches Credit and Commit Burndown to Support the Shift from Subscription to Outcome-Based Revenue with Flexible Consumption Models",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260331822054/en/Nue-Launches-Credit-and-Commit-Burndown-to-Support-the-Shift-from-Subscription-to-Outcome-Based-Revenue-with-Flexible-Consumption-Models",
+      "thumbnail": "https://mms.businesswire.com/media/20260331822054/en/2761069/22/Nue_Logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jWFp0V1daVGNGWlVZa1ZXVFJDSEF4aVBCaWdLTWdZUmdvNVB3UVk",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Ford Credit funding reaches more than 60% of 2026 target",
+      "source": {
+        "name": "Auto Finance News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autofinancenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.autofinancenews.net/allposts/capital-funding/ford-credit-funding-reaches-more-than-60-of-2026-target/",
+      "thumbnail": "https://www.autofinancenews.net/wp-content/uploads/2026/08/Ford-e1785795648564.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVaazlET1dKM2NWVlplV0p2VFJER0F4aWpCU2dLTWdB",
+      "date": "08/03/2026, 10:27 PM, +0000 UTC",
+      "iso_date": "2026-08-03T22:27:04Z"
+    },
+    {
+      "position": 61,
+      "title": "Puerto Rico credit unions receive $9.8M in US Treasury funds",
+      "source": {
+        "name": "News is My Business",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://newsismybusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newsismybusiness.com/puerto-rico-credit-unions-receive-9-8m-in-us-treasury-funds/",
+      "thumbnail": "https://newsismybusiness.com/wp-content/uploads/2026/10/Cooperativa-Aibonitena.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJja3h2ZW5aa05XRkRYMnRMVFJDS0F4aUtCaWdLTWdZRmdJclF0QVU",
+      "date": "10/02/2026, 03:31 PM, +0000 UTC",
+      "iso_date": "2026-10-02T15:31:42Z"
+    },
+    {
+      "position": 62,
+      "title": "Noggin HQ Secures £2.3m Seed Funding to Disrupt UK Credit Referencing with FCA License",
+      "source": {
+        "name": "FF News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ffnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lauren Towner"
+        ]
+      },
+      "link": "https://ffnews.com/news/noggin-hq-secures-23m-seed-funding-to-disrupt-uk-credit-referencing-with-fca-license",
+      "thumbnail": "https://img.ffnews.com/2026/08/noggin-hq-secures-23m-seed-funding-to-disrupt-uk-credit-referencing-with-fca-license-1787068664017.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhMWEo0YW5KT2VXVjVOVlJQVFJDZkF4ampCU2dLTWdZZFJJeUxJUWs",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Aeon Credit 2Q net profit falls to RM59.3mil despite higher revenue",
+      "source": {
+        "name": "The Star",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestar.com.my&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thestar.com.my/business/business-news/2026/09/29/aeon-credit-2q-net-profit-falls-to-rm593mil-despite-higher-revenue",
+      "thumbnail": "https://apicms.thestar.com.my/uploads/images/2026/09/29/4136117.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlWVXBtZFhWclNEbGpaV0pQVFJDc0F4ak5CU2dLTWdrSlE0Q0kyZUdoQndJ",
+      "date": "09/29/2026, 10:16 AM, +0000 UTC",
+      "iso_date": "2026-09-29T10:16:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Vervent Announces $80 Million Funding Partnership Led by Mesirow Alternative Credit to Expand Consumer Credit Card Programs",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260203947613/en/Vervent-Announces-%2480-Million-Funding-Partnership-Led-by-Mesirow-Alternative-Credit-to-Expand-Consumer-Credit-Card-Programs",
+      "thumbnail": "https://mms.businesswire.com/media/20260203947613/en/2708832/22/Vervent_Logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVBRbDh3YlZWM2VrZ3hNbVUyVFJDSEF4aVBCaWdLTWdPQm9SUQ",
+      "date": "02/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-03T08:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Private credit may bridge real estate's mid-stage funding gap: Report",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prachi Pisal"
+        ]
+      },
+      "link": "https://www.business-standard.com/industry/news/economy-real-estate-private-credit-opportunity-construction-funding-gap-report-125111201244_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/22/full/1750613554-3629.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhNVUZ1WDE4eFdGZE5RMWxQVFJERUF4aW1CU2dLTWdNQlFBSQ",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-12T08:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Private credit roundup: Reflecting on funding stress in Berlin",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vidya Ranganathan",
+          "Paul Simao"
+        ]
+      },
+      "link": "https://www.reuters.com/legal/transactional/private-credit-roundup-reflecting-funding-stress-berlin-2026-06-12/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/RPOZKD3O6ZO63IOAVWJ4EXOKNU.jpg?auth=139556459eecc8342f5d6536bfa6b5cc32ab8a5419d56cce61221a92b919edd5&width=1200&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJOMnhpYURrMFQxaHZUMXB6VFJEQkF4aXJCU2dLTWdB",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Private credit roundup: Reflecting on funding stress in Berlin",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42K0JH:0-private-credit-roundup-reflecting-on-funding-stress-in-berlin/",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Content Partners Secures Fresh Round of Funding From Carlyle Global Credit",
+      "source": {
+        "name": "Variety",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cynthia Littleton"
+        ]
+      },
+      "link": "https://variety.com/2026/tv/news/content-partners-carlyle-global-credit-steve-kram-john-mass-1236782183/",
+      "thumbnail": "https://variety.com/wp-content/uploads/2026/06/MixCollage-18-Jun-2026-12-29-PM-3908.jpg?w=1000&h=667&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkWFZEZW5WQ1RqaEhiMmhCVFJERUF4aW1CU2dLTWdZRk1KeGtvQWs",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "HSBC Affirms Midterm Targets as First-quarter Revenue Offsets Higher Credit Losses",
+      "source": {
+        "name": "Yahoo Finance UK",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://uk.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://uk.finance.yahoo.com/news/hsbc-affirms-midterm-targets-first-060536986.html",
+      "thumbnail": "https://media.zenfs.com/en/mt_newswires_uk_369/aa60b555ef15cae2b56eac352e00670d",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlVR3hXY1dsNVFtbExWVzlrVFJDUkF4ajlCU2dLTWdZaEJLTE5rUXc",
+      "date": "05/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-04T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Mint Explainer | Will the credit guarantee scheme 2.0 fix microfinance’s funding freeze?",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/industry/banking/credit-guarantee-scheme-for-microfinance-banks-nbfcs-india-11774238800675.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/2-0-283942411-oped-0_1680508364139_1774243565187.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJMVzVrTmxSNlN6VkVPRWc1VFJDZkF4ampCU2dLTWdZSkFZeG9wZ2c",
+      "date": "03/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-23T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Tesla's Carbon Credit Revenue Drops 67%: Can AI, Energy Storage, and Robots Drive TSLA Stock's Next Chapter?",
+      "source": {
+        "name": "CarbonCredits.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://carboncredits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://carboncredits.com/teslas-carbon-credit-revenue-drops-67-can-ai-energy-storage-and-robots-drive-tsla-stocks-next-chapter/",
+      "thumbnail": "https://carboncredits.com/wp-content/uploads/2026/07/shutterstock_2462603275.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVpOWGhhTlZFMFYwWTFiMms1VFJERUF4aW1CU2dLTWdzUklJaEtuS1UwTmVtQm1R",
+      "date": "07/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-23T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "LIV Golf Takes Strategic Action to Secure Its Next Era",
+      "source": {
+        "name": "LIV Golf",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livgolf.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livgolf.com/news/liv-golf-takes-strategic-action",
+      "thumbnail": "https://cdn.sanity.io/images/2guez6v8/prd/e7e52f995f959c63e3f7d584fce875f1a3c12eda-5600x3733.jpg?w=3840&fit=max&auto=format&q=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNSa0ZRVWtka1oyeGZaalpuVFJERUF4aW1CU2dLTWdNQjhBbw",
+      "date": "09/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-08T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Allegiant CEO Says Credit Cards Are the Airline’s Biggest Revenue Opportunity",
+      "source": {
+        "name": "Skift",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://skift.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Meghna Maharishi"
+        ]
+      },
+      "link": "https://skift.com/2026/06/01/allegiant-ceo-says-credit-cards-are-the-airlines-biggest-revenue-opportunity/",
+      "thumbnail": "https://skift.com/wp-content/uploads/2023/08/N323NV_Allegiant_Air_A319-e1691688021775.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PRkpVV0cxTE4ydE9ObGhmVFJEREF4aW9CU2dLTWdZVmNJNkxMUWc",
+      "date": "06/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-01T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Africa’s clean energy projects face financing barrier from credit rating rules",
+      "source": {
+        "name": "AP News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Allan Olingo"
+        ]
+      },
+      "link": "https://apnews.com/article/credit-renewable-energy-africa-debt-f8382124c2b281b0bd24e5f8c91b4541",
+      "thumbnail": "https://dims.apnews.com/dims4/default/1927a68/2147483647/strip/false/crop/7172x4781+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F8f%2F44c0421a64ca03272f109be572a7%2F754e8805ced34bf499b985febb9f0699",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZaekIzU1VWYVgzaHRiMVJQVFJERUF4aW1CU2dLTWdZdFlJZzcwQU0",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Private credit lenders likely taking keys on Medallia amid ongoing restructuring",
+      "source": {
+        "name": "PitchBook",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pitchbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sami Vukelj"
+        ]
+      },
+      "link": "https://pitchbook.com/news/articles/private-credit-lenders-likely-taking-keys-on-medallia-amid-ongoing-restructuring",
+      "thumbnail": "https://pitchbook.brightspotcdn.com/dims4/default/12c1f4b/2147483647/strip/true/crop/5304x5304+1324+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-pitchbook-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F21%2F6c6026a644148a0d89780ef3afe2%2Fchess-board-game-strategy-ideas-concept-business-futuristic-graphic-icon.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWVTFSYjJ4a09WWmlhbGRLVFJEaEFSamhBU2dCTWdZQmc1S3RMUWM",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "Kabeer Biswas’s concierge startup 'M' raises Rs 102 crore from Peak XV, Blume, Cred",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/funding/kabeer-biswass-concierge-startup-m-raises-rs-102-crore-from-peak-xv-blume-cred/articleshow/130437866.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130437879,width-1200,height-900,resizemode-4,imgsize-17808/kabeer.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVXVmh2YzJFMlNGbE1XWEZDVFJEZ0F4aUFCU2dLTWdZcFJaYXVvUWc",
+      "date": "04/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-22T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "WaFd (WAFD) Could Be 2% Overvalued As Revenue Beat Meets Credit Cost Concerns",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wafd-wafd-could-2-overvalued-121628643.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/63ed9d4742b7b5a91dd5ef5062bbc26ed1d3ad7e92985c369e1b2ef5522b8a23/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fc355483febd8e77cc0daa4c43dbcf2ca",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFUMmQzZWtWMVNXNW1ZMFJYVFJETkFoaVpCeWdLTWdB",
+      "date": "07/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-19T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Western Funding opens lending to all credit tiers",
+      "source": {
+        "name": "Auto Finance News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autofinancenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Harris"
+        ]
+      },
+      "link": "https://www.autofinancenews.net/allposts/risk-management/western-funding-opens-lending-to-all-credit-tiers/",
+      "thumbnail": "https://www.autofinancenews.net/wp-content/uploads/2021/09/377869695-scaled-e1694540947729.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpZVXBKWjFOUE5FOXplVTVXVFJERUF4aW1CU2dLTWdrQlVJZzF1R1I3TXdF",
+      "date": "04/29/2026, 08:38 PM, +0000 UTC",
+      "iso_date": "2026-04-29T20:38:28Z"
+    },
+    {
+      "position": 79,
+      "title": "AI-Native Credit Platform 9fin Scores $170 Million Funding Round",
+      "source": {
+        "name": "PYMNTS.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/9fin-accelerates-global-expansion-with-170-million-funding-round/",
+      "thumbnail": "https://www.pymnts.com/wp-content/uploads/2023/08/funding.jpg?w=457",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlkblJLTlhCUldHOTBRVkV5VFJDU0FoakpBeWdLTWdZQkFJcDFCQW8",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "PactFi Raises $25M Series A to Modernize Private Credit Market with First Secure, End-to-End Operational Platform",
+      "source": {
+        "name": "businesswire.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260310926889/en/PactFi-Raises-%2425M-Series-A-to-Modernize-Private-Credit-Market-with-First-Secure-End-to-End-Operational-Platform",
+      "thumbnail": "https://mms.businesswire.com/media/20260310926889/en/2741689/22/PactFi_logo_black_text_-_284_X_80_%281%29.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpXREozZFVGS2RqQjFjRUZSVFJDSEF4aVBCaWdLTWdhbHBKU010UVk",
+      "date": "03/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-10T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "MTG Q2 Deep Dive: Lower Revenue and Margin Compression Amid Stable Credit Conditions",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Radek Strnad"
+        ]
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mtg-q2-deep-dive-lower-103722854.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/6ce4bce50991dc0c3ced3705c1121a09af2d12f7de41263359d4a39fd7bc19a6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Ffc3c5d79a8ec6cf27fd5eb69af615e04",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjR05RV1hKYU1TMXdWMjlHVFJDSEF4aVBCaWdLTWdZQkFKU2lOZ2M",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Funding Circle CEO: SME loan demand holds firm despite credit market volatility",
+      "source": {
+        "name": "Yahoo Finance UK",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://uk.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sam Boughedda"
+        ]
+      },
+      "link": "https://uk.finance.yahoo.com/news/funding-circle-ceo-sme-loan-181610960.html",
+      "date": "05/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-27T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "Credit Clear (ASX:CCR) Advances FinTech Strategy After Revenue and EBITDA Growth Milestones",
+      "source": {
+        "name": "Kalkine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://kalkine.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditi Sarkar"
+        ]
+      },
+      "link": "https://kalkine.com.au/news/technology/credit-clear-asxccr-advances-fintech-strategy-after-revenue-and-ebitda-growth-milestones",
+      "thumbnail": "https://kalkine.com.au/featured_image/gallery/large/shutterstock_1776497849_08_18_2026_11_46_49_056900.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWV3h6V0c1TmEyZDFWR3d4VFJEZUFoaVBCU2dLTWdhbEU0cU9NUVU",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Europe’s private credit firms make hiring push as opportunities broaden",
+      "source": {
+        "name": "PitchBook",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pitchbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Francesca Ficai"
+        ]
+      },
+      "link": "https://pitchbook.com/news/articles/europes-private-credit-firms-make-hiring-push-as-opportunities-broaden",
+      "thumbnail": "https://pitchbook.brightspotcdn.com/dims4/default/0518a1e/2147483647/strip/true/crop/2607x2607+679+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-pitchbook-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fbd%2F7cc699d144979c73d2e3d48d83b6%2Fhiring-group.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWblpFVkVJNFJWVkJOMUZJVFJEaEFSamhBU2dCTWdZQmNJeU1zQWM",
+      "date": "01/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-13T08:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Credit Key raises $90 million to expand B2B payments platform",
+      "source": {
+        "name": "Digital Commerce 360",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.digitalcommerce360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Brohan"
+        ]
+      },
+      "link": "https://www.digitalcommerce360.com/2026/01/23/credit-key-90-million-funding-b2b-payments-platform/",
+      "thumbnail": "https://www.digitalcommerce360.com/wp-content/uploads/2026/01/AdobeStock_1620179512.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZRVGR4U2xVeFJFdHRjM05CVFJEUEF4aVdCU2dLTWdB",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "StoneCo (STNE): Credit Revenue Up 186% Year Over Year and an Extraordinary Dividend on Top",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stoneco-stne-credit-revenue-186-123359133.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d21b1b257463a9e2ab760cd215791e144b2934dfeba32714f723bfc163bf06b7/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4e892c2fdbb4900df39d6933180d923b",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdNak5VYTFaQ01HOWZjbmxqVFJESEF4aWpCU2dLTWdNcE1BZw",
+      "date": "05/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-20T07:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "$10 Million in Funding Earmarked for CA Postproduction Tax Credit If Gov. Newsom Signs",
+      "source": {
+        "name": "The Hollywood Reporter",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hollywoodreporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katie Kilkenny"
+        ]
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/10-million-funding-earmarked-ca-postproduction-tax-credit-1236685908/",
+      "thumbnail": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2181413178.jpg?w=2000&h=1126&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5OMkpaWTFwdFVXNDJUbU01VFJDZkF4amlCU2dLTWdZQk5vTHRGUW8",
+      "date": "08/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-31T07:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "Podcast: Auto leaders dive into affordability, funding diversification, credit performance",
+      "source": {
+        "name": "Auto Finance News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autofinancenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Harris"
+        ]
+      },
+      "link": "https://www.autofinancenews.net/allposts/risk-management/podcast-auto-leaders-dive-into-affordability-funding-diversification-credit-performance/",
+      "thumbnail": "https://www.autofinancenews.net/wp-content/uploads/2026/05/3T8A0315-350x250.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxlVTFWTWtwdGRsWmlWSGswVFJENkFSamVBaWdLTWdZQlVZb3hvUWc",
+      "date": "05/18/2026, 10:48 PM, +0000 UTC",
+      "iso_date": "2026-05-18T22:48:04Z"
+    },
+    {
+      "position": 89,
+      "title": "Proposed federal tax credit risks hanging up education debate at MN Capitol",
+      "source": {
+        "name": "MPR News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mprnews.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dana Ferguson"
+        ]
+      },
+      "link": "https://www.mprnews.org/story/2026/03/11/proposed-federal-tax-credit-risks-hanging-up-education-debate-at-mn-capitol",
+      "thumbnail": "https://img.apmcdn.org/11e12bb348fbcec0e4fbde7e5fb1a0fa7f82e845/uncropped/fb7cee-20250902-highland-park-middle-school-03-600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWMjFLTTA1dk5tWTVRWGRZVFJDUUF4allCQ2dLTWdZQllJNU9MUVk",
+      "date": "03/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-11T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "S&P Global Ratings Cuts Credit Rating on Embecta (EMBC) After Revenue Decline",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-ratings-cuts-credit-054848806.html",
+      "thumbnail": "https://media.zenfs.com/en/insidermonkey.com/bcd69a29baed890f0e16fe8db4ee42bb",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTR2hTUVZseFoxZFBVRTlQVFJDZUF4amtCU2dLTWdhQk1JakxtUWs",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Goldman Sachs Flags Private Credit Risks While Building Shorting And Funding Tools",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-flags-private-credit-120532350.html",
+      "date": "03/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-21T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Funding cap lifted for Minnesota Beginning Farmer Tax Credit",
+      "source": {
+        "name": "Brownfield Ag News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.brownfieldagnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mark Dorenkamp"
+        ]
+      },
+      "link": "https://www.brownfieldagnews.com/news/funding-cap-lifted-for-minnesota-beginning-farmer-tax-credit/",
+      "thumbnail": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/05/Finance.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9lWFpwT1VacVVVUlJiM2hDVFJDUUF4aVFBeWdLTWdNQk1CWQ",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Northern Ireland Screen explores all-Ireland co-funding mechanism and cash-flowing tax credit in four-year strategy",
+      "source": {
+        "name": "Screen Daily",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.screendaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mona Tabbara"
+        ]
+      },
+      "link": "https://www.screendaily.com/news/northern-ireland-screen-explores-all-ireland-co-funding-mechanism-and-cash-flowing-tax-credit-in-four-year-strategy/5215822.article",
+      "thumbnail": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xany/0/1/2/1477012_htgthfb_108_unit_00139_rt2_296258.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNhbkZ3Y1RWS1gwNXJNRXR2VFJEQUFoamdBeWdLTWdhSmNwWVNKUWc",
+      "date": "04/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-21T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Private credit eyes opportunity in SA’s R350bn SME funding gap",
+      "source": {
+        "name": "Citywire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://citywire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://citywire.com/za/news/private-credit-eyes-opportunity-in-sa-s-r350bn-sme-funding-gap/a2496076",
+      "thumbnail": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_ee4b3505-dd43-4117-9b95-81672c96255a_Large",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWZSbWRVTURNd1YwTTNUMWxNVFJDSEF4aVBCaWdLTWdB",
+      "date": "08/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-19T07:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Private Credit’s New Power Shift: From Making Loans to Funding Them",
+      "source": {
+        "name": "PYMNTS.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pymnts.com/loans/2026/private-credit-rewards-distribution-as-liquidity-tightens/",
+      "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/03/power-shift.jpg?w=620",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVkbE55TWpSUGNYTk9PWFpYVFJEekFoanNCQ2dLTWdZaGxwQU1OZ2M",
+      "date": "03/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-23T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Indian Fintech Fibe Raises US$35M Series F Funding to Boost Credit Access",
+      "source": {
+        "name": "Fintech Singapore",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fintechnews.sg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fintechnews.sg/123389/fintech-india/fibe-funding/",
+      "date": "12/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-11T08:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "Credit Acceptance CFO Change Puts Spotlight On Funding And Risk Priorities",
+      "source": {
+        "name": "Simply Wall Street",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://simplywall.st/stocks/us/diversified-financials/nasdaq-cacc/credit-acceptance/news/credit-acceptance-cfo-change-puts-spotlight-on-funding-and-r",
+      "thumbnail": "https://images.simplywall.st/asset/industry/7121000-choice2-main-header/1585186688507?w=1600&h=900&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphRjlPUVV4RE5YWkxZbWxCVFJDZkF4ampCU2dLTWdZaEU1U05xUWM",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "Tesla Reports First-Ever Annual Revenue Drop in 2025, Carbon Credit Sales Also Dip 28%",
+      "source": {
+        "name": "CarbonCredits.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://carboncredits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://carboncredits.com/tesla-reports-first-ever-annual-revenue-drop-in-2025-carbon-credit-sales-also-dip-28/",
+      "thumbnail": "https://carboncredits.com/wp-content/uploads/2026/01/shutterstock_2639319997-e1769653446772.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhkSGxCZERCaWVucFliRkUwVFJDWUF4anZCU2dLTWdZUlJJYVFvUVE",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "Big Law Revenue Jumps Despite Clients’ Private Credit Slump",
+      "source": {
+        "name": "Bloomberg Law News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.bloomberglaw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Roy Strom"
+        ]
+      },
+      "link": "https://news.bloomberglaw.com/business-and-practice/big-law-revenue-jumps-despite-clients-private-credit-slump",
+      "date": "05/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-07T07:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "US credit unions welcome restored federal funding for CDFIs",
+      "source": {
+        "name": "Co-operative News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thenews.coop&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thenews.coop/us-credit-unions-welcome-restored-federal-funding-for-cdfis/",
+      "thumbnail": "https://www.thenews.coop/wp-content/uploads/2025/11/GettyImages-170619187-1024x688.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdXV1ZDU205RFdETnBWMHhGVFJER0F4aWtCU2dLTWdB",
+      "date": "01/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-12T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebd7a7d7840f991a5e0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rCalu8jMdu_GWI0T6xo0HwMDJVzcy_DSkjtL8gQXhzw/6ac4ebd7a7d7840f991a5e0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rCalu8jMdu_GWI0T6xo0HwMDJVzcy_DSkjtL8gQXhzw/6ac4ebd7a7d7840f991a5e0d.md",
+    "created_at": "2026-10-06 12:38:47 UTC",
+    "processed_at": "2026-10-06 12:38:47 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Staff+AI+Platform+Engineer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/rCalu8jMdu_GWI0T6xo0HwMDJVzcy_DSkjtL8gQXhzw/6ac4ebd7a7d7840f991a5e0d.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "q": "Staff AI Platform Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kdAGheFd5aS-aNr_6lr_9BI4GhytgGCraSPCafJrSbs56MiLa-BS50uhfydSs2hpvGy0kJMCOW-SDMVtYopIsNhVQW7d7HUgufdAsTOhWUjIeORvGtiFIx93K93n06E1ub12sbTE_YNRXlhpp67x-KBOBwjs",
+        "q": "Staff AI Platform Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kdAGheFd5aS-aNr_6lr_9BI4GhytgGCraSPCafJrSbs56MiLa-BS50uhfydSs2hpvGy0kJMCOW-SDMVtYopIsNhVQW7d7HUgufdAsTOhWUjIeORvGtiFIx93K93n06E1ub12sbTE_YNRXlhpp67x-KBOBwjs&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQxKsJKAB6BAgXEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rTalc9ibXQalw1qPNRsa2kdAGheFd5aS-aNr_6lr_9BI4GhytgGCraSPCafJrSbs56MiLa-BS50uhfydSs2hpvGy0kJMCOW-SDMVtYopIsNhVQW7d7HUgufdAsTOhWUjIeORvGtiFIx93K93n06E1ub12sbTE_YNRXlhpp67x-KBOBwjs"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1",
+            "q": "Staff AI Platform Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p",
+            "q": "Staff AI Platform Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg",
+            "q": "Staff AI Platform Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z",
+            "q": "Staff AI Platform Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1",
+            "q": "Staff AI Platform Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rdLPaf_8xfwxpFkO4dCwU4QmGGj6M32dHZO_2xaZqRrHtjOo2K2iHghTHjUH5uCI8p7flw1sYBdx0uZZYHs7hojcyR62QxxRbI44Ll8EbDIF1zobhF3F-jkpQC4UiDP5HxUs4kcuV4pLwJ5-oUQ9QJcbxxMB7f_-WdaEPn5l0zGwjLrSAPuseGJDYr8wr4nnEFTS579R0ga8eEPRQiq1iOw5XrLSr6vh73c5e_9KXcrnJAksyA7edf3HWh45_pt8_wQFkW7XgmiTYeTB2RqiKT6xqNSWl3JELYullSrc9zb_EQXcJFujMBgaxCl8O-gSL2czDWeAbkSoQ3agTkvViXRE1F1kjqLm9DWInudX0iOt7Wvb1"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p",
+            "q": "Staff AI Platform Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rsIrUljaPH9okET3XT5Wp25RsR7yzbvRLnEek11O4WSBozgr4gQK2HPG2HNdHoiHT8VqCjl_9lOS6A4FFp5S0CxnnjGBiwhpHu40qmdSIlvDbFNJJtWSZvUQ7YuEwxJHMdlsWyr724v8pg_WDBZ9QnKOQB_kfUu_amWTB4nvAHDyrEUFLWeY1WzXFRGiWISWGyhvrXipxGNJqb49uENTMbxBmt5m1PsygKtfjSAT12Qt9C6ZUeUB0f2oMXrYxGZIuyobxgkqd3vr2JBg1IANyr7gLCujxUy-J4EmrlwhP1B4H7kknuvEE66BKnEmRgK_6k_AKzF6v4Mfotl0iF4-yCDQguXLZEImHrkp7DYXSaw3ZK3-p"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg",
+            "q": "Staff AI Platform Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4relZ0P3q9mRqYqQWYZAh43kFq7LHqdEzWmZ2f0clvHCCT25273WyhjPj_veANH6g9hCLW_0-2uFAqTFeHaksfLlGO1hBvGbaUIRr4Jcg_11n32pm-RzTCFyQQNKwUSXvSGyBRVyPwRGZkzkJOSLI9Lozlsjbape2uW5qnwnTBTyUIm4TWhcA644BAqQRrvYvZPKRmyVNkUkZX_tXdV8JS8dc3ZPWRnyRACLo0n7AhPXPkaA6cTkMqNHE9l0kNgxDV3WmUTYE0cSRwPpi5DRlTZJ8tb15swhnoYpWBHX_4yh4dpCGrrCvdyCoirmUzwMu_asgaboRK-Uq2ffWzteKdmGQl45NcaqLQ4UtouPYSbVBfNOJg"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z",
+            "q": "Staff AI Platform Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rBcgFs3xQreRFBcxyHbO7r1MYKYAA2jBzOJiH4LylsBIBVbcEcB5oVK3i9hjoiYMxioT7gETrcuHz973V_vvx-dNhmz184Dud7ZiGXpQnFO5fvRqnKP9KcuWQNDzoK8d4YDNmMP5v1qs_YkQYYZN0xEU_m2vDsyL4YMfYb9mofjl73rtwbKEQnAA-M_PhTRXKwhDZt9IKKuJgV2EpBeYu7LKpuRiOiF_QalRSYcRwlJVQjh6g03nkM4ZT1i7MiAle_0H-IZLZWYaHCy_OnHZLDNBjHVQNGWdJNdC2siE9bB_UOb-0MQcKZarhE0lePh1TGItMM_tlyg3A5YreldwHm3KE7fixJxmbIxO-Y-6Dfetwqo_Z"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw",
+            "q": "Staff AI Platform Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4",
+            "q": "Staff AI Platform Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg",
+            "q": "Staff AI Platform Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ",
+            "q": "Staff AI Platform Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw",
+            "q": "Staff AI Platform Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0Kv8TplQ7w6YhLAXw7cpOpbpzKC7pqX1kcNrXzzpj3R83lF8d1WhXP1625sSmW3HJGNJ2HUx1ZiJtTGPfybza4kLPivw6L_TO_rMbCXTjE2DgQuYO6Kd_rU6XTZcko6bHVcVWmIlOBLYZ1StEucqh3i4wOeH6GlrglG3u_2Jdw0sWpLyga3Fq6ZzcTUj7Xr7G7fJGk8oeDyJWr1r72oQcsXuuMfS7BRtjO6XHfaXzpN8ejVLREuaYmk5kZr603KDZrRrLRK5UAWe--mtPGmJar59PkAiw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4",
+            "q": "Staff AI Platform Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtPojjA27olSwuHLKxyl9copCjyCqtdEG2ODRPuW4RQKtzqAwRt7hW57K58M8Pi0KhKQx70Jnu7u6tDC8JWiLx0-JiuQMNEK6ywz56z8ulK0B0xF7JlTCIQiKuIudzgBaguZ9JR3aQqwFV8oeav70O94OWKzoBk_wcuxY7CEbmJVOtNE13HaMU12nUv1kUr1xxofjudA1__wELBX4NA3JoyDOxw3VePBxM8sDHbAYb7R5B3tanwr2I9triJF1vjvr2KGxuLk8Hqp9XfHrD7u-__64jVouBslchlnkk-_Yn5TkAbwiNtwMBe4GSm_Rl0v3btHNPCfs7W8bI0M_YyGfS6gGrC4"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg",
+            "q": "Staff AI Platform Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFzaqi6X-nLhHx30s6Z1rK1YdwMiOtTVfStJ1NllGHuR3nYEIvSa8BYW_EZ8Hsz2slSkMoQJ-uZCz7ssAfIdRq3gR9jNB089h0GopDyEeeJS6Hi05fHftanPmmcmqJd2-WWK-HlMd42UJsN4AYtJJfytIY3jIlIkMnzrcADekWEUizWEVRvOGJ8ANlXgqHqSJJZ9q1strBMfLZS_jxV9Wf2dfjo2ZbXP26ALYUXnKvq8kozWFpo_2ZQe0Y-0IxEahYdCnkR68vCRkkkJf_LgnTPXZwMZ2z5ppPdevSQEzTtZ-7WLnsC7FcgiI1IbNcRZKMMX2lg"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ",
+            "q": "Staff AI Platform Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=4b52e16ed3e955c1&hl=en&gl=in&sxsrf=APpeQntViLIWi-2wgIV3WeoWa7xBVbPrYg:1791290328625&q=Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ&udm=8&sa=X&ved=2ahUKEwj3s-i9tKWXAxVAk4kEHUwoExQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r34-BB0Q1nf0q0Ggmvoio07VKZVjCk6FIV8av1Stb6SEEvrVPx8mG_5Zp45Z7VjQnKNC8R3N57G57zPV2g9OUa50F_NXs_EAGj3zdyT3GZ4NP4omdwiSQAbJale_yjYwziCp2emaZnoP7rnYrbx6vcV2-vx16-MxK-H47HXWPs7-0KzCxWH1ZpzzAMkMNAP8DLPHNfPuh7HhkxJRUcVW_6evAZTiHL9TmxVViVwXDvX552SbELndr_aDwnlMbTdUbbBoTS-y0nTiYre5PqbVOmZo23kHMi8oTWaJsYzouyREMuSJdpsWJOWMhTKcd7lQWByvZjQ"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Staff AI Engineer",
+      "company_name": "Teradata",
+      "location": "Bengaluru, Karnataka",
+      "via": "Teradata Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=yHpCNi9IjjcFy8poAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAyAYVz7CE6Zi_REcNFJQUQcdS_pmV6rZ3JcUujo7ugb-iTW5R8--Iv3rCgvhm0LuxMcOPRMlOH7-sBdGlDC7DsQhqNIiDTfdmZJN86pxiqoofW-8vJ0wtTI6KZJ_6m1w0wpolG9Wi_HKnEo4UoZb2gIPcOeOGAc8rCAM2ae9IE_2DXXbY4AAAA&shmds=v1_ARwrE208KzTdJZceENOLpW4eJTfEDn81HBIN7NFe4lXOVSscuA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=yHpCNi9IjjcFy8poAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://careers.teradata.com/jobs/220477/staff-ai-engineer",
+      "job_title": "Staff AI Engineer",
+      "description": "Our Company\n\n \n\n\n \nAt Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.\n\n \nWhat You’ll Do \n\n \nAs a Staff AI Engineer, you will play a key role in designing and delivering highly scalable, next generation AI products within our AI stack. You will work in a technically rich environment with talented peers, contributing to product strategy, architecture, and execution while influencing the evolution of Teradata’s AI capabilities. \n\n \nIn this role, you will: \n\n \n \n Design, architect, develop, and maintain high quality systems, services, and applications with an emphasis on scalability, reliability, and performance.  \n \n \n Collaborate with cross-functional engineers and product partners to shape architecture and consistently deliver end to end features.  \n \n \n Build and integrate robust RESTful APIs, ensuring security, data consistency, and maintainability.  \n \n \n Work with SQL and NoSQL databases to implement efficient data models and service access patterns.  \n \n \n Apply and experiment with AI/ML technologies, including agentic AI and large language models (LLMs).  \n \n \n Use AI powered engineering tools to improve development quality, speed, and productivity.  \n \n \n Mentor engineers, supporting them in technical planning, implementation, and best practices.  \n \n \n Identify and resolve system performance bottlenecks, optimizing code, architecture, and infrastructure.  \n \n \n Write unit and integration tests and participate in code reviews to uphold engineering excellence.  \n \n \n Investigate production issues, ensuring timely and effective solutions.  \n \n \n Stay current with emerging trends in engineering, AI/ML, and cloud-native technologies.  \n \nWho You’ll Work With \n\n \nYou will be part of a high-performing engineering team building core components of Teradata’s AI platform. You will collaborate closely with other engineers, AI/ML specialists, product managers, cloud architects, and partner teams across the company. The role offers opportunities to contribute directly to Teradata’s AI product roadmap and technological direction. \n\n \nWhat Makes You a Qualified Candidate \n\n \n(Non‑negotiable qualifications) \n\n \n \n Bachelor’s degree in Computer Science or equivalent from a recognized institution.  \n \n \n 8+ years of experience in backend services, distributed systems, or data platform development.  \n \n \n Strong proficiency in Java, Go, or Python for service development.  \n \n \n Deep understanding of design principles, distributed system patterns, and service architecture.  \n \n \n Hands-on experience designing and developing RESTful APIs.  \n \n \n Experience with SQL and NoSQL databases and data modelling.  \n \n \n Strong debugging, problem solving, and troubleshooting skills.  \n \n \n Experience with modern containerization and orchestration tools such as Kubernetes.  \n \n \n Knowledge of public cloud platforms.  \n \n \n Experience with AI productivity tools (e.g., GitHub Copilot).  \n \n \n Ability to work independently, drive workstreams, and deliver high quality outcomes.  \n \n \n Strong communication and collaboration skills.  \n \nWhat You’ll Bring \n\n \n(Preferred qualifications) \n\n \n \n Familiarity with messaging systems such as Kafka.  \n \n \n Experience experimenting with or implementing AI/ML technologies, Agentic AI, or LLMs.  \n \n \n A track record of influencing architecture decisions and driving engineering best practices.  \n \n \n The ability to mentor engineers and guide them through design, planning, and execution.  \n \n \n A proactive mindset and comfort working in fast paced, dynamic environments.  \n \n \n Curiosity, adaptability, and a passion for building impactful AI-driven products.  \n \n#LI-PG1",
+      "apply_options": [
+        {
+          "title": "Teradata Careers",
+          "link": "https://careers.teradata.com/jobs/220477/staff-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Arm Careers",
+          "link": "https://careers.arm.com/job/bengaluru/staff-engineer/33099/97771659312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Thermo Fisher Scientific Jobs",
+          "link": "https://jobs.thermofisher.com/global/en/job/R-01363447/Staff-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Infineon Jobs - Infineon Technologies",
+          "link": "https://jobs.infineon.com/careers/job/563808971773331?hl=de&_gl=1*1clautg*_gcl_au*MTM3MTMyMTU3NC4xNzU4Nzg3OTgy*_ga*ODU5NTEzNDA2LjE3MjQ2NzU1NDI.*_ga_KVD0BL538B*czE3NjI0MTg0MDMkbzczJGcwJHQxNzYyNDE4NDAzJGo2MCRsMCRoMjAyOTA4NjI5Ng..&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Bayt.com",
+          "link": "https://www.bayt.com/ar/india/jobs/engineer-staff-74893324/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "OrbitronAI Career Site",
+          "link": "https://careers.orbitronai.com/jobs/6378221-staff-devops-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Air Asia Careers",
+          "link": "https://chatbot.careers.airasia.com/gb/en/job/JR0033739/Staff-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cloud Sign In",
+          "link": "https://iablcp.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/356?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBSSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlRlcmFkYXRhIiwiaHRpZG9jaWQiOiJ5SHBDTmk5SWpqY0Z5OHBvQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsWndkRVEzWkU5T1VHVlpRMUJtZGtkNU1uTldhbmwzTVdWMFJ6a3dhR3RIWmxOTFRXVnVRVlpGTW5jMVZtRjRhRU5yZEdKNVMyWlNhbFZsYlV4ZlVXOTNka2wzUm5wR2FGZE5PWEYzUlRab2EyTTNVR1ZHU0ZRemIwNUtSR3BhWkhJNFNITkljMjlKWVdSS05FSmlaamhYY2xVelRqTkdlR3h2VDNwSGJHSTJZekl3TFRBU0Z6SlBka1ZoZG1adVNtTkRiWEIwVVZCNlRrUk5iMEZGR2lKQlJITnlPV1pVYjNwR2VtNVNOVzVVUzJGTVVqRndiVWhETkc5RFdscDRUR1YzIiwiZmN2IjoiMyIsImZjX2lkIjoieUhwQ05pOUlqamNGeThwb0FBQUFBQT09In0="
+    },
+    {
+      "title": "Staff Engineer, API Platform",
+      "company_name": "Sarvam AI",
+      "location": "Bengaluru, Karnataka",
+      "via": "Sarvam AI",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=hAQpFAZhhJWsg0YSAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CQBBA0dhyBKuxNYQ1JjRaYWIMsSHhAGQgwwIuM2RnMZTewcL7eRKx-d370WcTpWXAtoUr256JfAxZkUPhMLTiR_i-3jBIDUromw6E4SZiHW3PXQiTnoxRdYnVgKFvkkZGI0y1LGZF-k-lHXqa1h9Vx_SwJBPb_a5E_8QRshx6hguxRTf7OYY7esaAD_wBBogjppoAAAA&shmds=v1_ARwrE21Q3rohC5y1Rdd4OfCYsPGiO1lDM4ZnXXgBHS6EkzUI2g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=hAQpFAZhhJWsg0YSAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/whgzT-jFWacnQYi7BvMnn0N8pO8KohxN2WYqhaCRrLw.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7",
+      "job_title": "Staff Engineer, API Platform",
+      "description": "About Sarvam\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n\nAbout the Role\nSarvam's model APIs (ASR, TTS, Vision, LLM, Translate) are how developers and enterprises ship products on our foundation models. The platform handles tens of millions of API calls every day, over HTTP and WebSockets, with metering, billing, prepaid wallets, and rate-limiting all part of the same stack. Today it's FastAPI and Python; we're in the middle of rewriting it in Go.\n\n\nWe're hiring a Staff Engineer to own this platform end-to-end. The architecture. The reliability. The performance. The standards. This is an IC role.\n\n\nWhat You’ll Do\n\n\nThe end-to-end design and evolution of the platform, from the moment a request hits the edge to the response that goes back out\n\n\n\nThe Python→Go rewrite: leading the architecture, setting the patterns, and bringing the platform across without compromising reliability\n\n\n\nAudio pipeline engineering: TTS chunking around model context limits, sample-rate adjustments and format encoding, VAD-based silence detection for ASR\n\n\n\nVision pipelines: orchestrating OCR, layout detection, and VLM harnesses for structured data extraction\n\n\n\nStreaming infrastructure: WebSocket connections, queue-based batch processing, back pressure, low-latency model invocation\n\n\n\nThe commercial layer: metering, billing, prepaid wallet management, and rate-limiting, engineered to the same bar as the model APIs themselves\n\n\n\nPerformance and reliability for a multi-tenant platform operating at sub-second latency SLOs\n\n\n\nObservability (logging, metrics, tracing), so the team can debug production confidently and quickly\n\n\n\nIntegration testing infrastructure: the harness that lets us ship fast without breaking customer-facing APIs\n\n\n\nClose partnership with the Inference and MLOps teams, mentoring them on production engineering so model serving is fast, reliable, and operable\n\n\n\nDesign-first, documentation-first engineering culture within the team: RFCs before code, decisions written down, no tribal knowledge\n\n\nWhat We’re Looking For\n\n\n7+ years building production backend systems at scale\n\n\n\nStrong Go in production: you've designed, built, and operated Go services under real load\n\n\n\nComfortable in Python: you'll work in both languages through the rewrite, and FastAPI is the current foundation\n\n\n\nA track record of designing and operating high-scale, low-latency, multi-tenant distributed systems\n\n\n\nHands-on experience with real-time / streaming systems: WebSockets, long-lived connections, backpressure\n\n\n\nStrong PostgreSQL and Redis fundamentals: schema design, query performance, caching strategy\n\n\n\nComfort running services on Kubernetes in production\n\n\n\nThe judgment of a senior IC: when to build vs. buy, when to optimize vs. ship, when to abstract vs. inline, and how to bring others up with you\n\n\nBonus Points\n\n\nExperience serving LLMs, ASR, TTS, or vision models in production\n\n\n\nBackground in audio processing (pyav, FFmpeg, codec / sample-rate work, VAD)\n\n\n\nExperience building metering, billing, or wallet / payments infrastructure\n\n\n\nTime at an early- or growth-stage startup: comfort with ambiguity, speed, and ownership\n\n\nWhy Sarvam?\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n\n\n\nWork alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n\n\nHigh ownership and high impact, from day one\n\n\n\nEverything we do is AI-first, from the way we build and ship to the way we think about problems\n\n\n\nYou can work on problems that could change how an entire country learns, works, and communicates\n\n\n \nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
+      "apply_options": [
+        {
+          "title": "Sarvam AI",
+          "link": "https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/sarvam/48b2c236-a7e7-475d-b98b-4eb942e85dc7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/staff-engineer-api-platform-sarvam-8294791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5750911146?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/-5711708608272881721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/staff-engineer-api-platform-sarvam-safety-equipment-JV_IC2940587_KO0,27_KE28,51.htm?jl=1010141599817&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/staff-engineer-api-platform-sarvam-health-bengaluru-bangalore-64992724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/staff-engineer-kubernetes-platform-networking-equinix-bengaluru--t7xk-857071048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBFbmdpbmVlciwgQVBJIFBsYXRmb3JtIiwiY29tcGFueV9uYW1lIjoiU2FydmFtIEFJIiwiaHRpZG9jaWQiOiJoQVFwRkFaaGhKV3NnMFlTQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVZ3dha3BEV0ZBeVRFVldNbmRuTVdSdE5sQlhWWEZvTVd4NlgweFFiMFpFTFdoNWRqaEZNWFl4WlhSdFRWVnZiRU5oWVhaWFoxVmZPRzlFZVZaVldVTjZlVlZ4Um5Gd1dEVk1OVEpYVFZRdGMxSlBUM0U1YTJNeU0yOTZiRzFmZDJWd2FHcHVObEYyTkhsWmEzcFBjWGROY0hGTFJrOHlUaTB6TVZoR1RHTkZjRFpqVTNFU0Z6SlBka1ZoZG1adVNtTkRiWEIwVVZCNlRrUk5iMEZGR2lKQlJITnlPV1pVY0c5M1JFWmpTelJ5U21WaU1sSndORXhzYjFKM2JWQlRkVjlCIiwiZmN2IjoiMyIsImZjX2lkIjoiaEFRcEZBWmhoSldzZzBZU0FBQUFBQT09In0="
+    },
+    {
+      "title": "Staff Software Engineer - AI Foundation",
+      "company_name": "Intuit",
+      "location": "Bengaluru, Karnataka",
+      "via": "Intuit Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=vUWZ5b_x42ZeE10CAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RLGRq0awINtqooBIsc4Awxskmus6E3VlM6R08gHfzJK7NLx7v8bPPKNuWik0DpTT6RE9wYNsxkYc57Ao4SuQraicM39cbbnKBQOjrFhI5iVhH402r2oe1MSG43AZNep3X8jDCdJHBpCj8pwptOugdKlXL1WLIe7bTScEaO4WOYU9s0UUfZ3BGz6h4xx_AM28pogAAAA&shmds=v1_ARwrE22POMCIWD95ftWN5kc0zN0PdW_-zDwuzlLQxMXPsiXvMg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=vUWZ5b_x42ZeE10CAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEUjbP____8AY_8dav8YaP8AX_8AYf8AXf_j6v89eP8OZf-etv8yc__7_P-Oq_-Xsf9sk_9jjv--zf9Wh__q7_-juv9Mgf92m_9vl__b4_9De_-Gpv-swP9fi__I1f8AUP8AV__y9f9NnSkzAAABI0lEQVRIie2S2W6DMBBFueMlMLFZzBZIGpL__8kOpKJR61TqU6XK58HCHh37zogsSyQSiT9Cqd8WHnA96GhBDw3_4OkRcPuO7H6JKoCT1vaVrE8irqHWXCb3JT8iKuWA2lZ-Mq-itrO8oqjIKDMdKp19dKfnlviIPC5KBTA5-g44V1hpgZl65FaibgeXWFquPHDIgcnDl_Ltd9GI6NeTPtqmfdvE69JIr0uH8uY-xeZWIV_i49H1Jh5pAIqD9EjFk2hf9vhNLI2IhXkSb_H_4Kt4HUW8zPddvI9t1NzEDv1DnGSITkaFDp1MtaHzOlWKiWoIgfsw6iIEp9xFVhemsg49hzAoLoPUolkVccYkNVovJlkVWdbEikkyMlHcSyQSiX_IO3OIDglEjErxAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "8 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer-ai-foundation/27595/101300367440",
+      "job_title": "Staff Software Engineer - AI Foundation",
+      "description": "Intuit's strategy is to be an AI-driven expert platform, delivering world-class, revolutionary experiences for our customers at unprecedented speed and scale. The AI Foundation (AIF) Platform team builds and operates the evaluation infrastructure, ML pipelines, and observability tooling that Intuit's agentic product teams (QBO, TurboTax, and others) rely on to ship AI agents safely and quickly. Come join AIF as a Staff Software Engineer to help build the platform that lets the rest of Intuit bring trustworthy, high-quality AI agents to market fast.\n\n\nResponsibilities\n\n\n\n\nDesign and build backend services and pipelines in Python that power agent evaluation, observability, and quality measurement at Intuit scale\n\nOwn and evolve core components of the eval platform — golden datasets, LLM-as-judge pipelines, trajectory and correctness scoring, and regression detection across agent releases\n\nBuild and operate agent observability infrastructure using Langfuse (or equivalent OTel-based tracing), ensuring product teams have real-time visibility into agent behavior, latency, and failure modes\n\nDesign, author, and maintain ML pipelines using Kubeflow Pipelines (KFP), including DAG authoring, artifact tracking, caching/memoization, and deployment on internal Kubernetes (IKS) infrastructure\n\nDrive end-to-end ownership of initiatives — from design through production launch — partnering closely with product agent teams to understand their evaluation and observability needs\n\nChampion a builder culture: experiment with customers to find the best solutions, take on ambiguous problems, and iterate quickly\n\nUse AI/LLM tooling to accelerate your own engineering workflow, and help shape how the broader platform team adopts AI-native development practices\n\nDesign and develop highly scalable, high-performance distributed applications and services; expect roughly 80–95% hands-on development/coding.\n\nMentor and coach other engineers on software engineering best practices, platform architecture, and AI/agent evaluation concepts\n\nCollaborate cross-functionally with data scientists, product managers, and other engineering teams to define what 'quality' means for an agent and how the platform measures and guarantees it\n\n\nQualifications\n\n\n\n\nBachelors of engineering in Computer Science or equivalent practical experience\n\n10+ years of experience building and operating distributed backend systems in production\n\nStrong proficiency in Python; solid grasp of software engineering fundamentals (APIs, data modeling, testing, CI/CD)\n\nHands-on experience with LLM/agent systems: prompt engineering, embeddings, RAG, LLM-as-judge evaluation, or agent frameworks (e.g., LangGraph)\n\nExperience with ML pipeline orchestration — Kubeflow Pipelines, Argo Workflows, or similar — including pipeline authoring, artifact/versioning, and Kubernetes-based deployment\n\nFamiliarity with observability/tracing systems for LLM or distributed applications (Langfuse, OpenTelemetry, or comparable)\n\nExperience with at least one major cloud provider (AWS, GCP, or Azure)\n\nSelf-starter who can operate with minimal guidance in a fast-moving, ambiguous AI landscape\n\nStrong problem-solving skills, a track record of shipping, and excellent verbal/written communication\n\nOutstanding cross-functional partnership skills; comfortable working with data scientists and product teams, not just engineers\n\n\nIntuit provides a competitive compensation package with a strong pay for performance rewards approach. This position may be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.",
+      "apply_options": [
+        {
+          "title": "Intuit Careers",
+          "link": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer-ai-foundation/27595/101300367440?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Rippling",
+          "link": "https://ats.rippling.com/nl-NL/rippling/jobs/e64a65a0-7b28-4f82-b06f-b2b9c9fb3edc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://thomsonreuters.wd5.myworkdayjobs.com/es/External_Career_Site/job/IND-BLR-Salarpuria-Sattva-Knowledge-Court/Staff-Software-Engineer---AI-I_JREQ194748/apply/autofillWithResume?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/staff-engineer-software-ai-albertsons-companies-india-bengaluru-bangalore-66795199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/staff-software-engineer-ai-engineer-tekion-JV_KO0,35_KE36,42.htm?jl=1010221717242&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/MZKsN98n4CpFKFxl9HSnRiLzk67RrfztCflx-Vs81_7XKe8G8dhePw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5879360379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/staff-software-engineer-ai-foundation-intuit-bengaluru-karnataka--t7xk-858472024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBTb2Z0d2FyZSBFbmdpbmVlciAtIEFJIEZvdW5kYXRpb24iLCJjb21wYW55X25hbWUiOiJJbnR1aXQiLCJodGlkb2NpZCI6InZVV1o1Yl94NDJaZUUxMENBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEMxT1ZrOXBZbmRvUkhWWmJGZFpaalJuU2pseU4ybHlOV0pVYW1aZlVuY3dlV2xNYVc4NVdsOW1Na0Z0WW5JMVMyOUlja1JrZUdSYWJYQktRbEpqYWw5S0xWUmtYMFp1VEhaRFlrbEpTR1ZVUTJWWFRGRnFhaTFtVVZwMGIyeDBRV0pUTnpSWFVISlhSamRpZVZwUVIxWmlUMHhvVVRNNVlraFBZVFpNVFZwdmVubFJXV2dTRnpKUGRrVmhkbVp1U21ORGJYQjBVVkI2VGtSTmIwRkZHaUpCUkhOeU9XWlJMVTFKUjA5RWR6UXRkVTV3TTBSTmFtNTROWE13TVZoNU1YWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ2VVdaNWJfeDQyWmVFMTBDQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Staff Agentic AI Engineer",
+      "company_name": "Nextiva",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=vrMSeobX-J1xhnDbAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBBu3FslJwEarCCIi2PiAsAmby-m5G243ktI36A99ibGZbrL3LCuuhm0LpSe20EB5ggP7wEQJvq8P3KQGJUxNB8JwFPGR5rvOrNetc6ox92o4zbyRhxOmWkY3Jf1TaYeJ-ohGVbFZj3nPfrm40GjhiRAY9sQe45CGFZwxMRre8QcDTegBlQAAAA&shmds=v1_ARwrE22gHPloKaZlR2cI9X17y4MvA1BkpIcKbmUNSvxPClMIVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=vrMSeobX-J1xhnDbAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/ouyFkBI39mwe9RzU0XpXxWSsvECmHNnw90L7t1Rl0z0.png",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/staff-agentic-ai-engineer-nextiva-bengaluru-karnataka--t7xk-860055217",
+      "job_title": "Staff Agentic AI Engineer",
+      "description": "Redefine the future of customer experiences. One conversation at a time.\n\n\nAt Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation.\n\n\nOur culture is forward thinking, customer obsessed and built on the belief that meaningful connections drive better business outcomes. Whether it’s through our signature Amazing Service®, the technology we create, or the experiences we cultivate, connection is at the core of who we are.\n\n\nIf you’re ready to collaborate with incredible people, make an impact, and help businesses everywhere deliver truly amazing experiences, this is where you belong.\n\n\nLocation:\nThis is an onsite role based at Nextiva’s Bengaluru office (Wilshire III by MFAR, 492, Hobli, RHB Colony, Mahadevapura, Bengaluru, Karnataka 560048). Working together onsite strengthens how we operate, enabling faster decisions, clearer communication, and stronger execution, so you can make a greater impact and move work forward with speed and clarity.\n\n\nIn-Office Expectation:\nThis role is expected to work onsite four days per week, with the potential to increase to five days per week, as required by the business. Specific scheduling and flexibility will be guided by your leader to support both team collaboration and individual productivity.\n\n\nNextiva is looking for a\nStaff AI Engineer\nto help build an internal AI platform that will shape how we work across engineering and the broader organization.\n\n\nThis is a\nStaff-level, hands-on individual contributor role\nat the intersection of backend/platform engineering, system architecture, AI, cloud infrastructure, and developer productivity. You’ll design and build production-grade agentic workflows across the software development lifecycle (SDLC) and intelligent automation that improves engineering and business processes across Nextiva.\n\n\nWorking across Nextiva’s technology platform, you’ll identify high-value opportunities, architect solutions, and take them from concept through\ndeployment, operationalization, security, observability, and scale\n. You’ll also provide technical leadership and influence across engineering teams.\n\n\nWe are looking for an engineer who understands that\nAI is a means to a business outcome—not the outcome itself\nand can turn promising capabilities into reliable systems that create measurable value.\n\n\nTop 3 Outcomes (first 12 months)\n\n\n\nBuild and operationalize agentic SDLC capabilities: Architect and deliver production-grade AI workflows that materially improve how Nextiva engineers design, build, test, review, deploy, operate, and maintain software, with measurable improvements in engineering effectiveness.\nEstablish a scalable internal AI platform: Develop reusable architecture, services, infrastructure, patterns, and guardrails that enable AI-powered workflows to move reliably from experimentation into secure, observable, production-scale operation.\nDeliver measurable business impact through AI and automation: Identify and execute high-value automation opportunities across engineering and business processes, establishing clear success metrics and demonstrating tangible improvements in productivity, quality, velocity, cost, or customer outcomes.\n\nKey Responsibilities\n\nArchitect, build, deploy, and operate production-grade AI systems and agentic workflows across the SDLC and broader business processes.\nDesign scalable internal platform capabilities that enable teams across Nextiva to safely and efficiently adopt AI-powered automation.\nOwn solutions end-to-end—from problem definition and architecture through implementation, deployment, observability, security, scaling, and ongoing operation.\nBuild robust integrations between AI models, agents, developer tooling, internal platforms, enterprise systems, APIs, data sources, and engineering workflows.\nApply strong software engineering principles to AI systems, including modular architecture, testing, reliability, performance, maintainability, and fault tolerance.\nDesign approaches for AI evaluation, observability, quality measurement, failure handling, and continuous improvement in production.\nMake pragmatic architectural and technology decisions based on business outcomes, engineering constraints, risk, and total cost of ownership rather than technology trends.\nWork deeply within GCP and/or AWS, designing cloud-native architectures and infrastructure capable of supporting secure, reliable, scalable production workloads.\nPartner with infrastructure, DevOps, security, architecture, and engineering teams to establish reusable engineering patterns, technical standards, and operational guardrails for AI-powered systems.\nUnderstand complex software systems and large codebases to identify opportunities where AI can improve developer workflows across the end-to-end SDLC.\nEvaluate emerging AI models, frameworks, agent architectures, and developer technologies to determine where they can create meaningful value for Nextiva.\nProvide Staff-level technical leadership through architecture reviews, design decisions, technical mentorship, and influence across engineering teams.\nTranslate ambiguous business and engineering problems into clear technical strategies and executable solutions, measuring and optimizing impact based on production data, user feedback, and business results.\n\nRequirements\nMust-have\n\n10+ years of professional software engineering experience, with demonstrated experience designing, building, and operating complex production-scale systems.\nDemonstrable hands-on experience designing and building AI/ML or generative AI solutions that have reached production and/or delivered measurable business outcomes.\nStrong software architecture and system design skills, including experience making consequential technical decisions for distributed or large-scale systems.\nStrong programming and software engineering fundamentals in one or more production languages such as Java, Python, Go, or equivalent.\nHands-on experience working with LLMs, generative AI, AI agents, or AI-enabled application architectures, beyond simply consuming AI productivity tools.\nExperience taking AI solutions beyond prototypes into deployment, operationalization, monitoring, security, reliability, and scale.\nDeep hands-on experience with GCP and/or AWS, including designing and operating cloud-native production systems—not solely familiarity with cloud services or consoles.\nStrong understanding of DevOps, CI/CD, infrastructure as code, observability, reliability, and production operations.\nStrong understanding of application, infrastructure, data, and AI security considerations and the ability to incorporate appropriate controls into system architecture.\nStrong understanding of the end-to-end software development lifecycle, developer workflows, and the challenges of working within large software systems and codebases.\nAbility to evaluate technical trade-offs and select technologies based on the problem, desired business outcome, operational requirements, and long-term maintainability.\nStrong technical judgment and the ability to operate effectively in ambiguous, cross-functional problem spaces.\nAbility to influence technical direction across teams without relying solely on organizational authority.\n\nPreferred\n\nExperience designing or implementing agentic AI systems, multi-step AI workflows, tool-using agents, or autonomous/semi-autonomous engineering workflows.\nExperience applying AI to developer productivity, software engineering, code generation, testing, code review, incident management, or other stages of the SDLC.\nExperience building internal developer platforms, engineering productivity platforms, or enterprise automation capabilities.\nExperience with AI evaluation frameworks, model/agent observability, prompt and context management, retrieval architectures, and production AI quality measurement.\nExperience spanning traditional software engineering and AI engineering—for example, a strong backend, platform, or distributed-systems engineering foundation combined with substantial hands-on AI engineering experience.\nExperience driving technical initiatives that span multiple teams, systems, or organizational domains.\n\nTools & Tech Stack\nThe Exact Stack Will Evolve As We Select Technologies Based On The Problems And Outcomes We Are Solving. Relevant Experience May Include\n\nCloud: GCP and/or AWS\nLanguages: Java, Python, Go, and/or equivalent production engineering languages\nAI: LLMs, generative AI, agentic frameworks and architectures, model APIs, evaluation and observability tooling\nPlatform & Infrastructure: Containers, Kubernetes, infrastructure as code, CI/CD, cloud-native services\nEngineering: APIs, distributed systems, event-driven architectures, observability and developer tooling\nSecurity: Cloud security, identity and access management, secrets management, secure application and AI architecture\n\nNextiva DNA\n(Core Competencies)\nNextiva’s most successful team members share common traits and behaviors:\n\nDrives Results: Action-oriented problem solvers who quickly bring clarity and simplicity to ambiguity, challenge the status quo, and lead meaningful change; celebrating wins to fuel momentum. They act swiftly and pragmatically, learning and improving as they go.\nCritical Thinker: Data-driven, forward-thinking individuals who identify key drivers, anticipate risks, and deliver clear recommendations. They confidently leverage AI and automation to reduce friction, improve decision-making, and focus on higher-value work.\nRight Attitude: Collaborative, competitive, and resilient team players who jump in to solve tough problems, learn from setbacks, and foster a culture of service, respect, and care for customers and teammates.\n\nTotal Rewards\nOur Total Rewards offerings are designed to allow our employees to take care of themselves and their families so they can be their best, in and out of the office.\nOur compensation packages are tailored to each role and candidate's qualifications. We consider a wide range of factors, including skills, experience, training, and certifications, when determining compensation. We aim to offer competitive salaries or wages that reflect the value you bring to our team. Depending on the position, compensation may include base salary and/or hourly wages, incentives, or bonuses.\n\nMedical 🩺 - Medical insurance coverage is available for employees, their spouse, and up to two dependent children with a limit of 500,000 INR, as well as their parents or in-laws for up to 300,000 INR. This comprehensive coverage ensures that essential healthcare needs are met for the entire family unit, providing peace of mind and security in times of medical necessity.\n\nGroup Term & Group Personal Accident Insurance 💼 - Provides insurance coverage against the risk of death / injury during the policy period sustained due to an accident caused by violent, visible & external means.\n\nCoverage Type - Employee Only\n\nSum Insured - 3 times of annual CTC with minimum cap of INR 10,00,000\n\nFree Cover Limit - 1.5 Crore\n\nWork-Life Balance ⚖️ - 15 days of Privilege leaves per calendar year, 6 days of Paid Sick leave per calendar year, 6 days of Casual leave per calendar year. Paid 26 weeks of Maternity leaves, 1 week of Paternity leave, a day off on your Birthday, and paid holidays\n\nFinancial Security💰 - Provident Fund & Gratuity\n\nWellness 🤸‍ - Employee Assistance Program and comprehensive wellness initiatives\n\nGrowth 🌱 - Access to ongoing learning and development opportunities and career advancement\n\n\nAt Nextiva, we're committed to supporting our employees' health, well-being, and professional growth. Join us and build a rewarding career!\nBeware of Recruitment Fraud: At Nextiva, we follow a merit-based hiring process and do not charge any fees or require a deposit at any stage. We also do not authorize any third parties to collect payments or sensitive information on our behalf.\nAll genuine communications from Nextiva originate from official email addresses ending in “@nextiva.com”.\nCommunications received from free email services (such as Gmail, Yahoo, or Hotmail) purporting to be from Nextiva should be treated as fraudulent. If you are contacted by a third-party claiming to represent us, please verify their credentials by writing to talent@nextiva.com.\n\n\nWe encourage candidates to stay vigilant and verify the authenticity of any communication claiming to be from Nextiva, including unsolicited calls, WhatsApp messages and Telegram communications. While we strive to maintain a secure hiring process, Nextiva is not responsible for any losses arising from fraudulent activities. If you believe that you have been a victim of recruitment fraud, please contact your law enforcement agencies immediately.\n\n\nFor genuine opportunities, please apply only through our official career sites: Nextiva Careers & Nextiva Jobs on LinkedIn.\n\n\nFounded in 2008, Nextiva has grown into a global leader trusted by over 100,000 businesses and 1M+ users worldwide. Headquartered in Scottsdale, Arizona, and with teams across the globe, we're the future of customer experience and team collaboration through our AI-powered, conversation-centric platform.\n\n\nWant to see what life at Nextiva is all about? Connect with us on Instagram, Instagram MX, YouTube, LinkedIn, and the Nextiva Blog.",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/staff-agentic-ai-engineer-nextiva-bengaluru-karnataka--t7xk-860055217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Simplify",
+          "link": "https://simplify.jobs/p/fcf3ba46-a7a2-4c7f-b203-4652d3ba2322/Staff-Agentic-AI-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TopGenAIJobs — Gen AI & Agentic AI Jobs",
+          "link": "https://www.topgenaijobs.com/jobs/staff-agentic-ai-engineer-at-equinix-in-bengaluru-t88zpy?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4872874591141232640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Remoet.dev",
+          "link": "https://www.remoet.dev/listings/nextiva/jobs/staff-agentic-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/932f6bf1-b4be-4ec9-a517-247426b0cf2b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBZ2VudGljIEFJIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTmV4dGl2YSIsImh0aWRvY2lkIjoidnJNU2VvYlgtSjF4aG5EYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV2g0ZDNwaFowRm9jbU5DTnpReFkzUnNOMEZFWDJ3d1dHVkNOSEZyWkhrMFkwczJRMEUwVWxBemRtbEVVakpMZFVJdGVXbFFUbEJoUWpBME5XNTJVaTAwYW01TVkzUkJiWFJhY0RObk5tWmFlVmxmWWtSdWNEUmtNVGRWYVdSWmVVSjNiWEY1VEMxNGFIVlViV05qTlZCc1EwZHpkRGsyVFhoR1ZXSjFNMEkxUTFnMVVWQVNGekpQZGtWaGRtWnVTbU5EYlhCMFVWQjZUa1JOYjBGRkdpSkJSSE55T1daVWRtMXhNRUZIWm5sRmEwSXdhVVJ5ZGpoMk1YZFdkalpPZGtsQiIsImZjdiI6IjMiLCJmY19pZCI6InZyTVNlb2JYLUoxeGhuRGJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Tech Lead - AI & Platform Engineering",
+      "company_name": "Newron",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=WO04UFxnzmm-ss_aAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nOMhNDqKNCC4KgoKIKOLgXq71TKLpXUlS7Og_OPtzfolxedN7L_v0stWFKgNHwitMYL2HIZwdxpv4GrasLRN5yxq-rzfcpYRA6JMvDDsR7ai_NDE2YaFUCC7XIWK0VV5JrYSplE6lKPxRBIOemvSmYjafdnnDejQ40dOnl2XYEGt0rW_HcEDPGPGBPxO4u_KgAAAA&shmds=v1_ARwrE22v0as4ATMtydus7XoNrv4xIO5_a9xBSx4KDfMjl0_YSQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=WO04UFxnzmm-ss_aAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/Sxt7Qg4C8JS97kMNU-h89gE60nQlxCaHqYOPiAdYhRI.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/tech-lead-ai-platform-engineering-at-newron-4406874143",
+      "job_title": "Tech Lead - AI & Platform Engineering",
+      "description": "As a Tech Lead at Newron.ai, you will own the design, architecture, and delivery of AI-first platforms and agentic systems powering mission-critical workflows for NBFCs, banks, and enterprises. You will lead a team of engineers to build scalable backend systems, AI pipelines, and GenAI-driven productswhile working closely with product, ML, and leadership teams. This is a hands-on leadership role where you are expected to architect, code, mentor, and ship production systems at scale.\n\nArchitecture And System Design\n\nThe candidate will have responsibilities across the following functions: \n\n\n\nDesign scalable architectures for AI platforms, microservices, and data pipelines.Define system design patterns for LLM-based applications and agentic workflows.Build resilient systems handling high-volume BFSI data and transactions.\n\nAI And GenAI Platform Development\n\nLead development of LLM-powered services, AI agents, and orchestration layers.Design pipelines for document processing (PDFs, images, OCR, extraction).Integrate GenAI models (OpenAI, Claude, Gemini) into production workflows.\n\nEngineering Leadership\n\nLead and mentor a team of backend/full-stack engineers.Drive code quality, design reviews, and engineering best practices.Own delivery timelines and ensure high-quality execution.\n\nProduct And Cross-Functional Collaboration\n\nWork closely with product, ML, and business teams to translate requirements into scalable systems.Contribute to product thinking and feature prioritisation.Ensure alignment between business impact and engineering execution.\n\nOwnership And Delivery\n\nOwn modules end-to-end: design, build, deploy, monitor.Drive rapid MVP development and production rollouts.Ensure high availability, security, and performance.\n\nYou Will Lead Systems That\n\nPower loan onboarding, underwriting, CAM generation, and fraud detection.Enable GenAI agents for document understanding and decisioning.Support human-in-the-loop workflows for high-stakes financial decisions.Operate at scale with real-time APIs and enterprise integrations.\n\nRequirements\n\n5-8 years of experience in backend/full-stack / AI engineering.Prior experience as a Senior Engineer or Tech Lead.Strong experience building production-grade distributed systems.\n\nCore Skills\n\nStrong backend expertise in Python / Node.js / TypeScript.Experience with microservices architecture and API design.Hands-on experience with cloud platforms (AWS / GCP).\n\nAI / GenAI Exposure\n\nExperience building or integrating: LLM-based systems / GenAI applications, Document processing pipelines (OCR, extraction), AI agents / LangChain / orchestration frameworks.Understanding of prompt engineering, embeddings, and retrieval systems.\n\nData And Systems\n\nExperience with unstructured data (PDFs, images, documents).Familiarity with databases (PostgreSQL, Redis).Experience with data pipelines and processing frameworks.\n\nDevOps And Infra\n\nExperience with Docker and Kubernetes.CI/CD pipelines (GitHub Actions or equivalent).Monitoring tools (Datadog, Grafana).\n\nGood To Have\n\nExperience in BFSI / lending/fintech systems.Exposure to fraud detection, underwriting, or credit workflows.Experience building high-scale SaaS platforms.Prior work on agentic AI systems or workflow automation.Strong ownership mindset (not just task execution).Ability to think in systems, not just code.Balance between speed and architectural rigour.Comfortable operating in a fast-paced startup environment.Someone who can scale both systems and teams.\n\nTech Stack\n\nLanguages: Python, TypeScript, JavaScript.Frameworks: Node.js, React.js, LangChain.AI Tooling: OpenAI, Claude, OCR (Tesseract, AWS Textract).Infra: AWS, GCP, Docker, Kubernetes.Data: PostgreSQL, Redis, Pandas, spaCy.DevOps: GitHub Actions, CI/CD, and monitoring tools.\n\nThis job was posted by Human Resources from Newron.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/tech-lead-ai-platform-engineering-at-newron-4406874143?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/engineering-head-platform-and-ai-1672211?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/6245383417041813671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/headpro-consulting-llp-director-head-engineering-b2b-saas-ai-platform-bangalore-15-to-25-years-1465586?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJUZWNoIExlYWQgLSBBSSBcdTAwMjYgUGxhdGZvcm0gRW5naW5lZXJpbmciLCJjb21wYW55X25hbWUiOiJOZXdyb24iLCJodGlkb2NpZCI6IldPMDRVRnhuem1tLXNzX2FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNZNFVXNW5SbDlrZUVGV1prSjZNeTEzYURsSlZVeEJlR3BqYVdoSk5ESjFibk5CU0RKSloyOVNabDlsVDFsVFN6ZFdVblEyV2tnNVlraDNlbVl3VjJsWFVsaERhR05zYUZoRE4wUnpPVU5tYmxwRlVqTktVMmxPVW1wMFJUTk9hVU54TFUxVWVHNU1URmxQVDFKR1dXNTFVVmxoZEhacUxVaENXbkZHT1hOT1JUVklZbGtTRnpKUGRrVmhkbVp1U21ORGJYQjBVVkI2VGtSTmIwRkZHaUpCUkhOeU9XWlRkRGxXVms5T1V6bENVRTl3TW1aVFlrUnROVU5YYWpJM2ExbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJXTzA0VUZ4bnptbS1zc19hQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Sr. MTS, AI Platform",
+      "company_name": "eBay",
+      "location": "Bengaluru, Karnataka",
+      "via": "Careers - EBay Inc.",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=gdh9JHxVjMp0mqz9AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7COJws9REBBed2kVEBKHu5RrOpJrmSi6Fujm7-oY-iXX5t-_P3rNsVUUF52uVQ3GEi8d049jB9_WBOzcghNE44AAHZutpvncp9bLTWsQrKwlTa5ThTnOghkc9IfmnFoeR-ulH9Wa7HlUf7HJBJT6hDVBSsOiHOORwwhgw4QN_KDWqVI0AAAA&shmds=v1_ARwrE21XbdPoqeaZktuYNhTOv34Qz_JHVtR4-JeDyY_X0WUijg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=gdh9JHxVjMp0mqz9AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/VZBinh7GqezxCpG8X5s-tMTPKGjaFP7sr3ODg8J4jCg.png",
+      "extensions": [
+        "15 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://jobs.ebayinc.com/us/en/job/R0076802/Sr-MTS-AI-Platform",
+      "job_title": "Sr. MTS, AI Platform",
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\n\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\n\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\n\n\nAbout the team and the role:\n\nWe are seeking a highly skilled and expert Senior Architect to lead the design, development, and optimization of our innovative AI Platform. We need the highest levels of technical talent and programming skills, as well as a keen desire to deeply understand our products and services to push our technology forward. You’ll work alongside the most creative engineering talent in the industry across the globe.\n\nAs the Senior Architect, you will work closely with engineering teams, data scientists, and business partners to design systems that support high-performance model training, deployment, and monitoring. You will also drive the adoption of best and standard processes to ensure the platform's reliability, scalability, and cost-effectiveness.\n\n\n\nWhat you will accomplish:Design and implement robust, scalable and secure systems for the eBay AI Platform, supporting all stages of development of an AI application, including data preparation, model training, model serving, experimentation, observability.\n\nEvaluate emerging technologies and frameworks to enhance platform capabilities. Lead efforts to integrate tools and methods to optimize performance and cost efficiency.\n\nMentor and coach engineers at all levels, supporting their professional development and helping grow the technical capability of the team.\n\nCollaborate with senior technical leaders across various domains to ensure architecture alignment, module reuse, performance optimization, data consistency, and high availability of AI solutions.\n\nDevelop a culture of engineering excellence by driving efficiency, velocity, quality, and innovation within the team, and lead initiatives to modernize the technology stack when advantageous.\n\nActively participate in the software development process by investigating issues, writing high-quality code, performing rigorous code reviews, and prototyping innovative solutions.\n\nWhat you will bring:PhD or MS in Computer Science, Electrical Engineering or related field.\n\n8+ years of experience in software engineering specializing in large-scale, high-performance distributed systems.\n\nProven experience in designing and architecting sophisticated systems at scale, with expertise in distributed systems, microservices, and event-driven architectures.\n\nStrong programming skills in Python, Java or Go, with experience in frameworks like TensorFlow, PyTorch.\n\nExperience with or understanding of some of the following technologies: Docker, Kubernetes, Spark, Hadoop, Kafka, MLflow, Airflow, Kubeflow, Nvidia Triton, Nvidia TensorRT, vLLM, Ray.io\n\nStrong skills in scalability and performance tuning for high-volume, critical applications, ensuring robust and resilient AI frameworks.\n\nDemonstrated proficiency in applying autonomous AI coding agents to speed up software delivery pipelines. This includes advanced prompting and careful human-in-the-loop code review to improve development speed and code accuracy.\n\nExperience leading multi-functional projects, providing strategic technical leadership, and influencing the direction of engineering practices across an organization.\n\nConsistent track record of leading and participating in effort estimation for sophisticated projects, ensuring that project timelines and resources align with business objectives.\n\nExceptional problem-solving skills with a focus on innovation, scalability, and performance optimization in AI solutions.\n\nStrong Communication: Excellent communication and leadership skills, capable of engaging both technical and non-technical partners at all organizational levels.\n\nAgile Methodologies: experience with Agile/Scrum methodologies.\n\nGood to have - Experience with high-performance databases (SQL, NoSQL), vector databases, Graph databases, and experience working alongside or having knowledge of generative models, RAG\n\n\n\nAdditional Details\n\n\n\neBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.\n\n \n\nWe use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines.",
+      "apply_options": [
+        {
+          "title": "Careers - EBay Inc.",
+          "link": "https://jobs.ebayinc.com/us/en/job/R0076802/Sr-MTS-AI-Platform?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/sr-mts-ai-platform-ebay-bengaluru-bangalore-68024190?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "MyGwork",
+          "link": "https://mygwork.com/jobs/ebay-sr-mts-ai-platform-6613228?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-mts-ai-platform-ebay-bengaluru--fj-2365617122?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/VfNs7qUaLpqpmJIENQSWyUwNMjgK5OLDivG03Vxl5E7HbFM0oVHWww?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/sr-mts-ai-platform-at-ebay-4465960851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/sr-mts-ai-platform-ebay-bengaluru-bangalore-68024190?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Adzuna",
+          "link": "https://www.adzuna.in/details/5887707077?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTVRTLCBBSSBQbGF0Zm9ybSIsImNvbXBhbnlfbmFtZSI6ImVCYXkiLCJodGlkb2NpZCI6ImdkaDlKSHhWak1wMG1xejlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZkWUxVRlNUMU5vYVhJeVRXUllPVk50TkRKQmMxWlJVSFpVU2s1UmNrWjZZWE00VFVsamRHWndWbUpNYWs1WWJ6QldZMmRCUlRaZllYQk1aa1JXVWtGS1R5MVpOMGhGVWpSNWEyZ3RVRVU1Vm5oc2IxVk5iRzFNY1RsTFFXUnNiVFJpZWtoV2VVdHdWR2h2WVRkVFVVWlNNa0pHZERsTFdUSmhSbXd0VG5SU05DMURjRlFTRnpKUGRrVmhkbVp1U21ORGJYQjBVVkI2VGtSTmIwRkZHaUpCUkhOeU9XWlVOVGQxVTJ4Q1ZtZDRkbDlKY0hkVU5uRmpUbFZMVlhaT1lsUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJnZGg5Skh4VmpNcDBtcXo5QUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Staff Engineer - Mobile, Desktop & KMP",
+      "company_name": "Sarvam AI",
+      "location": "Bengaluru, Karnataka",
+      "via": "Sarvam AI",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=cwloYMQHQDSSR8hIAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCQBAAQGzzBKu1sZCYE8FGC1EUkRAQ8oCwCZvLmcttuNtISv_gC_yaL1Gb6SZ6T6J9LljXcHbaOCIPS8i4NJZiOFFohXuYQ5rd4PN8wZ1LCIS-aoAdXJi1pemuEenDVqkQbKKDoJgqqbhT7KjkUf1S-FOEBj31FoWK9WY1Jr3Ti1mO_oEdHK5gHBzJabSDH2JI0TsUbPELpeOme6QAAAA&shmds=v1_ARwrE22LykcDFMilGj-x5HZGuaZXPNH3EJcCy58jZ2lLgz9fpQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=cwloYMQHQDSSR8hIAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/4Z6M-HPGZgyiTvWh5QloB3C_HoD0Yi2aMK0rUFrKu84.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.sarvam.ai/careers/jobs/5494ecdf-373b-4eb8-839d-1bbd110e7ec9",
+      "job_title": "Staff Engineer - Mobile, Desktop & KMP",
+      "description": "About Sarvam\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n\nAbout the Role\nSarvam's consumer and enterprise products — Indus, Kivi, and the products we build next — live on the devices people actually use: Android phones, iPhones, Windows laptops, Linux desktops, and Macs.\n\n\nThese are not thin web wrappers. They are native applications that run on-device inference, capture and stream audio, render streaming model output, and keep working when the network drops. Across India's hardware spectrum — from a low-end Android phone on a patchy 2G connection to a developer's Mac on fibre — the app has to feel fast and reliable.\n\n\nWe are hiring a Staff Engineer to own the client application layer across mobile and desktop, with Kotlin Multiplatform (KMP) as the unifying bet. This is an IC role. You will set the architecture, the patterns, and the bar for how Sarvam ships native apps across five platforms without five separate codebases.\n\n\nYou will work across the Sarvam product stack — Indus, Kivi, and new products as they come — and partner closely with backend, model serving, and product teams rather than against a finished spec.\n\n\nWhat You’ll Do\n\n\nOwn the end-to-end architecture of Sarvam's mobile and desktop applications, built on a Kotlin Multiplatform core that shares business logic, networking, storage, and model-client code across Android, iOS, Windows, Linux, and macOS, with Compose Multiplatform and Jetpack Compose as the primary UI layer.\n\n\n\nShip and evolve Indus and Kivi as native apps on all five platforms — chat and streaming UI, voice capture and playback, on-device and cloud model invocation, offline-first behaviour, and background processing.\n\n\n\nLead the KMP adoption strategy: decide what lives in common code versus what stays native, design the expect/actual boundaries, and build the shared modules (networking, persistence, audio pipeline, model client, telemetry) that every product team builds on.\n\n\n\nBuild for India's real device and network conditions: low-RAM Android devices, intermittent connectivity, code-switching across 22+ Indian languages, and audio pipelines that must handle VAD, compression, and streaming under poor networks.\n\n\n\nIntegrate Sarvam's model APIs — ASR, TTS, translation, LLM, vision — into the client, including streaming responses, partial result rendering, and graceful degradation when a model call fails or times out.\n\n\n\nDrive performance and reliability across platforms: cold-start time, memory footprint on low-end devices, audio latency, battery discipline, and crash-free rate.\n\n\n\nSet the engineering standard for the client team: CI/CD across all five platforms, automated testing on real devices, code review culture, and a documentation-first approach to architecture decisions.\n\n\n\nDecide what UI and platform code stays shared versus native — Compose Multiplatform where it buys reach, but native UI frameworks (SwiftUI, Win32, GTK) and native libraries on any platform where a shared abstraction would cost performance, correctness, or platform feel.\n\n\n\nPartner with backend and inference teams on API contracts and streaming protocols — you shape them, not just consume them — and with product and design to ship coherent, native experiences rather than platform-agnostic ports.\n\n\n\nMentor engineers across the client team on platform-native depth (Android, iOS, desktop) and on KMP discipline, raising the floor of what the team can ship independently.\n\n\nWhat We're Looking For\n\n\n9+ years building production mobile and/or desktop applications that real users depend on, with strong ownership of what you shipped.\n\n\n\nDeep Kotlin expertise in production, including coroutines, flows, and modern Android architecture;\n\n\n\ncomfort with Swift on iOS and with at least one desktop platform (Windows, Linux, or macOS).\n\n\n\nHands-on experience with Kotlin Multiplatform (KMP) on a shipped or in-production product designing shared modules, managing expect/actual boundaries, and dealing with the real friction of sharing code across mobile and desktop.\n\n\n\nStrong command of native audio and streaming pipelines: audio capture, playback, buffering, VAD, codec handling, and low-latency streaming to and from model endpoints.\n\n\n\nExperience shipping apps that work in constrained environments — offline-first, low-bandwidth, low-RAM — not just on a flagship device over fibre.\n\n\n\nSolid networking and API integration instincts: streaming (WebSocket, SSE), retry and backoff, caching, optimistic updates, and debugging across the client-server boundary.\n\n\n\nHands-on experience with Compose Multiplatform and Jetpack Compose in production, and the judgment to drop to native UI frameworks and native libraries (SwiftUI on iOS, Win32 or GTK on desktop, platform audio or media APIs) when a shared abstraction would cost performance, correctness, or platform feel.\n\n\n\nFamiliarity with CI/CD and automated testing across multiple platforms, including real-device testing rather than emulator-only.\n\n\n\nThe judgment of a senior IC: when to share code vs. go native, when to abstract vs. inline, when to optimize vs. ship, and how to bring the rest of the team up with you.\n\n\nBonus Points\n\n\nExperience with on-device model inference or on-device ML (TensorFlow Lite, Core ML, GGML, or equivalent) on mobile or desktop.\n\n\n\nBackground in speech or audio processing — codec work, sample-rate handling, echo cancellation, or VAD — in a production app.\n\n\n\nExperience building voice-first or dictation products, especially multi-language or Indic language voice experiences.\n\n\n\nDesktop app shipping experience via Kotlin/Native or JVM-based desktop targets, or prior work distributing apps through the Mac App Store, Microsoft Store, or Linux package managers.\n\n\n\nTime at an early- or growth-stage startup: comfort with ambiguity, speed, and ownership.\n\n\n\nExperience with Compose Multiplatform shipping to both mobile and desktop from a shared codebase.\n\n\n \nWhy Sarvam?\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n\n\n\nWork alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar High ownership and high impact, from day one\n\n\n\nEverything we do is AI-first, from the way we build and ship to the way we think about problems\n\n\n\nYou can work on problems that could change how an entire country learns, works, and communicates\n\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be.",
+      "apply_options": [
+        {
+          "title": "Sarvam AI",
+          "link": "https://www.sarvam.ai/careers/jobs/5494ecdf-373b-4eb8-839d-1bbd110e7ec9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs",
+          "link": "https://jobs.ashbyhq.com/sarvam/5494ecdf-373b-4eb8-839d-1bbd110e7ec9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/staff-engineer-mobile-desktop-kmp-sarvam-9505882?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/6902714733129555687?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Khosla Ventures Job Board",
+          "link": "https://jobs.khoslaventures.com/companies/sarvam-ai-2/jobs/90398364-staff-engineer-mobile-desktop-kmp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/staff-engineer-mobile-desktop-and-kmp-sarvam-safety-equipment-JV_IC2940587_KO0,37_KE38,61.htm?jl=1010234672747&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/staff-engineer-mobile-desktop-kmp-sarvam-bengaluru--fj-2319196551?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/B1BWw095c7I2Sr62HhgoDhV2dTeTwgmq2qowwOua_QjO3KsDKJ9vGQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBFbmdpbmVlciAtIE1vYmlsZSwgRGVza3RvcCBcdTAwMjYgS01QIiwiY29tcGFueV9uYW1lIjoiU2FydmFtIEFJIiwiaHRpZG9jaWQiOiJjd2xvWU1RSFFEU1NSOGhJQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyZ3RZM0YxTnpoWGVURm5ZakZ1U1hkMmVXbFdlakpEYlhGaFVDMHdPWHBTVjJsdGN6TTRTV3hDWDBKVVJXMWliamswV21Wd1RYRk5XWGd5UkVobFQyaElWVGd0YjNWUVoybHhTVTFsTkhORlYyVmtZMWQ1Tm5ZNFVFVXhjSEIwVmpJM2JtZHpUbGt6Y0ZCUFIweENVbUpoT0RaUGIxSnBiR1U1VEZCbmRVVkxRVmwyUW1VU0Z6SlBka1ZoZG1adVNtTkRiWEIwVVZCNlRrUk5iMEZGR2lKQlJITnlPV1pTYUZGaE5HSnBUVGcxVFdsVVFUbE9lVXB1YW1wMGNtaEVSelJuIiwiZmN2IjoiMyIsImZjX2lkIjoiY3dsb1lNUUhRRFNTUjhoSUFBQUFBQT09In0="
+    },
+    {
+      "title": "Sr Engr Cslt-AI/ML Engineering",
+      "company_name": "Verizon",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=84b-Hugtaw4vkC8PAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TbNxaNCeCCFqpiIhaCbZhE5a703Mv7F4gWPkHC__nS0yagSlmsu8gW14F9mwFdhrSdHM0l3PvnonEs4Xf-wP3WIISSuUgMhxitIGGa5dSrStjVENuNWHyVV7Fp4lMZWxNF2mPQh0K1QETFfPFrM1rtuPRrbu_upln2BJbDI00EzihMCZ84B-8P2uwmgAAAA&shmds=v1_ARwrE21yeaVF2wVYm6WIrKfGrJsXvEueaH9N8Oz9O2Q-dphOLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=84b-Hugtaw4vkC8PAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/-B60hr8i-VJIky5L28OdUc0FoKc0xVx31gEjh5GtAmE.jpeg",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/sr-engr-cslt-ai-ml-engineering-at-verizon-4473786070",
+      "job_title": "Sr Engr Cslt-AI/ML Engineering",
+      "description": "When you join Verizon\n\nYou want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can learn, grow, and thrive. At Verizon, we power and empower how people live, work and play by connecting them to what brings them joy. We do what we love — driving innovation, creativity, and impact in the world. Our V Team is a community of people who anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together — lifting our communities and building trust in how we show up, everywhere & always. Want in? Join the #VTeamLife.\n\nWhat You’ll Be Doing...\n\nWe are looking for a Sr Engr Cslt - AI/ML Engineering in the AI Platforms and AI Governance organization.\n\nThe enterprise AI Control Plane team requires Senior Engineer Consultant to be part of the build and operate phase of the foundational E2E AI Governance ecosystem. Currently, AI governance work is fragmented. This role will lead a dedicated engineering pod to own the overarching architecture that integrates AI development platforms with safety and compliance hubs. This role will be part of the team that sets enterprise standards, negotiate guardrails withexecutive risk organizations (Legal, InfoSec, RAI), and transform governance from a manual bottleneck into an automated pipeline, culminating in same-session auto-approvals for Verizon AI.\n\n\n\nArchitect and code automated governance pipelines that inject Security and RIL (Responsible AI, Integrity, Legal) guardrails directly into the deployment lifecycle.Implement advanced agent simulation (Tau2 benchmark) and continuous real-time observability telemetry for production LLMs.Build robust API integrations connecting developer platforms seamlessly with Verizon governance hubs (Engram, Agent Registry).Architect Identity & Access Management (IAM) and routing logic within the Agent Gateway to ensure autonomous workflows operate with secure access boundariesFoster a culture of scientific innovation, driving the creation of new intellectual property (IP), patents, and advanced evaluation metrics (e.g., piloting Tau2 benchmarking for agent simulation).\n\nIn this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager.\n\nWhat We’re Looking For...\n\nYou’ll need to have:\n\nBachelor’s degree or Six or more years of work experience.Five or more years of relevant experience required, demonstrated through one or a combination of work and/or specialized training.Strategic Architecture: Deep expertise in AI solution deployment patternsFinancial Operations (FinOps): Ability to manage the high costs of GPU clusters and compute credits through strategic resource allocation.AI/ML governance practices scaling at enterprise grade\n\nEven better if you have one or more of the following:\n\nDeep fluency in AI/GenAI architecture and distributed systems.\n\nIf Verizon and this role sound like a fit for you, we encourage you to apply even if you don’t meet every “even better” qualification listed above.\n\nWhere you’ll be working\n\nIn this hybrid role, you'll have a defined work location that includes work from home and assigned office days set by your manager.\n\nScheduled Weekly Hours\n\n0\n\nEqual Employment Opportunity\n\nVerizon is an equal opportunity employer. We evaluate qualified applicants without regard to race, gender, disability or any other legally protected characteristics.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/sr-engr-cslt-ai-ml-engineering-at-verizon-4473786070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/sr-engr-cslt-ai-ml-engineering-verizon-bengaluru--ss-in-1cndeko?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4926541341376118784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent.com",
+          "link": "https://in.talent.com/view?id=640124885988544204&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341530305/sr-engr-cslt-ai-ml-engineering-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTciBFbmdyIENzbHQtQUkvTUwgRW5naW5lZXJpbmciLCJjb21wYW55X25hbWUiOiJWZXJpem9uIiwiaHRpZG9jaWQiOiI4NGItSHVndGF3NHZrQzhQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyZFFXVk5UTUdkR2MwdDJhSE15VVcwMWVuZEhkR2MzVlhkMFNFWlZNV1UwTVVvd1pHczJaMkZXZDB0M1NrZExlR2huYlVVeFkzVkVlVGg2Y0cxSk4xSXdkR05YU0VoV1ZFdHhUbTB5ZFhCaGQyVkVNM2xoUjBGeVIyWTRabWd6UlRCT01TMHRjM05pUzBNemFXMWhVWEl5YUV0cFgwZHRZbm8yY0VSaVFVTlNaVXRuWmpRU0Z6SlBka1ZoZG1adVNtTkRiWEIwVVZCNlRrUk5iMEZGR2lKQlJITnlPV1pSY0VaWlJFTjVUWGxGVlRReFpWbEZiR2xzUXkxNGFtNWpTSEIzIiwiZmN2IjoiMyIsImZjX2lkIjoiODRiLUh1Z3RhdzR2a0M4UEFBQUFBQT09In0="
+    },
+    {
+      "title": "Core Platform Engineer",
+      "company_name": "Lyzr AI",
+      "location": "Bengaluru, Karnataka",
+      "via": "Lyzr AI",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=tJlAFhC54W9bOHGuAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBBAUWxzBBunFtkVwUYrFRHRwhuESRg30c1MmNlAtPIGFt7Qkxib372fvUeZ34kSXCKmq2gDew41Eyl8Xx-4SQFGqGUFwnAQCZHG6yql1lbem0UXLGGqS1dK44WpkN4PyP7JrUKldhhTvljOe9dymE7Oj6fC5gg1w5Y4YOy0m8EJlTHhHX_JeQBrkgAAAA&shmds=v1_ARwrE22ljw7ezEatUf5pqeT1ZsQTjOvcUAJI1sEj-knLhJ28iQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=tJlAFhC54W9bOHGuAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAYFBMVEX___8AAACysrLe3t42NjaDg4Ps7Ozo6Oi2trZJSUna2trCwsLQ0NCbm5t0dHTh4eE_Pz8LCwujo6Orq6sjIyN8fHyMjIz29vZvb29kZGQYGBhfX18sLCxSUlLJyclZWVmaEfxcAAABC0lEQVQ4je2U2ZaDIAyG_1QFwQ3RunSx7_-WJS4dZ6Ycrdf9LwInh8_EJAB8tUsyPi1KPuEiWivdzWX0W2IvOJ6u2YQl28j58nabK0YwCIgUzrw1_LEdYYMRDJGUGObtJyCpptW0Ak-ZW2zSjS7dWxN7QJLisgKlIF6KVjp_VNDV_mvUDGqUc18mENcKCf8ucgUdelMdcKMG_QssoAmKo1gXWisfWEE5m-H-ExGm4mxTrpMX7BBwC_OxqQzeotbV2NVHUiWk0MYX8SHcAFkMlxlMXQ4gNwXnqcu9vx0N2qZ7FYcVP96cXmmaHLJZPA0fLWnVW-M-Ha_NMuTR7M83uOO34_B9PP4CfPVXTzZ9CRoJVZBsAAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://careers.lyzr.ai/jobs/523360-core-platform-engineer",
+      "job_title": "Core Platform Engineer",
+      "description": "About Lyzr AILyzr is building the foundation layer for agentic AI systems — making it radically simpler to build, deploy, and scale intelligent agents in production.\n\nWe believe the future of software is agent-first. Not wrappers. Not demos. Real systems that reason, act, observe, and improve over time.\n\nWe’re looking for Core Engineers who want to work at the deepest layers of agentic infrastructure — the runtime, orchestration, memory, tool execution, and guardrails that power real-world AI systems.\n\nIf you’re excited by how agents actually work under the hood, this role is for you.\n\nRole OverviewAs a Core Engineer at Lyzr, you’ll work on the heart of the platform — the framework and services that enable agents to plan, execute, collaborate, and operate safely at scale.\n\nYou’ll collaborate closely with product, infra, and leadership to ensure architectural clarity, technical rigor, and production-grade reliability across everything we ship.\n\nWhat You’ll Work OnBuild and evolve the Lyzr agent runtime (planning & execution loops, memory systems, tool/function calling, multi-agent coordination)\n\nDevelop core agent services (event-driven orchestration, RAG pipelines, Text-to-SQL, tool invocation layers)\n\nDesign secure tool execution environments and sandboxing mechanisms\n\nImplement model & data integrations (LLM providers, embeddings, vector stores, connectors, RAG pipelines)\n\nBuild observability & guardrails (tracing, token-level logging, eval harnesses, safety filters, policy enforcement)\n\nShip multi-tenant SaaS and enterprise / on-prem deployments with RBAC\n\nOwn scalability & resilience (profiling, load testing, autoscaling, failure handling)\n\nContribute to open-source components and help build a strong developer ecosystem around Lyzr\n\nWhat We’re Looking ForPlatform Engineering FundamentalsStrong hands-on backend engineering experience\n\nExcellent command of Python, FastAPI, MongoDB, and Docker\n\nProven experience building and scaling systems from scratch\n\nSolid grasp of distributed systems, system design, and API architecture\n\nAWS experience required (Azure is a plus)\n\nProduct-minded engineers with strong ownership and initiative\n\nClear communicator and collaborative problem-solver\n\nRole Bands & ExpectationsStaff Core EngineerDesigns and owns entire complex systems end-to-end\n\nDeep expertise in distributed systems and scalable architectures\n\nOwns core agent architecture: orchestration, tool execution, memory, RAG, Text2SQL, guardrails\n\nStrong cloud, CI/CD, monitoring, logging, and tracing experience\n\nResearch-driven mindset — pushes the platform forward with new ideas\n\nMentors engineers, leads design reviews, sets quality standards\n\nDemonstrated track record of building impactful systems\n\nSenior Core EngineerLeads development of key systems within the agent stack\n\nStrong system design and clean architecture instincts\n\nShips high-quality components quickly and reliably\n\nMentors junior engineers and collaborates deeply across teams\n\nComfortable operating in cloud-native environments\n\nCore EngineerShips well-scoped features with quality and speed\n\nStrong Python fundamentals (Go or Rust is a bonus)\n\nFamiliar with AWS and CI/CD workflows\n\nBreaks down complex problems, identifies edge cases, and asks the right questions\n\nWhy Lyzr?You’ll work on real agentic systems, not demos\n\nYou’ll shape the core intelligence layer, not just applications\n\nYou’ll have ownership, trust, and freedom to build\n\nYou’ll influence how enterprises adopt agentic AI globally",
+      "apply_options": [
+        {
+          "title": "Lyzr AI",
+          "link": "https://careers.lyzr.ai/jobs/523360-core-platform-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/core-platform-engineer-lyzr-ai-JV_IC2940587_KO0,22_KE23,30.htm?jl=1010029987261&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/core-platform-engineer/lyzr-ai/19545348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/RDAhTscH7jLfWygLPb2_6vauiMvzrq7RhC36zV0lF1QRYTdV5Qb3cA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/core-platform-engineer-at-lyzr-ai-4468506903?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/core-platform-engineer-lyzr-ai-JV_IC2940587_KO0,22_KE23,30.htm?jl=1010029987261&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobaaj",
+          "link": "https://www.jobaaj.com/job/playo-core-platform-engineer-bengaluru-bangalore-karnataka-2-to-4-years-1476950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "QuickHyre AI",
+          "link": "https://quickhyre.ai/jobs/1d76dd82-80a6-48a8-97e9-19c04550aa3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDb3JlIFBsYXRmb3JtIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTHl6ciBBSSIsImh0aWRvY2lkIjoidEpsQUZoQzU0VzliT0hHdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbU4yZGtsMVFUVXplbnBIZUVkcVZFTTVXa0ZsTUVsalIzbHlOMnRaYkZSVGVDMVZZa3hDWlVGWFJsbzRaMEpWZFdkVWNqbFhVMnR2VlVkR01EbDVSVXN0UkZOamNEbGhVMlZ1VDFnMFFWTnZSbk5aTVd4ck5IaFRXbTlhT1dReVRVRm5la3BDU25wWWRWRm9WbkJEUm1sS2NYbFBhV0YxY1Vwblp6Y3pRMjlsVDBOVVQwY1NGekpQZGtWaGRtWnVTbU5EYlhCMFVWQjZUa1JOYjBGRkdpSkJSSE55T1daVGRGbHVSMlV0VUZWMk9YRmlTbmxKVEhoZlkzb3dUR3BXUXpKUiIsImZjdiI6IjMiLCJmY19pZCI6InRKbEFGaEM1NFc5Yk9IR3VBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Sr. Lead/Sr. Engineer– Enterprise AI Platform",
+      "company_name": "Qualcomm",
+      "location": "Bengaluru, Karnataka",
+      "via": "LinkedIn",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Staff+AI+Platform+Engineer&htidocid=ChGLAjsLO3PPRwAfAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsfUIVlOLZEWw0UpBVLRQPECYxHGzutlZZjaQ0jt4Cq_lSdw0nwf__T_-jsaHmxRwJrybAXbBukAkv_cncyKJ4pRgc4SLx_RgaWGonlyBEkrdAAfYM1tPk3WTUtSVMaq-sJowubqouTUcqOLe5JEOUWqDQjH_UblYzvsiBjuFa4c-yy24AFsKFn0n3QxOKAETvvAP-mSJhawAAAA&shmds=v1_ARwrE20pdRN2YpW-Edf8LBPPb_5HDBn1hNz2mRxt8q27lARO1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Staff+AI+Platform+Engineer&htidocid=ChGLAjsLO3PPRwAfAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4ebd7a7d7840f991a5e0d/images/GCCxo3fsElt3Qp0v78PYnkqV3z6HWwQ9BAhzXhwZxsU.jpeg",
+      "extensions": [
+        "6 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.linkedin.com/jobs/view/sr-lead-sr-engineer%E2%80%93-enterprise-ai-platform-at-qualcomm-4398130071",
+      "job_title": "Sr. Lead/Sr. Engineer– Enterprise AI Platform",
+      "description": "Company\n\nQualcomm India Private Limited\n\nJob Area\n\nEngineering Group, Engineering Group > Software Engineering\n\nGeneral Summary\n\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Software Engineer, you will design, develop, create, modify, and validate embedded and cloud edge software, applications, and/or specialized utility programs that launch cutting-edge, world class products that meet and exceed customer needs. Qualcomm Software Engineers collaborate with systems, hardware, architecture, test engineers, and other teams to design system-level software solutions and obtain information on performance requirements and interfaces.\n\nJoin the team building Qualcomm’s Enterprise-Grade Generative AI Platform. We are at the forefront of the AI revolution, developing State-of-the-Art (SOTA) agentic applications designed to hyper-charge productivity across all Qualcomm business units.\n\nOur mission extends beyond internal tools; we are building a robust infrastructure by exposing Model SDKs, Frameworks, and Application APIs that empower other teams to build their own custom AI solutions. We operate at scale, solving complex challenges related to ultra-low latency, high-throughput scalability, and the seamless orchestration of on-premises and cloud-based data systems.\n\nMinimum Qualifications\n\n Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 2+ years of Software Engineering or related work experience.\n\n\nOR\n\nMaster's degree in Engineering, Information Systems, Computer Science, or related field and 1+ year of Software Engineering or related work experience.\n\nOR\n\nPhD in Engineering, Information Systems, Computer Science, or related field.\n\n 2+ years of academic or work experience with Programming Language such as C, C++, Java, Python, etc.\n\n\nAs a Platform Engineer, you will build the backbone of our AI ecosystem, ensuring our data pipelines and services are robust, scalable, and efficient.\n\nFocus: Infrastructure, Data Engineering, and Scalable Backend Systems\n\n\nKey Responsibilities\n\nDevelop and modify specialized utility programs and general applications to optimize operational efficiency.Design and manage large-scale data warehouses and build complex ETL pipelines.Bridge the gap between on-premises data and AWS-based cloud pipelines (SageMaker, Glue, Athena).Optimize system performance to meet stringent latency and scalability requirements for global enterprise use.\n\n\nRequirements\n\nExperience: 3-7 years in ML Engineering, Data Engineering, or Software Development.Technical Stack: Solid experience with Python, SQL, and AWS analytical technologies (Glue, Athena, QuickSight, SageMaker).Big Data: Proficiency in data modeling, warehousing, and handling large-scale data exchange formats.Education: Bachelor’s in CS/Engineering; Masters with a focus on Data Science/ML is a plus.\n\n\nApplicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).\n\nQualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.\n\nTo all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.\n\nIf you would like more information about this role, please contact Qualcomm Careers.",
+      "apply_options": [
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/sr-lead-sr-engineer%E2%80%93-enterprise-ai-platform-at-qualcomm-4398130071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.com/job-listing/sr-lead-sr-engineer%E2%80%93-enterprise-ai-platform-qualcomm-JV_KO0,43_KE44,52.htm?jl=1010096150605&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Levels.fyi",
+          "link": "https://www.levels.fyi/jobs?jobId=120651518725497542&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/1295613097855156224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/337263587/sr-lead-sr-engineer-enterprise-ai-platform-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTGVhZC9Tci4gRW5naW5lZXLigJMgRW50ZXJwcmlzZSBBSSBQbGF0Zm9ybSIsImNvbXBhbnlfbmFtZSI6IlF1YWxjb21tIiwiaHRpZG9jaWQiOiJDaEdMQWpzTE8zUFBSd0FmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHTkRRM0ZtYVRaVmExTmhWRGxNUm10d00yaG9jVzh4WmkxUFFXNDJUamszUTJrMGQybFFiVWxTUkhOM05FNWhiRjlOWVhwQloyUXpjSGw1U1VwaWExcDVaRU0yUzJFd1VqTTJhVWxsYXpaV2MyaFJaM2hRYTNsZlFUWm5iMmh6TjAxNWVWbDFYM05LU0RWQmMwSlBhSEJITVhRMVExbFFZMmhmTkZOYWNIQlpPRVI0TjNvU0Z6SlBka1ZoZG1adVNtTkRiWEIwVVZCNlRrUk5iMEZGR2lKQlJITnlPV1pUYnpkaGNYVjJjbEJwZEdWUGNrdzROVzgxTm1VNFVUQkNVMjFuIiwiZmN2IjoiMyIsImZjX2lkIjoiQ2hHTEFqc0xPM1BQUndBZkFBQUFBQT09In0="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURzlEVmtreGVXMVVObVJmV214TE4waHdhM1UwTWxOM1dWZFZZVGxJVUVvdFpWOUhMWGR3V1dkWFVsOWlPSGxwTWxaWlZVcEhVa2Q0ZGs4d1JXSnlhblU1UkU5MVlucG1lRjlaVlVObk1TMVVXRGhpUms5Zk1rMHROMUp6VWpWQmVVcEpkMjlpVWpCa05VeHNlWFJGYVhsc1ZVcE5MVzFZZFVSM1FUZFJUalZXVjJwVGNrWnNkMUpUWTJoQk1HMHljRXhpVXpGSmFtOTNhVkJLY2s1R2NqQkRiazlpTlcwd1NHSnZiMmRNWDJneVUzZ3hjSFJuVUVGbFNIWkZWV3BqZVhGRlIwRkpZbXMyVW14NlNXOWFNWGRUZG00M2NVZFhWa1JOZFcxbWRsRjFWWHB6UlhsNmRHUm9NelowZDJOaWNURmhVMVIzWmtsTlMzRkhNVlF6VmkwMVRVeHZZbVpoTlc5cVRsbGtXa1ZKTjFWNmVYaExaa2h1WTJ0U1FWOTNaakZTVDBKU1EwazNjbHBZU25GUVYxTXhVVlp1YjBWMFQwcHlWMmt5VlZZeFZqbHBNSFlTRnpKUGRrVmhkbVp1U21ORGJYQjBVVkI2VGtSTmIwRkZHaUpCUkhOeU9XWlNjRWxMVlZOWmNEUmpiM1p6UzJrM1dVRjJWelpaZG1zd01GbG4iLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBURzlEVmtreGVXMVVObVJmV214TE4waHdhM1UwTWxOM1dWZFZZVGxJVUVvdFpWOUhMWGR3V1dkWFVsOWlPSGxwTWxaWlZVcEhVa2Q0ZGs4d1JXSnlhblU1UkU5MVlucG1lRjlaVlVObk1TMVVXRGhpUms5Zk1rMHROMUp6VWpWQmVVcEpkMjlpVWpCa05VeHNlWFJGYVhsc1ZVcE5MVzFZZFVSM1FUZFJUalZXVjJwVGNrWnNkMUpUWTJoQk1HMHljRXhpVXpGSmFtOTNhVkJLY2s1R2NqQkRiazlpTlcwd1NHSnZiMmRNWDJneVUzZ3hjSFJuVUVGbFNIWkZWV3BqZVhGRlIwRkpZbXMyVW14NlNXOWFNWGRUZG00M2NVZFhWa1JOZFcxbWRsRjFWWHB6UlhsNmRHUm9NelowZDJOaWNURmhVMVIzWmtsTlMzRkhNVlF6VmkwMVRVeHZZbVpoTlc5cVRsbGtXa1ZKTjFWNmVYaExaa2h1WTJ0U1FWOTNaakZTVDBKU1EwazNjbHBZU25GUVYxTXhVVlp1YjBWMFQwcHlWMmt5VlZZeFZqbHBNSFlTRnpKUGRrVmhkbVp1U21ORGJYQjBVVkI2VGtSTmIwRkZHaUpCUkhOeU9XWlNjRWxMVlZOWmNEUmpiM1p6UzJrM1dVRjJWelpaZG1zd01GbG4iLCJmY3YiOiIzIn0%3D&q=Staff+AI+Platform+Engineer"
+  }
+}

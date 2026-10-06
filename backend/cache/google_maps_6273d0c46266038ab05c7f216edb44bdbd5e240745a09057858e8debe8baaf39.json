@@ -1,0 +1,460 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebfa5c9301aeb86c0865",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IxdNxbfNDzXEcxhRl9MayEutHUVz8wh2ZYNM_BPJw9Y/6ac4ebfa5c9301aeb86c0865.json",
+    "markdown_endpoint": "https://serpapi.com/searches/IxdNxbfNDzXEcxhRl9MayEutHUVz8wh2ZYNM_BPJw9Y/6ac4ebfa5c9301aeb86c0865.md",
+    "created_at": "2026-10-06 12:39:22 UTC",
+    "processed_at": "2026-10-06 12:39:22 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/CRED+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/IxdNxbfNDzXEcxhRl9MayEutHUVz8wh2ZYNM_BPJw9Y/6ac4ebfa5c9301aeb86c0865.html",
+    "prettify_html_file": "https://serpapi.com/searches/IxdNxbfNDzXEcxhRl9MayEutHUVz8wh2ZYNM_BPJw9Y/6ac4ebfa5c9301aeb86c0865.prettify",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "CRED headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "CRED headquarters Bengaluru, India"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "CRED ONE - HQ",
+      "place_id": "ChIJD8kbGwAXrjsRPf7_Nkr1VHM",
+      "data_id": "0x3bae17001b1bc90f:0x7354f54a36fffe3d",
+      "data_cid": "8310536911504539197",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17001b1bc90f%3A0x7354f54a36fffe3d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17001b1bc90f%3A0x7354f54a36fffe3d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.987357,
+        "longitude": 77.647414
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD8kbGwAXrjsRPf7_Nkr1VHM",
+      "provider_id": "/g/11z534tv8t",
+      "rating": 4.7,
+      "reviews": 18,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "XJPX+Q2J, East West Metro Corridor, Old Baiyyappanahalli, Maruthi Sevanagar, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Wed",
+      "hours": "Closed · Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM"
+      },
+      "website": "http://www.cred.club/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": false
+      },
+      "user_review": "\"Excellent service and very supportive staff at Credone office.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNK4vNGOTVyMKJYg3u1lfaZhl7TW_tFvdcDrbLHd9MitjW3KsSit8sL5blHvKQtgPF559WcvVTBdAy5kOoSjb4pRElMZBV_OoLCbnygbF7nz588YKNBrN7D3vnYFKsudFIO_H_WqQYKfc_v=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iMIXknicHcTNboIwAADgJ0Iw2IAmHgRXceVHJ4HgpaEFiq62SEsNe0nPe5sl-w7f77vXelAb2-a9u2BSMt5Oqh2pFLoVekHlw2ZjrZRFlb0LzcAfKVqZ9JDlxZygz4q505J39bXnXl5iDU1D9yOJo2ad3PS9dJG63LSvYkB4ZNBZsxMEYF1SU-RBs5vBdyYvd7Iavj54cg0KnMk4JGJmBHriB_h-hdJgTL29a0QFkZoaeMxwhMvnuUIdxWb7WjqOY_X_U0v8ATGUSII"
+    },
+    {
+      "position": 2,
+      "title": "CRED aero",
+      "place_id": "ChIJmQYcNbAXrjsRxSPDJuFwSXU",
+      "data_id": "0x3bae17b0351c0699:0x754970e126c323c5",
+      "data_cid": "8451410288057721797",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17b0351c0699%3A0x754970e126c323c5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17b0351c0699%3A0x754970e126c323c5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.970125999999999,
+        "longitude": 77.64108089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmQYcNbAXrjsRxSPDJuFwSXU",
+      "provider_id": "/g/11qmbf14vx",
+      "rating": 3.8,
+      "reviews": 277,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "770, 12th A Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "open_state": "Closed · Opens 10 AM Wed",
+      "hours": "Closed · Opens 10 AM Wed",
+      "operating_hours": {
+        "tuesday": "10 AM–5 PM",
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM"
+      },
+      "website": "http://www.cred.club/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"The team is hospitable and the office facilities are top notch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNe8P5Sq_SafobIjFDt1jkzRtFrbZyX5nQIDAQZLsHEun94gJ5AIWfZMxgNntjd0rEQ8M3eV8nxcg4j0yMnCpU_fqdZeAGintNz9uYP12CogQEHqBAbuaRS_3UOhsgi411YZWPJ2Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vGCljXicHcRRboIwGADgEyGtQIJLfOgQFTOQSpyzLwRqKSL-BVqcekOP4G2W7Hv43q_amE5_2HZbOxOplGzFqMXAFRgBZsLV1ZZDobXFtU2CW9deE-GnXtbnWVGpMmqWC4Oby3NnlkPJHj8e0GhBKPvS63CEmSs3HokOFYvvMgHTnNAQUj92xLcPdy7dBj1iCLp9XvUnJsjqDCZ5zsZjiqeBkjRc95-kHItdljv7ba3l2cX4yA7pZkrnvxghZNX_cwv-AIX7RiY"
+    },
+    {
+      "position": 3,
+      "title": "CRED PRO FINTECH PVT LTD",
+      "place_id": "ChIJUX7Kzb4XrjsRPof4a-1k6aI",
+      "data_id": "0x3bae17becdca7e51:0xa2e964ed6bf8873e",
+      "data_cid": "11739024874599384894",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17becdca7e51%3A0xa2e964ed6bf8873e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17becdca7e51%3A0xa2e964ed6bf8873e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.984183999999999,
+        "longitude": 77.6401339
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUX7Kzb4XrjsRPof4a-1k6aI",
+      "provider_id": "/g/11h8k9q20n",
+      "rating": 3,
+      "reviews": 6,
+      "unclaimed_listing": true,
+      "address": "NO 7/3 KVD TOWERS , 2RD FLOOR Swamy Vivekananda Rd, opposite 100 feet road, Old Madras Rd, Binnamangala, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP3AYJj5hKfOHD8bNbTVNf4bJOWWaOHLc8cI0oZqewUeV2HqVagJ6TfWVez4iA_kLePk92G2sa9OVr879lBOAyERM4c69_lVcPWgbPUAQfu4-0bb6WafffssYh4k6RCwGdjytiz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LmiUMXicHcTbbsIgAADQL6plFbvWxAe8xK5zUo1C9MUA46LFogVt9Af9hv3NEs_D-XuZEC5-GMfW9HvaOW3lzctWuCbIJvSEO8e6Zd5Hwsdocr_Yc9VHu_I0MN8KF9OML_mGLBXkJaaU4WIhMvEF3P4qu60kSXElTJfpRlEin_CIDvVCVnWezBPPckza7DO3Y4wes_UPFGl-sERUVPNqi1bqBiPAeUqZUsr7nYF1up5089_TIxyfo-4DABCZ9yJq_gFBTER7"
+    },
+    {
+      "position": 4,
+      "title": "Credit Rating Information Services Of India Limited",
+      "place_id": "ChIJV42u2I8WrjsRTeurGKeD68M",
+      "data_id": "0x3bae168fd8ae8d57:0xc3eb83a718abeb4d",
+      "data_cid": "14117522210619648845",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae168fd8ae8d57%3A0xc3eb83a718abeb4d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae168fd8ae8d57%3A0xc3eb83a718abeb4d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9745954,
+        "longitude": 77.6192518
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV42u2I8WrjsRTeurGKeD68M",
+      "provider_id": "/g/1tcvs8yg",
+      "rating": 4.4,
+      "reviews": 26,
+      "unclaimed_listing": true,
+      "type": "Non-profit organization",
+      "types": [
+        "Non-profit organization"
+      ],
+      "type_id": "non_profit_organization",
+      "type_ids": [
+        "non_profit_organization"
+      ],
+      "address": "Sunrise Chamber, W-101, Ulsoor Rd, Halasuru, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "phone": "+91 80 2558 0899",
+      "website": "https://www.crisil.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNhCyEBGvjTQz-Jkq4S-ogH8XB0mo71no6EHz6moi-gXB3KcIkvyEgTtyD9Zz7APLrcnIYOo5qUgvBSXEHBeAPaispxHcxBfxp9KZkS9Eyu7N_M21RVOZxdv8SfogQEb_dqsUw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UrzHgXicHcRLDoIwFADAE1XAH2Ligmoj_kBFDLIxWrEo0Ae0VuCA3sHbmDiL-X4SKQsx1rQs6XUYAMvil4grClzGXHYo5BqrLkIgKjR7qoosd5NpQ_BcPQ-7Fi3Tsu8jYM4oxHoOpsFhSJx2mMMDsRD3VnSRqoawg2xmVtSa9nZdUb44eTAoA6awHxIHx_b28hBF7dAa3-vCWkWpb5HmZbrnTdfYH72ovqmRfwe2I9fzrRTBe_I2dF1HyX-K-A-D9kW3"
+    },
+    {
+      "position": 5,
+      "title": "Credit Saison India - Corporate Office, Bengaluru",
+      "place_id": "ChIJ_0Jp-lYVrjsR_P0cuLMW1ic",
+      "data_id": "0x3bae1556fa6942ff:0x27d616b3b81cfdfc",
+      "data_cid": "2870506773639134716",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1556fa6942ff%3A0x27d616b3b81cfdfc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1556fa6942ff%3A0x27d616b3b81cfdfc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9452935,
+        "longitude": 77.619862
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_0Jp-lYVrjsR_P0cuLMW1ic",
+      "provider_id": "/g/11yhddtrqx",
+      "rating": 4.6,
+      "reviews": 24,
+      "type": "Financial institution",
+      "types": [
+        "Financial institution",
+        "Loan agency"
+      ],
+      "type_id": "financial_institution",
+      "type_ids": [
+        "financial_institution",
+        "loan_agency"
+      ],
+      "address": "3rd Floor, Mantri Avenue, No: 301, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Wed",
+      "hours": "Closed · Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM"
+      },
+      "phone": "+91 1800 103 8961",
+      "website": "https://creditsaison.in/",
+      "user_review": "\"The branch staff was very supportive regards to my loan.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNTILoFfLwh-vl3XevgN2zZj1ent189BpiCtf6j8hnNBULFa-kLkJYjyepVdn-O1v31fQ4eX8SwiorkhNCGZi3Ix7S4G0-3eEkBmUW4-1KwGPFInVFkOl54iH9Sd7KsOwwOKOGjkZMgxsyH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R7s8aXicHcrNboIwAADgJ6rQFRVNdhAiiCDdgr_cDJYWWlpCK9W95M6-zRYv3-l7_TJjer10HMHQhCpFBblrMlRKGiLNpFKdQ4er1qDSzioce9Hl-yRTUZ1ZBkaBzmSk-cdP2cL_Dv1F0DehqWetz2QeHLLoCnjGt5f2SfrjTQIMRwTrb4-c_cI2auAsD-OyQcljXnixCxBZ86A7nDwAUxt_RYk8RhyLqddsFsVtnmpsLU5x3PJyRx_6ufm00HVdwN5WQP4B2tpHTw"
+    },
+    {
+      "position": 6,
+      "title": "Credvest",
+      "place_id": "ChIJJdSiNccXrjsRVVv3qIrvc-A",
+      "data_id": "0x3bae17c735a2d425:0xe073ef8aa8f75b55",
+      "data_cid": "16173534065636891477",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17c735a2d425%3A0xe073ef8aa8f75b55&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17c735a2d425%3A0xe073ef8aa8f75b55&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9606316,
+        "longitude": 77.6384072
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJdSiNccXrjsRVVv3qIrvc-A",
+      "provider_id": "/g/11n_v05nkw",
+      "rating": 4.4,
+      "reviews": 89,
+      "type": "Consultant",
+      "types": [
+        "Consultant",
+        "Construction company"
+      ],
+      "type_id": "consultant",
+      "type_ids": [
+        "consultant",
+        "construction_company"
+      ],
+      "address": "12, HAL Old Airport Rd, near ಐಒಸಿ - ಶ್ರೀ ಸರ್ವಿಸ್ ಸ್ಟೇಷನ್, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "country": "India",
+      "open_state": "Closes soon · 7 PM · Opens 10 AM Wed",
+      "hours": "Closes soon · 7 PM · Opens 10 AM Wed",
+      "operating_hours": {
+        "tuesday": "10 AM–7 PM",
+        "wednesday": "10 AM–7 PM",
+        "thursday": "10 AM–7 PM",
+        "friday": "10 AM–7 PM",
+        "saturday": "10 AM–6 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–7 PM"
+      },
+      "website": "https://credvest.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "user_review": "\"Excellent support and services while executing the documentation part.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOqUX1lG-60NAlEDAWXZpakTV3xgI8dFb66PnUdZ-GoKp-x2S7w7GksW8WOhPif1u451oE8QSwa6-wRhpInayGfKmq4nbDzvEIgIjIqUU1I0s-gRUHQugpTXNEkKuzNzzB0DEC_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xi8l0XicHcTbDoIgAADQL0Khi7m2HizJmJtdSddLM1MoETA0yx_sG_qbts7D-X5402gztW3BhxZTiom8NfkjU7LJZWNlqrLZIzUGZMb2Fk8tqnVNEyQC4MDIE9j34uSk0_JwHL4Yca_Li-NsJL2eQKBCDV6D_aSbBKWJ3XjNN7cCtaMxUtjd7rvUAd2OayLTd1CEVT2SF79_YsLIndSUIgINYDu62rZMH5IIl2HbR30_hz5enGcdghAC_j8D8gc7wERY"
+    },
+    {
+      "position": 7,
+      "title": "CREDAI Bengaluru & Karnataka",
+      "place_id": "ChIJE8R9PncWrjsRE_pNvn3IG9Y",
+      "data_id": "0x3bae16773e7dc413:0xd61bc87dbe4dfa13",
+      "data_cid": "15428145390877014547",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16773e7dc413%3A0xd61bc87dbe4dfa13&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16773e7dc413%3A0xd61bc87dbe4dfa13&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.975247,
+        "longitude": 77.605105
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE8R9PncWrjsRE_pNvn3IG9Y",
+      "provider_id": "/g/1tczcbd9",
+      "rating": 4.4,
+      "reviews": 47,
+      "type": "Association / Organization",
+      "types": [
+        "Association / Organization"
+      ],
+      "type_id": "association_or_organization",
+      "type_ids": [
+        "association_or_organization"
+      ],
+      "address": "6th Floor, 607, Barton Centre, Mahatma Gandhi Rd, near Lawrence & Mayo, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "tuesday": "10 AM–9 PM",
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–9 PM"
+      },
+      "phone": "+91 80 2559 1336",
+      "website": "http://www.credaibengaluru.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMaLIF0xoqC1lA_XAVfy0ZxmWFC2jIsQWVBzpw0ruDti8-e2UckYtr_bM0zchc_jqE12iecQE2XinonGO45XK8i2nFbhXy_PMo0HfkiEKPQTjp9eZnEvYJxbadshV8AMA44oFW2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CSY2N3icHcRJDoIwAADAFyGlYoImHiqCCxIlUbYLgVpoWVqkVdEP-gZ_Y-Ic5vuhSvVyoestnU4qIaqW3CUZsOCKcDXBotOrIZdSw1JH9qNvOz8_7FwwiptttCiLUVi-QDp2kWvDeieDKFy9-ycY7mvFLI3AC24SNWSFD96Y4qy-OQZkBAcOjBkXfHM0Z7FnMcjdgsav7OQLsC0b5nin4Fz3c5Jy55HsxyK_ShpayEemKdwILp8GAECj_7HGf-oORYo"
+    },
+    {
+      "position": 8,
+      "title": "Credvent Advisory Private Limited",
+      "place_id": "ChIJR58Kf9MVrjsRCWYlq8m3eOI",
+      "data_id": "0x3bae15d37f0a9f47:0xe278b7c9ab256609",
+      "data_cid": "16318995326564656649",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d37f0a9f47%3A0xe278b7c9ab256609&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d37f0a9f47%3A0xe278b7c9ab256609&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9326852,
+        "longitude": 77.61550749999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR58Kf9MVrjsRCWYlq8m3eOI",
+      "provider_id": "/g/11rwl09st3",
+      "rating": 4,
+      "reviews": 435,
+      "type": "Credit counseling service",
+      "types": [
+        "Credit counseling service"
+      ],
+      "type_id": "credit_counseling_service",
+      "type_ids": [
+        "credit_counseling_service"
+      ],
+      "address": "3rd Floor, 6th, Block, 71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9:30 AM Wed",
+      "hours": "Closed · Opens 9:30 AM Wed",
+      "operating_hours": {
+        "tuesday": "9:30 AM–6 PM",
+        "wednesday": "9:30 AM–6 PM",
+        "thursday": "9:30 AM–6 PM",
+        "friday": "9:30 AM–6 PM",
+        "saturday": "9:30 AM–2 PM",
+        "sunday": "Closed",
+        "monday": "9:30 AM–6 PM"
+      },
+      "phone": "+91 95135 20028",
+      "website": "https://www.credvent.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Good job done by them they solved my issue and improve my cebil score\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMGhjHp5HDaJHRFSLFgbEczoF5D8fdrsfD52nvShQDU1kwptZYnEzAD3GPFOJVcC8PfxFyhu2Tko6W9PEyXQMPZZF9XBsaSsfdU81oITl5ISXIQLa6ZWUdVTE_JhASJkra75R2qgQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cqcmcXicHcTbDoIgAADQLzIvjbK2HiwkdbU0tMyXRqiwNDCh6x_2Cf1NW-fhfD9c605NTbPlwwGTkrXVTVU9lUJXQg-ovJisJ0oZVJne4t61l_WSn4MOBJBEwRbhFWInn74lAtCty17VEDjijnkCM7t5dLo4CP_tweEyRptoRxduXD_Ri9-ctJGj_ST2X3myjosCTfK5IljVZebaMkxbEOI8TFZkVOyzcpf6x4h7OGp6MgZb58qS2cO2LMvg_6khfhPoRRM"
+    },
+    {
+      "position": 9,
+      "title": "Credright Private Limited",
+      "place_id": "ChIJsdWdZGMWrjsRqbPk1w8VGzM",
+      "data_id": "0x3bae1663649dd5b1:0x331b150fd7e4b3a9",
+      "data_cid": "3682560278096294825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1663649dd5b1%3A0x331b150fd7e4b3a9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1663649dd5b1%3A0x331b150fd7e4b3a9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.981029399999999,
+        "longitude": 77.60245359999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsdWdZGMWrjsRqbPk1w8VGzM",
+      "provider_id": "/g/11h1df7f80",
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "80, Infantry Rd, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "website": "https://www.credright.com/",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LLlF2H6Xe6wgyEHI-H9LDA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=19.51165&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JMWYQHicHc1tCsIgGADg2_hvfgw2WiARVCzYAfoX79ybCm6K2mzH6VjdpugCz_N5m5xD2jOWckTMq8US7AtdqgJQ7b12CMEmqvzMVsGyec7jAtYdAizeTnIY3KXu2xu2RW_n_lr13XA6EjXelbO4ZJkQojJUl58Y_UR1hJRIkTtOjOxqskGRoqONEG1Dgs3KSE7-zcOvUnD-BXWdOUQ"
+    }
+  ]
+}

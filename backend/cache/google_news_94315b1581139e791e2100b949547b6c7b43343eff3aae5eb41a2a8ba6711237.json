@@ -1,0 +1,1512 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebde09a51a8094c689d2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/asZ4REZLb6n1SdFuOAL7g_qz_RKoa6XsjvFOlaushq0/6ac4ebde09a51a8094c689d2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/asZ4REZLb6n1SdFuOAL7g_qz_RKoa6XsjvFOlaushq0/6ac4ebde09a51a8094c689d2.md",
+    "created_at": "2026-10-06 12:38:54 UTC",
+    "processed_at": "2026-10-06 12:38:54 UTC",
+    "google_news_url": "https://news.google.com/search?q=Swiggy+news+hiring+OR+funding+OR+revenue+OR+restructuring&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/asZ4REZLb6n1SdFuOAL7g_qz_RKoa6XsjvFOlaushq0/6ac4ebde09a51a8094c689d2.html",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Swiggy news hiring OR funding OR revenue OR restructuring"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Swiggy Q4 FY26 Results: Overall Revenue Jumps 45% to ₹6,383 Crores, Net Loss Narrows to ₹800 Crores",
+      "source": {
+        "name": "Groww",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://groww.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://groww.in/blog/swiggy-q4-fy26-results",
+      "thumbnail": "https://cms-resources.groww.in/uploads/swigg_93ed9f5f5d.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFjbDlCVEc5cWF6aFlNa2REVFJDZkF4amlCU2dLTWdrQmNKampxcWd0N1FF",
+      "date": "05/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-21T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Swiggy Share Price Slip 3% After Q1 FY27 Results; Revenue Jumps 37%, Net Loss Narrows",
+      "source": {
+        "name": "India Infoline",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiainfoline.com/news/earnings/swiggy-share-price-slip-3-after-q1-fy27-results-revenue-jumps-37-net-loss-narrows",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Swiggy Q1 results: Net loss narrows to Rs 791 crore, revenue rises 37%",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/earnings/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-rises-37-13989008.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251110124901_swiggyrtr1.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWRTVhT1c5Vk1EQkpXVlZrVFJDZkF4ampCU2dLTWdZdElwcnlHQW8",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Swiggy’s FY26 revenue rises 51%",
+      "source": {
+        "name": "Exchange4Media",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.exchange4media.com/digital-news/swiggys-fy26-revenue-rises-51-156646.html",
+      "thumbnail": "https://exchange4media.gumlet.io/news-photo/156646-swiggy.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFRMHczUW5KVU9HMVpWM3BZVFJDbEFSaXhBaWdLTWdrbE5ZQ00zYUZ6UndJ",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Swiggy Q1 results: Net loss narrows to ₹791 crore; revenue jumps 37% YoY",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy-11785406074314.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/30/1600x900/logo/SWIGGY-RESULTS--0_1733294199441_1785406070039_d069663b-f026-4443-8b93-628081e04563.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBibHBhYVdaaE56QjNNVWhUVFJDZkF4ampCU2dLTWdZZEFZVExsUWs",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Swiggy Q1FY27 result: Loss narrows 34% as quick-commerce revenue jumps 53%",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-q1fy27-loss-revenue-results-126073000993_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/29/full/1782714925-1355.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTa2cyZFRaSVFsaHpVVUZNVFJERUF4aW1CU2dLTWdhbFlZanNMQVk",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Swiggy Q1 Net Loss Narrows To ₹7.9B As Revenue Climbs To ₹68B YoY",
+      "source": {
+        "name": "Sahi",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sahi.com/news/swiggy-q1-net-loss-narrows-to-7-9b-as-revenue-climbs-to-68b-yoy-856517-PE1_C",
+      "thumbnail": "https://www.sahi.com/assets/uploads/856517_PE_1_CORPORATE_31_07_2026_16x9_c3e0593c57.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRkWGg0YTJWbFJrMHRNQzFHVFJDb0FSaXRBaWdCTWdZQkVvNkZrUWM",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Swiggy Latest Results: Consolidated Revenue Up 51.4% YoY to ₹23,053 Crore in FY26",
+      "source": {
+        "name": "scanx.trade",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scanx.trade/stock-market-news/companies/swiggy-latest-results-consolidated-revenue-up-51-4-yoy-to-23-053-crore-in-fy26/46497127",
+      "thumbnail": "https://news-images.dhan.co/swiggy-latest-results-consolidated-revenue-up-51-4-yoy-to-23-053-crore-in-fy26.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNkV1JQTFZGeVZrbHpUMHBEVFJDaUF4amRCU2dLTWdtSllZN0dMaVk5eXdF",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Swiggy Q1 Results: Net loss narrows to ₹791 crore, revenue climbs 37%; Instamart GOV grows 40%",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/earnings/swiggy-q1-resulys-net-loss-narrows-to-791-crore-revenue-climbs-37-instamart-gov-grows-40/article-197856/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/swiggy-q1-fy27-results.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlhbFpIVG1OcldXTkVjV2RKVFJDZkF4ampCU2dLTWdZUmVaS25zZ1k",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Udaan to acquire Swiggy-owned Lynk Logistics for Rs 500 Cr",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Upadhyay"
+        ]
+      },
+      "link": "https://entrackr.com/news/udaan-to-acquire-swiggy-owned-lynk-logistics-for-rs-500-cr-12503261",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/09/07/swiggy-2026-09-07-17-41-56.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXVlblJSYURGZlRYVnZUWEk0VFJDZkF4ampCU2dLTWdzQllJaDRxT2pJS3RxZVRB",
+      "date": "09/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-07T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Swiggy Q4 Loss Narrows to ₹800 Cr, Revenue Up 45%",
+      "source": {
+        "name": "NiftyTrader",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikki Lodha"
+        ]
+      },
+      "link": "https://www.niftytrader.in/markets/swiggy-q4-loss-narrows-revenue-jumps/",
+      "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/05/Swiggy-Q4-Loss-Narrows-to-%E2%82%B9800-Cr-Revenue-Up-45-860x451.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiV0ZGWjJsMk0xZzNPRjl5VFJDUkF4ajlCU2dLTWdZRlFJUzBKQVE",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Swiggy Limited (NSE:SWIGGY) First-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year",
+      "source": {
+        "name": "Simply Wall Street",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://simplywall.st/stocks/in/consumer-services/nse-swiggy/swiggy-shares/news/swiggy-limited-nseswiggy-first-quarter-results-just-came-out",
+      "thumbnail": "https://images.simplywall.st/asset/industry/4214000-choice1-main-header/1585186691957?w=1600&h=900&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUNVazVVYXpaUk0ybG5TalYwVFJDZkF4ampCU2dLTWc0QkFJU2duR1pNTTdsQmlpWkpOQQ",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Swiggy's ad revenue gains momentum as platform services revenue rises 38% to Rs 11,927 crore in FY26",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/advertising/swiggy-platform-services-revenue-jumps-38-percent-in-fy26-ws-l-105411.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Swiggy-news-2026-07-b082f73b8856bcd76c473a67235b29c3-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhWbm8yY1cxZmFXUkplVFZ0VFJEOEFoaWpCU2dLTWdrbEpZQ0wzYUZ6UmdJ",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Swiggy narrows Q4 loss to ₹800 crore as revenue jumps 45%; food delivery growth hits 15-quarter high",
+      "source": {
+        "name": "Fortune India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fortuneindia.com/business-news/swiggy-narrows-q4-loss-to-800-crore-as-revenue-jumps-45-food-delivery-growth-hits-15-quarter-high/136685",
+      "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2019-02/85217175-3e99-4840-a39e-6c1c84a53f02/Swiggy_delivery_partner_2_copy.JPG?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNaRmQ1Wm1VMU5YYzNkV0poVFJDZkF4ampCU2dLTWdhNU1JaldRQVU",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Swiggy reports 37% jump in revenue to Rs 6,812 crore in Q1 FY27; net loss narrows to Rs 791 crore",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianstartupnews.com/news/swiggy-reports-37-jump-in-revenue-to-rs-6812-crore-in-q1-fy27-net-loss-narrows-to-rs-791-crore-12218376",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2025/04/07/KYLbP8ojucJCUGWF2D3F.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBaalF0U3pKa2NrdFZaalF0VFJEZ0F4aUFCU2dLTWdhcFU1aHZwUWc",
+      "date": "08/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-01T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Swiggy Q4 results: Net loss narrows to Rs 800 crore, revenue rises 45%",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/earnings/swiggy-q4-results-net-loss-narrows-to-rs-800-crore-revenue-rises-45-13912978.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250714050106_Swiggy.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBhM1JtVkhOTVMwaEpNV2xSVFJDZkF4ampCU2dLTWdhZFZZanJzUVU",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Swiggy eyes Blinkit-style overhaul for Instamart after ownership restructuring",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/brand-marketing/swiggy-eyes-blinkit-style-overhaul-for-instamart-after-ownership-restructuring-ws-l-108264.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Untitled-design-37-2026-07-0e46a169feceabd1e1b965e8a1f554b6-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSVFE1ZFRaeVltMWhXbVpwVFJEOEFoaWpCU2dLTWdZSllZclRxQVk",
+      "date": "08/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-20T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Swiggy Q1 loss narrows 34% to ₹791 crore; revenue rises 37%, Instamart hits contribution breakeven",
+      "source": {
+        "name": "Fortune India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chitranjan Kumar"
+        ]
+      },
+      "link": "https://www.fortuneindia.com/business-news/swiggy-q1-loss-narrows-34-to-791-crore-revenue-rises-37-instamart-hits-contribution-breakeven/151062",
+      "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-01-09/y2fhq9zd/shutterstock1730162416789652877083.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZMWFZOVVdaV2FWWkZOVjlvVFJDZkF4ampCU2dLTWdrbEZJak5sU2hzendF",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Prosus' India revenue up 13%; PayU turns profitable, Swiggy offsets gains",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajinkya Kawale",
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/prosus-india-revenue-up-13-payu-turns-profitable-swiggy-offsets-gains-126062900870_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/24/full/1719226596-6089.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhjME01TjNGcGQzVnpXalJYVFJDRkJCalJCQ2dLTWdtVkVvSnZsZWxLdUFB",
+      "date": "06/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-29T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Swiggy Shares Decline 2.01% on Tuesday",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/stocks/swiggy-shares-decline-2-01-on-tuesday-alpha-article-14008805.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250215043505_rupeegain_dollar.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VWG8yWlZoU1ozTTVORTU1VFJDZkF4ampCU2dLTWdZQmNKQ2pzZ1k",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Swiggy Shares Decline Over 2% on Tuesday",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/moneycontrol:456ef9025094b:0-swiggy-shares-decline-over-2-on-tuesday/",
+      "date": "08/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-11T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Swiggy's Q1 loss narrows as revenue climbs 37%",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-posts-791-crore-quarterly-loss-as-revenue-climbs-37-126073001390_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/06/full/1743927506-7969.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVR2QzWm5kVFFsVkhkMEpoVFJDcUJCaXFCQ2dLTWdhaFpKQ3RMUWM",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Swiggy's Instamart reaches contribution break-even on higher monetisation, advertising revenue push",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/brand-marketing/swiggy-instamart-hits-break-even-focuses-on-profitability-ws-l-106111.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Instamart-swiggy-2026-07-3c051dcf7cfdec75a4280a9736fa442c-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFjbE5FUjBZNU5GVkxTSEprVFJEOEFoaWpCU2dLTWdhbFJJcU5KUVE",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Former Swiggy, Zomato leaders launch Profound with $1.5 million funding to give professionals their own AI Rep",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vivek Vishwakarma"
+        ]
+      },
+      "link": "https://indianstartupnews.com/funding/former-swiggy-zomato-leaders-launch-profound-with-15-million-funding-to-give-professionals-their-own-ai-rep-12228707",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2026/08/04/anuj-rathi-and-prashant-parashar-profound-2026-08-04-18-37-42.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBWVTl5TmxoYVUyOTNYekk1VFJEZ0F4aUFCU2dLTWdtVlVwZ1VwU2lpS1FJ",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Swiggy Q1 Results: Net loss narrows to Rs 791 crore; revenue jumps 37% YoY",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debaroti Adhikary"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/earnings/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy/articleshow/132736162.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132736076,width-1200,height-900,resizemode-4,imgsize-201340/swiggy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBZMU4xV21Nd2NGQTFlbTlHVFJEZ0F4aUFCU2dLTWdZWlVvVHJJUWs",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Former Swiggy, Zomato executives launch AI networking startup Profound, raise $1.5 million",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aryaman Gupta"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/startup/former-swiggy-zomato-executives-launch-ai-networking-startup-profound-raise-1-5-million-13992864.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804062250_L2R-Anuj-Rathi-CoFounder-and-CEO-and-Prashant-Parashar-CoFounder-and-CTO-Profound.jpeg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJURTU0Y1VOTVoxY3ROakZHVFJDZkF4ampCU2dLTWdZWlU1Z0lLUWs",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Swiggy Q4 Results: Loss narrows to Rs 800 crore, revenue surges 45% YoY",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akash Podishetti"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/earnings/swiggy-q4-results-loss-narrows-to-rs-800-crore-revenue-surges-45-yoy/articleshow/130956969.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130956940,width-1200,height-900,resizemode-4,imgsize-2487657/swiggy-q4-results.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBTV1V4UW1GeWFFbDZUR1JWVFJEZ0F4aUFCU2dLTWdhWlFZNXJuUVU",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Swiggy is following Blinkit’s inventory playbook. Here’s what changes",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Vishwakarma"
+        ]
+      },
+      "link": "https://indianstartupnews.com/news/swiggy-is-following-blinkits-inventory-playbook-heres-what-changes-12413000",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2025/12/24/bengaluru-customer-leaves-rs-68600-in-tips-for-swiggy-instamart-delivery-boys-2025-12-24-22-13-30.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdZWGN3UTI5RlFXMWxUMGxTVFJEZ0F4aUFCU2dLTWdhSlFJNzBvQWc",
+      "date": "08/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-22T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "What is Profound? Ex-Swiggy, Zomato executives partner for AI hiring platform startup",
+      "source": {
+        "name": "theweek.in",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theweek.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theweek.in/news/biz-tech/2026/08/04/what-is-profound-ex-swiggy-zomato-executives-partner-for-ai-hiring-platform-startup.html",
+      "thumbnail": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/4/profound-logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNVEUxTlhaUFQyeDZSSFpDVFJDZkF4ampCU2dLTWdhUm81WnF1UWM",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Eternal vs Swiggy: Which food delivery stock to buy after Q1 results 2026?",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/eternal-vs-swiggy-which-food-delivery-stock-to-buy-after-q1-results-2026-11785735661456.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/Zomato_Swiggy_1785737185392_1785737185492_5851f6b5-4e19-4bdf-8cab-9adb027e9849.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhMVmhzTld4QlVFSkhSR0ppVFJDZkF4ampCU2dLTWdtQk1aQXhvU2pKQ3dJ",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Swiggy FY26 Revenue Climbs 51% To Rs 23,060 Cr",
+      "source": {
+        "name": "BW Marketing World",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bwmarketingworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bwmarketingworld.com/article/swiggy-fy26-revenue-climbs-51-to-23-060-cr-616529",
+      "thumbnail": "https://static.businessworld.in/Screenshot%202026-07-25%20101047_20260725101058_original_image_8.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFPVGs0YkZsRGMyRXpWVnByVFJDbkFSaXVBaWdCTWdrQklZN0ZwQ2l4QkFN",
+      "date": "07/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-25T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Swiggy Q1 FY27 Loss Narrows to Rs 791 Crore as Revenue Surges, Instamart Nears Profitability",
+      "source": {
+        "name": "Pioneer Daily",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dailypioneer.com/news/slug-lite/swiggy-q1-loss-narrows-to-rs-791-crore?year=2026",
+      "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/medium/R300_swiggy-q1-loss-narrows-to-rs-791-crore-2026-07-31.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHphRVZWU2kweGFEZG1ja3h5VFJDckFSaW5BaWdCTWdrVkVvTExsZWxyalFF",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Swiggy Posts Strong Q1 Growth with Rs 6,812 Cr Revenue and Lower Net Loss",
+      "source": {
+        "name": "Indian Retailer",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indianretailer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indianretailer.com/news/swiggy-posts-strong-q1-growth-rs-6812-cr-revenue-and-lower-net-loss",
+      "thumbnail": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-08/Untitled%20design%20-%202026-08-01T120810.966.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9iVlUxWkhaZk9UWlJTMjgzVFJDcEF4alNCU2dLTWdhWk1vVHJuUWs",
+      "date": "08/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-01T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Tech3 | Pixxel funding: Deepinder bows out, GIC doubles down; Swiggy’s Sriharsha Majety gets a reality check; and more",
+      "source": {
+        "name": "LinkedIn",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.linkedin.com/pulse/tech3-pixxel-funding-deepinder-bows-out-gic-doubles-down-dxsff",
+      "thumbnail": "https://media.licdn.com/dms/image/v2/D4D12AQEM7a085sVkTw/article-cover_image-shrink_720_1280/B4DZ5QENKnIMAQ-/0/1779459740634?e=2147483647&v=beta&t=Et_qRkFAMk-O8RdY0XjNVxZGb93tB5-ScgFmAxgWU8I",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUelpFTVhnNWNWZ3dSRk5GVFJDZkF4ampCU2dLTWdhQkk0ck5GUW8",
+      "date": "05/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-22T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Swiggy Q4 Results Preview: Revenue Seen Rising 30%, EBITDA Loss May Narrow; Instamart Growth, Margins in Focus",
+      "source": {
+        "name": "goodreturns.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshika Yadav"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/swiggy-q4-results-preview-revenue-seen-rising-ebitda-loss-may-narrow-instamart-growth-margin-focus-1506961.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/05/swiggy600-1778209746.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBYM2xTUkY5SmVYSm1Ua1ZOVFJEU0FoallCQ2dLTWdtTlVJcTFIT2U1TGdF",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Swiggy Q4 Results: Loss narrows to ₹800 crore as revenue surges 45% YoY",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saloni Goel"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-q4-results-loss-narrows-to-rs-800-crore-as-revenue-surges-45-yoy-11778236864871.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/SWIGGY-FUNDRAISING--0_1768900246823_1768900262429_1778236910402.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJXVFF6VkVaWmVsUk5PSFJRVFJDZkF4ampCU2dLTWdhRkFwQlFwUWM",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Swiggy revenue jumps 45% to Rs 6,383 crore in Q4 FY26; net loss falls to Rs 800 crore",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Vishwakarma"
+        ]
+      },
+      "link": "https://indianstartupnews.com/news/swiggy-revenue-jumps-45-to-rs-6383-crore-in-q4-fy26-net-loss-falls-to-rs-800-crore-11816099",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2026/03/24/swiggy-raises-platform-fee-2026-03-24-16-34-36.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJNRzVzWVV0TmVVZDFaVEk1VFJEZ0F4aUFCU2dLTWdZQk1ZN1RwQWM",
+      "date": "05/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-09T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Swiggy follows Zomato, hikes platform fee by 17% to Rs 17.58",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/swiggy-follows-zomato-hikes-platform-fee-by-17-to-rs-1758-11258272",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/03/24/swiggy-platform-fee-2026-03-24-12-47-11.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJkakJXV1VabE1uSjNlWFZLVFJDZkF4ampCU2dLTWdZWlU1QkxLUWc",
+      "date": "03/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-24T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Zomato vs Swiggy: Which food delivery stock to buy after Q4 results?",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaamanaa Sethi"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/zomato-vs-swiggy-which-food-delivery-stock-to-buy-after-q4-results-11778564087882.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/12/1600x900/logo/Zomato_vs_Swiggy_1778567546043_1778567546214.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBjbEpFWkZBMldXWkVRakpoVFJDZkF4ampCU2dLTWdtQkVaUXdtZW5JU1FJ",
+      "date": "05/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-12T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "PayU reports up 13% YoY growth in revenue, Swiggy quick-commerce investments drag profitability: Prosus",
+      "source": {
+        "name": "Fortune India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tamanna Mohanty"
+        ]
+      },
+      "link": "https://www.fortuneindia.com/business-news/payu-reports-up-13-yoy-growth-in-revenue-swiggy-quick-commerce-investments-drag-profitability-prosus/145405",
+      "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-05-08/ue57kvnn/prosus.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhkbFpEVjJFMVZFZHhNV1JWVFJDZkF4ampCU2dLTWdZdEU0Q3VSUUU",
+      "date": "06/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-29T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Pixxel funding: Deepinder bows out, GIC doubles down",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/technology-startup/newsletters/MCTech3/tech3-pixxel-funding-deepinder-bows-out-gic-doubles-down-swiggy-s-sriharsha-majety-gets-a-reality-check-and-more/",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/01/20250115064847_Awais-Ahmed-Founder-and-CEO-of-Pixxel-and-Kshitij-Khandelwal-Founder-and-CTO-of-Pixxel.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFSbEZpUWpSR1RVNHdTRWxZVFJETEF4aWNCU2dLTWdhVk1wSnFIUWM",
+      "date": "05/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-22T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Swiggy spends ₹1,160 crore on advertising in Q1",
+      "source": {
+        "name": "Exchange4Media",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.exchange4media.com/advertising-news/swiggy-spends-rs1160-crore-on-advertising-in-q1-156833.html",
+      "thumbnail": "https://exchange4media.gumlet.io/news-photo/156646-swiggy.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFRMHczUW5KVU9HMVpWM3BZVFJDbEFSaXhBaWdLTWdrbE5ZQ00zYUZ6UndJ",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Swiggy Q3 results: Net loss widens to Rs 1,065 crore, revenue rises 54%",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/earnings/swiggy-q3-results-net-loss-widens-to-rs-1-065-crore-revenue-rises-54-13797647.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251110124901_swiggyrtr1.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWRTVhT1c5Vk1EQkpXVlZrVFJDZkF4ampCU2dLTWdZdElwcnlHQW8",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Ex-Swiggy, Zomato execs raises $1.5 mn for AI career startup",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Supriya Roy"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/ex-swiggy-zomato-execs-raises-1-5-mn-for-ai-career-startup/articleshow/132936171.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132936160,width-1280,height-720,imgsize-103246,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZMVEE0Ym5kTFRtWkhNRkZyVFJDZ0F4amlCU2dLTWdhWlU1WXBwUWc",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Swiggy’s Q4 revenue rises 45%, ad spend remains above Rs 1,000 crore",
+      "source": {
+        "name": "brandequity.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://brandequity.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/swiggys-q4-revenue-rises-45-ad-spend-remains-above-rs-1000-crore/130963081",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-130963081,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdhRU5JYzNVNGJUTTVWVkZWVFJDZkF4ampCU2dLTWdZWjA0eHJRUVU",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Swiggy Q4: Loss Narrows 26% To ₹800 Cr, Revenue Up 45% YoY",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anjali Jain"
+        ]
+      },
+      "link": "https://inc42.com/buzz/swiggy-q4-loss-narrows-26-to-%E2%82%B9800-cr-revenue-up-45-yoy/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/swiggy-toing--760x570.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRRMWQ2T1hWc2EwRTNMVzlEVFJEZ0F4aUFCU2dLTWdZMWc0SXh0UVU",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Swiggy Q3 Results: Net loss widens to ₹1,065 crore, revenue climbs 54%",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/earnings/swiggy-q3-results-net-loss-widens-to-1-065-crore-revenue-climbs-54/article-188534/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/swiggy-q3-results-2026.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpObWRUUzBVMGVETTViR1JoVFJDZkF4ampCU2dLTWdZRlNvYmtIZ1U",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Swiggy Trims Q1 Net Loss By 34% YoY To ₹791 Cr, Revenue Up 37%",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akshit Pushkarna"
+        ]
+      },
+      "link": "https://inc42.com/buzz/swiggy-trims-q1-net-loss-by-34-yoy-to-%E2%82%B9791-cr-revenue-up-37/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/Swiggy-01-760x570.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkMnhNVW1oYVRUQm1OV1ZmVFJEZ0F4aUFCU2dLTWdZVk1wTFZsQW8",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Why startups are restructuring to secure Indian-controlled status",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Barkha Mathur"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/startups-indian-controlled-status-swiggy-iocc-fema-rules-126051900528_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/03/full/1751518600-4915.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUllRWRmVUVaQ2IzRnVSbUpPVFJERUF4aW1CU2dLTWdZSmtJcG5MZ2M",
+      "date": "05/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-19T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Swiggy Q1 net loss narrows to Rs 791 crore, revenue jumps 37%",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Uma Kannan"
+        ]
+      },
+      "link": "https://www.deccanherald.com/business/companies/swiggy-q1-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-4093387",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-07-30%2Fbjcq6zw4%2Ffile7ybi4vmqmg81fqlxsldy.jpg?rect=0%2C0%2C1200%2C675&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJWVTUzWmxaNmNWUXRNR3BQVFJDZkF4ampCU2dLTWdrWkFvYkxFZXByN0FF",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Swiggy Q4 Results: Net Loss Narrows to Rs 800 Cr, Revenue Jumps 45% as Core Food Delivery & Instamart Expand",
+      "source": {
+        "name": "goodreturns.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshika Yadav"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/swiggy-q4-results-today-net-loss-narrows-to-rs800cr-revenue-jumps-as-core-food-delivery-instamart-up-1507057.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/05/swiggy6002-1778239242.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdUMjUyVFVkM1pHZEpNVmRUVFJEU0FoallCQ2dLTWdtSm9ZeUdPYWMxVVFF",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Swiggy Q4 results: Loss narrows to ₹800 crore, revenue up at ₹6,383 crore",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aman Sahu"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-q4-results-loss-narrows-to-800-crore-revenue-up-at-6-383-crore-126050800926_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/03/full/1733245814-4536.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPWEJGYTFOb2FYcHZSbU54VFJEZ0F4aUFCU2dLTWdhWlFvYU5vUWM",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Ex-Swiggy, Zomato leaders launch Profound with $1.5M",
+      "source": {
+        "name": "HR Katha",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hrkatha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hrkatha.com/funding/ex-swiggy-zomato-founder-launch-profound-with-1-5m-seed/",
+      "thumbnail": "https://www.hrkatha.com/wp-content/uploads/2026/08/Untitled-design-6.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1OVlJZYlVoTlkwVTBlVnB1VFJDZkF4ampCU2dLTWdZWm81Ukp1UVk",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Swiggy Q4 revenue surges 45%, net loss narrows to Rs 800 crore",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/technology/swiggy-q4-revenue-surges-45-net-loss-narrows-to-rs-800-crore/articleshow/130963150.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130963136,width-1200,height-900,resizemode-4,imgsize-2529791/swiggy-instamart_sriharsha-majety_amitesh-jha-ceo_market-share_gst-growth_thumb-image_ettech.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURNa050UWs4eWJtaE9SRVpGVFJEZ0F4aUFCU2dLTWdhVkU0UnFsUW8",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "With Rs 908 Cr loss in Q3 FY26, Swiggy Instamart profitability remains elusive",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/with-rs-908-cr-loss-in-q3-fy26-swiggy-instamart-profitability-remains-elusive-11055443",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/01/29/instamart-loss-2026-01-29-17-51-33.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5iVmxrTlRKMlVVWkplRkl6VFJDZkF4ampCU2dLTWdZSlk0WXhJUWs",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Eternal vs Swiggy: Who fared better in Q4FY26 earnings?",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rohan Takalkar"
+        ]
+      },
+      "link": "https://upstox.com/news/market-news/stocks/eternal-vs-swiggy-who-fared-better-in-q4-fy-26-earnings/article-193475/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/zomato-vs-swiggy-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1WVXh6VkRGNWNXVlVibXh1VFJDdEF4akxCU2dLTWdrSk00N3RzYWU1U0FJ",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Swiggy shares fall 8% as Q3 loss widens to ₹1,065 crore; Here is what analysts said",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://upstox.com/news/market-news/stocks/swiggy-shares-fall-8-as-q3-loss-widens-to-1-065-crore-here-is-what-analysts-said/article-188577/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/10minsswiggy1webp.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlNRWwxVURoaGMyTlhaek4xVFJDZkF4ampCU2dLTWdhSk9ZakZHZ1U",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Swiggy ditches growth for quick-commerce profitability, differentiation",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Soumya Gupta"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/company-results/swiggy-instamart-strategy-profitability-growth-quick-commerce-india-financial-11778247454834.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/SWIGGY-RESULTS--0_1733294199441_1778251157771.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9Oek01TVRWRFJpMXllV2hWVFJDZkF4ampCU2dLTWdhWkFZYXJqUWc",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Swiggy’s FY26 advertising spend jumps 55% to Rs 4,207 crore while losses cross Rs 4,100 crore",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/advertising/swiggy-increases-advertising-spend-in-fy26-as-losses-grow-despite-revenue-surge-ws-l-97583.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2025/07/Untitled-design-2025-07-28T105746.193-2025-07-598a11df3fb7981c1f156d1916989b89-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBXVlpWU21ObFVqZFZiRWRsVFJEOEFoaWpCU2dLTWdZQmdKYUhOZ2c",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Swiggy revenue rises to ₹6,148 cr in Dec quarter as losses widen 33%",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-revenue-rises-to-6-148-cr-in-dec-quarter-as-losses-widen-33-126012901456_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/29/full/1769708475-8057.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlVE5KTnpsUGVHcFZZbFZPVFJDbUJSakVBeWdLTWdhbEpaak5HUW8",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Swiggy - 9 Midcap stocks with massive upside potential of up to 45%! Do you own any?",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ritesh Presswala"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/9-midcap-stocks-with-massive-upside-potential-of-up-to-45-do-you-own-any/swiggy/slideshow/131420451.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-131420463,width-480,height-360,imgsize-14592,resizemode-75/upside-scope.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBVR2hKWkhGU1EzbG5WMVI1VFJEbkFoamdBeWdLTWdZZFlKQ3NxUWM",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Swiggy Q1 Results: Revenue Jumps 37%, Net Loss Narrows to Rs 791 Crore as Instamart Continues Strong Growth",
+      "source": {
+        "name": "goodreturns.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshika Yadav"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/swiggy-q1-results-revenue-jumps-37-net-loss-narrows-to-rs-791-crore-as-instamart-continues-strong-1525305.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/07/swiggy600-53841785414380.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBYM2xTUkY5SmVYSm1Ua1ZOVFJEU0FoallCQ2dLTWdtTlVJcTFIT2U1TGdF",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Swiggy net loss widens 33% to ₹1,065 crore in Q3; revenue tops ₹6,000 crore",
+      "source": {
+        "name": "Fortune India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Urvashi Mishra"
+        ]
+      },
+      "link": "https://www.fortuneindia.com/business-news/swiggy-net-loss-widens-33-to-1065-crore-in-q3-as-revenue-tops-6000-crore/129867",
+      "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-08-19/1ouyjh2a/shutterstock2633896761777285590997.jpeg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtkRmxHUVhsV1NHeHRia0l0VFJDZkF4ampCU2dLTWdZbEk0cU5JUVk",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Zepto vs Blinkit vs Instamart: Which quick commerce platform leads in revenue and profitability ahead of Zepto IPO?",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sreenivas Ajankar"
+        ]
+      },
+      "link": "https://upstox.com/news/market-news/ipo/zepto-vs-blinkit-vs-instamart-which-quick-commerce-platform-leads-in-revenue-and-profitability-ahead-of-zepto-ipo/article-195149/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/zeptoipogmp.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZlbVZwWWxKWk5ESkJlV2xpVFJEZ0F4aUFCU2dLTWdZQlJZN3JxUVk",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Former Swiggy, Zomato Executives launch Profound, raise $1.5 million seed funding",
+      "source": {
+        "name": "MediaNews4U",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.medianews4u.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.medianews4u.com/former-swiggy-zomato-executives-launch-profound-raise-1-5-million-seed-funding/",
+      "thumbnail": "https://www.medianews4u.com/wp-content/uploads/2026/08/Former-Swiggy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJiVGhLVTNCUE9FeFpRV3RIVFJEM0FoanVCU2dLTWdhWk1wd0pJUW8",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Swiggy Q1 earnings: Net loss narrows to Rs 791 crore, revenue rises 37%",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aseem Thapliyal"
+        ]
+      },
+      "link": "https://www.businesstoday.in/markets/stocks/story/swiggy-q1-earnings-net-loss-narrows-to-rs-791-crore-revenue-rises-37-546307-2026-07-30",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6b2dc1a4d1b-swiggy-shares-ended-3-higher-at-rs-29580-in-the-current-session-market-cap-of-swiggy-rose-to-rs-8-305556200-16x9.png?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFRVXRsT1dvMFF6VktPVFZoVFJDZkF4ampCU2dLTWdhWklvVHJuUWs",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Indian delivery platform Swiggy posts narrower sequential loss on Instamart strength",
+      "source": {
+        "name": "Yahoo Finance Singapore",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sg.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://sg.finance.yahoo.com/news/indian-delivery-platform-swiggy-posts-113250248.html",
+      "thumbnail": "https://media.zenfs.com/en/reuters.com/da3821e282123164f1e6c66a4a66497d",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpOa2RTZG00dFNGZElWRVUzVFJERUF4aW1CU2dLTWdhSklZN21tUWs",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Swiggy Q3 Results: Cons loss widens YoY to Rs 1,065 crore, but revenue jumps 54%",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/markets/stocks/earnings/swiggy-q3-results-cons-loss-widens-to-rs-1065-crore-but-revenue-jumps-54-yoy/articleshow/127771702.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-127771586,width-1200,height-900,resizemode-4,imgsize-2759350/chatgpt-image-jan-29-2026-02_24_46-pm.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdhelF4ZUdkRFpsWmpla2d5VFJEZ0F4aUFCU2dLTWdNSkZBZw",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Swiggy Q3 Results: Net Loss Widens 33% YoY Even as Revenue Jumps 54%; Instamart Fuels Quick Commerce Growth",
+      "source": {
+        "name": "goodreturns.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.goodreturns.in/news/swiggy-q3-results-net-loss-widens-33-yoy-even-as-revenue-jumps-54-instamart-fuels-quick-commerce-1485111.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/01/swiggy6002-1769686403.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdUMjUyVFVkM1pHZEpNVmRUVFJEU0FoallCQ2dLTWdtSm9ZeUdPYWMxVVFF",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Swiggy, Urban Company report Q4 losses; Zepto gets IPO nod",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/newsletters/tech-top-5/swiggy-urban-company-report-q4-losses-zepto-gets-ipo-nod/articleshow/130961462.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-130961462,width-1200,height-900,imgsize-11452,overlay-ettech/editionshow-amp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZSM3BhZVMxd1EyRXpNelZ0VFJEZ0F4aUFCU2dLTWdhcFJaak5JUWs",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Eternal, Swiggy face growth pressure as fuel costs rise, ad revenue weakens: Elara Capital",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hormaz Fatakia"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/market/stocks/eternal-swiggy-growth-pressure-fuel-costs-ad-revenue-headwinds-mount-elara-capital-blinkit-lpg-19909069.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/05/fuel-prices-swiggy-eternal-quick-commerce-food-aggregators-may19-2026-05-de9c3a0f33eccb51059173982970fb2f.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXBiV2hOU0ZrNE9IVnROM2xLVFJDZkF4ampCU2dLTWdzQk1ZaTBxR2FwUnJxZVl3",
+      "date": "05/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-19T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Swiggy Q3FY26 results: Net loss widens to ₹1,065 crore, revenue up 54%",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rahul Goreja"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-q3-fy26-results-loss-revenue-instamart-earnings-orders-share-price-126012901060_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/15/full/1744685870-505.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTa2cyZFRaSVFsaHpVVUZNVFJERUF4aW1CU2dLTWdhbFlZanNMQVk",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Swiggy vs Eternal: How are new-age tech cos expected to perform in Q4?",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dhanya Nagasundaram"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-how-are-new-age-tech-cos-expected-to-perform-in-q4-11775461309288.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/New-Delhi--In-this-Tuesday--March-31--2020-file-ph_1732251850962_1775464673467.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJSRFIwY2kxSFFsUmlNa0Z5VFJDZkF4ampCU2dLTWdtQlVZd3dxU2ZKN1FF",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Swiggy’s ad spends up 55% in FY26",
+      "source": {
+        "name": "Exchange4Media",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.exchange4media.com/advertising-news/swiggys-ad-spends-up-55-in-fy26-154506.html",
+      "thumbnail": "https://exchange4media.gumlet.io/news-photo/154506-swiggyy.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVljRUpqZUZWMk1UQXlkV0o1VFJDbEFSaXlBaWdCTWdrbE5ZQ00zYUZ6UndJ",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "LPG shortage, Swiggy, Eternal: 5% food delivery revenue hit so far, says ICICI Securities",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amit Mudgill"
+        ]
+      },
+      "link": "https://www.businesstoday.in/markets/stocks/story/lpg-shortage-swiggy-eternal-5-food-delivery-revenue-hit-so-far-says-icici-securities-521517-2026-03-20",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202603/69bcd54a4bb83-shares-of-swiggy-ltd-and-eternal-ltd-have-fallen-11-13-per-cent-in-the-past-one-month-amid-concerns-200404491-16x9.jpeg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjMkV4YVd4MGNVaFZZMFZaVFJDZkF4ampCU2dLTWdZUkVJaG9tZ2s",
+      "date": "03/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-20T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "Swiggy Q3 Preview: Losses to widen as Instamart investments weigh; revenue may jump 47% YoY",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akash Podishetti"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/earnings/swiggy-q3-preview-losses-to-widen-as-instamart-investments-weigh-revenue-may-jump-47-yoy/articleshow/127684848.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-127684776,width-1200,height-900,resizemode-4,imgsize-138628/swiggy-q3-preview-losses-to-widen-as-instamart-investments-weigh-revenue-may-jump-47-yoy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRhR2RWZW5jelZ6WnJhRzlUVFJEZ0F4aUFCU2dLTWdZbFJZanRUUVE",
+      "date": "01/28/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-28T08:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "Swiggy cofounders pick up stake in India’s first space unicorn Skyroot",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nabodita Ganguly"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/swiggy-cofounders-india-space-unicorn-skyroot-stake-11781610834646.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/Swiggy_pic__1731329344639_1781616714133_e0e51ada-5614-430c-b771-110fed0d3de8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9WM0pXTldoRFVVWnhOVmh6VFJDZkF4ampCU2dLTWdrVk1wb1VIU21hYUFJ",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Swiggy Q3 loss widens on Instamart burn; revenue grows 54%",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/technology/swiggy-q3-loss-widens-on-instamart-burn-revenue-grows-54/articleshow/127780250.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-127780228,width-1200,height-900,resizemode-4,imgsize-11044/swiggy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBXVGQ2VVVKTlZXRmFiWGhSVFJEZ0F4aUFCU2dLTWdhcFJaanRJUWs",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Eternal vs Swiggy: Revenue rises, but profitability dips; find out who dominated Q2 earnings",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sreenivas Ajankar"
+        ]
+      },
+      "link": "https://upstox.com/news/market-news/stocks/eternal-vs-swiggy-revenue-surge-but-profitability-dips-find-out-who-dominated-q2-earnings/article-183848/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/eternalvsswiggyq2result.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBMVVJsYldaZlNqSmlYME5FVFJEZ0F4aUFCU2dLTWdZSlNKaGxJZ2s",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "Swiggy Seeks Shareholder Approval for AoA Amendments and Director Appointment",
+      "source": {
+        "name": "scanx.trade",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scanx.trade/stock-market-news/companies/swiggy-board-approves-articles-of-association-amendment-and-special-rights-restructuring/37389967",
+      "thumbnail": "https://news-images.dhan.co/swiggy-board-approves-articles-of-association-amendment-and-special-rights-restructuring.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhkMmMxZW1VMk5VNDVZalp4VFJDdEF4akxCU2dLTWdrQk1JcWtOR1V0YXdJ",
+      "date": "04/10/2026, 06:09 PM, +0000 UTC",
+      "iso_date": "2026-04-10T18:09:26Z"
+    },
+    {
+      "position": 81,
+      "title": "Swiggy Q3 Results: Net Loss At ₹1,065 Cr, Revenue Jumps 54%",
+      "source": {
+        "name": "Samco",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.samco.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.samco.in/knowledge-center/articles/swiggy-q3-results-loss-widens-to-1065-crore-as-revenue-jumps-54-on-strong-quick-commerce-push/",
+      "thumbnail": "https://www.samco.in/knowledge-center/wp-content/uploads/2026/01/Swiggy-Q3-Results-Loss-Widens-to-%E2%82%B91065-Crore-as-Revenue-Jumps-54_-on-Strong-Quick-Commerce-Push.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtXRU5mUnpoNlNqSjBVR1JqVFJDZkF4ampCU2dLTWdB",
+      "date": "01/29/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-29T08:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Zomato Outperforms Swiggy In Q2 With Strong Revenue, Improved Margins",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anita Goswami"
+        ]
+      },
+      "link": "https://www.ndtv.com/india-news/zomato-outperforms-swiggy-in-q2-with-strong-revenue-improved-margins-9549782",
+      "thumbnail": "https://c.ndtvimg.com/2025-09/fuvg1oc4_swiggy-and-zomato_625x300_09_September_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9hM1o1YnpsdlIwNWxSMkZFVFJDeUF4akNCU2dLTWdhRmdZalVWQU0",
+      "date": "10/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-31T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "Swiggy gets shareholder nod to raise Rs 10,000 Cr via QIP",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/swiggy-gets-shareholder-nod-to-raise-rs-10000-cr-via-qip-10894289",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2025/07/31/swiggy-2025-07-31-13-27-46.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtjekEyVHpjeGJGUTRVMTlXVFJDZkF4ampCU2dLTWdZNVVaeTJJQWs",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-09T08:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Swiggy Q2 results: Net loss widens to Rs 1,092 crore, revenue rises 54%",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/earnings/swiggy-q2-results-net-loss-widens-to-rs-1-092-crore-revenue-rises-54-13643062.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250714050106_Swiggy.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBhM1JtVkhOTVMwaEpNV2xSVFJDZkF4ampCU2dLTWdhZFZZanJzUVU",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Swiggy to scale up food delivery initiatives as Q2 revenue grows",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sowmya Ramasubramanian"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/swiggy-food-delivery-q2-revenue-deskeats-bolt-99-store-nosugaradded-gross-order-value-food-on-train-11761901589743.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/10/31/1600x900/SWIGGY-RESULTS--0_1733294199441_1761907198462.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1kbW8xWlhOVVEzcFJUMUJSVFJDZkF4ampCU2dLTWdB",
+      "date": "10/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-31T07:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Swiggy ad spends jump 48% YoY",
+      "source": {
+        "name": "Exchange4Media",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.exchange4media.com/marketing-news/swiggy-ad-spends-jump-48-yoy-151483.html",
+      "thumbnail": "https://exchange4media.gumlet.io/news-photo/151483-swiggymain.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJZbTFsV2xOU1UydE9VRU5ZVFJDTEF4amFCU2dLTWdZTmtwUW5OUWM",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "Swiggy Q2 preview: Instamart may drive rev growth; losses remain elevated",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sirali Gupta"
+        ]
+      },
+      "link": "https://www.business-standard.com/markets/news/swiggy-share-price-nse-bse-q2-results-profit-revenue-ebitda-instamart-125102800468_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/03/full/1733245814-4536.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPWEJGYTFOb2FYcHZSbU54VFJEZ0F4aUFCU2dLTWdhWlFvYU5vUWM",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "Zomato vs Swiggy: Which stock should investors buy after Q2 results? Explained",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Saloni Goel"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/zomato-vs-swiggy-which-stock-should-investors-buy-after-q2-results-explained-11762146081063.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/11/03/1600x900/New-Delhi--In-this-Tuesday--March-31--2020-file-ph_1732251850962_1762146230390.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtPVFZhYW05Rk9VZElSRzFJVFJDZkF4ampCU2dLTWdrQllvd3dLU2ZKN1FF",
+      "date": "11/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-03T08:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Zomato rival Swiggy reports Rs 1,092 crore loss in Q2 FY26; revenue jumps 54% to Rs 5,561 crore",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Vishwakarma"
+        ]
+      },
+      "link": "https://indianstartupnews.com/news/zomato-rival-swiggy-reports-rs-1092-crore-loss-in-q2-fy26-revenue-jumps-54-to-rs-5561-crore-10619036",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2025/04/07/KYLbP8ojucJCUGWF2D3F.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBaalF0U3pKa2NrdFZaalF0VFJEZ0F4aUFCU2dLTWdhcFU1aHZwUWc",
+      "date": "11/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-03T08:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Swiggy Moves Closer to INR 10,000 Cr QIP After Shareholder Vote",
+      "source": {
+        "name": "Entrepreneur India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.entrepreneurindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.entrepreneurindia.com/blog/en/news/swiggy-moves-closer-to-inr-10000-cr-qip-after-shareholder-vote.58232",
+      "thumbnail": "https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/news/fi/693933e13f070.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVkWG8zVWtoMmJrMHdVWE5EVFJDb0F4alRCU2dLTWdB",
+      "date": "12/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-10T08:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Swiggy trims sequential loss to ₹1,092 cr on back of Instamart growth",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-trims-sequential-loss-to-1-092-cr-on-back-of-instamart-growth-125103000996_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/06/full/1743927506-7969.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVR2QzWm5kVFFsVkhkMEpoVFJDcUJCaXFCQ2dLTWdhaFpKQ3RMUWM",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Swiggy Eyes Inventory Model as Instamart Losses Mount",
+      "source": {
+        "name": "MediaNama",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.medianama.com/2025/10/223-swiggy-instamart-q2-losses-inventory-model-pivot/",
+      "thumbnail": "https://www.medianama.com/wp-content/uploads/2024/06/Swiggy-delivery-workers.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9iR0Y2U1hWeFZrUk9XRk5PVFJEMkFoallCQ2dLTWdPQkJRbw",
+      "date": "10/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-31T07:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Swiggy's loss widens to ₹1,092 crore, Instamart drags despite GOV growth",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/quarterly-results/swiggy-q2fy26-net-loss-widens-to-1-092-crore-revenue-climbs-54-4-125103001582_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/06/full/1743927506-7969.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVR2QzWm5kVFFsVkhkMEpoVFJDcUJCaXFCQ2dLTWdhaFpKQ3RMUWM",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Swiggy plans ₹10,000 crore fundraise via QIP — Here's what we know",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anubhav Mukherjee"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-plans-rs-10-000-crore-fundraise-via-qip-heres-what-we-know-11761822839135.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/10/30/1600x900/SWIGGY-RESULTS--0_1733294199441_1761825124830.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhSMUJzWldkQ01GOURaazFUVFJDZkF4ampCU2dLTWdB",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Dine-out sees a facelift as Swiggy tastes profits while Zomato builds breadth",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sakshi Sadashiv"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/dineout-swiggy-profit-revenue-eternal-zomato-out-of-home-consumption-food-tech-gross-order-value-net-order-value-11762070138055.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/11/02/1600x900/New-Delhi--In-this-Tuesday--March-31--2020-file-ph_1725683547653_1762086495108.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJUMFp1UzNWTWMwMU9XV3M0VFJDZkF4ampCU2dLTWdtQklaSVNtU25CU1FJ",
+      "date": "11/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-11-02T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Swiggy Q2 Results: Cons loss widens to Rs 1,092 crore YoY, but revenue jumps 54%",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shivendra Kumar"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/stocks/earnings/swiggy-q2-results-cons-loss-widens-yoy-to-rs-1092-crore-but-revenue-jumps-54/articleshow/124948135.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-124948024,width-1200,height-900,resizemode-4,imgsize-210930/swiggy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUhkVVJLZEMwdFkwTkpRVEZUVFJEZ0F4aUFCU2dLTWdB",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "ETtech Explainer: Swiggy’s losses balloon even as revenue rise",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Disha Acharya"
+        ]
+      },
+      "link": "https://m.economictimes.com/tech/technology/ettech-explainer-swiggys-losses-balloon-even-as-revenue-rise/articleshow/124991088.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-124991101,width-1200,height-900,resizemode-4,imgsize-211536/sriharsha-majety-group-ceo-swiggy.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlVEUwY2sxcVdVSkxYekk1VFJEZ0F4aUFCU2dLTWdhcFJacnRJUWs",
+      "date": "11/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-11-02T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "Swiggy Q2 Preview 2026: Revenue Set to Rise 49% YoY on Instamart Boom, Net Loss Likely to Continue",
+      "source": {
+        "name": "goodreturns.in",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.goodreturns.in/news/swiggy-q2-preview-2026-revenue-set-to-rise-49-yoy-on-instamart-boom-net-loss-likely-to-continue-1466433.html",
+      "thumbnail": "https://images.goodreturns.in/img/2025/10/swiggy6002-1761752502.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdUMjUyVFVkM1pHZEpNVmRUVFJEU0FoallCQ2dLTWdtSm9ZeUdPYWMxVVFF",
+      "date": "10/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-29T07:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "Swiggy shares jump 4% after Morgan Stanley reiterates ‘overweight’ call despite Rs 1,092 crore Q2 loss",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/swiggy-shares-in-focus-as-net-loss-widens-to-rs-1092-crore-in-q2-should-you-invest/articleshow/124982219.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-124982198,width-1200,height-900,resizemode-4,imgsize-14628/swiggy-shares-in-focus-as-net-loss-widens-to-rs-1092-crore-in-q2-should-you-invest.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaSHBKUTJKaVZXbENOV2xJVFJEZ0F4aUFCU2dLTWdZVm81U0tPUWM",
+      "date": "10/31/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-31T07:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "Swiggy plans to bulk up cash reserves for Instamart as losses widen in Q2",
+      "source": {
+        "name": "livemint.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vaeshnavi Kasthuril"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/company-results/swiggy-losses-widen-in-q2-plans-to-bulk-up-cash-reserves-for-instamart-quick-commerce-rivalry-blinkit-11761835621776.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/10/30/1600x900/SWIGGY-RESULTS--0_1761843768053_1761843779002.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XVkZTWlZkeFkxUXdlVEJNVFJDZkF4ampCU2dLTWdhQkE0NVFyUVk",
+      "date": "10/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-30T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

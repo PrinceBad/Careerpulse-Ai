@@ -1,0 +1,394 @@
+{
+  "search_metadata": {
+    "id": "6ac4ebe22328e1f436c36b8b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/j1xCsY7y_8qGSvPlWs-ls1kXx-vq2SVQCBAxx68bL88/6ac4ebe22328e1f436c36b8b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/j1xCsY7y_8qGSvPlWs-ls1kXx-vq2SVQCBAxx68bL88/6ac4ebe22328e1f436c36b8b.md",
+    "created_at": "2026-10-06 12:38:58 UTC",
+    "processed_at": "2026-10-06 12:38:58 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Swiggy+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/j1xCsY7y_8qGSvPlWs-ls1kXx-vq2SVQCBAxx68bL88/6ac4ebe22328e1f436c36b8b.html",
+    "prettify_html_file": "https://serpapi.com/searches/j1xCsY7y_8qGSvPlWs-ls1kXx-vq2SVQCBAxx68bL88/6ac4ebe22328e1f436c36b8b.prettify",
+    "total_time_taken": 0.82
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Swiggy headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "Swiggy headquarters Bengaluru, India"
+  },
+  "place_results": {
+    "title": "Swiggy HO",
+    "place_id": "ChIJ2Xp8xNATrjsRa0PkqrcKuZY",
+    "data_id": "0x3bae13d0c47c7ad9:0x96b90ab7aae4436b",
+    "data_cid": "10860723760343040875",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13d0c47c7ad9%3A0x96b90ab7aae4436b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13d0c47c7ad9%3A0x96b90ab7aae4436b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 12.9286222,
+      "longitude": 77.6930625
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2Xp8xNATrjsRa0PkqrcKuZY",
+    "provider_id": "/g/11hzzwjc41",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldg_FgSQYXxFsIAFt4LOLQAJt84edrg5mwV04zrcLSiUdejZxb8EYDq4EIavTDKIt45-_6cC6auLXMFPMVcfQK-aSdVXMf0sgqb7nJUiQnmVEYRhVxmj3PplJv9zxV9Q5IZb-8hw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YUbFjnicHcRRDoIgAADQE5G0sKytD1e6NF2SStpPUySoKZpQum7YEbpNW-_jfT9C606tDKMWswlvW16zp2I9baVmUk9o2xi8U4AqoAx7d4ySU13xi8tjnGejqzzb1Sg4BNj2tYVY1XOzGQhE754G8S2t2P08lpaTbx_I8YpXst17GpngMqebefEMstCNQkKveA-KuCJZeIWKP8qF9NMblg1x8qMgY3OfRV3tv5bvkSyx6Z1LYIlhPUwhhED8p0D-AOibRVE",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 311
+      },
+      {
+        "stars": 2,
+        "amount": 22
+      },
+      {
+        "stars": 3,
+        "amount": 21
+      },
+      {
+        "stars": 4,
+        "amount": 42
+      },
+      {
+        "stars": 5,
+        "amount": 296
+      }
+    ],
+    "rating": 3,
+    "reviews": 692,
+    "type": [
+      "Corporate office"
+    ],
+    "type_ids": [
+      "corporate_office"
+    ],
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "address": "Ground Floor, I&J Block, Embassy TechVillage, No.55 Sy No.8, 14, Outer Ring Rd, Devarabisanahalli, Bengaluru, Karnataka 560103, India",
+    "country": "India",
+    "website": "https://www.swiggy.com/",
+    "phone": "+91 80 6842 2422",
+    "open_state": "Open 24 hours",
+    "plus_code": "WMHV+C6 Bengaluru, Karnataka, India",
+    "hours": [
+      {
+        "tuesday": "Open 24 hours"
+      },
+      {
+        "wednesday": "Open 24 hours"
+      },
+      {
+        "thursday": "Open 24 hours"
+      },
+      {
+        "friday": "Open 24 hours"
+      },
+      {
+        "saturday": "Open 24 hours"
+      },
+      {
+        "sunday": "Open 24 hours"
+      },
+      {
+        "monday": "Open 24 hours"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldg_FgSQYXxFsIAFt4LOLQAJt84edrg5mwV04zrcLSiUdejZxb8EYDq4EIavTDKIt45-_6cC6auLXMFPMVcfQK-aSdVXMf0sgqb7nJUiQnmVEYRhVxmj3PplJv9zxV9Q5IZb-8hw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/YUbFjnicHcRRDoIgAADQE5G0sKytD1e6NF2SStpPUySoKZpQum7YEbpNW-_jfT9C606tDKMWswlvW16zp2I9baVmUk9o2xi8U4AqoAx7d4ySU13xi8tjnGejqzzb1Sg4BNj2tYVY1XOzGQhE754G8S2t2P08lpaTbx_I8YpXst17GpngMqebefEMstCNQkKveA-KuCJZeIWKP8qF9NMblg1x8qMgY3OfRV3tv5bvkSyx6Z1LYIlhPUwhhED8p0D-AOibRVE"
+      },
+      {
+        "title": "Building",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllPtJvYsNw1ax14Z9QNFvsf073zMiB52WBXaIMevvofUjC754ZHSDne7xzsNUoOd5-bPM61Gb-ULw_6vxtuEzQ9S2ny9q2ZOw8wK7P9nRCx4n5mXqoUk4yshA0_mIhsRy1tTLVuI4mNRep=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/YIH9p3icHcRNcoIwGADQE0USDFKc6cKfqlRBRFHLxlGMRIUE-4UEuGTXvU1n-hbv94crVcHQsgre7-VS5gWrgX1nUigmVC-TpZVXgDJAYI0WcbQ7FEWkPvUXhIacG0JTbxPONNyw2--C-9ixD-Pj2Q-Y1vKWPCauQ9PFdiqY23QQJnJ9ddAlCgZkfkHJypwGulH1R7fxtrZovZedrs2bWbqRJ-JJQ4VTHl8yedIW-AifSp9D3BK1W-1rn5ZhzKp3QzDGiP-fIfEHkSFHfg"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvd_C6fXE2hMLSo-9l5iH9t38DFq0XelGP0hKhmGCRQYKqETCNtmtoMmzTRQcUZfNJ_TZ6U8M-a1elGfyj0Kp3h4_rGwTSF6SL4n982plmCtWsD36Cg2B3XkOsZvjHXzY4W5N4=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/6DKP0HicHcpRE4EwAADgXzRNS1fuPLBSJ4WaK710bqpha7Hh-IN-g3_Defmevs-bad2rsWFwhgatlC2vb6q-UtnputMDKoXR9gpQBZQxDdM1ycX9UGG7KXyTxctMApePjqGrkePNL7CoebCGLGIiwOlmF118ghMttIzFi6Qbui2bZFGR0t46MdgPf7t5nmDUI2ZV1-BBsrmdLa3OdcyeC6xz5SEbt-YMFeeVKu-nsHjtrHyUWJPHEEII2F8Kui_q1EMa"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"We feel confident to eat the ordered food products.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXhurEARFr-7N-Nb5fnKZAHCKS_FFxOOA9_iXLR-b_ugw3sQWbQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"The quality of food and service has been deteriorating\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWVKq44cnrQCkjqBny3Qehr8jp3Dyyqfu5WN_kIU6nrjVWJbh5AIA=s40-k-cc-rp-mo"
+        }
+      ],
+      "topics": [
+        {
+          "keyword": "location",
+          "mentions": 4,
+          "id": "KlvowLLM6cQ"
+        },
+        {
+          "keyword": "consumer court",
+          "mentions": 2,
+          "id": "BBb9fGLdkKs"
+        },
+        {
+          "keyword": "platform fee",
+          "mentions": 2,
+          "id": "VkV9vOpvCQU"
+        },
+        {
+          "keyword": "instamart",
+          "mentions": 9,
+          "id": "GzwY2XJ_ENQ"
+        },
+        {
+          "keyword": "refund",
+          "mentions": 14,
+          "id": "AiLaHCr_AAs"
+        },
+        {
+          "keyword": "commission",
+          "mentions": 2,
+          "id": "DFb8cbgdMS8"
+        },
+        {
+          "keyword": "food",
+          "mentions": 5,
+          "id": "BFzIY7owYWU"
+        },
+        {
+          "keyword": "app",
+          "mentions": 30,
+          "id": "1VMKxzavLMg"
+        },
+        {
+          "keyword": "coupon",
+          "mentions": 6,
+          "id": "ErT_LOw6iZA"
+        },
+        {
+          "keyword": "fraud",
+          "mentions": 22,
+          "id": "goSOnSfbUCs"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "siffuu Agwan",
+          "rating": 1,
+          "contributor_id": "117362038110357584167",
+          "user_review_count": 3,
+          "user_photo_count": 2,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU2A9X1azvVggD-mRA0Iqc5brhsEadJpR_JnNjb0zVHGHlpzf62=s120-c-rp-mo-br100",
+          "description": "I had the worst experience with Swiggy. While placing my order, the app automatically detected the wrong location. I even added my correct address manually, but my order was still cancelled. I even requested the delivery partner and was willing to pay extra, but my request was ignored. On top of that, Swiggy refused to refund my money and charged a 100% cancellation fee. This is the most disappointing customer service I have ever experienced. Because of this, I have decided to stop using this app and will never use Swiggy again. I do not recommend this service based on my experience. I am extremely disappointed",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOSFVUTXpOVXREYVdWc1pEaGtla0ZSUTFkMU5HYxAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOkNHUTMzNUtDaWVsZDhkekFRQ1d1NGc%7C%7C?hl=en-US",
+          "date": "a month ago",
+          "date_iso8601": "2026-08-16T07:47:27+00:00"
+        },
+        {
+          "username": "Suresh Boosarajula",
+          "rating": 1,
+          "contributor_id": "113163886636369493794",
+          "user_review_count": 6,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK_3s86r260i8YpavwsjCEkABidhSzBf9Sc50Xh8pMnoY42N5F9=s120-c-rp-mo-ba12-br100",
+          "description": "I ordered From KFC which is not 1 and half km From my home and order was taken and accepted by kfc and order prepared and placed for pickup and delivery person to whom it was assigned not picked order not responded to call and messages.\n\nWorst part was that tele calling representative too done the same thing.\n\nIt's now nearly 2 hrs still not received the order.\n\nI humbly request the board of directors. Kindly shut the Swiggy services. Or update the app with exact information",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kUVMxZGZOSFl6WWw5MFJEVjZiMUppT0RsUE5sRRAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOndQS1dfNHYzYl90RDV6b1JiODlPNlE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPhAp_R_e2MKHQZ5EhuO7O-1b61e1RBumj2XqTr3cqGlVws--QgImtKGWkDL7mAIT4Ix5VIoSSV6f3uExWvxSxy_1xVJH-jwNoHw-cQYQbybhVEhro4ZeeqklkR0ZkHAbf5UUeX=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOPRs7yYWw7njarVv40yT1fbhJXPBJC_n0NelI96GDywJsL8_9PfIaj-2PbN7HL6AVMHoRjexWlxCoV2ASTkCI0PsH9x7XcPNmbMsrLYmRo5ORCBj_J59JaLl-jD0Xab_ZY18g0k-SeF4C7=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNpDMfTnlhKhL3eaepyGcePq5Gh-NtRF9rrwV9O3YeL0nFzoBusDVrkKjIfJugpRfpdCdtSH32XR9wkJAYeJNecAIvsvA8WJe1ftqxb8y0msgTurlW8XD4d4UH4CTmOPK3DwRZ00WQijDj0=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPAyEJEfGq460m7xoPQACZ55XKPnLUMBdTrZevgosOo63JEprlj5vlVoackXWI1QMnfmHyOLJtj5v-KLPq-4o3doEQdFHdO1UTG8hZIeb84SJfek-bKBcIwS1Fcbsf3mwVCCxxJrGFiyVQW=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMnl3TUF03SWAhogs0XuQUFAiZQaMZoGSJpRLCVmBxGCXGJ70RecRwcNtn_NzqM6h-FqoCIO2bWGiP--XkvHysNJLaUc59nRVVHI3j-Q7di1ZHPegPEg4Vn_iy1A1Cnb56O2A9qe4e10DB8=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNT139qz52LZdFvH4BwvpnimS3FeUz6U21k8EKrXg9MM7rtRhe-jnH70PkjlaJekviQn6wKuWMR2-pVy17kRmzdzZVoPLZV5a0B4WkXSZqvH2awoT-z_jFTs5cDFmlTAxHRPa6Jn8EpLp4I=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOEDlCq0oEi3xPpCcRyS-4jhH_XNhaVQjPF8qdOmUQeXoR4IdScw9OX6GL2QDSzGurUobXDSUu9YuQTnLlHXJlIf6AS5cgM_l4Fu6nrqzB7BrDiOrjF6vMGRG4a0jH9glRJ50efgo7dNoxz=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHVtj4-zvBncXsK2gCHKuAq7D-4xNsVKcJaEFLSyLr-Cz20GhTKSIWbLPh1M4Fccu9NVlmVvVjJ4ctK0FC0IrUTlntCXXOrHS8lw-2rkxY8A4QFK39zY7gwLbyxUQTi3swgKE1w5HE1uLr=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPxy2NnNUytF9Aw0VDF1bX7dA4S3s4jkWvGRpa1ksU83YFuXxx0vU0iVCx5zVxhd_ZArv09BE7EzXJFmqHa4a8H5UssSwLeiMpxaBpYJFAViuXDQuqa5D0LqnnlJ8icp2iJx8I3FnIRmw0=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-06-05T17:47:49+00:00"
+        },
+        {
+          "username": "Priyank Shrimali",
+          "rating": 1,
+          "contributor_id": "106355453734692253594",
+          "user_review_count": 31,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUWwzaUtiiiVXoAKh7-FhktB4pka50JaQ2-8G2L2ChNROH0AY23=s120-c-rp-mo-ba12-br100",
+          "description": "Delivery partners are treated unfairly despite being the backbone of this company.\nThey use their own bikes, fuel, and take all the road risks every single day.\nOn top of that, they are forced to wear company-branded uniforms for promotion.\nStill, the company has the audacity to charge them for these uniforms.\nThis policy is exploitative and shows zero respect for ground-level workers.\nCalling them “partners” while pushing all costs onto them is pure hypocrisy.\nIf the uniform promotes the company, it should be provided free.\nThis practice deserves strong criticism and immediate change.\nSuch policies clearly value profits over people.\nNo ethical company should treat its workers this way.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pob1lsWmpkMHBNYTBoUVpUVk5kazAxWW1ad1UyYxAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOjhoYlZjd0pMa0hQZTVNdk01YmZwU2c%7C%7C?hl=en-US",
+          "date": "8 months ago",
+          "date_iso8601": "2026-01-09T19:23:28+00:00"
+        },
+        {
+          "username": "Spice Shaffi",
+          "rating": 1,
+          "contributor_id": "100337960332544926678",
+          "user_review_count": 27,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjULpTQRdMqzdp5wL1HHE4DfSIDviOgUvLBjLxdf1JRRcsRKYggCjg=s120-c-rp-mo-ba12-br100",
+          "description": "Boss..\nTake care your pallakkad Swiggy. I ordered one restaurant one single egg curry and protta 2. Swiggy charges 179 rupees. I called restaurant they said they charged Swiggy only 90 rupees. And the bike give he is not proceed bill. Just one small boy of papper manually write. So take care palakkad Swiggy. Please I am not order again. Because it's very big cheating",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOc1ZYUmFkM1J6UlhOeVFXOHhjR3h2TTNoZk1IYxAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOjNsVXRad3RzRXNyQW8xcGxvM3hfMHc%7C%7C?hl=en-US",
+          "date": "3 months ago",
+          "date_iso8601": "2026-06-14T12:59:57+00:00"
+        },
+        {
+          "username": "Jyothi Kamath",
+          "rating": 1,
+          "contributor_id": "102837579451913473946",
+          "user_review_count": 5,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL3isO2aIX2w-trRRnD8g9s66bhdrezp03OmVm3WYWQW29-sA=s120-c-rp-mo-br100",
+          "description": "Paid through Paytm but order didn’t go through\n, when I sent screenshot to customer support, they denied getting money despite bank statement showing transfer went through. absolutely useless, no way to contact customer support. highly recommend Zomato over Swiggy.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GTVVsQktNa2cxT0ZaVGNFSkhMVmxXTVc5bWNrRRAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOnFMUlBKMkg1OFZTcEJHLVlWMW9mckE%7C%7C?hl=en-US",
+          "date": "2 months ago",
+          "date_iso8601": "2026-07-25T09:59:23+00:00"
+        },
+        {
+          "username": "anupama anu",
+          "rating": 1,
+          "contributor_id": "107724794395006708022",
+          "user_review_count": 8,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLQChfgu97r0Cr-my1EyyHx3T3AUpKZ1XOwDuR4AU-tc8tTZqAA=s120-c-rp-mo-br100",
+          "description": "Terrible experience. Ordered from Andra Gunpowder Hotel for ₹530. Had to cancel due to restaurant delay, but Swiggy charged full amount. No refund, no support. Lost ₹530 for food I never got. Not fair to customers. Fix your cancellation policy.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210NlRsOVRSVFpCU2pONlpVSlFVMkZzTTBsaFUwRRAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOmt6Tl9TRTZBSjN6ZUJQU2FsM0lhU0E%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMpwWNG0mZ7gZzsj0pzVPXnzGSdBW3RER7TLjUBQscYdfwj0qi-F_dvm3IxkwHyzf4F569ZX-XPhFxwmJs2_bHlKZaybYpcqueioG4feyBPlHJ4OGpv9-wSDZCywA_w264v1ne927H6sQEi=k-no"
+            }
+          ],
+          "date": "5 months ago",
+          "date_iso8601": "2026-04-23T06:24:19+00:00"
+        },
+        {
+          "username": "SUMIT GUPTA",
+          "rating": 1,
+          "contributor_id": "113459431899387289332",
+          "user_review_count": 22,
+          "user_photo_count": 9,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV74-BJUbwlKZLg5oKoxZo06kJdLO2nCeys4Xg2OxQgYpIQ0vBZ=s120-c-rp-mo-ba12-br100",
+          "description": "Now instamart become waiting mart. They took 1 hr to delivery any order. Chat bot totally useless. I called to customer support he told me the same thing what bot telling me from last 20 min that my order will be delivered in 5 min. I am writing this review after 20 min of that call. Still my order not delivered god know when it will be deliver. I request everyone kindly don't user this app. U will order and u will boil your blood",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GNVIzVllWMDE2YVRCalJUUmhMVUZWUldOYVVGRRAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOmF5R3VYV016aTBjRTRhLUFVRWNaUFE%7C%7C?hl=en-US",
+          "date": "7 months ago",
+          "date_iso8601": "2026-03-03T14:47:13+00:00"
+        },
+        {
+          "username": "Himanshu Kumar",
+          "rating": 1,
+          "contributor_id": "105007453446338336037",
+          "user_review_count": 27,
+          "user_photo_count": 65,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLRZLkuUeCwuc8tP6Vg3pGyUa9gAt6CLm3QyCp6DrXF06ASuQ=s120-c-rp-mo-ba12-br100",
+          "description": "Big time scammers. I ordered food which was not delivered and then support team issued an unusable coupon which cannot be redeemed. No one from Swiggy support or grievances helped me.\n\nThey just scammed my money.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKM1psaEJhSGcyYWsxNFYweFlSSHB1ZEd4dk1rRRAB!2m1!1s0x0:0x96b90ab7aae4436b!3m1!1s2@1:CAIQACodChtycF9oOlJ3ZlhBaHg2ak14V0xYRHpudGxvMkE%7C%7C?hl=en-US",
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-28T11:41:37+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Swiggy Delivery boy Onboarding center, Koramangala",
+            "data_id": "0x0:0x9a89ef1237ef8546",
+            "data_cid": "11135694415177155910",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9a89ef1237ef8546&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9a89ef1237ef8546&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9369991,
+              "longitude": 77.6283717
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x9a89ef1237ef8546%218m2%213d12.9369991%214d77.6283717&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.6,
+            "reviews": 1705,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlXUCh4_gql3PZog4ABNY8G57dIAgD8vt9Kg-hE2TdphgH-3OmSkfC9gqy7L5Hu_KcObJfs05zqo-NtjVUY33STT-cSnF_ySclHlHB5uHRR3Y1RJJ06529vQd1sODREfR59lUhpug=w156-h156-n-k-no",
+            "type": [
+              "Corporate office"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Swiggy Delivery boy Onboarding center, Malleshwaram",
+            "data_id": "0x0:0x62db8ae5ab82d21a",
+            "data_cid": "7123439954646192666",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x62db8ae5ab82d21a&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x62db8ae5ab82d21a&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9941183,
+              "longitude": 77.5555349
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x62db8ae5ab82d21a%218m2%213d12.9941183%214d77.5555349&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3.4,
+            "reviews": 273,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNd1106WJmLwYkesEYIR_h6Kk1HF2fZ8eAHU_5RRvNoZWXzlNNDTGdV85AFGV0tSIEhi7if7zgBvCiRGfDCOx05p93gndJvhxsAozqRWALp1CVa0bISYS6rWdotZRKsS_nL9L4=w156-h156-n-k-no",
+            "type": [
+              "Back office"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Swiggy Limited",
+            "data_id": "0x0:0x6d627fb314299c57",
+            "data_cid": "7882002704965934167",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x6d627fb314299c57&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x6d627fb314299c57&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9855197,
+              "longitude": 77.7487299
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x6d627fb314299c57%218m2%213d12.9855197%214d77.7487299&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3,
+            "reviews": 25,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlsyLN7RiCpjXHhOF2v5qA-FRq_-eRSX_mIrJVKHAg-yW2SNnqLzB7lYwz4WXTyz1Q3GGTn97U87G-Oeb1vJmijX0axU1Jrvy1JLmJvish0LFXovBC8Hwe3GMpFTBQCBCaK1oEXblT2BJg=w156-h156-n-k-no",
+            "type": [
+              "E-commerce service",
+              "Corporate office"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OisKKSIlU3dpZ2d5IEhPIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COisKKSIlU3dpZ2d5IEhPIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSgC&q=local+guide+program"
+  }
+}

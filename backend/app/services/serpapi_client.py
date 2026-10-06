@@ -40,13 +40,21 @@ class SerpApiClient:
                 logger.warning(f"Error reading cache file {cache_file}: {e}")
         return None
 
+    def _sanitize_data(self, data: Any) -> Any:
+        if isinstance(data, dict):
+            return {k: self._sanitize_data(v) for k, v in data.items() if k != "api_key"}
+        elif isinstance(data, list):
+            return [self._sanitize_data(item) for item in data]
+        return data
+
     def _write_to_cache(self, engine: str, cache_key: str, data: Dict[str, Any]):
         if not self.cache_enabled:
             return
         cache_file = self.cache_dir / f"{engine}_{cache_key}.json"
+        clean_data = self._sanitize_data(data)
         try:
             with open(cache_file, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
+                json.dump(clean_data, f, indent=2, ensure_ascii=False)
             logger.info(f"Cached {engine} response to disk: {cache_file.name}")
         except Exception as e:
             logger.warning(f"Error saving to cache {cache_file}: {e}")
