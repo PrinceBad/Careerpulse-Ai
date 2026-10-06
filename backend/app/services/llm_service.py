@@ -73,14 +73,15 @@ class LLMService:
 
         final_cited_ids = sorted(list(set(verified_letter_ids + verified_bullet_ids)))
         used_citations = [c for c in citations if c.id in final_cited_ids]
-        is_mock_run = any(getattr(c, "is_mock", False) for c in citations)
+        prov = "mock" if any(c.provenance == "mock" for c in citations) else ("cached" if any(c.provenance == "cached" for c in citations) else "live")
 
         pack.cover_letter = clean_letter
         pack.tailored_resume_bullets = clean_bullets
         pack.cited_evidence_ids = final_cited_ids
         pack.citations_used = used_citations
-        pack.is_mock = is_mock_run
+        pack.provenance = prov
         pack.validation_status = "strictly_verified" if not all_violations else "sanitized_grounded"
+        pack.blocked_claims = all_violations
 
         return pack
 

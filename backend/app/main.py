@@ -114,13 +114,14 @@ def search_jobs(request: JobSearchRequest):
 
     # Sort jobs by match_score descending
     parsed_jobs.sort(key=lambda j: j.match_score, reverse=True)
+    prov = "mock" if raw.get("_is_mock") else ("cached" if raw.get("_from_cache") else "live")
 
     return JobSearchResponse(
         query=request.query,
         location=request.location or "India",
         total_found=len(parsed_jobs),
         jobs=parsed_jobs,
-        is_cached=raw.get("_from_cache", False)
+        provenance=prov
     )
 
 @app.post("/api/company/due-diligence", response_model=DueDiligenceReport)
@@ -142,6 +143,12 @@ def generate_grounded_outreach(request: OutreachRequest):
         candidate_profile=request.candidate_profile_text,
         citations=request.due_diligence_report.citations
     )
+
+@app.post("/api/guard/simulate-hallucination")
+def simulate_hallucination_endpoint(request: DueDiligenceReport):
+    """Demonstrates Beat 3: Injects an ungrounded claim and fake citation to prove guard interception."""
+    from .services.grounding_validator import grounding_validator
+    return grounding_validator.simulate_hallucination_test(request.citations)
 
 # -------------------------------------------------------------
 # Frontend Static Mount

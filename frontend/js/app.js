@@ -46,6 +46,7 @@ const targetCompanyTitle = document.getElementById('targetCompanyTitle');
 const targetRoleTitle = document.getElementById('targetRoleTitle');
 const executiveSummaryText = document.getElementById('executiveSummaryText');
 const btnRefreshDiligence = document.getElementById('btnRefreshDiligence');
+const investigationTraceTimeline = document.getElementById('investigationTraceTimeline');
 
 // Intel Cards Elements
 const riskLevelBadge = document.getElementById('riskLevelBadge');
@@ -74,6 +75,12 @@ const outreachSubject = document.getElementById('outreachSubject');
 const outreachEmail = document.getElementById('outreachEmail');
 const outreachBullets = document.getElementById('outreachBullets');
 
+// Hallucination Guard Interception Elements (Beat 3)
+const btnSimulateHallucination = document.getElementById('btnSimulateHallucination');
+const hallucinationAlertBox = document.getElementById('hallucinationAlertBox');
+const hallucinationViolationsList = document.getElementById('hallucinationViolationsList');
+const blockedSentencesBadge = document.querySelector('.badge-blocked');
+
 // Modal Elements
 const citationModal = document.getElementById('citationModal');
 const btnCloseModal = document.getElementById('btnCloseModal');
@@ -83,6 +90,8 @@ const modalCitSignal = document.getElementById('modalCitSignal');
 const modalCitDate = document.getElementById('modalCitDate');
 const modalCitSnippet = document.getElementById('modalCitSnippet');
 const modalCitUrl = document.getElementById('modalCitUrl');
+const modalCitVerified = document.getElementById('modalCitVerified');
+const modalCitMethod = document.getElementById('modalCitMethod');
 
 // Init
 document.addEventListener('DOMContentLoaded', () => {
@@ -120,6 +129,68 @@ function setupEventListeners() {
   btnGenerateOutreach.addEventListener('click', () => {
     generateOutreach();
   });
+
+  // Simulate Hallucination Guard (Beat 3 proof)
+  if (btnSimulateHallucination) {
+    btnSimulateHallucination.addEventListener('click', async () => {
+      if (!state.currentReport) {
+        alert("Please wait for the Due Diligence scan to load first.");
+        return;
+      }
+      btnSimulateHallucination.disabled = true;
+      btnSimulateHallucination.innerHTML = '<span class="btn-icon">⏳</span> Intercepting Draft...';
+
+      try {
+        const res = await fetch('/api/guard/simulate-hallucination', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(state.currentReport)
+        });
+
+        const data = await res.json();
+        
+        // Show the alert box with intercepted claims
+        if (hallucinationAlertBox) {
+          hallucinationAlertBox.classList.remove('hidden');
+        }
+        if (blockedSentencesBadge) {
+          blockedSentencesBadge.textContent = `${data.count_rejected || 2} Sentences Blocked & Stripped`;
+        }
+        if (hallucinationViolationsList) {
+          hallucinationViolationsList.innerHTML = '';
+          (data.violations || []).forEach(v => {
+            const li = document.createElement('li');
+            li.className = 'violation-item';
+            li.innerHTML = `<strong>INTERCEPTED:</strong> ${escapeHtml(v)}`;
+            hallucinationViolationsList.appendChild(li);
+          });
+        }
+
+        // Show side-by-side comparison in outreachEmail container
+        outreachEmail.innerHTML = `
+          <div class="before-after-box">
+            <div class="draft-comparison">
+              <div class="draft-pane draft-original">
+                <span class="pane-badge bad">Draft with Injected Hallucinations</span>
+                <p>${escapeHtml(data.original_draft)}</p>
+              </div>
+              <div class="draft-pane draft-sanitized">
+                <span class="pane-badge good">Sanitized by Grounding Guard (${data.count_rejected || 2} sentences removed)</span>
+                <p>${escapeHtml(data.cleaned_result)}</p>
+              </div>
+            </div>
+          </div>
+        `;
+
+        hallucinationAlertBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      } catch (err) {
+        console.error("Error simulating hallucination:", err);
+      } finally {
+        btnSimulateHallucination.disabled = false;
+        btnSimulateHallucination.innerHTML = '<span class="btn-icon">🧪</span> Simulate Hallucination Guard';
+      }
+    });
+  }
 
   // Modal close
   btnCloseModal.addEventListener('click', () => {
@@ -253,13 +324,17 @@ async function loadDueDiligence(companyName, roleTitle) {
 }
 
 function renderDueDiligence(report) {
-  // Update Live vs Mock Data badge
-  if (report.is_mock) {
-    dataSourceBadge.className = 'data-source-badge badge-mock';
-    dataSourceLabel.textContent = 'Demo Mock Data';
-  } else {
+  // Update Live vs Cached vs Mock Data badge honestly
+  const prov = report.provenance || (report.is_mock ? 'mock' : 'cached');
+  if (prov === 'live') {
     dataSourceBadge.className = 'data-source-badge badge-live';
     dataSourceLabel.textContent = 'Live SerpApi Verified';
+  } else if (prov === 'cached') {
+    dataSourceBadge.className = 'data-source-badge badge-cached';
+    dataSourceLabel.textContent = 'Cached Real SerpApi Response';
+  } else {
+    dataSourceBadge.className = 'data-source-badge badge-mock';
+    dataSourceLabel.textContent = 'Demo Mock Data';
   }
 
   // Verdict badge
@@ -277,14 +352,40 @@ function renderDueDiligence(report) {
 
   executiveSummaryText.textContent = report.executive_summary;
 
+  // Render Autonomous Agent Investigation Trace
+  if (investigationTraceTimeline) {
+    investigationTraceTimeline.innerHTML = '';
+    const trace = report.investigation_trace || [];
+    trace.forEach(step => {
+      const item = document.createElement('div');
+      item.className = 'trace-step-item';
+      item.innerHTML = `
+        <div class="trace-step-num">${step.step_number}</div>
+        <div class="trace-step-body">
+          <div class="trace-step-header">
+            <span class="trace-engine-tag engine-${escapeHtml(step.engine).replace('google_', '')}">${escapeHtml(step.engine)}</span>
+            <strong class="trace-action-text">${escapeHtml(step.action)}</strong>
+          </div>
+          <p class="trace-reason-text"><strong>Trigger / Reason:</strong> ${escapeHtml(step.reason)}</p>
+          <p class="trace-result-text"><strong>Outcome:</strong> ${escapeHtml(step.result_summary)}</p>
+        </div>
+      `;
+      investigationTraceTimeline.appendChild(item);
+    });
+  }
+
   // 1. Risks Card
   riskLevelBadge.className = report.risks.risk_level === 'Low' ? 'badge-risk-low' : 'badge-risk-high';
   riskLevelBadge.textContent = `${report.risks.risk_level.toUpperCase()} RISK`;
   riskSummaryText.textContent = report.risks.risk_summary;
   renderCitationChips(riskCitations, report.risks.evidence_citation_ids, report.citations);
 
-  // 2. Culture Card
-  cultureScoreBadge.textContent = `${report.culture.sentiment_rating} / 5.0`;
+  // 2. Culture Card (honestly handle null rating)
+  if (report.culture && report.culture.sentiment_rating !== null && report.culture.sentiment_rating !== undefined) {
+    cultureScoreBadge.textContent = `${report.culture.sentiment_rating} / 5.0`;
+  } else {
+    cultureScoreBadge.textContent = "No Rating Found";
+  }
   culturePros.textContent = (report.culture.top_positives || []).join(', ');
   cultureCons.textContent = (report.culture.top_complaints || []).join(', ');
   renderCitationChips(cultureCitations, report.culture.evidence_citation_ids, report.citations);
@@ -316,6 +417,7 @@ function renderDueDiligence(report) {
         <span class="citation-chip" onclick="showCitationModal('${c.id}')">[${c.id}]</span>
         <span class="engine-tag engine-${c.engine.replace('google_', '')}">${c.engine}</span>
         <strong>${escapeHtml(c.source_title)}</strong>
+        <span class="verified-tag ${c.verified ? 'tag-verified' : 'tag-unverified'}">${c.verified ? `✓ Verified (${Math.round((c.verification_confidence || 0.9) * 100)}%)` : '⚠ Unverified'}</span>
       </div>
       <div>
         <a href="${c.source_url}" target="_blank" rel="noopener noreferrer">Inspect Source ↗</a>
@@ -356,9 +458,18 @@ window.showCitationModal = function(citationId) {
   modalCitDate.textContent = c.date || 'Verified Live Result';
   modalCitSnippet.textContent = c.snippet;
   
-  const modalCitMethod = document.getElementById('modalCitMethod');
+  if (modalCitVerified) {
+    if (c.verified) {
+      modalCitVerified.textContent = `✓ VERIFIED (${Math.round((c.verification_confidence || 0.9) * 100)}%)`;
+      modalCitVerified.className = 'verified-tag tag-verified';
+    } else {
+      modalCitVerified.textContent = '⚠ UNVERIFIED';
+      modalCitVerified.className = 'verified-tag tag-unverified';
+    }
+  }
+
   if (modalCitMethod) {
-    modalCitMethod.textContent = c.verification_method || 'exact_entity_match';
+    modalCitMethod.textContent = `${c.verification_method || 'exact_entity_match'} · Provenance: ${c.provenance || 'cached'}`;
   }
   
   modalCitUrl.href = c.source_url;

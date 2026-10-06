@@ -1,0 +1,1112 @@
+{
+  "search_metadata": {
+    "id": "6ac4ee8171b49288244f08b8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k_azCvA1ERvy5IvFI0PEXCXZtx774316YhGL2oPzshI/6ac4ee8171b49288244f08b8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k_azCvA1ERvy5IvFI0PEXCXZtx774316YhGL2oPzshI/6ac4ee8171b49288244f08b8.md",
+    "created_at": "2026-10-06 12:50:09 UTC",
+    "processed_at": "2026-10-06 12:50:09 UTC",
+    "google_news_url": "https://news.google.com/search?q=Razorpay+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/k_azCvA1ERvy5IvFI0PEXCXZtx774316YhGL2oPzshI/6ac4ee8171b49288244f08b8.html",
+    "total_time_taken": 1.63
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Razorpay news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Razorpay confidentially files DRHP with SEBI for IPO",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Upadhyay"
+        ]
+      },
+      "link": "https://entrackr.com/news/razorpay-confidentially-files-drhp-with-sebi-for-ipo-12038534",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/01/09/razorpay-2026-01-09-11-19-30.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpNR1pxYlVVdFFuVkJVMjFYVFJDZkF4ampCU2dLTWdaRlVKYVZKQWc",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Exclusive: Razorpay gets shareholder approval for Rs 2,700 crore IPO",
+      "source": {
+        "name": "MediaNama",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.medianama.com/2026/05/223-exclusive-razorpay-shareholder-approval-rs-2700-crore-ipo/",
+      "thumbnail": "https://www.medianama.com/wp-content/uploads/2026/04/stock-market-exchange-economics-investment-graph-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpSM1JzUzNKNldrdGhhRUpOVFJERkF4aWtCU2dLTWdrQlVvd1RzV1dhekFF",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "As the AI juggernaut bites, Jack Dorsey's 'Block' to cut 4,000 roles",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rahul Goreja"
+        ]
+      },
+      "link": "https://www.business-standard.com/technology/tech-news/jack-dorsey-block-layoffs-ai-restructuring-4000-jobs-cut-126022700159_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/27/full/1772161630-5211.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpUSGROWkhWME1IazBNbVJOVFJERUF4aW1CU2dLTWdhZFpvb3FxZ1k",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Flipkart bolsters AI push with senior hires from Coupang, Swiggy, Razorpay, Tata Digital",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aryaman Gupta"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/startup/flipkart-bolsters-ai-push-with-senior-hires-from-coupang-swiggy-razorpay-tata-digital-13946929.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/06/20240627153836_flipkart1.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVbXRIVVRCVWIzcFZXRjg1VFJDZkF4ampCU2dLTWdZWlE0ckx2UVE",
+      "date": "06/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-11T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Razorpay reportedly scales back offline payments",
+      "source": {
+        "name": "Tech in Asia",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.techinasia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techinasia.com/news/razorpay-scales-offline-payments-ipo",
+      "thumbnail": "https://cdn.techinasia.com/cloudinary/transformations/wp-content/uploads/2026/05/1778209497_a1ef8dcfe21e88d81c25604560aaf99a_v1778209497_xlarge.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhiR2hhVDFSM2JpMXZYMFY1VFJEeEF4anBCQ2dLTWdB",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Exclusive: Razorpay invites banker pitches for IPO; targets Rs 4,500 crore fundraise",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohit Bhalla",
+          "Pranav Mukul"
+        ]
+      },
+      "link": "https://m.economictimes.com/tech/technology/exclusive-razorpay-invites-banker-pitches-for-ipo-targets-rs-4500-crore-fundraise/articleshow/126420971.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-126420971,width-1200,height-900,resizemode-4,imgsize-1861708/exclusive-razorpay-invites-banker-pitches-for-ipo-targets-rs-4500-crore-fundraise.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZXbGhWYjBOM1RHMXlMV1ZuVFJEZ0F4aUFCU2dLTWdtRmtKSUV0LVl0cmdF",
+      "date": "01/09/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-09T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Razorpay begins IPO preparations, eyes Rs 4,500 Cr fresh issue: Report",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/razorpay-begins-ipo-preparations-eyes-rs-4500-cr-fresh-issue-report-10983677",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/01/09/razorpay-2026-01-09-11-19-30.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpNR1pxYlVVdFFuVkJVMjFYVFJDZkF4ampCU2dLTWdaRlVKYVZKQWc",
+      "date": "01/09/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-09T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Juspay raises $50 million from WestBridge, enters unicorn club",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mansi Verma"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/start-ups/juspay-fundraise-westbridge-payments-infrastructure-phonepe-razorpay-cashfree-11769145189608.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/01/23/1600x900/logo/gc1c61c2dd6844016c376b6482349cefb6fba246ff9c8170b3_1769147692200_1769147692312.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNiMUV4YVVaV2N6SjNjamhoVFJDZkF4ampCU2dLTWdhdEE0S3VPUVE",
+      "date": "01/23/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-23T08:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Razorpay Statistics 2026: Revenue, Valuation and the Road to an India IPO",
+      "source": {
+        "name": "CoinLaw",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://coinlaw.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://coinlaw.io/razorpay-statistics/",
+      "thumbnail": "https://coinlaw.io/wp-content/uploads/2025/04/featured-razorpay-statistics.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVFNVzV0UjFKdVowOUxjalZEVFJDZkF4ampCU2dLTWd1SlFZelNIQ3BrVUZsdWV3",
+      "date": "01/19/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-19T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Razorpay Slips Into Red In FY25 On ESOP, Redomiciling Expenses",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lokesh Choudhary"
+        ]
+      },
+      "link": "https://inc42.com/buzz/razorpay-slips-into-red-in-fy25-revenue-zooms-65-yoy/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/Razorpay_FTR-760x570.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtTekIxZURoaGNqTTFkMU5ZVFJEZ0F4aUFCU2dLTWdZRk1LQ1BIQW8",
+      "date": "10/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-16T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Razorpay revenue jumps 65% in FY25; loss widens on redomiciling costs",
+      "source": {
+        "name": "YourStory.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yourstory.com/2025/10/razorpay-revenue-jumps-65-in-fy25-loss-widens-on-redomiciling-costs",
+      "thumbnail": "https://images.yourstory.com/cs/2/e4fd1d90231a11efb1991bdbfe47f5e7/Imagetlm4-1760597731026.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhNVkJIUTJzeFVrVm9Za1JJVFJDSEF4aVBCaWdLTWdrVk1veUhOcWMxTVFF",
+      "date": "10/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-16T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Razorpay plans to go public in 2026, eyes $1 billion in revenue by 2030",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Supriya Roy"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/razorpay-plans-to-go-public-in-2026-eyes-1-billion-in-revenue-by-2030/articleshow/116444882.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-116444889,width-1280,height-720,resizemode-4/116444889.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtaak5oUkVKZlpqSmlUVFJ1VFJDZkF4ampCU2dLTWdZdFZaYXVKUWc",
+      "date": "12/18/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-12-18T08:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Razorpay IPO Storm: Big ₹6,000 Cr Plan Meets Market Doubt Over Growth Re-Rating",
+      "source": {
+        "name": "NiftyTrader",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikki Lodha"
+        ]
+      },
+      "link": "https://www.niftytrader.in/markets/razorpay-ipo-drhp-sebi-filing-2026/",
+      "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/06/Razorpay-IPO-Storm-Big-%E2%82%B96000-Cr-Plan-Meets-Market-Doubt-Over-Growth-Re-Rating-860x425.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9Oa1EzVEVsdWVEbGZVVVJwVFJDRkF4aVVCaWdLTWdhVk1vS3RuUWs",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Indian OTT Platforms Witnessed a Whopping 194% Increase In Revenue From International Viewers - Razorpay’s International Payments Report",
+      "source": {
+        "name": "Express Computer",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.expresscomputer.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.expresscomputer.in/news/indian-ott-platforms-witnessed-a-whopping-194-increase-in-revenue-from-international-viewers-razorpays-international-payments-report/101771/",
+      "thumbnail": "https://cdn1.expresscomputer.in/wp-content/uploads/2023/07/02172940/EC_Fintech_Growth_Finance_750-450x300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlObmhNUlZKYVdWRnZaWGhaVFJDM0FSaVRBaWdCTWdhbGNJaFFyUVk",
+      "date": "08/03/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-08-03T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "IIT placements bring startups into a hiring war with the bigwigs, who wins?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mansi Verma",
+          "Pratishtha Bagai"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/start-ups/iit-placements-bring-startups-into-a-hiring-war-with-the-bigwigs-who-wins-11764672475141.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/02/1600x900/logo/2-0-447568200-IIT-Delhi3-0_1680851574491_1764686120122.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZTV05LTVhoUFpDMUxkM1paVFJDZkF4ampCU2dLTWdrQkFJWmFnT3pJVXdF",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Razorpay FY25 results: Revenue grows 65%, but net loss stands at Rs 1,209 crore",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/technology/razorpay-reports-65-surge-in-fy25-revenue-net-loss-at-rs-1209-crore-post-esop/articleshow/124599167.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-124599142,width-1200,height-900,resizemode-4,imgsize-40182/razorpay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkSGR2VVZZeGNrZ3lOMUp0VFJEZ0F4aUFCU2dLTWdhWk00QXBJUW8",
+      "date": "10/16/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-16T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Ignosis raises $4 mn in pre-series A led by Peak XV's Surge, Razorpay",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajinkya Kawale"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/ignosis-raises-4-million-pre-series-a-led-by-peak-xv-surge-125093001183_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/07/full/1741372160-5892.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZja2x6U25VeVJYVkhRekpqVFJDZkF4amlCU2dLTWdZUlU0b291Z1E",
+      "date": "09/30/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-30T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Razorpay To Soon File Confidential DRHP To Raise $600-$700 Mn: Report",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Palak Sharma"
+        ]
+      },
+      "link": "https://inc42.com/buzz/razorpay-to-soon-file-confidential-drhp-to-raise-600-700-mn-report/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/10/Razorpay_FTR-760x570.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtTekIxZURoaGNqTTFkMU5ZVFJEZ0F4aUFCU2dLTWdZRk1LQ1BIQW8",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Razorpay acquires majority stake in POP with $30 Mn investment",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shashank Pathak"
+        ]
+      },
+      "link": "https://entrackr.com/news/razorpay-acquires-majority-stake-in-pop-with-30-mn-investment-9370234",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2025/06/17/Lmb042lmhnbQbSDuB5fW.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpNRVJqV2toVmVqSnpVM1F3VFJDZkF4ampCU2dLTWdrSmdKU1RzS2FwN1FF",
+      "date": "06/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-17T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Razorpay says payment gateway business grew 24% in revenue in FY24",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/news/razorpay-says-payment-gateway-business-grew-24-in-revenue-in-fy24-124102900479_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/04/full/1656922506-9167.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBTR0ZCVWxodVR6RkRNbGt3VFJEUUF4anNCQ2dLTWdZQm9KU29QQWM",
+      "date": "10/29/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-29T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Razorpay’s FY23 Operating Revenue Crosses INR 2,000 Cr Mark",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debarghya Sil"
+        ]
+      },
+      "link": "https://inc42.com/buzz/razorpays-fy23-operating-revenue-crosses-inr-2000-cr-mark/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/02/Razorpay-FY23-760x570.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXNVVTlFZGxKWE0zVmtZVGN6VFJEZ0F4aUFCU2dLTWdB",
+      "date": "02/29/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-29T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Why Razorpay Added POP Music To Its ‘Paylist’",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Subramaniam"
+        ]
+      },
+      "link": "https://inc42.com/features/razorpay-acquisition-pop-rewards-merchants-walled-garden/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/06/Weekly-Brief-Razorpay-ftr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1RMnRDTUZwbVkyZGpUbkUxVFJEZ0F4aUFCU2dLTWdB",
+      "date": "06/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-22T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Razorpay picks 4 i-banks for $700 mn plus IPO",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashwin Mohan"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/ipo/razorpay-picks-4-i-banks-for-700-mn-plus-ipo-13827519.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251202071957_razorpay.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBRMHRrU2tSV2QyRkVSakZTVFJDZkF4ampCU2dLTWdZTk1vN0hwUWM",
+      "date": "02/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-13T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Razorpay chief product officer on AI Agent Studio pricing, compliance concerns",
+      "source": {
+        "name": "MediaNama",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.medianama.com/2026/03/223-razorpay-chief-product-officer-ai-agent-studio-pricing-compliance-concerns/",
+      "thumbnail": "https://www.medianama.com/wp-content/uploads/2026/03/pexels-shkrabaanthony-6207703-2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZhSEp6Y1UxR1ExRTRUVGxOVFJERUF4aW1CU2dLTWdhVnc0eUxRUVU",
+      "date": "03/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-20T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Fintech POP raises $30 mn from Razorpay to build loyalty-first model",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajinkya Kawale"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/start-ups/fintech-pop-raises-30-million-from-razorpay-to-expand-loyalty-push-125061701103_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/full/1718874483-017.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZORmxMTVZScVZrVkROWGR4VFJENUF4amZCQ2dLTWdZQlVwVHVJQWc",
+      "date": "06/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-17T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Razorpay eyes an international boost even as it moves base to India",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/companies/razorpay-eyes-an-international-boost-even-as-it-moves-base-to-india-11708868524949.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2024/02/25/1600x900/ShashankKumar_1708868712740_1708868713391.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhkblZrUWtZNE1GUjFkVmhKVFJDZkF4ampCU2dLTWdhcE5aak5IUWs",
+      "date": "02/25/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-25T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Razorpay’s revenue approaches Rs 1,500 Cr in FY22",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/2023/02/razorpays-revenue-approaches-rs-1500-cr-in-fy22/",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2023/02/Razorpay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaM0ZZZUdJMVN6Vm5OVlZwVFJDSEF4aVBCaWdLTWdhVm9wUkxPUWM",
+      "date": "02/28/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-02-28T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Razorpay eyes $750 billion P2M payments by 2030, says CFO Arpit Chug",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peerzada Abrar"
+        ]
+      },
+      "link": "https://www.business-standard.com/companies/start-ups/razorpay-eyes-to-process-750-bn-p2m-payments-by-2030-cfo-arpit-chug-124072800500_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/28/full/1722174648-7897.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhQzA0TmpsT1JIQllNbVI1VFJDcEJCaXJCQ2dLTWdZaFpwZ0xwZ2c",
+      "date": "07/28/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-28T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "AI startup Kily secures Rs 30 crore from Sorin Investments, Razorpay, Wyser",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/funding/ai-startup-kily-secures-rs-30-crore-from-sorin-razorpay-wyser/articleshow/132850014.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132850303,width-1200,height-900,resizemode-4,imgsize-2597982/fund-close_startup-vcfund_fund_thumb-image_ettech.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFURFF6YXpaemRHNXZZVGRvVFJEZ0F4aUFCU2dLTWdhSms0eUhPUVk",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Razorpay completes reverse flip to India",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Upadhyay"
+        ]
+      },
+      "link": "https://entrackr.com/news/razorpay-completes-reverse-flip-to-india-9317267",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2024/02/RR.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROa1pZT1RseGFuVm1hWFZFVFJDSEF4aVBCaWdLTWdZZGtwTHN1QVk",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Sarvam joins unicorn club; Razorpay lines up IPO",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/newsletters/tech-top-5/sarvams-joins-unicorn-club-razorpay-lines-up-ipo/articleshow/131747119.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-131747119,width-1200,height-900,imgsize-48528,overlay-ettech/editionshow-amp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlaV3A0TURRNFZVSkpjbGR3VFJEZ0F4aUFCU2dLTWdrUmxJeFJOYWVwTVFF",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Razorpay raises $375 million in its largest round till date",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mamta Sharma"
+        ]
+      },
+      "link": "https://www.peoplematters.in/article/funding-investment/razorpay-raises-375-million-in-its-largest-round-till-date-32017",
+      "thumbnail": "https://asset.peoplematters.in/images/a0e60b58-5a90-462b-8b08-06d809dd2f70.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9OME5PUjA5elRUaG9jV2wyVFJEZkFoandCQ2dLTWdhTmtwU0lOUWM",
+      "date": "12/19/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-12-19T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "TCS layoffs: Meity keeping close watch; IT union writes to labour minister",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/companies/news/tcs-layoffs-meity-keeping-close-watch-it-union-writes-to-labour-minister-125072801270_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/08/full/1733637577-7783.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBWakZJVFd4TFZtVnNVMUJ5VFJENUF4amZCQ2dLTWdZZE1vTHNuQW8",
+      "date": "07/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-28T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Razorpay set for confidential IPO filing; valuation may fall to around $5 billion",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samidha Sharma",
+          "Pratik Bhakta"
+        ]
+      },
+      "link": "https://m.economictimes.com/tech/startups/razorpay-plans-confidential-ipo-filing-soon-targets-600-700-million-raise-at-5-6-billion-valuation/articleshow/130377114.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130377107,width-1200,height-900,resizemode-4,imgsize-1861708/digital-payments-startup-razorpay-ipo_harshil-mathur_shashank-kumar_thumb-image_ettech.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZXbGhWYjBOM1RHMXlMV1ZuVFJEZ0F4aUFCU2dLTWdtRmtKSUV0LVl0cmdF",
+      "date": "04/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-20T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Razorpay posts nearly 5X increase in PAT in FY24 as payment gateway biz soars",
+      "source": {
+        "name": "YourStory.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akshita Toshniwal"
+        ]
+      },
+      "link": "https://yourstory.com/2024/10/razorpay-increase-pat-net-profit-fy24-finetch-payment-gateway",
+      "thumbnail": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster25-1664286747695.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBaVGhFY2xCWVp6Sm1hMWhYVFJDSEF4aVBCaWdLTWdhcFJaTHRvUWc",
+      "date": "10/29/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-29T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Razorpay’s Biggest Bet: From Payments To Becoming The AI Brain For India’s Small Businesses",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bismah Malik"
+        ]
+      },
+      "link": "https://inc42.com/features/razorpays-biggest-bet-from-payments-to-becoming-the-ai-brain-for-indias-small-businesses/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Razorpay-Avatar-ftr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRYM1J2UW1SemVscEVXazR0VFJEZ0F4aUFCU2dLTWdZaE01S05uUWc",
+      "date": "03/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-20T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Razorpay begins IPO process; files confidential DRHP to raise Rs 5,000-6,000 crore",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Veer Sharma"
+        ]
+      },
+      "link": "https://m.economictimes.com/markets/ipos/fpos/razorpay-files-ipo-papers-confidentially/articleshow/131732357.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-131732370,width-1200,height-900,resizemode-4,imgsize-13073/razorpay-files-ipo-papers-confidentially.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthRFZHTVVWME5ua3hhWGsyVFJEZ0F4aUFCU2dLTWdhbFFZcU5OUVU",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Exclusive: Razorpay Picks Up Majority Stake In POP With $30 Mn Infusion",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pooja Yadav"
+        ]
+      },
+      "link": "https://inc42.com/buzz/exclusive-pop-bags-30-mn-from-razorpay-to-boost-its-d2c-play/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/06/PoP-ftr-760x570.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVaek00UVc5U1owTnViVFZHVFJEZ0F4aUFCU2dLTWdhSlVwSVRxUWM",
+      "date": "06/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-17T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Startup Mafia 3.0: Razorpay, Cred, Meesho help spawn 200+ founders",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Puran Choudhary",
+          "Disha Acharya"
+        ]
+      },
+      "link": "https://m.economictimes.com/tech/technology/startup-mafia-3-0-razorpay-cred-meesho-help-spawn-200-founders/articleshow/129616890.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-129616893,width-1200,height-900,resizemode-4,imgsize-88678/founders.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpabUp3YW5kb1lVaGxWV2Q0VFJEZ0F4aUFCU2dLTWdrQkFJSVp3S01PSXdN",
+      "date": "03/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-17T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Razorpay posts Rs 2,279 Cr revenue in FY23; bottom line remains stagnant",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/2024/02/razorpay-posts-rs-2279-cr-revenue-in-fy23-bottom-line-remains-stagnant/",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2024/02/RR.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROa1pZT1RseGFuVm1hWFZFVFJDSEF4aVBCaWdLTWdZZGtwTHN1QVk",
+      "date": "02/29/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-02-29T08:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Harshil Mathur Success Story: How Razorpay's Co-Founder Built a Fintech Giant",
+      "source": {
+        "name": "Business Outreach Magazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.businessoutreach.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessoutreach.in/harshil-mathur-success-story-razorpay-co-founder/",
+      "thumbnail": "https://www.businessoutreach.in/wp-content/uploads/2026/07/harshil-mathur-razorpay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNWa2huWWpWR2JHUTFkME40VFJDdEF4akxCU2dLTWdtSklwb1VFYXVwcHdJ",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Razorpay FY22 revenue surges 75% in second successive profitable year",
+      "source": {
+        "name": "YourStory.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yourstory.com/2023/02/razorpay-posts-75-revenue-jump-in-fy22",
+      "thumbnail": "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster25-1664286747695.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBaVGhFY2xCWVp6Sm1hMWhYVFJDSEF4aVBCaWdLTWdhcFJaTHRvUWc",
+      "date": "02/28/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-02-28T08:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Razorpay to pay $150 Mn in taxes for reverse flip to India",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Upadhyay"
+        ]
+      },
+      "link": "https://entrackr.com/news/razorpay-to-pay-150-mn-in-taxes-for-reverse-flip-to-india-9318493",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2023/02/Razorpay-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaM0ZZZUdJMVN6Vm5OVlZwVFJDSEF4aVBCaWdLTWdhVm9wUkxPUWM",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Fintech Unicorn Razorpay Turns Profitable As Revenue Crosses INR 800 Cr In FY21",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debarghya Sil"
+        ]
+      },
+      "link": "https://inc42.com/buzz/razorpay-turns-profitable-as-revenue-crosses-inr-800-cr-in-fy21/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/03/razorpay-financials-ft-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiM0YxZG5sdGVYQm5ZblZuVFJEZ0F4aUFCU2dLTWdZcGdKUnVzQWM",
+      "date": "03/11/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-03-11T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Razorpay set to enter stock markets soon, files confidential papers for $600 million IPO: Report",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Vishwakarma"
+        ]
+      },
+      "link": "https://indianstartupnews.com/news/razorpay-set-to-enter-stock-markets-soon-files-confidential-papers-for-600-million-ipo-report-12039282",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2026/06/15/razorpay-founders-web-2026-06-15-11-39-04.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlXVmMzVmtrdGJqZEhSVUZHVFJEZ0F4aUFCU2dLTWdhZE1wd3JtUWs",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "PhonePe’s postponed listing may freeze India’s IPO pipeline",
+      "source": {
+        "name": "Asia Tech Review",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.asiatechreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jon Russell"
+        ]
+      },
+      "link": "https://www.asiatechreview.com/p/phonepes-postponed-listing-may-freeze",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!4NS7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5407c4c9-96c0-4884-9d18-75306b9ad820_1375x768.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZhR3g1T0ZwVlRXRnRZM1ZuVFJDZUF4amxCU2dLTWdrQllZaUZLbWMxRkFF",
+      "date": "03/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-22T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "After PhonePe, Razorpay and Cashfree suspend integrations with Juspay",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harsh Upadhyay"
+        ]
+      },
+      "link": "https://entrackr.com/news/after-phonepe-razorpay-and-cashfree-suspend-direct-integrations-with-juspay-8638638",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2023/12/Razorpay-cashfree.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtkRWhPYms1b2VsTlViM0pDVFJDSEF4aVBCaWdLTWdhWllZYlMxQUk",
+      "date": "01/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-20T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Razorpay picks up majority stake in Pop for $30 million",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sagar Malviya"
+        ]
+      },
+      "link": "https://m.economictimes.com/tech/funding/razorpay-infuses-30-million-into-consumer-payments-platform-pop/articleshow/121904244.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-121904217,width-1200,height-900,resizemode-4,imgsize-23006/razorpay-enters-singapore-targets-5-billion-in-payment-volume-from-southeast-asia-over-two-years.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTelpsTW1WU1dIZDRNRlZRVFJEZ0F4aUFCU2dLTWdhWlE0b3BwUWs",
+      "date": "06/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-17T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Gearing Up For IPO, Razorpay Converts Into Public Entity",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amit Singh"
+        ]
+      },
+      "link": "https://inc42.com/buzz/gearing-up-for-ipo-razorpay-converts-into-public-entity/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/Razorpay-FY23-760x570.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhVVkkwYldGTU0wbEJRWFZoVFJEZ0F4aUFCU2dLTWdhVlVKaXlwQWc",
+      "date": "04/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-04-17T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Will plan IPO only after new business units return more profits: Razorpay’s Shashank Kumar",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Darlington Hector"
+        ]
+      },
+      "link": "https://www.livemint.com/news/will-plan-ipo-only-after-new-business-units-return-more-profits-razorpay-s-shashank-kumar-11734358102099.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2024/12/16/1600x900/ShashankKumar_1708868712740_1734359008486.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFOekZ3VDJsSVdFcGZhbWh4VFJDZkF4ampCU2dLTWdZcFZwRHRwUWM",
+      "date": "12/17/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-12-17T08:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Why business payment processors are better off than their consumer facing counterparts",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pratik Bhakta"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/why-business-payment-processors-are-better-off-than-their-consumer-facing-counterparts-6334581.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2018/04/RTX3F002.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFORlZtVTA1UE1USXhRbmhMVFJDZkF4ampCU2dLTWdZQmdJcktOUVk",
+      "date": "01/12/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-12T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Agentic AI startup Kily raises Rs 30 cr in funding led by Sorin Investments",
+      "source": {
+        "name": "Exchange4Media",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.exchange4media.com/announcements-news/agentic-ai-startup-kily-raises-rs-30-cr-in-funding-led-by-sorin-investments-156967.html",
+      "thumbnail": "https://exchange4media.gumlet.io/news-photo/156967-main1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5kbFJoUlMxb1dXWndWRkJMVFJDTEF4amFCU2dLTWdZUmdvNHVNUVk",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "BillDesk's profit drops by 39% to Rs 149cr in FY22, despite 15% revenue increase to Rs 2,442cr",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/billdesks-profit-drops-by-39-to-rs-149cr-in-fy22-despite-15-revenue-increase-to-rs-2442cr-10249341.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/08/Digital-payment.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFlbFJzVW5GaFVISXdhR2wwVFJDZkF4ampCU2dLTWdZcE1JcnhuQVE",
+      "date": "03/14/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-03-14T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Digital Payments Startup Razorpay Raises $20 Mn Series B Funding From Tiger Global And Y Combinator",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Suprita Anupam"
+        ]
+      },
+      "link": "https://inc42.com/buzz/digital-payments-razorpay-series-b-funding-tiger-global-y-combinator/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Inc42_banner_FINAL_726x462-2.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFhVkpRVDJOVExXdGpSRGxaVFJDNkF4aTJCU2dLTWdrQlFJaGFOT2JBeGdJ",
+      "date": "01/15/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-01-15T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Razorpay acquires Malaysian fintech Curlec at $20 mn valuation in its first international purchase",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanka Iyer"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/startup/razorpay-acquires-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/12/Razorpay-Founders-Harshil-Mathur-Shashank-Kumar-112-539x435.jpeg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpOVjkwYmtVeVdtMUZNVXN4VFJDZkF4ampCU2dLTWdhZGM0ekxyUVk",
+      "date": "02/08/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-02-08T08:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Mint Explainer: Why Razorpay and Cashfree are ditching Juspay, and what it means for the fintech sector",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mansi Verma",
+          "Sowmya Ramasubramanian"
+        ]
+      },
+      "link": "https://www.livemint.com/industry/razorpay-cashfree-juspay-mint-explainer-fintech-industry-online-payments-orchestration-platform-phonepe-11737442858328.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/01/21/1600x900/3-0-82106265-iStock-1150209334-0_1679795246120_1737452482212.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUekZNWjFvNE5GcE5NM0J0VFJDZkF4ampCU2dLTWdhMUFvaFRnUWs",
+      "date": "01/21/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-21T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Razorpay, Cashfree eye lost market share, ShareChat’s third round of layoffs",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/newsletters/morning-dispatch/digital-payments-price-wars-sharechats-job-cuts/articleshow/106167028.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-106167028,width-1200,height-900,imgsize-36344,overlay-ettech/editionshow-amp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtVM0Z5UVhKQlpVc3RWVlV3VFJEZ0F4aUFCU2dLTWdrRlVZeEhzbWMxS3dJ",
+      "date": "12/20/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-12-20T08:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Razorpay revenue jumps 2X in FY19 as it gets close to being cash flow positive",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/2019/12/razorpay-financial-revenue-loss-fy19/",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/post_attachments/wp-content/uploads/2018/01/Razorpay-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTMVExUW01T1ZVOXJjRloyVFJDSEF4aVBCaWdLTWdhbFZJYk5KUWc",
+      "date": "12/06/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-12-06T08:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "PhonePe rolls a dice in the pay aggregator biz",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arti Singh"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/phonepe-rolls-a-dice-in-the-pay-aggregator-biz-11697473757133.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2023/10/16/1600x900/3-0-133273606-sameernigam1-0_1679831814578_1697474006117.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBZbGxUTjI4eU5tUTBWbWRhVFJDZkF4ampCU2dLTWdhNVE0cHdJUWs",
+      "date": "10/17/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-10-17T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Razorpay Co-founder Harshil Mathur On Funding, Accelerators, Fending Off 'Me Too' Startups, And More",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://inc42.com/startups/interviews/razorpay-fintech-harshil/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Inc42_banner_FINAL_726x462-2.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFhVkpRVDJOVExXdGpSRGxaVFJDNkF4aTJCU2dLTWdrQlFJaGFOT2JBeGdJ",
+      "date": "12/13/2016, 08:00 AM, +0000 UTC",
+      "iso_date": "2016-12-13T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Razorpay eyes IPO in two to three years; hacking-as-a-service on the rise",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/newsletters/morning-dispatch/razorpay-eyes-ipo-in-two-to-three-years-hacking-as-a-service-on-the-rise/articleshow/95495922.cms",
+      "thumbnail": "https://img.etimg.com/photo/msid-95495956/Razorpay%20founders.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXWGQ1WlRWRFRHcFZaSFpQVFJEZ0F4aUFCU2dLTWdhVlVwZ29xUWc",
+      "date": "11/13/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-11-13T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "How payment startups are facing the RBI ban from onboarding new merchants",
+      "source": {
+        "name": "bfsi.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bfsi.economictimes.indiatimes.com/news/policy/how-payment-startups-are-facing-the-rbi-ban-from-onboarding-new-merchants/106274276",
+      "thumbnail": "https://etimg.etb2bimg.com/photo/106274296.cms",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5WRFJCZDBWQmMzcG5NaTB6VFJDSUJCak9CQ2dLTWdB",
+      "date": "12/26/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-12-26T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "RBI grants payment aggregator licences to Razorpay, Cashfree, others; FirstCry’s IPO details",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/newsletters/morning-dispatch/rbi-grants-payments-aggregator-licences-to-razorpay-cashfree-others-firstcrys-ipo-details/articleshow/106137880.cms",
+      "thumbnail": "https://img.etimg.com/thumb/msid-106137880,width-1200,height-900,imgsize-19568,overlay-ettech/editionshow-amp.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxVMlkzTlVrdGVEWldlVEZNVFJEZ0F4aUFCU2dLTWdrVllvb3F0ZWFLYXdJ",
+      "date": "12/19/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-12-19T08:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Razorpay buys Ezetap for $150 million",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shilpa Phadnis"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/startups/companies/razorpay-buys-ezetap-for-150-million/articleshow/93626248.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-93628026,width-1280,height-720,resizemode-4/93628026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNhRlZJV0haMU9IVkJiVWhmVFJDZkF4ampCU2dLTWdrUk1wU0hvcWcxelFF",
+      "date": "08/18/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-08-18T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Razorpay completes reverse flip from US to India with MCA approval",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/tech/startups/razorpay-completes-reverse-flip-from-the-us-to-india-receives-ministry-of-corporate-affairs-nod/articleshow/121487477.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-121487455,width-1200,height-900,resizemode-4,imgsize-23006/razorpay-enters-singapore-targets-5-billion-in-payment-volume-from-southeast-asia-over-two-years.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTelpsTW1WU1dIZDRNRlZRVFJEZ0F4aUFCU2dLTWdhWlE0b3BwUWs",
+      "date": "05/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-29T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Chargebee deepens India play as global clients eye country for more revenue",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rwit Ghosh"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/chargebee-india-expansion-subscription-management-zoho-billing-upi-autopay-razorpay-tiger-global-krish-subramanian-11752136039037.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/07/10/600x338/Chargebee_1752157763369_1752157771254_1752159505645.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZiSFZhYjBWQ1pVeDFNRWxUVFJEU0FoalhCQ2dLTWdheFZKYVBKUWc",
+      "date": "07/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-11T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "AI impact summit: 'Two kids in India can now compete with Salesforce,' says Replit CEO Amjad Masad",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bhavya Dilipkumar"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/news/business/startup/ai-impact-summit-two-kids-in-india-can-now-compete-with-salesforce-says-replit-ceo-amjad-masad-13831656.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260217064209_Amjad-CEO-Replit.jpeg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNR0ZFUmxOSFFtOUNaalI0VFJDZkF4ampCU2dLTWdhcFZaVE5wUWM",
+      "date": "02/17/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-17T08:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Fintech start-up Razorpay secures $9 million in series A funding",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Malavika Velayanikal"
+        ]
+      },
+      "link": "https://www.business-standard.com/article/companies/fintech-start-up-razorpay-secures-9-million-in-series-a-funding-115102700512_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2015-10/27/full/1445931819-0105.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSRlowTkVoeGJrMWtaVjl3VFJEUUF4anNCQ2dLTWdtVllaWnBJbWsxN0FF",
+      "date": "10/27/2015, 07:00 AM, +0000 UTC",
+      "iso_date": "2015-10-27T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Logistics Outshines Blockchain In B2B Venture Capital This Week",
+      "source": {
+        "name": "PYMNTS.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pymnts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pymnts.com/news/b2b-payments/2018/logistics-companies-rivigo-bringg/",
+      "thumbnail": "https://www.pymnts.com/wp-content/uploads/2018/01/b2b-venture-capital-logistics.jpg?w=457",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFjMmR3VEMxTWIxRm5PRWRCVFJDd0FoakpBeWdLTWdB",
+      "date": "01/19/2018, 08:00 AM, +0000 UTC",
+      "iso_date": "2018-01-19T08:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Razorpay raises $375 mn from Lone Pine Capital, others; valuation more than doubles to $7.5 bn",
+      "source": {
+        "name": "Zee Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.zeebiz.com/companies/news-razorpay-raises-375-mn-from-lone-pine-capital-others-valuation-more-than-doubles-to-75-bn-173853",
+      "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2021/12/20/169849-untitled-design-2021-12-20t102042542.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5aRWd5VmxWT2JEWjFjSFpEVFJDZkF4ampCU2dLTWdB",
+      "date": "12/20/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-12-20T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

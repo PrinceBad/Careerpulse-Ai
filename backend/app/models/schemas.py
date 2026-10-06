@@ -10,10 +10,18 @@ class Citation(BaseModel):
     snippet: str
     date: Optional[str] = None
     signal_type: Literal["positive", "neutral", "red_flag"] = "neutral"
-    verified: bool = Field(default=True, description="True if evidence verified against source query")
-    verification_method: str = Field(default="exact_entity_match", description="Method used to verify citation")
-    verification_confidence: float = Field(default=0.95, ge=0.0, le=1.0)
-    is_mock: bool = Field(default=False, description="Flag indicating if citation originates from offline mock data")
+    verified: bool = Field(..., description="Computed verification: True if company entity and domain verified")
+    verification_method: str = Field(..., description="Specific heuristic or check applied to verify citation")
+    verification_confidence: float = Field(..., ge=0.0, le=1.0, description="Algorithmic confidence score")
+    provenance: Literal["live", "cached", "mock"] = Field(default="cached")
+
+class InvestigationStep(BaseModel):
+    """A trace step taken by the autonomous agent during investigation."""
+    step_number: int
+    action: str
+    reason: str
+    engine: str
+    result_summary: str
 
 class JobListing(BaseModel):
     """A real-time job posting retrieved from SerpApi google_jobs."""
@@ -46,8 +54,7 @@ class JobSearchResponse(BaseModel):
     location: str
     total_found: int
     jobs: List[JobListing]
-    is_cached: bool = False
-    is_mock: bool = False
+    provenance: Literal["live", "cached", "mock"] = "cached"
 
 class CompanyRiskSignals(BaseModel):
     risk_level: Literal["Low", "Medium", "High"]
@@ -55,12 +62,13 @@ class CompanyRiskSignals(BaseModel):
     executive_turnover: bool = False
     litigation_or_controversy: bool = False
     risk_summary: str
+    corroborated: bool = False
     evidence_citation_ids: List[str] = Field(default_factory=list)
 
 class CompanyCultureSignals(BaseModel):
-    sentiment_rating: float = Field(ge=0.0, le=5.0, description="Estimated rating from aggregate review sentiment")
+    sentiment_rating: Optional[float] = Field(default=None, description="Extracted rating or None if not found in snippets")
     work_life_balance_rating: Optional[float] = None
-    interview_difficulty: Optional[str] = "Medium"
+    interview_difficulty: Optional[str] = None
     top_positives: List[str] = Field(default_factory=list)
     top_complaints: List[str] = Field(default_factory=list)
     evidence_citation_ids: List[str] = Field(default_factory=list)
@@ -76,7 +84,7 @@ class OfficeLocationSignal(BaseModel):
     address: Optional[str] = None
     rating: Optional[float] = None
     review_count: Optional[int] = None
-    transit_access_note: Optional[str] = None
+    campus_note: Optional[str] = None
     maps_url: Optional[str] = None
     citation_id: Optional[str] = None
 
@@ -93,10 +101,12 @@ class DueDiligenceReport(BaseModel):
     tech_trends: List[SkillTrendSignal] = Field(default_factory=list)
     location_signal: Optional[OfficeLocationSignal] = None
     
+    # Autonomous Investigation Trace
+    investigation_trace: List[InvestigationStep] = Field(default_factory=list)
+    
     # Consolidated Evidence Vault
     citations: List[Citation]
-    is_cached: bool = False
-    is_mock: bool = False
+    provenance: Literal["live", "cached", "mock"] = "cached"
 
 class DueDiligenceRequest(BaseModel):
     company_name: str
@@ -110,11 +120,11 @@ class GroundedOutreachPack(BaseModel):
     subject_line: str
     cover_letter: str
     tailored_resume_bullets: List[str]
-    # Proof of groundedness: only cite IDs from the verified citations
     cited_evidence_ids: List[str]
     citations_used: List[Citation] = Field(default_factory=list)
-    is_mock: bool = False
+    provenance: Literal["live", "cached", "mock"] = "cached"
     validation_status: str = "strictly_verified"
+    blocked_claims: List[str] = Field(default_factory=list)
 
 class OutreachRequest(BaseModel):
     company_name: str

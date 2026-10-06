@@ -136,14 +136,29 @@
             <h3 id="targetCompanyTitle">Razorpay</h3>
             <span id="targetRoleTitle" class="target-role-badge">Senior Python Backend Engineer</span>
           </div>
-          <button id="btnRefreshDiligence" class="btn btn-secondary btn-sm">
-            <span>🔄 Re-scan Evidence</span>
-          </button>
+          <div class="dossier-actions">
+            <span id="dossierProvenanceBadge" class="provenance-badge badge-cached">🟢 Cached Real SerpApi Response</span>
+            <button id="btnRefreshDiligence" class="btn btn-secondary btn-sm">
+              <span>🔄 Re-scan Evidence</span>
+            </button>
+          </div>
         </div>
 
         <!-- Executive Summary -->
         <div class="executive-summary-box">
-          <p id="executiveSummaryText">Razorpay presents a strong employer profile based on 48% YoY growth, active engineering hiring, and high Glassdoor sentiment (4.3/5). No systemic layoff signals detected.</p>
+          <p id="executiveSummaryText">Razorpay presents a strong employer profile based on real search evidence. No systemic layoff signals detected.</p>
+        </div>
+
+        <!-- Autonomous Agent Investigation Trace -->
+        <div class="investigation-trace-box">
+          <div class="trace-header">
+            <span class="trace-icon">🤖</span>
+            <h4>Autonomous Agent Investigation Trace</h4>
+            <span class="trace-badge">5 Parallel & Follow-up Actions</span>
+          </div>
+          <div class="trace-timeline" id="investigationTraceTimeline">
+            <!-- Populated by app.js -->
+          </div>
         </div>
 
         <!-- Intelligence Metric Cards -->
@@ -155,7 +170,7 @@
               <h4>Health & Layoff Risk Scanner</h4>
               <span id="riskLevelBadge" class="badge-risk-low">LOW RISK</span>
             </div>
-            <p id="riskSummaryText" class="intel-text">No workforce reductions detected in recent news. 250+ new technical openings announced.</p>
+            <p id="riskSummaryText" class="intel-text">No workforce reductions detected in recent news.</p>
             <div class="intel-citations" id="riskCitations">
               <!-- Linked citations -->
             </div>
@@ -184,7 +199,7 @@
               <h4>Tech Stack Demand Velocity</h4>
               <span id="trendsVerdictBadge" class="badge-trend-surging">SURGING</span>
             </div>
-            <p id="trendsSummaryText" class="intel-text">FastAPI relative search interest is up 41% over the past 12 months in India, showing high ecosystem longevity.</p>
+            <p id="trendsSummaryText" class="intel-text">FastAPI relative search interest expanded 41% over the past 12 months in India.</p>
             <div class="trend-visual-bar">
               <div class="trend-fill" style="width: 88%;"></div>
             </div>
@@ -197,11 +212,11 @@
           <div class="intel-card maps-card">
             <div class="intel-card-header">
               <span class="intel-icon">📍</span>
-              <h4>HQ & Commute Context</h4>
+              <h4>HQ & Campus Verification</h4>
               <span id="mapsRatingBadge" class="badge-maps">4.6 ★</span>
             </div>
             <p id="mapsAddressText" class="intel-text">Salarpuria Softzone, Outer Ring Road, Bellandur, Bengaluru.</p>
-            <p class="transit-note">🚇 Transit: Prime tech corridor with shuttle connectivity & close to metro access.</p>
+            <p class="transit-note">🏢 Physical corporate facility verified via Google Maps geocoding.</p>
             <div class="intel-citations" id="mapsCitations">
               <!-- Linked citations -->
             </div>
@@ -227,10 +242,31 @@
             <h2>Evidence-Grounded Outreach Pack</h2>
             <p class="section-subtitle">Strictly anti-hallucination: every claim explicitly cites SerpApi sources</p>
           </div>
-          <button id="btnGenerateOutreach" class="btn btn-primary">
-            <span class="btn-icon">⚡</span>
-            <span>Regenerate Grounded Pack</span>
-          </button>
+          <div class="outreach-actions">
+            <button id="btnSimulateHallucination" class="btn btn-secondary btn-sm" title="Simulate AI inventing claims and watch the Grounding Guard block them">
+              <span class="btn-icon">🧪</span>
+              <span>Simulate Hallucination Guard</span>
+            </button>
+            <button id="btnGenerateOutreach" class="btn btn-primary">
+              <span class="btn-icon">⚡</span>
+              <span>Regenerate Grounded Pack</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Hallucination Interception Alert Box -->
+        <div id="hallucinationAlertBox" class="hallucination-box hidden">
+          <div class="hallucination-header">
+            <span class="alert-icon">🛡️</span>
+            <strong>Grounding Guard Live Interception Proof</strong>
+            <span class="badge-blocked">2 Sentences Blocked & Stripped</span>
+          </div>
+          <div class="hallucination-content">
+            <p class="hallucination-intro">The AI attempted to generate ungrounded claims. The code-level validator intercepted the draft:</p>
+            <ul id="hallucinationViolationsList" class="violations-list">
+              <!-- Populated by app.js -->
+            </ul>
+          </div>
         </div>
 
         <div class="outreach-content-box">
