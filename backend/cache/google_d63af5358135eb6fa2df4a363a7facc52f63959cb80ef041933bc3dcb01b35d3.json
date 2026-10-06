@@ -1,0 +1,115 @@
+{
+  "search_metadata": {
+    "id": "6ac4f8ef4707f1954b4d2136",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AhU7mkyY8UWSXFeVCDCwmQPTKZ36rAJpT4PmQG6ppOE/6ac4f8ef4707f1954b4d2136.json",
+    "markdown_endpoint": "https://serpapi.com/searches/AhU7mkyY8UWSXFeVCDCwmQPTKZ36rAJpT4PmQG6ppOE/6ac4f8ef4707f1954b4d2136.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/AhU7mkyY8UWSXFeVCDCwmQPTKZ36rAJpT4PmQG6ppOE/6ac4f8ef4707f1954b4d2136.json_with_pixel_position",
+    "created_at": "2026-10-06 13:34:39 UTC",
+    "processed_at": "2026-10-06 13:34:39 UTC",
+    "google_url": "https://www.google.com/search?q=Datawind+employee+reviews+glassdoor+ambitionbox+interview&oq=Datawind+employee+reviews+glassdoor+ambitionbox+interview&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/AhU7mkyY8UWSXFeVCDCwmQPTKZ36rAJpT4PmQG6ppOE/6ac4f8ef4707f1954b4d2136.html",
+    "total_time_taken": 0.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Datawind employee reviews glassdoor ambitionbox interview",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Datawind employee reviews glassdoor ambitionbox interview",
+    "total_results": 3,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "o5JWd3iczZX_cqo4FMcfYJ9j-ae9glordoa5EyBgbG1Fq7b-wyBgQIGooUX7377LPsg-xz7NBhQv1B_be__Y2cxogOScnJycT75__Bn40eLv3_7y4nhJ73g-SZIKJgQHbsUmIW_RbWTzMxLQte199wLJjTgcSH7Ebd-lOmdTSeBcX2qac2iRQaKKq7DxSHoB8X0CIJeZS-bUou6ced_MKW_y7G_xe11lLxVacSNTlyvPrXGNaO-dGCSVmlCrV554K2RzwH_aMAKvrOukz_DsLBkA5SveIHMho6IjWc66gjVmw3LaISN71y54y8yggbMIWDM386bKzHScz1mctS6N6DsHBsp6yMwV9JUNFYIpBXvJ-NwYLnnI0l4eOtlkuTiIgIK7oIeAd9qY5b60PMuVuvtuAyS2b2R2HsaF2ME9Bk8TAL2d7aU2lHX3sLZG2TKQdzArYIGfrllX5X3bs7OHNU3rWnluCQR2A3Okqk5c-2g13ca9M-33ouEsIi2CeXvK5gXEclzH9Ezhe_ZerVUbQqveFK8zpmx6gIoWodLDqdkX7ZbWJJWHilzNcVKKB1LcUvp1eGqPclqtMC-5z01JDY_MFIWUXOwnsMPoKkApw6NovTRtB9DZwwaDt9I5HxDC4BgnJY_kR8QAG_mafeNgXQoTQdkvWBR31_68Heb7ePf4aWepsNLded6HDMHn60GBcsrYIYCkOJheJgqDWt7BsLpBu41281Jmt6gAO0e3UZoKj5keXnfb2r--FtOX5oDdGizODkAyRAONXUtKvjoLb58hhtNnHtBJFtMMs90a56_IS234pVkw5-YTBkV8dJz4vtsmU92KMdUGdXlkqZsa-sbu8dO4kHD6cyJk_9-YyiUqnQAvMaV8hSkmUfiERO397ZzmEmV09hJ1niktY2ovUamjXKLaRxJ1zNSiyJRuZMN9ckaifpYpdIGpg-OTTGmnmMLnmcokqsiU1zVKEoVOStQPpn5Fooa_KlEZYu6uK-vV2xyf161x6CV6M1EGDy96ey4ub3vAibt0o07-XbdmYXwXWk5wbfrOnVzrxFvn2mQfyJ3rcCtJtWIr8SPnyg2XAdm67tXafffdhF7hwKLUIWR9ZYVTP_ZJNCWbKz-K3XU6gQuDNZEEq-EHW626vO_ID_cDs9sVH8V-1Nc7jmkJT66s1hvLYaATB37A7RjR8Zv83HO7jj8RXkaDjua0A-eRal1PdEfxxFt_PAvaFjUsHZIIRc1AVGiEtq_I0je9-9mGwJf2ZKFZq_Fs9vhmLKYr9ck0cA8NfHE1mghVkMVFJTi_HaHluP-N2Fy4tiVWLDcYPBpgjNlZK6ySFHb8jHJDSdjvlpWCXGNVxFHbMl36Lok1u3EzE26bDUFsVG2BC3G8XUotgaPRWqr-A6s_Vic",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o5JWd3iczZX_cqo4FMcfYJ9j-ae9glordoa5EyBgbG1Fq7b-wyBgQIGooUX7377LPsg-xz7NBhQv1B_be__Y2cxogOScnJycT75__Bn40eLv3_7y4nhJ73g-SZIKJgQHbsUmIW_RbWTzMxLQte199wLJjTgcSH7Ebd-lOmdTSeBcX2qac2iRQaKKq7DxSHoB8X0CIJeZS-bUou6ced_MKW_y7G_xe11lLxVacSNTlyvPrXGNaO-dGCSVmlCrV554K2RzwH_aMAKvrOukz_DsLBkA5SveIHMho6IjWc66gjVmw3LaISN71y54y8yggbMIWDM386bKzHScz1mctS6N6DsHBsp6yMwV9JUNFYIpBXvJ-NwYLnnI0l4eOtlkuTiIgIK7oIeAd9qY5b60PMuVuvtuAyS2b2R2HsaF2ME9Bk8TAL2d7aU2lHX3sLZG2TKQdzArYIGfrllX5X3bs7OHNU3rWnluCQR2A3Okqk5c-2g13ca9M-33ouEsIi2CeXvK5gXEclzH9Ezhe_ZerVUbQqveFK8zpmx6gIoWodLDqdkX7ZbWJJWHilzNcVKKB1LcUvp1eGqPclqtMC-5z01JDY_MFIWUXOwnsMPoKkApw6NovTRtB9DZwwaDt9I5HxDC4BgnJY_kR8QAG_mafeNgXQoTQdkvWBR31_68Heb7ePf4aWepsNLded6HDMHn60GBcsrYIYCkOJheJgqDWt7BsLpBu41281Jmt6gAO0e3UZoKj5keXnfb2r--FtOX5oDdGizODkAyRAONXUtKvjoLb58hhtNnHtBJFtMMs90a56_IS234pVkw5-YTBkV8dJz4vtsmU92KMdUGdXlkqZsa-sbu8dO4kHD6cyJk_9-YyiUqnQAvMaV8hSkmUfiERO397ZzmEmV09hJ1niktY2ovUamjXKLaRxJ1zNSiyJRuZMN9ckaifpYpdIGpg-OTTGmnmMLnmcokqsiU1zVKEoVOStQPpn5Fooa_KlEZYu6uK-vV2xyf161x6CV6M1EGDy96ey4ub3vAibt0o07-XbdmYXwXWk5wbfrOnVzrxFvn2mQfyJ3rcCtJtWIr8SPnyg2XAdm67tXafffdhF7hwKLUIWR9ZYVTP_ZJNCWbKz-K3XU6gQuDNZEEq-EHW626vO_ID_cDs9sVH8V-1Nc7jmkJT66s1hvLYaATB37A7RjR8Zv83HO7jj8RXkaDjua0A-eRal1PdEfxxFt_PAvaFjUsHZIIRc1AVGiEtq_I0je9-9mGwJf2ZKFZq_Fs9vhmLKYr9ck0cA8NfHE1mghVkMVFJTi_HaHluP-N2Fy4tiVWLDcYPBpgjNlZK6ySFHb8jHJDSdjvlpWCXGNVxFHbMl36Lok1u3EzE26bDUFsVG2BC3G8XUotgaPRWqr-A6s_Vic"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Digi1 Electronics Logistic Assistant Salaries by Employees ...",
+      "link": "https://www.ambitionbox.com/salaries/digi1-electronics-salaries/logistic-assistant/pune-location",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFU3jcwwc1rFup9LSo73PHlzMSwNk1wgawRDGpWq_4JuT9rgyDQ8I-wtgaQ07SpW2u1qxb4UD8ibA8GOixW2W1SNQsO1c16xaBFroxBBbDTMH_kbiVwJQGhiP94hDOPSEVmEAky9nQTm83xwpxBx9OK8DPYHRgo39Oznv6pHnldVHcKESemQRyOizWSok8lZDgjTYMdsykg&ved=2ahUKEwjE48L7wKWXAxVKE1kFHRaECBQQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › salaries › pune-location",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "snippet": "Explore Digi1 Electronics Logistic Assistant Salaries from current & past employees. Get updated salary insights by experience, location, company & industry ...",
+      "snippet_highlighted_words": [
+        "employees"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore Digi1 Electronics Logistic Assistant Salaries from current & past employees. Get updated salary insights by experience, location, company & industry ...",
+          "source_info_link": "https://www.ambitionbox.com/salaries/digi1-electronics-salaries/logistic-assistant/pune-location",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVM2pjd3djMXJGdXA5TFNvNzNQSGx6TVN3Tmsxd2dhd1JER3BXcV80SnVUOXJneURROEktd3RnYVEwN1NwVzJ1MXF4YjRVRDhpYkE4R09peFcyVzFTTlFzTzFjMTZ4YUJGcm94QkJiRFRNSF9rYmlWd0pRR2hpUDk0aERPUFNFVm1FQWt5OW5RVG04M3h3cHhCeDlPSzhEUFlIUmdvMzlPem52NnBIbmxkVkhjS0VTZW1RUnlPaXpXU29rOGxaRGdqVFlNZHN5a2cSBBoCCAAarAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAiAYIABAAGAAgACopCghkYXRhd2luZBXBs849GglkYXRhIHdpbmQaDWl2O3A7ZGF0YXdpbmQqJgoIZW1wbG95ZWUVaqOJPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50KiEKB3Jldmlld3MVY-5FPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQcuzz0aCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FfQjBUAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVMirPPRoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVM2pjd3djMXJGdXA5TFNvNzNQSGx6TVN3Tmsxd2dhd1JER3BXcV80SnVUOXJneURROEktd3RnYVEwN1NwVzJ1MXF4YjRVRDhpYkE4R09peFcyVzFTTlFzTzFjMTZ4YUJGcm94QkJiRFRNSF9rYmlWd0pRR2hpUDk0aERPUFNFVm1FQWt5OW5RVG04M3h3cHhCeDlPSzhEUFlIUmdvMzlPem52NnBIbmxkVkhjS0VTZW1RUnlPaXpXU29rOGxaRGdqVFlNZHN5a2c6TkRpZ2kxIEVsZWN0cm9uaWNzIExvZ2lzdGljIEFzc2lzdGFudCBTYWxhcmllcyBieSA8Yj5FbXBsb3llZXM8L2I-IChVcGRhdGVkIC4uLkK0AUV4cGxvcmUgRGlnaTEgRWxlY3Ryb25pY3MgTG9naXN0aWMgQXNzaXN0YW50IFNhbGFyaWVzIGZyb20gY3VycmVudCAmYW1wOyBwYXN0IDxiPmVtcGxveWVlczwvYj4uIEdldCB1cGRhdGVkIHNhbGFyeSBpbnNpZ2h0cyBieSBleHBlcmllbmNlLCBsb2NhdGlvbiwgY29tcGFueSAmYW1wOyBpbmR1c3RyeSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVM2pjd3djMXJGdXA5TFNvNzNQSGx6TVN3Tmsxd2dhd1JER3BXcV80SnVUOXJneURROEktd3RnYVEwN1NwVzJ1MXF4YjRVRDhpYkE4R09peFcyVzFTTlFzTzFjMTZ4YUJGcm94QkJiRFRNSF9rYmlWd0pRR2hpUDk0aERPUFNFVm1FQWt5OW5RVG04M3h3cHhCeDlPSzhEUFlIUmdvMzlPem52NnBIbmxkVkhjS0VTZW1RUnlPaXpXU29rOGxaRGdqVFlNZHN5a2cSBBoCCAAarAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAiAYIABAAGAAgACopCghkYXRhd2luZBXBs849GglkYXRhIHdpbmQaDWl2O3A7ZGF0YXdpbmQqJgoIZW1wbG95ZWUVaqOJPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50KiEKB3Jldmlld3MVY-5FPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQcuzz0aCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FfQjBUAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVMirPPRoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVM2pjd3djMXJGdXA5TFNvNzNQSGx6TVN3Tmsxd2dhd1JER3BXcV80SnVUOXJneURROEktd3RnYVEwN1NwVzJ1MXF4YjRVRDhpYkE4R09peFcyVzFTTlFzTzFjMTZ4YUJGcm94QkJiRFRNSF9rYmlWd0pRR2hpUDk0aERPUFNFVm1FQWt5OW5RVG04M3h3cHhCeDlPSzhEUFlIUmdvMzlPem52NnBIbmxkVkhjS0VTZW1RUnlPaXpXU29rOGxaRGdqVFlNZHN5a2c6TkRpZ2kxIEVsZWN0cm9uaWNzIExvZ2lzdGljIEFzc2lzdGFudCBTYWxhcmllcyBieSA8Yj5FbXBsb3llZXM8L2I-IChVcGRhdGVkIC4uLkK0AUV4cGxvcmUgRGlnaTEgRWxlY3Ryb25pY3MgTG9naXN0aWMgQXNzaXN0YW50IFNhbGFyaWVzIGZyb20gY3VycmVudCAmYW1wOyBwYXN0IDxiPmVtcGxveWVlczwvYj4uIEdldCB1cGRhdGVkIHNhbGFyeSBpbnNpZ2h0cyBieSBleHBlcmllbmNlLCBsb2NhdGlvbiwgY29tcGFueSAmYW1wOyBpbmR1c3RyeSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "AmbitionBox"
+    },
+    {
+      "position": 2,
+      "title": "Magik Lights Senior Executive salaries in Indore (Updated 2026)",
+      "link": "https://www.ambitionbox.com/salaries/magik-lights-salaries/senior-executive/indore-location",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFZRos1neX-zZmoAhNfw4yuD76nFDQnH5O6ud-wRUZQt7I7EaOX1Mhyu5Ub5e0AYmdje1yZTTGEnr3clvqW6W8CTyZkLkb-DyRsnAebCsVToQi7bTxxgx8_-oj4K5pAU1uS3o2N8tuAFa7CJ3FFpzaukN3VvZ3VJoyiy8O7kj7HIdIxVVwHrvKv--THHTJRwP8CI&ved=2ahUKEwjE48L7wKWXAxVKE1kFHRaECBQQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › salaries › indore-location",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "snippet": "Totally get this! It's refreshing to hear someone prioritize what truly matters to them over the typical corporate climb. What's one of the most interesting ...",
+      "about_this_result": {
+        "source": {
+          "description": "Totally get this! It's refreshing to hear someone prioritize what truly matters to them over the typical corporate climb. What's one of the most interesting ...",
+          "source_info_link": "https://www.ambitionbox.com/salaries/magik-lights-salaries/senior-executive/indore-location",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZaUm9zMW5lWC16Wm1vQWhOZnc0eXVENzZuRkRRbkg1TzZ1ZC13UlVaUXQ3STdFYU9YMU1oeXU1VWI1ZTBBWW1kamUxeVpUVEdFbnIzY2x2cVc2VzhDVHlaa0xrYi1EeVJzbkFlYkNzVlRvUWk3YlR4eGd4OF8tb2o0SzVwQVUxdVMzbzJOOHR1QUZhN0NKM0ZGcHphdWtOM1Z2WjNWSm95aXk4TzdrajdISWRJeFZWd0hydkt2LS1USEhUSlJ3UDhDSRIEGgIIABqVBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDxBQgAEAAYACAAKikKCGRhdGF3aW5kFe1rjz0aCWRhdGEgd2luZBoNaXY7cDtkYXRhd2luZComCghlbXBsb3llZRUnim0-GgllbXBsb3llZXMaCmVtcGxveW1lbnQqIQoHcmV2aWV3cxUBFWg_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVZ3_QPRoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVomIfQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXIpeA9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RlpSb3MxbmVYLXpabW9BaE5mdzR5dUQ3Nm5GRFFuSDVPNnVkLXdSVVpRdDdJN0VhT1gxTWh5dTVVYjVlMEFZbWRqZTF5WlRUR0VucjNjbHZxVzZXOENUeVprTGtiLUR5UnNuQWViQ3NWVG9RaTdiVHh4Z3g4Xy1vajRLNXBBVTF1UzNvMk44dHVBRmE3Q0ozRkZwemF1a04zVnZaM1ZKb3lpeThPN2tqN0hJZEl4VlZ3SHJ2S3YtLVRISFRKUndQOENJOkVNYWdpayBMaWdodHMgSW5kb3JlIFNlbmlvciBFeGVjdXRpdmUgU2FsYXJpZXMgYnkgPGI-RW1wbG95ZWVzPC9iPiAuLi5CrQFUb3RhbGx5IGdldCB0aGlzISBJdCYjMzk7cyByZWZyZXNoaW5nIHRvIGhlYXIgc29tZW9uZSBwcmlvcml0aXplIHdoYXQgdHJ1bHkgbWF0dGVycyB0byB0aGVtIG92ZXIgdGhlIHR5cGljYWwgY29ycG9yYXRlIGNsaW1iLiBXaGF0JiMzOTtzIG9uZSBvZiB0aGUgbW9zdCBpbnRlcmVzdGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZaUm9zMW5lWC16Wm1vQWhOZnc0eXVENzZuRkRRbkg1TzZ1ZC13UlVaUXQ3STdFYU9YMU1oeXU1VWI1ZTBBWW1kamUxeVpUVEdFbnIzY2x2cVc2VzhDVHlaa0xrYi1EeVJzbkFlYkNzVlRvUWk3YlR4eGd4OF8tb2o0SzVwQVUxdVMzbzJOOHR1QUZhN0NKM0ZGcHphdWtOM1Z2WjNWSm95aXk4TzdrajdISWRJeFZWd0hydkt2LS1USEhUSlJ3UDhDSRIEGgIIABqVBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDxBQgAEAAYACAAKikKCGRhdGF3aW5kFe1rjz0aCWRhdGEgd2luZBoNaXY7cDtkYXRhd2luZComCghlbXBsb3llZRUnim0-GgllbXBsb3llZXMaCmVtcGxveW1lbnQqIQoHcmV2aWV3cxUBFWg_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVZ3_QPRoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVomIfQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXIpeA9GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My2QEvZ290bz91cmw9Q0FFU2xnRUI2enN3RlpSb3MxbmVYLXpabW9BaE5mdzR5dUQ3Nm5GRFFuSDVPNnVkLXdSVVpRdDdJN0VhT1gxTWh5dTVVYjVlMEFZbWRqZTF5WlRUR0VucjNjbHZxVzZXOENUeVprTGtiLUR5UnNuQWViQ3NWVG9RaTdiVHh4Z3g4Xy1vajRLNXBBVTF1UzNvMk44dHVBRmE3Q0ozRkZwemF1a04zVnZaM1ZKb3lpeThPN2tqN0hJZEl4VlZ3SHJ2S3YtLVRISFRKUndQOENJOkVNYWdpayBMaWdodHMgSW5kb3JlIFNlbmlvciBFeGVjdXRpdmUgU2FsYXJpZXMgYnkgPGI-RW1wbG95ZWVzPC9iPiAuLi5CrQFUb3RhbGx5IGdldCB0aGlzISBJdCYjMzk7cyByZWZyZXNoaW5nIHRvIGhlYXIgc29tZW9uZSBwcmlvcml0aXplIHdoYXQgdHJ1bHkgbWF0dGVycyB0byB0aGVtIG92ZXIgdGhlIHR5cGljYWwgY29ycG9yYXRlIGNsaW1iLiBXaGF0JiMzOTtzIG9uZSBvZiB0aGUgbW9zdCBpbnRlcmVzdGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "AmbitionBox"
+    },
+    {
+      "position": 3,
+      "title": "Blue Mount Zonal Manager salaries in India (Updated 2026)",
+      "link": "https://www.ambitionbox.com/salaries/blue-mount-salaries/zonal-manager",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFeTcEwHNy6no5fAuxDYXMJKg94WAS9jVYgm4cpCq09wc1sJuiXUN0CfbGoL7MasdIFExyWzE4zpoglepAroZg1hSFXVwXfPNmtC7SzDwlgkfy-kmc7H6H7mrLEO0bE3Faz8xqgEiUHVzfkmsS9JbJr5DxMVskhajnkiPkl8&ved=2ahUKEwjE48L7wKWXAxVKE1kFHRaECBQQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › ... › Blue Mount Salaries",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "snippet": "Explore Blue Mount Zonal Manager Salaries from 3 current & past employees. Get updated salary insights by experience, location, company & industry on ...",
+      "snippet_highlighted_words": [
+        "employees"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore Blue Mount Zonal Manager Salaries from 3 current & past employees. Get updated salary insights by experience, location, company & industry on ...",
+          "source_info_link": "https://www.ambitionbox.com/salaries/blue-mount-salaries/zonal-manager",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZlVGNFd0hOeTZubzVmQXV4RFlYTUpLZzk0V0FTOWpWWWdtNGNwQ3EwOXdjMXNKdWlYVU4wQ2ZiR29MN01hc2RJRkV4eVd6RTR6cG9nbGVwQXJvWmcxaFNGWFZ3WGZQTm10QzdTekR3bGdrZnkta21jN0g2SDdtckxFTzBiRTNGYXo4eHFnRWlVSFZ6Zmttc1M5SmJKcjVEeE1Wc2toYWpua2lQa2w4EgQaAggAGoQGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOAFCAAQABgAIAAqKQoIZGF0YXdpbmQVzgeUPRoJZGF0YSB3aW5kGg1pdjtwO2RhdGF3aW5kKiYKCGVtcGxveWVlFfFRkz4aCWVtcGxveWVlcxoKZW1wbG95bWVudCohCgdyZXZpZXdzFUz7aD8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchWqCbY9GgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBVB97c_GgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FYiX8z0aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGZVRjRXdITnk2bm81ZkF1eERZWE1KS2c5NFdBUzlqVllnbTRjcENxMDl3YzFzSnVpWFVOMENmYkdvTDdNYXNkSUZFeHlXekU0enBvZ2xlcEFyb1pnMWhTRlhWd1hmUE5tdEM3U3pEd2xna2Z5LWttYzdINkg3bXJMRU8wYkUzRmF6OHhxZ0VpVUhWemZrbXNTOUpiSnI1RHhNVnNraGFqbmtpUGtsODpQQmx1ZSBNb3VudCBab25hbCBNYW5hZ2VyIFNhbGFyaWVzIGJ5IDMgPGI-RW1wbG95ZWVzPC9iPiAuLi4gLSA8Yj5BbWJpdGlvbkJveDwvYj5CrQFFeHBsb3JlIEJsdWUgTW91bnQgWm9uYWwgTWFuYWdlciBTYWxhcmllcyBmcm9tIDMgY3VycmVudCAmYW1wOyBwYXN0IDxiPmVtcGxveWVlczwvYj4uIEdldCB1cGRhdGVkIHNhbGFyeSBpbnNpZ2h0cyBieSBleHBlcmllbmNlLCBsb2NhdGlvbiwgY29tcGFueSAmYW1wOyBpbmR1c3RyeSBvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZlVGNFd0hOeTZubzVmQXV4RFlYTUpLZzk0V0FTOWpWWWdtNGNwQ3EwOXdjMXNKdWlYVU4wQ2ZiR29MN01hc2RJRkV4eVd6RTR6cG9nbGVwQXJvWmcxaFNGWFZ3WGZQTm10QzdTekR3bGdrZnkta21jN0g2SDdtckxFTzBiRTNGYXo4eHFnRWlVSFZ6Zmttc1M5SmJKcjVEeE1Wc2toYWpua2lQa2w4EgQaAggAGoQGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOAFCAAQABgAIAAqKQoIZGF0YXdpbmQVzgeUPRoJZGF0YSB3aW5kGg1pdjtwO2RhdGF3aW5kKiYKCGVtcGxveWVlFfFRkz4aCWVtcGxveWVlcxoKZW1wbG95bWVudCohCgdyZXZpZXdzFUz7aD8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchWqCbY9GgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBVB97c_GgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FYiX8z0aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGZVRjRXdITnk2bm81ZkF1eERZWE1KS2c5NFdBUzlqVllnbTRjcENxMDl3YzFzSnVpWFVOMENmYkdvTDdNYXNkSUZFeHlXekU0enBvZ2xlcEFyb1pnMWhTRlhWd1hmUE5tdEM3U3pEd2xna2Z5LWttYzdINkg3bXJMRU8wYkUzRmF6OHhxZ0VpVUhWemZrbXNTOUpiSnI1RHhNVnNraGFqbmtpUGtsODpQQmx1ZSBNb3VudCBab25hbCBNYW5hZ2VyIFNhbGFyaWVzIGJ5IDMgPGI-RW1wbG95ZWVzPC9iPiAuLi4gLSA8Yj5BbWJpdGlvbkJveDwvYj5CrQFFeHBsb3JlIEJsdWUgTW91bnQgWm9uYWwgTWFuYWdlciBTYWxhcmllcyBmcm9tIDMgY3VycmVudCAmYW1wOyBwYXN0IDxiPmVtcGxveWVlczwvYj4uIEdldCB1cGRhdGVkIHNhbGFyeSBpbnNpZ2h0cyBieSBleHBlcmllbmNlLCBsb2NhdGlvbiwgY29tcGFueSAmYW1wOyBpbmR1c3RyeSBvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "AmbitionBox"
+    }
+  ]
+}

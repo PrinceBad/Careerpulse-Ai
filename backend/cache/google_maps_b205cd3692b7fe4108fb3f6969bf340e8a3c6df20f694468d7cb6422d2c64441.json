@@ -1,0 +1,123 @@
+{
+  "search_metadata": {
+    "id": "6ac4f92ebd1731bc115f1345",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a_G0EGZYb7ZZWpiJFdxhhSRT26cl3uoOpBgLN5Ae2GQ/6ac4f92ebd1731bc115f1345.json",
+    "markdown_endpoint": "https://serpapi.com/searches/a_G0EGZYb7ZZWpiJFdxhhSRT26cl3uoOpBgLN5Ae2GQ/6ac4f92ebd1731bc115f1345.md",
+    "created_at": "2026-10-06 13:35:42 UTC",
+    "processed_at": "2026-10-06 13:35:42 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Verizon+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/a_G0EGZYb7ZZWpiJFdxhhSRT26cl3uoOpBgLN5Ae2GQ/6ac4f92ebd1731bc115f1345.html",
+    "prettify_html_file": "https://serpapi.com/searches/a_G0EGZYb7ZZWpiJFdxhhSRT26cl3uoOpBgLN5Ae2GQ/6ac4f92ebd1731bc115f1345.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Verizon headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Verizon headquarters Bengaluru, India"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Verizon India",
+      "place_id": "ChIJT7NfttkVrjsR6p1Y6tWZ3j0",
+      "data_id": "0x3bae15d9b65fb34f:0x3dde99d5ea589dea",
+      "data_cid": "4458169825182129642",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d9b65fb34f%3A0x3dde99d5ea589dea&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d9b65fb34f%3A0x3dde99d5ea589dea&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.950412799999999,
+        "longitude": 77.64323999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT7NfttkVrjsR6p1Y6tWZ3j0",
+      "provider_id": "/g/11j7jnk0cz",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "Park in EGL, Yahoo Main Connector, Embassy Golf Links Business Park, Challaghatta, Bengaluru, Karnataka 560071, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmKN4EF8FJGOWw0bwwazy1us9hwXSCKksgMwxQK0pFmJ2Qpx2EM0v557ntIbGmFTae7Kj--ICAcC3am25HOH3G5yNw2O6FOLb3KTaD0mMQt2323_jw3xwyPySwoCrZ11S-rNoEP0w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zz-ftXicHcTdCoIwGADQJ1rOLfuDLsKc1vIvhaKb0CFKNSdu9Wlv2CP0NkHn4nw_jTGdXlnWo6GTWqn6UT111QvVmqo1E6GkVXcaCY20tQmOSX6SPJp6bMH2fnwCXAIU79F-6mUD58zld12HMKQcd0zuSdoNxAvxy3HmrdmVvmR5Uc35DaGduxEuLSRxgjigvjNGQOIZiw8l5XmxxTJMDaGEXm9ABxiTMQPl9hfbzlAfKS_BsAYbY4ya_wK1P2q1Q24"
+    },
+    {
+      "position": 2,
+      "title": "Verizon",
+      "place_id": "ChIJVfp11LATrjsRcS85vEiFjMM",
+      "data_id": "0x3bae13b0d475fa55:0xc38c8548bc392f71",
+      "data_cid": "14090783881577443185",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13b0d475fa55%3A0xc38c8548bc392f71&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13b0d475fa55%3A0xc38c8548bc392f71&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.943333299999999,
+        "longitude": 77.6905556
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVfp11LATrjsRcS85vEiFjMM",
+      "provider_id": "/g/1hhgl3tw0",
+      "rating": 4.4,
+      "reviews": 124,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office",
+        "Internet service provider",
+        "Telecommunications service provider"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office",
+        "internet_service_provider",
+        "telecommunications_service_provider"
+      ],
+      "address": "5th Floor, ETAMIN BLOCK, PRESTIGE TECH PARK, 2, Outer Ring Rd, Kadubisanahalli, Marathahalli, Bengaluru, Karnataka 560103, India",
+      "country": "India",
+      "phone": "+91 80660 60900",
+      "website": "https://www.verizon.com/",
+      "description": "Source for wireless plans, phones & more. Telecommunications store offering cell phones, wireless plans, accessories & more.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtVF-aXtbr8Ac7DJPsIgmILDRLYPBMCyDPVQxRX2wM_lpcXC1KRe1r_zBw3NXdf6zs-qxOA1TYEL06iTNQZTAAMCD42ftmAOdzNZrVoDr5zAESn75r3RO9hsMdXoF9cQdOSlDVxfqWmIc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qd4S6XicHcRJDoIwAADAF1VA3BMPlWpEWQvBwsVo2UwoxbYG5JHe_Y2Jc5jvp1aqkxtNa2pzUnFeNcVLFoLyVhWtmlDOtKqTgEogNXjEQXxhKjmAG1F3sYJ0iU6BtCtmOwg7abBzrTcKknDAZNq716ajxDLOuDDEddz1pkfycjFK8Bx8aMTp3tEXj9gLsxhC10KzaakY9PPRy0TCkZiPcB-1y7kwsb-upZsTfljTMPejBiVD-bwwm257Q9d1UP-noP0BEm1GcQ"
+    }
+  ]
+}

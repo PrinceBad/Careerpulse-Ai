@@ -1,0 +1,1578 @@
+{
+  "search_metadata": {
+    "id": "6ac4f92eaf5fdc269ef1c277",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/B7awQDv4whI1BkWcFSebFqOP9zP4isX9feFJpcTIpeQ/6ac4f92eaf5fdc269ef1c277.json",
+    "markdown_endpoint": "https://serpapi.com/searches/B7awQDv4whI1BkWcFSebFqOP9zP4isX9feFJpcTIpeQ/6ac4f92eaf5fdc269ef1c277.md",
+    "created_at": "2026-10-06 13:35:42 UTC",
+    "processed_at": "2026-10-06 13:35:42 UTC",
+    "google_news_url": "https://news.google.com/search?q=Verizon+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/B7awQDv4whI1BkWcFSebFqOP9zP4isX9feFJpcTIpeQ/6ac4f92eaf5fdc269ef1c277.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Verizon news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Verizon plans fresh layoffs as it targets $5 billion in cost savings",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samriddhi Srivastava"
+        ]
+      },
+      "link": "https://www.peoplematters.in/news/strategic-hr/verizon-plans-fresh-layoffs-as-it-targets-dollar5-billion-in-cost-savings-50844",
+      "thumbnail": "https://asset.peoplematters.in/images/1695061e-c2e8-4d8f-bc7a-d77446d33e9b.png?w=800&auto=format,compress",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9UM0k1ZDB0Q1YyZG5XbUZsVFJERUF4aW5CU2dLTWdhQmNwQmtKZ2c",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Verizon to announce staff reductions inorder to trim expenditure.",
+      "source": {
+        "name": "HR Katha",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hrkatha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hrkatha.com/news/layoff/verizon-readies-new-job-cuts-in-5-billion-savings-push/",
+      "thumbnail": "https://www.hrkatha.com/wp-content/uploads/2026/07/Untitled-770-x-515-px-770-x-515-px-770-x-515-px-1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVRGRoVTNSdWQyWnJjR3RFVFJERkF4aWxCU2dLTWdZRmdKREZzQVk",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Shepardson"
+        ]
+      },
+      "link": "https://www.reuters.com/business/world-at-work/verizon-shed-274-stores-lay-off-another-500-corporate-employees-2026-07-16/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/AWYDZCVCBNPW3NTOZPU4BIHEIU.jpg?auth=bd46760e4f4f2c2dc7b46de3b9d353baabbcf75d607d6c5b4feb5700d87c711b&width=1200&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFNM3BoTVhKVGJXeEpVakJwVFJDMkFSaVVBaWdCTWdB",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Verizon continues mass layoffs with hundreds more jobs on the chopping block",
+      "source": {
+        "name": "SDxCentral",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sdxcentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Wodecki"
+        ]
+      },
+      "link": "https://www.sdxcentral.com/news/verizon-continues-mass-layoffs-with-hundreds-more-jobs-on-the-chopping-block/",
+      "thumbnail": "https://media.datacenterdynamics.com/media/images/GettyImages-1182574543.a6723694.fill-1000x300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFPR1V4WjJKM1NtVmpNbGRuVFJDc0Foam9CeWdLTWdZSmVKYUdMZ2c",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Verizon cuts corporate jobs, trims retail footprint",
+      "source": {
+        "name": "Mobile World Live",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mobileworldlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Robuck"
+        ]
+      },
+      "link": "https://www.mobileworldlive.com/operators/verizon-cuts-corporate-jobs-trims-retail-footprint/",
+      "thumbnail": "https://assets.mobileworldlive.com/wp-content/uploads/2026/01/16103153/MWL_Verizon_shop_new_logo_650.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRhVEJyTVRZelRrUmpUak01VFJEckFoaUpCU2dLTWdZZEphTEtHUW8",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Verizon delivers record 2Q26 results as strategic transformation ignites accelerated growth",
+      "source": {
+        "name": "Verizon",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.verizon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katie Magnotta"
+        ]
+      },
+      "link": "https://www.verizon.com/about/news/verizon-delivers-record-2q26-results",
+      "thumbnail": "https://ss7.vzw.com/is/image/VerizonWireless/verizon-earnings-2q26-results-1920x1080?resMode=sharp2&scl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDNZM1pMTVdkblNtVjBhRlY2VFJDZkF4ampCU2dLTWdzSmNvN210S2F4YW5vbVhR",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Verizon layoffs: America’s largest telecom company to cut 13,000 jobs, what CEO Dan Schulman said in inte",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-layoffs-americas-largest-telecom-company-to-cut-13000-jobs-what-ceo-dan-schulman-said-in-internal-memo/articleshow/125465746.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125465724,width-1280,height-720,resizemode-4/125465724.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRVblpYVFVsa1pXZFFjVnBxVFJDZkF4ampCU2dLTWdhSmdKVEdzQVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
+      "source": {
+        "name": "The Next Web",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thenextweb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
+      "thumbnail": "https://media.thenextweb.com/2026/07/verizon-3000-retail-layoffs-store-reorganization.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpaV3hSY25OcFJIZE9kMjlIVFJDZkF4ampCU2dLTWdNQnNCQQ",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Shepardson"
+        ]
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-shed-274-stores-lay-160739807.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c09795d6a78bfb86463c8b65b1327f4b1e18ee79432c2ccbac2995f9f478e7c1/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Fd16f1813bee86cf168e6b1e508221626",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdPVzlyYTNkcWNsZEVhbE50VFJEQ0F4aXFCU2dLTWdhRkE0S3JWUU0",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Verizon ex-CEO’s heartfelt letter to 13,000 laid-off employees: 'Hold your head high, no one can take away",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/verizon-ex-ceos-heartfelt-letter-to-13000-laid-off-employees-hold-your-head-high-no-one-can-take-away-/articleshow/125581926.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125582019,width-1200,height-900,resizemode-4,imgsize-2124352/tami-erwin-verizon-ex-ceo-layoffs.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpka1ZMVFRJdFRIcE1ZMkZmVFJEZ0F4aUFCU2dLTWdtQms1QndPZWJBclFF",
+      "date": "11/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-26T08:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Companies laying off staff this year include Meta, Amazon, and Visa — see the list",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+      "thumbnail": "https://i.insider.com/6a5a3181548c9c486b30d390?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJVbG8yY0hwQmRpMWlUM3BNVFJERUF4aW1CU2dLTWdZQndZaTJ3QVE",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Verizon layoffs 2026: hundreds more jobs cut nationwide",
+      "source": {
+        "name": "qz.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Colleen Cabili"
+        ]
+      },
+      "link": "https://qz.com/verizon-layoffs-hundreds-jobs-cut-050726",
+      "thumbnail": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2271853832-1920x1280.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVVGxMTVUxVVRtc3lWMmhqVFJERUF4aW1CU2dLTWdhQllZZ0R1Z1E",
+      "date": "05/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-07T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Verizon to sell 274 stores, cut 500 corporate jobs",
+      "source": {
+        "name": "Fierce Network",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fierce-network.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Monica Alleven"
+        ]
+      },
+      "link": "https://www.fierce-network.com/wireless/verizon-sell-274-stores-cut-500-corporate-jobs",
+      "thumbnail": "https://qtxasset.com/cdn-cgi/image/w=850,h=478,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-09-05%20at%209.17.38%20AM.png?VersionId=FGGT6U8r.jeTzNb2GONkNzRHs9jKWon3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjbkpFVjJGS01EVmFkak5FVFJDb0FSaXNBaWdCTWdhWklxUXNGUXM",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Verizon cuts several hundred jobs months after 13,000-worker reduction",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samriddhi Srivastava"
+        ]
+      },
+      "link": "https://www.peoplematters.in/news/strategic-hr/verizon-cuts-several-hundred-jobs-months-after-13000-worker-reduction-49623",
+      "thumbnail": "https://asset.peoplematters.in/images/e455dd90-5f6c-40b5-952c-56d18d27f6fd.jpg?w=800&auto=format,compress",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBaSGR5WjBaTGRHTlJOMjlmVFJDZkF4ampCU2dLTWdrUmtJclB3Q1NTekFF",
+      "date": "05/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-07T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Verizon cutting more than 13,000 jobs as it restructures",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Shepardson"
+        ]
+      },
+      "link": "https://www.reuters.com/business/world-at-work/verizon-cutting-more-than-13000-jobs-it-restructures-2025-11-20/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/AWYDZCVCBNPW3NTOZPU4BIHEIU.jpg?auth=bd46760e4f4f2c2dc7b46de3b9d353baabbcf75d607d6c5b4feb5700d87c711b&width=480&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVFZxTFV4d2FsaFVlSGxsVFJDOUFoamdBeWdLTWdhRkE0S3JWUU0",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Verizon outage: Check New York-based U.S. wireless carrier's recent job cuts, business reports, deals and",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/us/verizon-outage-check-new-york-based-u-s-wireless-carriers-recent-job-cuts-business-reports-deals-and-mergers/articleshow/126534041.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-126534041,width-1200,height-900,resizemode-4,imgsize-56070/verizon-outage-check-new-york-based-u-s-wireless-carriers-recent-job-cuts-business-reports-deals-and-mergers.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFha05aWW5Ca2N6RnFRbGRCVFJEZ0F4aUFCU2dLTWdZSmdaVEdzQVk",
+      "date": "01/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-15T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Verizon CEO Dan Schulman says ‘not scared of’ Anthropic’s Mythos: ‘It is just a…’",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-ceo-dan-schulman-says-not-scared-of-anthropics-mythos-it-is-just-a/articleshow/130364863.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-130364870,width-1280,height-720,imgsize-85894,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRlSFpLWm1NNFpWWkJlVlZrVFJDZkF4ampCU2dLTWdZbE5vWU1uZ2s",
+      "date": "04/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-19T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Verizon To Sell 274 Stores, Cut 500 Office Jobs In Restructuring",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/real-estate/articles/verizon-sell-274-stores-cut-040907024.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/6fa75c17473925343b08a9979b9b80ca4a28ef6a319239592c3227534b84965b/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcre_daily_340%2F499c1707fa194bc1cb9cf0cc357d23b2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxObFo0WW01VlprOHlSa1owVFJERUF4aW1CU2dLTWdNQllCSQ",
+      "date": "07/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-20T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Verizon layoffs: Largest telecom company in America may cut thousands of jobs as new CEO Dan Schulman tak",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-layoffs-largest-telecom-company-in-america-may-cut-thousands-of-jobs-as-new-ceo-dan-schulman-takes-over/articleshow/125306006.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125305987,width-1280,height-720,resizemode-4/125305987.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURXRkpOY1VKU1lsZENUVWxzVFJDZkF4ampCU2dLTWdrUmtJelBRQ1dTekFF",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Verizon to layoff 13,000 employees as US telco 'reorients' business",
+      "source": {
+        "name": "ET Telecom",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://telecom.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://telecom.economictimes.indiatimes.com/news/industry/verizon-announces-layoffs-of-13000-employees-amid-major-business-reorientation/125476040",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-125476040,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhVEZLWDNSZlQzSm9aM1pDVFJDZkF4ampCU2dLTWdZUklKN09uQWs",
+      "date": "11/21/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-21T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Verizon Delivers on 2025 Financial Guidance with Highest Quarterly Net Adds Since 2019",
+      "source": {
+        "name": "Verizon",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.verizon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katie Magnotta"
+        ]
+      },
+      "link": "https://www.verizon.com/about/news/verizon-delivers-2025-financial-guidance-highest-quarterly-net-adds",
+      "thumbnail": "https://verizon.com/about/sites/default/files/2026-01/investors-earnings-verizon-4q-2025-results-1230x690.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTMWt0YkdOSVoxRmxkVWhQVFJDZkF4amtCU2dLTWdhSm9wU211Z2M",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Verizon layoffs, biggest in years? More than 13,000 jobs to be cut as the company undergoes major restruct",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shreya Biswas"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/international/us/verizon-layoffs-biggest-in-years-more-than-13000-jobs-to-be-cut-as-the-company-undergoes-major-restructuring/articleshow/125466301.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125466297,width-1200,height-900,resizemode-4,imgsize-91782/verizon-layoffs-biggest-in-years-more-than-13000-jobs-to-be-cut-as-the-company-undergoes-major-restructuring.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYMFJKU25kcFdIRmFjVlF5VFJEZ0F4aUFCU2dLTWdZQm9vNU92UVU",
+      "date": "11/23/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-23T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Verizon to Slash Over 3,000 Jobs and Sell 274 Stores in Sweeping Cost-Cutting Overhaul",
+      "source": {
+        "name": "finance.biggo.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.biggo.com/news/6a088b9f-7151-4ca9-9d21-4f6b5eb31c0c",
+      "thumbnail": "https://img.biggo.com/o7p65juHKejiaD-vtj10salDCoXnfczpfQSD7L2lR18/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzZhMDg4YjlmLTcxNTEtNGNhOS05ZDIxLTRmNmI1ZWIzMWMwY18xNzg0Mzk4NDUyX2RlZmF1bHQuanBn.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdTM0I0V0dVdGF6TndWMUo0VFJDZkF4ampCU2dLTWdZQm9JaXR2UVU",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Verizon CEO Schulman shakes things up again with more store sales and job cuts",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alan Friedman"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-sells-corporate-owned-stores-eliminates-3000-jobs_id181921",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/181921-wide-two_1200/Verizon-CEO-Schulman-shakes-things-up-again-with-more-store-sales-and-job-cuts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlRazF0UjB0SmFUWnhVVVJxVFJDZkF4ampCU2dLTWdhSnNaQm13UVk",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Verizon cuts WA jobs as retail strategy shifts",
+      "source": {
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rick Morgan"
+        ]
+      },
+      "link": "https://www.bizjournals.com/seattle/news/2026/07/17/verizon-layoffs-stores-retail-strategy.html",
+      "thumbnail": "https://media.bizj.us/view/img/13238456/verizon01a*900xx2500-1406-0-132.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJOVmxVTWxnNVJWVkllQzFrVFJDZkF4ampCU2dLTWdZQlVvYU1vUWs",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Verizon's ex-CEO pens open letter to staff hit by the company's biggest layoff, says ‘your story isn’t ending…'",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eshita Gain"
+        ]
+      },
+      "link": "https://www.livemint.com/news/trends/verizons-ex-ceo-pens-open-letter-to-staff-hit-by-the-companys-biggest-layoff-says-your-story-isn-t-ending-11764139306267.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/11/26/1600x900/logo/VERIZON-LAYOFFS--1_1763062167257_1763062192492_1764139773536.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViM2x4YW1zNGNqQlJXVGRNVFJDZkF4ampCU2dLTWdZVkFJQjVnQTA",
+      "date": "11/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-26T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Verizon layoffs today: More jobs slashed as wireless giant moves to sell retail stores to franchisees",
+      "source": {
+        "name": "Fast Company",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Grothaus"
+        ]
+      },
+      "link": "https://www.fastcompany.com/91575600/verizon-layoffs-today-more-jobs-slashed-2026-retail-store-shift",
+      "thumbnail": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91575600-verizon-layoffs-cut-3000-jobs-store-diverstiture.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlbmhLVjAwMlVGZExTRlpUVFJDZkF4ampCU2dLTWdZZGtZanJ5UVE",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Verizon to Lay Off 3,000 Workers as Part of Broader Restructuring",
+      "source": {
+        "name": "Barron's",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Karishma Vanjani"
+        ]
+      },
+      "link": "https://www.barrons.com/articles/verizon-communications-layoffs-job-cuts-stores-85b150a3",
+      "thumbnail": "https://images.barrons.com/im-03168806?width=700&height=466",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFYekowUWtWUFgyOWlWREU0VFJERUF4aW5CU2dLTWdrVllaQzFKQ2lpS2dJ",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Verizon weighs up to 20,000 layoffs as new CEO Dan Schulman takes charge",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kelcee Griffis"
+        ]
+      },
+      "link": "https://www.business-standard.com/world-news/verizon-weighs-up-to-20-000-layoffs-as-new-ceo-dan-schulman-takes-charge-125111400317_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/14/full/1763092188-0601.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVhbVpWYzNBMmNXUm9YMHhOVFJERUF4aW1CU2dLTWdZZE41WXFuZ2s",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Verizon employee leaks news about more layoffs coming this week",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alan Friedman"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-to-announce-more-layoffs-this-week_id181855",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/181855-wide-two_1200/Verizon-employee-leaks-news-about-more-layoffs-coming-this-week.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkbGhWUkZNNWFHWnNaSFY2VFJDZkF4ampCU2dLTWdhTm9aSW1QUWM",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Verizon Announces New Layoffs as Cost-Cutting Continues Into 2026",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Santanu Roy"
+        ]
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-announces-layoffs-cost-cutting-141800953.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/88d0ad35cfbc639e459571330cd81033b5ac86e0390294d5ddd04acd6c1c0396/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fzacks.com%2F656882dc0d93cc66013f97f00aa885cc",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZUVTVwWlhkcFlubzNUbTlyVFJDM0F4aTZCU2dLTWdZeFVZQ1FwUVU",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Verizon Layoffs: US wireless announces more than 13,000 job cuts to shrink costs",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Swastika Das Sharma"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/verizon-layoffs-us-wireless-announces-more-than-13-000-job-cuts-to-shrink-costs-11763652312969.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/11/20/1600x900/logo/VERIZON-LAYOFFS--0_1763652446897_1763652458113.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVZVlZLU2xOQ2JGQlNUR001VFJDZkF4ampCU2dLTWdrUkFKNFBHU2tlQWdN",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Verizon layoffs: US telco to cut 13,000 jobs in largest single purge; to shrink costs, restructure",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/business/verizon-cutting-more-than-13000-jobs-as-it-restructures/articleshow/125474842.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125474845,width-1200,height-900,resizemode-4,imgsize-56070/verizon-outage-hits-millions-in-us-on-friday-when-will-services-resume-and-what-caused-it.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFha05aWW5Ca2N6RnFRbGRCVFJEZ0F4aUFCU2dLTWdZSmdaVEdzQVk",
+      "date": "11/21/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-21T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Verizon Begins Laying Off More Than 13,000 Employees",
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patience Haggin"
+        ]
+      },
+      "link": "https://www.wsj.com/business/telecom/verizon-begins-laying-off-more-than-13-000-employees-b227641f",
+      "thumbnail": "https://images.wsj.net/im-03575438?width=700&height=467",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUljVkZ6WldaNVlVZHNNMVpIVFJERUF4aW1CU2dLTWdZWmtJcnhzQVE",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Verizon layoffs: American telecommunications company to cut 15,000 jobs amid restructuring — Who will get affected?",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/companies/news/verizon-layoffs-american-telecommunications-company-to-cut-15-000-jobs-us-amid-restructuring-who-will-get-affected-11763060873893.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2025/11/13/1600x900/logo/VERIZON-LAYOFFS--1_1763062167257_1763062192492.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVVbFJpZUVKVlRuaFRUVWhmVFJDZkF4ampCU2dLTWdZQkVKS1RyQWM",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Verizon ex-CEO sends open letter to 13,000 employees company is laying off; says: No one can take away…",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-ex-ceo-sends-open-letter-to-13000-employees-company-is-laying-off-says-no-one-can-take-away/articleshow/125515667.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125515844,width-1280,height-720,resizemode-4/125515844.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBjV1pHY2pRMllXdzBNWEpJVFJDZkF4ampCU2dLTWdhSmdKVEdzQVk",
+      "date": "11/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-26T08:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "The Top 5 Analyst Questions From Verizon’s Q2 Earnings Call",
+      "source": {
+        "name": "tradingview.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/stockstory:3ea5a1c48094b:0-the-top-5-analyst-questions-from-verizon-s-q2-earnings-call/",
+      "thumbnail": "https://s3.tradingview.com/news/image/stockstory:3ea5a1c48094b-711987a3fcbd038ec4fc4c13e90d2fa9-resized.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZWVXgxVlhKNlMySnFUbk0yVFJDSEF4aVBCaWdLTWdhQlFZaFNJUW8",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "November tech layoffs: Verizon, HP, Apple and HPE confirm thousands of job cuts",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankita Chakravarti"
+        ]
+      },
+      "link": "https://www.moneycontrol.com/technology/november-tech-layoffs-verizon-hp-apple-and-hpe-confirm-thousands-of-job-cuts-article-13699043.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250831145347_Layoffs.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhkRmhUV1ZkNlVEVTNTMDk1VFJDZkF4ampCU2dLTWdZQlVKYUtxQWs",
+      "date": "11/27/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-27T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Verizon plans 15,000 layoffs as it shifts stores to franchises",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samriddhi Srivastava"
+        ]
+      },
+      "link": "https://www.peoplematters.in/news/strategic-hr/verizon-plans-15000-layoffs-as-it-shifts-stores-to-franchises-47228",
+      "thumbnail": "https://asset.peoplematters.in/images/8e453d5e-b325-4590-a22b-38111e81f8e7.jpg?w=800&auto=format,compress",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpNM0Z4UWw5UFpFdFZkRk54VFJDZkF4ampCU2dLTWdZQlVvYU1vUWs",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Verizon planning its largest layoffs ever: Report",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aljazeera.com/economy/2025/11/13/verizon-planning-its-largest-layoffs-ever-report",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-11-13T161411Z_447366154_RC2RVHAMBTP9_RTRMADP_3_VERIZON-LAYOFFS-1763062787.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRkQzFJTkdwdlVqTktjM0YwVFJEZ0F4aUFCU2dLTWdZSk1KNU9uQWs",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Verizon to announce fresh layoffs this week (VZ:NYSE)",
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Soumendra Mukherjee"
+        ]
+      },
+      "link": "https://seekingalpha.com/news/4613704-verizon-to-announce-fresh-layoffs-this-week",
+      "thumbnail": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160839858/image_1160839858.jpg?io=getty-c-w1280",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNaVFowYVZscWVWUmlaVVZKVFJDbUF4aldCU2dLTWdZVmM1U05MUWc",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Verizon to cut about 15,000 jobs as new CEO restructures, source says",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshita Mary Varghese",
+          "David Shepardson"
+        ]
+      },
+      "link": "https://www.reuters.com/business/verizon-cut-about-15000-jobs-wsj-reports-2025-11-13/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/SUY4YH2MY5PIBJP7SNC72PLU7A.jpg?auth=e5ce2bc58f4dca576fa98416cabbdc7fb98e1e725b4baa6071d18a969f39d81f&height=1200&width=1200&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJOVU5HZUVwbU5VVXpVMTh5VFJDcUJCaXFCQ2dLTWdZVko0SkpIZ1E",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Verizon (VZ) Sees Severance Charge from Headcount Reductions",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Lewis"
+        ]
+      },
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-vz-sees-severance-charge-144823746.html",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Man laid off from Verizon cried, questioned himself after losing job right before holiday season | Hindustan Times",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Trisha Sengupta"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/trending/us/man-laid-off-from-verizon-cried-questioned-himself-after-losing-job-right-before-holiday-season-101764143580201.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/11/26/1600x900/logo/Verizon_Viral_Mass_Layoff_13000_Employee_1764143869331_1764143869556.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlUbE51Y1hGaGRWTTBWMVJXVFJDZkF4ampCU2dLTWdZTkFJWklVUU0",
+      "date": "11/27/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-27T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Verizon lays off more employees as CEO Schulman hands out more pink slips",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alan Friedman"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/more-verizon-employees-out_id180217",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/180217-wide-two_1200/Verizon-lays-off-more-employees-as-CEO-Schulman-hands-out-more-pink-slips.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjRkY1Vkd4Q1VVbFJPRUZvVFJDZkF4ampCU2dLTWdhUmdKQW5NUWM",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Verizon CEO sends blunt warning on future of jobs after layoffs",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patricia Battle"
+        ]
+      },
+      "link": "https://www.thestreet.com/employment/verizon-ceo-sends-blunt-warning-on-future-of-jobs-after-layoffs",
+      "thumbnail": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUwNDYz/dan-schulman-chief-executive-officer-of-verizon-at-the-semafor-world-economy-summit-during-the-international-monetary-fund-imf-and-world-bank-spring-meetings-in-washington-dc-us-on-wednesday-april-15.jpg?profile=w2560&ar=4-3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SM2xMYVV0dVRFRldiVzVrVFJEZ0F4aUFCU2dLTWdZZE1wcnNwUWc",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "The Layoffs List of 2025: Verizon, Meta, Amazon, and More",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2025",
+      "thumbnail": "https://i.insider.com/691f2be5abd5e944effb1efd?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBhamRXUTFOb1JFNTZZbmhSVFJEQUF4aXNCU2dLTWdZTkU0Um54Z0k",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-16T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "What Does Verizon's Former CEO Think of its 13,000 Job Cuts?",
+      "source": {
+        "name": "Business Chief",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businesschief.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://businesschief.com/news/what-does-a-former-verizon-ceo-think-of-the-13-000-job-cuts",
+      "thumbnail": "https://assets.bizclikmedia.net/1336/d792373e51dc648aa9f8c2b9cba0678a:3ac5335816c34f1b2cda5fbe75bf0447/1750879553810-e-1766016000-v-beta-t-ujl6-8lk9r4bfrknlbdpvgqquezhtwwf2x6xqt44kr8",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRhM0ZpUmxsNU0xVkxVR05UVFJEREFSaUNBaWdCTWdZMVpJcHdxUWM",
+      "date": "11/28/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-28T08:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Enabling Indian takeover: Top US companies facing attacks for hiring Indians",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/world/us-news/story/us-news-american-companies-hit-by-backlash-for-hiring-indians-amid-h1b-visa-restriction-drive-financial-times-2851765-2026-01-14",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/indian-professionals-and-their-employers-are-coming-under-racist-attacks-from-right-wing-commentors-140131534-16x9_0.jpg?VersionId=P6y4GJG7penUguCCg85odgsL2Io0ag6z&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJOV2hUZDA1elQyaEtUMlo0VFJDZkF4ampCU2dLTWdhUllaQXpyUWM",
+      "date": "01/14/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-14T08:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Verizon set to announce more layoffs: report",
+      "source": {
+        "name": "Fierce Network",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fierce-network.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Monica Alleven"
+        ]
+      },
+      "link": "https://www.fierce-network.com/wireless/verizon-set-announce-more-layoffs-report",
+      "thumbnail": "https://qtxasset.com/cdn-cgi/image/w=850,h=478,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-09-05%20at%209.15.57%20AM.png?VersionId=LDJpmvvRW4pwiVUWK77JxKftp56H3ARN",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNjbGxHT0V4d2Fua3laVE5SVFJDb0FSaXNBaWdCTWdZWkJad0tGZ28",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Verizon layoffs: CEO Daniel Schulman's remarks about company’s 'critical inflection point' emerge. Here's",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/global-trends/us-news-verizon-layoffs-ceo-daniel-schulmans-remarks-about-telecommunications-companys-critical-inflection-point-emerges-heres-what-he-said/articleshow/125344635.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125344733,width-1200,height-900,resizemode-4,imgsize-1767439/verizon-layoffs-ceo-daniel-schulman.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaakZqV21kNlkwcEZZelJCVFJEZ0F4aUFCU2dLTWdhNVE1UlNKUWc",
+      "date": "11/15/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-15T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Exclusive | Verizon to Cut About 15,000 Jobs, Mostly Through Layoffs",
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patience Haggin",
+          "Suzanne Vranica"
+        ]
+      },
+      "link": "https://www.wsj.com/business/telecom/verizon-to-cut-about-15-000-jobs-87280c3c",
+      "thumbnail": "https://images.wsj.net/im-20953332?width=700&height=467",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHphbFJEVFZrek9IWmFWWFJpVFJERUF4aW1CU2dLTWdtSllwUm1LbWVEREFJ",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Verizon, BT Merge International Units in Home Markets Pivot",
+      "source": {
+        "name": "bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Paula Doenecke",
+          "Kelcee Griffis",
+          "Vinicy Chan"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/verizon-bt-are-said-to-near-jv-deal-for-international-business",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJF4VU.7U56E/v3/620x-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSMHB3TTJjMVQzZGlSa2hSVFJEY0FoanNCQ2dLTWdZUlFwQ0h0Z1k",
+      "date": "06/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-29T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Verizon wants to do more of what customers hate and employees dread",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anam Hamid"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-ai-replacing-employees_id180887",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/180887-wide-two_1200/Verizon-wants-to-do-more-of-what-customers-hate-and-employees-dread.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZTR0U1UTNocGFqa3lWMloxVFJDZkF4ampCU2dLTWdhQk02Q09uUW8",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Verizon Set to Announce More Layoffs This Week, Report Claims",
+      "source": {
+        "name": "Android Headlines",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.androidheadlines.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tyler Lee"
+        ]
+      },
+      "link": "https://www.androidheadlines.com/2026/07/verizon-set-to-announce-more-layoffs-this-week-report-claims.html",
+      "thumbnail": "https://www.androidheadlines.com/wp-content/uploads/2019/02/verizon-Logo-2019-AM-AH-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWMnBYU1dOU05FMDBMVEYyVFJERUF4aW1CU2dLTWdhQmtZQkp0UWM",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Verizon is cutting more than 13,000 jobs as it works to ‘reorient’ entire company",
+      "source": {
+        "name": "AP News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wyatte Grantham"
+        ]
+      },
+      "link": "https://apnews.com/article/verizon-layoffs-economy-jobs-1aa299fc28b8e7211188f9b084d1048c",
+      "thumbnail": "https://dims.apnews.com/dims4/default/2731dda/2147483647/strip/false/crop/1986x1324+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fad%2F5f5228aa3aa5be8ca11998b8b82c%2F095b33103ed24f088c4d9f2eb3611ce2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVja2h0TW5Gb2RHaHVaa2hqVFJERUF4aW1CU2dLTWdhSmdKVEdzQVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Verizon CEO cuts to the chase on new layoffs and AI future",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aparajita Chatterjee",
+          "Celine Provini"
+        ]
+      },
+      "link": "https://www.thestreet.com/employment/verizon-ceo-cuts-to-the-chase-new-layoffs-ai-future",
+      "thumbnail": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDA5ODI5/dan-schulman-president-and-chief-executive-officer-of-paypal-holdings-inc-at-an-event-during-the-spring-meetings-of-the-international-monetary-fund-imf-and-world-bank-in-washington-dc-us-on-friday-apr.jpg?profile=w2560&ar=4-3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SbloyZERWWlpIZHhUUzFWVFJEZ0F4aUFCU2dLTWdhaE5wb0xuZ2s",
+      "date": "05/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Verizon Layoffs 2026: News, Restructuring & Severance Pay in Canada",
+      "source": {
+        "name": "Samfiru Tumarkin LLP",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stlawyers.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://stlawyers.ca/blog-news/verizon-layoffs-severance-pay/",
+      "thumbnail": "https://stlawyers.ca/wp-content/uploads/2025/11/verizon-layoffs-severance-pay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTWFU0Vm00MlZGQjJRVFYyVFJDUUF4aUFCaWdLTWdZdFFKQk9wUWM",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Verizon to lay off 54 WA employees",
+      "source": {
+        "name": "The Seattle Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexis Weisend"
+        ]
+      },
+      "link": "https://www.seattletimes.com/business/verizon-to-lay-off-54-wa-employees/",
+      "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2026/07/07172026_verizon_071255.jpg?d=780x520",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFXa3RUWTNndFJsRkZVa0pKVFJERUF4aW1CU2dLTWdrQkVJamtrZW9sOUFB",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Verizon to Cut 13,000 Jobs, Set Up $20 Million “Reskilling” Fund for Laid Off Staff In “Age of AI”",
+      "source": {
+        "name": "The Hollywood Reporter",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hollywoodreporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Erik Hayden"
+        ]
+      },
+      "link": "https://www.hollywoodreporter.com/business/business-news/verizon-cuts-thousands-jobs-ai-1236432143/",
+      "thumbnail": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/GettyImages-1448900602.jpg?w=2000&h=1126&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5RMFZPZWxwV2NIRkNUVUpzVFJDZkF4amlCU2dLTWdZeEpacXZuUWs",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Indian-American techie who worked with Apple, Cognizant and Verizon now drives Uber in San Francisco after",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/indian-american-techie-who-worked-with-apple-cognizant-and-verizon-now-drives-uber-in-san-francisco-after-layoff/articleshow/125408256.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125408366,width-1200,height-900,resizemode-4,imgsize-25566/indian-american-techie-drives-uber-san-francisco.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZWMmhsTVY5dVZIQnFUMmhZVFJEZ0F4aUFCU2dLTWdZRm9JcE94UVE",
+      "date": "11/18/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-18T08:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Verizon announces 15,000 layoffs in latest jobs bloodbath",
+      "source": {
+        "name": "World Socialist Web Site",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wsws.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andre Damon"
+        ]
+      },
+      "link": "https://www.wsws.org/en/articles/2025/11/15/nzfg-n15.html",
+      "thumbnail": "https://www.wsws.org/asset/0ce752a8-016f-4bb0-ba5a-a5dd42515fd4?rendition=image1280",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhSVXBrTm1SU1EyWmFUV2hsVFJDZkF4ampCU2dLTWdhbEFvUU95UU0",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Verizon CEO says carrier will lay off 3,000 employees, sell 274 stores in latest restructuring",
+      "source": {
+        "name": "cybernews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cybernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stefanie Schappert"
+        ]
+      },
+      "link": "https://cybernews.com/news/verizon-layoffs-employees-react-3000-jobs-274-stores/",
+      "thumbnail": "https://media.cybernews.com/images/featured-big/2026/01/verizon_orange_man_phone_night.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhOakY0U0hCTE1qWkxjV2h5VFJDYkF4anJCU2dLTWdhcHRJaXVQUVU",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Verizon makes drastic move as battle for customers intensifies",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patricia Battle",
+          "Celine Provini"
+        ]
+      },
+      "link": "https://www.thestreet.com/technology/verizon-lays-off-3000-employees-as-customers-continue-to-leave",
+      "thumbnail": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE3NTg2/a-verizon-store-ahead-of-earnings-figures.jpg?profile=w2560&ar=4-3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUR3RQTURsUmEybFZhekpDVFJEZ0F4aUFCU2dLTWdZQk1ZaTJIQWs",
+      "date": "07/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-18T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "The Top 5 Analyst Questions From Verizon’s Q2 Earnings Call",
+      "source": {
+        "name": "StockStory",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://stockstory.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://stockstory.org/us/stocks/nyse/vz/news/earnings-call/the-top-5-analyst-questions-from-verizons-q2-earnings-call",
+      "thumbnail": "https://stockstory.org/stockstory/company-image/VZ?size=1000x500",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlRemh1YTE5SlpXeFVTV1JyVFJDSEF4aVBCaWdLTWdhQlFZaFNJUW8",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Verizon to lay off about 15,000 employees: reports",
+      "source": {
+        "name": "hcamag.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hcamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dexter Tilo"
+        ]
+      },
+      "link": "https://www.hcamag.com/us/news/general/verizon-to-lay-off-about-15000-employees-reports/556588",
+      "thumbnail": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/035/0365_638987009573963597.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdYMnRIVjNCZlIyUlFZamRyVFJDdUFSaWlBaWdCTWdhUk5JWEwzUUk",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-13T08:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Verizon Reports 3Q 2025 Earnings; Reiterates Full-Year Financial Guidance",
+      "source": {
+        "name": "Verizon",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.verizon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.verizon.com/about/news/verizon-reports-3q-2025-earnings-reiterates-full-year-financial-guidance",
+      "thumbnail": "https://verizon.com/about/sites/default/files/2025-10/3q25-earnings.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhlRVZ4VkhacVExWkJObU5yVFJDZkF4ampCU2dLTWdhRm9wU0ZOZ2M",
+      "date": "10/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-29T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Verizon layoffs: 15,000 to be fired, stock skyrockets as broader markets fall",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Durva More"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/international/us/verizon-layoffs-15000-to-be-fired-stock-skyrockets-as-broader-markets-fall/articleshow/125306700.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-125306700,width-1200,height-900,resizemode-4,imgsize-35750/verizon-layoffs-15000-to-be-fired-stock-skyrockets-as-broader-markets-fall.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVZbVY1TWpsbGRFbFVObmRmVFJEZ0F4aUFCU2dLTWdZZElKN3VtQWs",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Verizon Cuts 16,600 Jobs in Nine Months as Its AI Stack Nears Completion",
+      "source": {
+        "name": "Tech Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techtimes.com/articles/320972/20260719/verizon-cuts-16600-jobs-nine-months-its-ai-stack-nears-completion.htm",
+      "thumbnail": "https://d.techtimes.com/en/full/469199/verizon-building-manhattan-seen-june-6-2013.jpg?w=836&f=9f04128e1a4bd243a7b013c8741bd05a",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1iMlpJVm5jelFuWlllRmxpVFJERUF4aW5CU2dLTWdZQmNJQlFRUVU",
+      "date": "07/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-19T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Verizon Cuts Nonunion Workforce 20% in Cost-Slashing Campaign",
+      "source": {
+        "name": "bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kelcee Griffis"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2025-11-20/verizon-cuts-nonunion-workforce-20-in-cost-slashing-campaign",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip2zWuIy.M64/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9MVGhyYlhCTFRFWnNTMWR5VFJERUF4aW1CU2dLTWdhQlVJTG9UQU0",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Should recent layoffs at major companies worry you? Experts weigh in",
+      "source": {
+        "name": "abcnews.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Max Zahn"
+        ]
+      },
+      "link": "https://abcnews.com/Business/recent-layoffs-major-companies-worry-experts-weigh/story?id=127678264",
+      "thumbnail": "https://s.abcnews.com/images/Business/economy-1-gty-er-251119_1763578054981_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlZMlpKYzFWelkwNHRTRmxwVFJDZkF4ampCU2dLTWdhVllvUXFwZ2s",
+      "date": "11/19/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-19T08:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "WARN Act gives advance notice of upcoming mass layoffs",
+      "source": {
+        "name": "LiveNOW from FOX",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livenowfox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stephanie Weaver"
+        ]
+      },
+      "link": "https://www.livenowfox.com/news/verizon-layoffs-company-cut-thousands-jobs",
+      "thumbnail": "https://static-media.fox.com/fmcv3/prod/fts/A-1184102/ma1e5rmrccwlt8hf.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxjek16VmtWdU9FeG5kbkppVFJDZkF4ampCU2dLTWdZQk1vYk1UUU0",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Verizon cutting more than 13,000 jobs as it works to ‘reorient' entire company",
+      "source": {
+        "name": "NBC Los Angeles",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbclosangeles.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nbclosangeles.com/news/national-international/verizon-cutting-more-than-13000-jobs-reorient-company/3806973/",
+      "thumbnail": "https://media.nbclosangeles.com/2025/11/GettyImages-2210108328.jpg?quality=85&strip=all&crop=0px%2C107px%2C5000px%2C2813px&resize=1200%2C675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVekF6UVRWcVNVSlNYMkV0VFJDZkF4ampCU2dLTWdhSmtaUW11UWM",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Verizon Layoffs Will Cut 15,000 Jobs — Company’s Largest Reduction Ever",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "ShaCamree Gowdy"
+        ]
+      },
+      "link": "https://finance.yahoo.com/news/verizon-layoffs-cut-15-000-163649567.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/83aeada38fff2cb7c8f4f177e4a294024bf67a43930d0a6214be5701bc7fa663/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafrotech_articles_589%2F64370626c6aa1f92a7868939c8caf176",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlibXQxYlhSSWVHUmhSR3h6VFJERUF4aW1CU2dLTWdZTmtKS25OQVk",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Verizon said to announce job cuts on Thursday",
+      "source": {
+        "name": "Breakingthenews.net",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://breakingthenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://breakingthenews.net/Article/Verizon-said-to-announce-job-cuts-on-Thursday/66696200",
+      "thumbnail": "https://cdn.ttweb.net/News/images/307817.jpg?preset=w800_q70",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWljVTg1V2poR1ptbEZZV0l6VFJDZkF4ampCU2dLTWdZTmdKVG9NQWM",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "As Verizon and other big orgs announce layoffs, is it spooking your employees?",
+      "source": {
+        "name": "HR Executive",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hrexecutive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jen Colletta"
+        ]
+      },
+      "link": "https://hrexecutive.com/as-verizon-and-other-big-orgs-announce-layoffs-is-it-spooking-your-employees/",
+      "thumbnail": "https://images.touchpointmarkets.com/cdn-cgi/image/format=auto,fit=contain/https://assets.touchpointmarkets.com/72/da/d1718f7b47ce967eae7586cbd4aa/verizon-adobe-5-26-21.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhiV0ZrT1dFdE56SllTVGhYVFJDM0FSaVRBaWdCTWdZSmtKTG5PQWM",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-12T08:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "AT&T reportedly does what T-Mobile and Verizon received flak for",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anam Hamid"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/AT-T-reportedly-does-what-T-Mobile-and-Verizon-received-flak-for_id181220",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/181220-wide-two_1200/AT-T-reportedly-does-what-T-Mobile-and-Verizon-received-flak-for.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJPSGRRWkUxcU0yWjZWWEZsVFJDZkF4ampCU2dLTWdZZEVJUXJHZ2c",
+      "date": "06/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-18T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Verizon will cut about 15,000 jobs after new CEO says ‘cost reductions will be a way of life for us here’",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nino Paoli"
+        ]
+      },
+      "link": "https://fortune.com/2025/11/14/verizon-job-cuts-15000-ceo-schulman-cost-reductions-telecom-competition/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-956493424-e1763155818343.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRjVkpwWTFndFgzUTJPVnA0VFJERUF4aW1CU2dLTWdZcFZaaXVwUWc",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Internal Verizon program may explain recent changes",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anam Hamid"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-layoffs-ai_id176358",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/176358-wide-two_1200/Internal-Verizon-program-may-explain-recent-changes.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFURjlmTFhZelYyazBiVEJIVFJDZkF4ampCU2dLTWdZbGM1Uk5MUWM",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "Laid Off by Verizon in December, Atlanta Designer Launches App That Turns a Phone Into an 'Indestructible Body Camera'",
+      "source": {
+        "name": "EIN News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.einnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.einnews.com/pr_news/934908453/laid-off-by-verizon-in-december-atlanta-designer-launches-app-that-turns-a-phone-into-an-indestructible-body-camera",
+      "thumbnail": "https://img.einnews.com/large/1172707/founder-krlh.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZaa1E1U25aSVYydEJRVGhCVFJEU0FoaUxCeWdLTWdtSmNaVGxxcWRNTEFJ",
+      "date": "08/17/2026, 10:36 PM, +0000 UTC",
+      "iso_date": "2026-08-17T22:36:00Z"
+    },
+    {
+      "position": 81,
+      "title": "Verizon to Cut Over 13,000 Jobs in Major Restructuring",
+      "source": {
+        "name": "mlq.ai",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mlq.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://mlq.ai/news/verizon-to-cut-over-13000-jobs-in-major-restructuring/",
+      "thumbnail": "https://mlq.ai/media/news_images/verizon-layoffs.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFkamhMVVRsMU1HWTBia3BuVFJDZUF4amtCU2dLTWdtWlFvNHNxYWFpU0FJ",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Verizon to cut 165 jobs in Washington state amid companywide layoffs",
+      "source": {
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nick Pasion"
+        ]
+      },
+      "link": "https://www.bizjournals.com/seattle/news/2025/11/25/verizon-cuts-165-employees-in-washington.html",
+      "thumbnail": "https://media.bizj.us/view/img/13097647/danschulmanverizonceo*900xx4450-2501-0-691.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNVa2RIU0c1V2NsTm5YemxoVFJDZkF4ampCU2dLTWdZOVk1SXlLUWM",
+      "date": "11/25/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-25T08:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "VZ Stock Slips As Verizon Reportedly Plans New Round Of Layoffs",
+      "source": {
+        "name": "Stocktwits",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://stocktwits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shashank Nayar"
+        ]
+      },
+      "link": "https://stocktwits.com/news-articles/markets/equity/verizon-plans-new-round-of-layoffs/cZZREorR7q8",
+      "thumbnail": "https://news.stocktwits-cdn.com/large_verizon_logo_resized_jpg_093fbc9233.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlZblZDVEhSQ2RVcFVjbGwzVFJEZ0F4aUFCU2dLTWdZQllJeWpQQVU",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Verizon is laying off over 13,000 workers",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emma Roth"
+        ]
+      },
+      "link": "https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK066_VERIZON_C-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdSVEpwYTFGVllXNVVRMlk1VFJERUF4aW1CU2dLTWdZZG9wSXJ1UVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Layoffs are piling up, raising worker anxiety. Here are some companies that have cut jobs recently",
+      "source": {
+        "name": "AP News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wyatte Grantham"
+        ]
+      },
+      "link": "https://apnews.com/article/layoffs-economy-inflation-verizon-1a9aac0c6482d5a9b35d6e630de688af",
+      "thumbnail": "https://dims.apnews.com/dims4/default/30557e7/2147483647/strip/false/crop/5365x3577+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2Fc1%2F710dc5468366804a62c9ed9b50ec%2F1fa2bee5b4864396b9c3667fff7559ed",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXlNbkZqV2pkVVZYcFlkRXh2VFJERUF4aW1CU2dLTWdzQkFJTE5rYUVsYnpsd2FR",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Verizon layoffs impact 165 workers in Washington state",
+      "source": {
+        "name": "GeekWire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geekwire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lisa Stiffler"
+        ]
+      },
+      "link": "https://www.geekwire.com/2025/verizon-layoffs-impact-168-workers-in-washington-state/",
+      "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2025/11/Verizon_01A-1260x841.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlja2htY1dNeGRGY3hVVmRKVFJERUF4aW1CU2dLTWdZQllZaU1KUWs",
+      "date": "11/24/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-24T08:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "CEO of Verizon's most important segment is officially leaving",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alan Friedman"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/major-verizon-executive-is-leaving-after-next-month_id177992",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/177992-wide-two_1200/CEO-of-Verizons-most-important-segment-is-officially-leaving.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhhbGsxYTFsaFdrWTVZMFEyVFJDZkF4ampCU2dLTWdZVmxKUnFNUWM",
+      "date": "02/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-05T08:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "Verizon laying off 54 workers in Washington",
+      "source": {
+        "name": "MyNorthwest.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://mynorthwest.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Julia Dallas"
+        ]
+      },
+      "link": "https://mynorthwest.com/local/verizon-layoff-washington/4258032",
+      "thumbnail": "https://mynorthwest.com/wp-content/uploads/2026/07/verizon.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWbmhLTldweGEwOHdVM05YVFJDZkF4ampCU2dLTWdZSndJem53QVU",
+      "date": "07/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-17T07:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Verizon laying off more than 13,000 employees as it begins restructuring",
+      "source": {
+        "name": "The Independent",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.independent.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.independent.co.uk/news/world/americas/verizon-layoffs-dan-schulman-b2869402.html",
+      "thumbnail": "https://static.independent.co.uk/2025/11/20/14/Verizon-Layoffs_76343.jpg?width=1200&height=630&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxNMU5sWjNkVU1VWjNZak5DVFJDUkF4ajhCU2dLTWdB",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Verizon to cut 15,000 jobs just weeks before holidays",
+      "source": {
+        "name": "cybernews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cybernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stefanie Schappert"
+        ]
+      },
+      "link": "https://cybernews.com/news/verizon-will-cut-15k-jobs-year-end-tech-layoffs/",
+      "thumbnail": "https://media.cybernews.com/images/featured-big/2025/04/verizon-leak.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdkRlJqZEY5SFYwSlpRMUJrVFJDYkF4anJCU2dLTWdhdE5ZcnVJUWc",
+      "date": "11/25/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-25T08:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Verizon is cutting more than 13,000 jobs as it works to ‘reorient’ entire company",
+      "source": {
+        "name": "Boston Herald",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wyatte Grantham"
+        ]
+      },
+      "link": "https://www.bostonherald.com/2025/11/20/verizon-announces-layoffs-reorient-company/",
+      "thumbnail": "https://www.bostonherald.com/wp-content/uploads/2025/11/Verizon-Layoffs_76343.jpg?w=1600&resize=1600,900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5PRmMwVkZaV1dtdFVUQzAwVFJDZkF4ampCU2dLTWdZTmdaUUlOUWM",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Verizon is throwing away what made it special, and customers are suffering",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anam Hamid"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-layoffs-impacting-customer-service_id176152",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/176152-wide-two_1200/Verizon-is-throwing-away-what-made-it-special-and-customers-are-suffering.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFURjlmTFhZelYyazBiVEJIVFJDZkF4ampCU2dLTWdZbGM1Uk5MUWM",
+      "date": "11/27/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-27T08:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Verizon laying off more than 13,000 workers",
+      "source": {
+        "name": "The Hill",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashleigh Fields"
+        ]
+      },
+      "link": "https://thehill.com/homenews/5615298-verizon-layoffs-13000-workers/",
+      "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP23244799505774-e1704394149397.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRhVlZ0YW10amNUZFNjRE50VFJERUF4aW1CU2dLTWdtTllveW51ZVZVQ3dJ",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "T-Mobile appears to be mirroring Verizon's recent changes",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anam Hamid"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/t-mobile-layoffs-business-unit_id176512",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/176512-wide-two_1200/T-Mobile-appears-to-be-mirroring-Verizons-recent-changes.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNRVzFQZFVjNE5pMWpNekZTVFJDZkF4ampCU2dLTWdZcFpaYXVwUWM",
+      "date": "12/10/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-10T08:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Verizon Confirms Mass Layoffs, Will Eliminate 13,000+ Jobs",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jibin Joseph"
+        ]
+      },
+      "link": "https://www.pcmag.com/news/verizon-confirms-mass-layoffs-will-eliminate-13000-plus-jobs",
+      "thumbnail": "https://i.pcmag.com/imagery/articles/05xSTM4ToQNnCptrAFWD3a1-1..v1786028382.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWljM2R6UmxjelltSnJSa0ZSVFJDZkF4amlCU2dLTWdhTndwQk1RUVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Verizon CEO reveals mistakes that led to over 13,000 layoffs",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patricia Battle",
+          "Celine Provini"
+        ]
+      },
+      "link": "https://www.thestreet.com/retail/verizon-ceo-reveals-mistakes-that-led-to-over-13000-layoffs",
+      "thumbnail": "https://www.thestreet.com/.image/w_3840,q_auto:good,c_fill,ar_4:3/NDA6MDAwMDAwMDAyNzg1NDQx/shutterstock_1110500906-1.jpg?arena_f_auto",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hWGxxVW1kNk1YVlhXV3d0VFJEZ0F4aUFCU2dLTWdZQmRKYkhzUWM",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "After slashing 15,000 jobs, Verizon might be starting to hire workers again: some already apply",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sebastian Pier"
+        ]
+      },
+      "link": "https://www.phonearena.com/news/verizon-might-be-starting-to-hire-workers-again_id176293",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/176293-wide-two_1200/After-slashing-15000-jobs-Verizon-might-be-starting-to-hire-workers-again-some-already-apply.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9PV0Z6ZDIxeGREZDJOblZTVFJDZkF4ampCU2dLTWdhUmtKQklNUWM",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-03T08:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "Verizon to cut 165 jobs across Washington in restructuring effort",
+      "source": {
+        "name": "KOMO",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://komonews.com/news/local/verizon-to-lay-off-165-employees-washington-state-locations-jobs-layoffs-cuts-consolidating-restructuring-facilities-resources",
+      "thumbnail": "https://komonews.com/resources/media2/16x9/1024/1174/0x54/80/c4345efd-0b4e-4fbe-beb8-f7e4b55756de-GettyImages2168456658.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBXR281VkRkS2ExUnRVekZPVFJDZkF4ampCU2dLTWdNTmNCbw",
+      "date": "11/24/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-24T08:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "Verizon makes a tough decision that might just save it",
+      "source": {
+        "name": "PhoneArena",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phonearena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.phonearena.com/news/verizon-layoff-store-franchise_id175931",
+      "thumbnail": "https://m-cdn.phonearena.com/images/article/175931-wide-two_1200/Verizon-makes-a-tough-decision-that-might-just-save-it.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFMVEppYmpGaGFDMVJkMHN6VFJDZkF4ampCU2dLTWdZbGM1Uk5MUWM",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "Verizon shuts down longtime customer support option after layoffs",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Patricia Battle",
+          "Celine Provini"
+        ]
+      },
+      "link": "https://www.thestreet.com/retail/verizon-community-forum-shuts-down-after-layoffs",
+      "thumbnail": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTIyNzcz/verizon-to-sell-274-stores-as-restructuring-affects-around-3000-corporate-and-retail-employees.jpg?profile=w2560&ar=4-3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxlbkl3YTB0MlZsZzJaRFl5VFJEZ0F4aUFCU2dLTWdZQmtKSjRLQWc",
+      "date": "07/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-23T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

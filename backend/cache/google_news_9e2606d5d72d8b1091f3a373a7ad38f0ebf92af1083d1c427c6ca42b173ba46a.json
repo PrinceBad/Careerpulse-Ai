@@ -1,0 +1,261 @@
+{
+  "search_metadata": {
+    "id": "6ac4f9313ee5df188c777cc4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-Ac9zDIoK9NzGEVQiPKwAFwDjUKdGqaBL7-qw_TkiKg/6ac4f9313ee5df188c777cc4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-Ac9zDIoK9NzGEVQiPKwAFwDjUKdGqaBL7-qw_TkiKg/6ac4f9313ee5df188c777cc4.md",
+    "created_at": "2026-10-06 13:35:45 UTC",
+    "processed_at": "2026-10-06 13:35:45 UTC",
+    "google_news_url": "https://news.google.com/search?q=Verizon+layoffs+confirmed+severance+details&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/-Ac9zDIoK9NzGEVQiPKwAFwDjUKdGqaBL7-qw_TkiKg/6ac4f9313ee5df188c777cc4.html",
+    "total_time_taken": 1.15
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Verizon layoffs confirmed severance details"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Verizon cutting more than 13,000 jobs as it restructures",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Shepardson"
+        ]
+      },
+      "link": "https://www.reuters.com/business/world-at-work/verizon-cutting-more-than-13000-jobs-it-restructures-2025-11-20/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/AWYDZCVCBNPW3NTOZPU4BIHEIU.jpg?auth=bd46760e4f4f2c2dc7b46de3b9d353baabbcf75d607d6c5b4feb5700d87c711b&width=480&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVFZxTFV4d2FsaFVlSGxsVFJDOUFoamdBeWdLTWdhRkE0S3JWUU0",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Companies laying off staff this year include Meta, Amazon, and Visa — see the list",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026",
+      "thumbnail": "https://i.insider.com/6a5a3181548c9c486b30d390?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJVbG8yY0hwQmRpMWlUM3BNVFJERUF4aW1CU2dLTWdZQndZaTJ3QVE",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Oracle Layoffs: 30,000 Jobs Wiped Off In 6 AM Email: Check Highest Tech Layoffs, Amazon, TCS, Intel In List",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pooja Jaiswar"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/oracle-layoffs-30-000-jobs-wiped-off-in-6-am-email-top-tech-layoffs-2026-amazon-tcs-intel-microsoft-1499755.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/04/oraclelayoffs-1775031122.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9kMWxDYjA5eFF6aEVWWFJGVFJDZkF4ampCU2dLTWdZTkE0aHVuUWc",
+      "date": "04/01/2026, 08:29 AM, +0000 UTC",
+      "iso_date": "2026-04-01T08:29:43Z"
+    },
+    {
+      "position": 4,
+      "title": "Verizon Layoffs 2026: News, Restructuring & Severance Pay in Canada",
+      "source": {
+        "name": "Samfiru Tumarkin LLP",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stlawyers.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://stlawyers.ca/blog-news/verizon-layoffs-severance-pay/",
+      "thumbnail": "https://stlawyers.ca/wp-content/uploads/2025/11/verizon-layoffs-severance-pay.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTWFU0Vm00MlZGQjJRVFYyVFJDUUF4aUFCaWdLTWdZdFFKQk9wUWM",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Verizon Confirms Mass Layoffs, Will Eliminate 13,000+ Jobs",
+      "source": {
+        "name": "PCMag",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jibin Joseph"
+        ]
+      },
+      "link": "https://www.pcmag.com/news/verizon-confirms-mass-layoffs-will-eliminate-13000-plus-jobs",
+      "thumbnail": "https://i.pcmag.com/imagery/articles/05xSTM4ToQNnCptrAFWD3a1-1..v1786028382.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWljM2R6UmxjelltSnJSa0ZSVFJDZkF4amlCU2dLTWdhTndwQk1RUVk",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "CONFIRMED Layoffs Jan 2026: Verizon + The 60-Day WARN List",
+      "source": {
+        "name": "iHeart",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.iheart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.iheart.com/podcast/269-the-grind-hotline-300302833/episode/confirmed-layoffs-jan-2026-verizon-319134878/",
+      "thumbnail": "https://i.iheart.com/v3/url/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfZXBpc29kZS80NDU4NzA5Ny80NDU4NzA5Ny0xNzY4OTMwNjY1NzEwLTQ2MjZhMjU1MTk0YjQuanBn?ops=contain(1200,630)",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdPRXh0YlZkS2IzTmtVbW8xVFJDakFSaTJBaWdCTWdrWkk0NUpzaVpOS3dJ",
+      "date": "01/25/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-25T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "The Layoffs List of 2025: Verizon, Meta, Amazon, and More",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2025",
+      "thumbnail": "https://i.insider.com/691f2be5abd5e944effb1efd?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBhamRXUTFOb1JFNTZZbmhSVFJEQUF4aXNCU2dLTWdZTkU0Um54Z0k",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-16T08:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Verizon confirms it will lay off more than 13K employees",
+      "source": {
+        "name": "Light Reading",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lightreading.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Baumgartner"
+        ]
+      },
+      "link": "https://www.lightreading.com/finance/verizon-confirms-it-will-lay-off-more-than-13k-employees",
+      "thumbnail": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltc63b734141dc7b60/687f885180d93e514c22b53c/Verizon_store_front_with_logo_above.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhbGQ1VEdZeGRrcHdlQzAyVFJDUkF4ajhCU2dLTWdhQkVJaU1FUXM",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Oracle Job Cuts: 30,000 Roles Eliminated, Top Tech Layoffs",
+      "source": {
+        "name": "RS Web Solutions",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.rswebsols.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Souvik Banerjee"
+        ]
+      },
+      "link": "https://www.rswebsols.com/news/oracle-job-cuts-30000-positions-eliminated-in-6-am-email-see-top-tech-layoffs-including-amazon-tcs-and-intel/",
+      "thumbnail": "https://cdn.rswebsols.com/wp-content/uploads/2025/12/31206cb9-2323-4282-bbb1-64b8df8bc4d1-256x144.jpg?strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVaTEzZEVoaloySjNSVFJwVFJDUUFSaUFBaWdLTWdhQklvWUlLUWc",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "‘Bouncers, counsellors used to intimidate us’, allege laid off Verizon employees",
+      "source": {
+        "name": "The News Minute",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanka Thirumurthy"
+        ]
+      },
+      "link": "https://www.thenewsminute.com/news/bouncers-counsellors-used-intimidate-us-allege-laid-verizon-employees-73148",
+      "thumbnail": "https://cf-images.assettype.com/thenewsminute/import/sites/default/files/IT-PTI_(1).jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDBNSEJ5WDBWalRWaHhjVkZGVFJERUF4aW1CU2dLTWdzQk1JcXBzS1VsTlZsUHFn",
+      "date": "12/14/2017, 08:00 AM, +0000 UTC",
+      "iso_date": "2017-12-14T08:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "2025 telecom and tech layoff tracker",
+      "source": {
+        "name": "Fierce Network",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fierce-network.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fierce-network.com/broadband/fierce-networks-2025-telecom-and-tech-layoff-tracker",
+      "thumbnail": "https://qtxasset.com/cdn-cgi/image/w=850,h=478,f=auto,fit=crop,g=0.5x0.5/https://qtxasset.com/quartz/qcloud4/media/image/MicrosoftTeams-image%20%2865%29_0.png?VersionId=KjZMiW530vmQdnJbaDRVJpslb6jjg1EY",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVabGhUVTFWT2VYTlVWWE10VFJDb0FSaXNBaWdCTWdZUkJJb015Z1U",
+      "date": "03/27/2025, 03:53 PM, +0000 UTC",
+      "iso_date": "2025-03-27T15:53:42Z"
+    },
+    {
+      "position": 12,
+      "title": "Verizon warns customer service employees of impending layoffs",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Welch"
+        ]
+      },
+      "link": "https://www.theverge.com/2023/5/24/23736422/verizon-customer-service-layoffs",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954585/acastro_STK066_verizon_0003.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWMmxuWlhSV2NHTnRPV0pHVFJERUF4aW1CU2dLTWdhZG81U3J1UVk",
+      "date": "05/24/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-05-24T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "7,800 people lost their media jobs in a 2019 landslide",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Benjamin Goggin"
+        ]
+      },
+      "link": "https://www.businessinsider.com/2019-media-layoffs-job-cuts-at-buzzfeed-huffpost-vice-details-2019-2",
+      "thumbnail": "https://i.insider.com/5c54ef13b3573324e669837d?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBaRmx5V2xod1JXTkdMVlp4VFJEZUFoaThCU2dLTWdZQklKVE5FUXM",
+      "date": "02/02/2019, 01:23 AM, +0000 UTC",
+      "iso_date": "2019-02-02T01:23:15Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

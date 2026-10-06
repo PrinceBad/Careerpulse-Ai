@@ -1,0 +1,300 @@
+{
+  "search_metadata": {
+    "id": "6ac4f93f1e760bcace3885a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pAjbcVXJNd2BL3_5RBH1BKd-NN1ksemdfooORFO3QCs/6ac4f93f1e760bcace3885a5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/pAjbcVXJNd2BL3_5RBH1BKd-NN1ksemdfooORFO3QCs/6ac4f93f1e760bcace3885a5.md",
+    "created_at": "2026-10-06 13:35:59 UTC",
+    "processed_at": "2026-10-06 13:35:59 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Pivotchain+Solution+Technologies+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/pAjbcVXJNd2BL3_5RBH1BKd-NN1ksemdfooORFO3QCs/6ac4f93f1e760bcace3885a5.html",
+    "prettify_html_file": "https://serpapi.com/searches/pAjbcVXJNd2BL3_5RBH1BKd-NN1ksemdfooORFO3QCs/6ac4f93f1e760bcace3885a5.prettify",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Pivotchain Solution Technologies headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "Pivotchain Solution Technologies headquarters Bengaluru, India"
+  },
+  "place_results": {
+    "title": "Pivotchain Solution Technologies Pvt Ltd",
+    "place_id": "ChIJQdth2TnBwjsRAnVYMp3Z7-Y",
+    "data_id": "0x3bc2c139d961db41:0xe6efd99d32587502",
+    "data_cid": "16640758417335022850",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c139d961db41%3A0xe6efd99d32587502&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c139d961db41%3A0xe6efd99d32587502&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 18.5397402,
+      "longitude": 73.8287862
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQdth2TnBwjsRAnVYMp3Z7-Y",
+    "provider_id": "/g/11g6mhq5l1",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNQ-YeZUnZkh214K_9Ip7aTAZ3_wihU9687eDVOhomhyr6beVXHAdnhRwtmAic6xv7uZD86NMM3gu71SBNXBvml2HlEqZ2ivu1UxRq8Iysq_1G_H9zxM69R4jd-IlaODVHPTOiJ3Q=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/7QP713icHcTbboIwAADQL6pQMAWW7AHHIrgAkwlxfSFYG4r2ArRc3B_6CfubJTsP5_fJjOn1i2Vx5m5apVpOJ01HoqSh0myIElY7NloDoq3wbe65yI7gm-JS4jtz4PajDpLea04hduulY2WAfI9GVc6UYI8RXWh1jsOrZMViRNgRtM7ehCMfZWnqtpMHv3bZeTcL7sT8fcBON0-wXIvBTx56qOG-joOfNUVBsb1dQcKbPKriz1PeHdzj6wJt2wbsfwLkHxHCRR8",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 4
+      },
+      {
+        "stars": 2,
+        "amount": 1
+      },
+      {
+        "stars": 3,
+        "amount": 1
+      },
+      {
+        "stars": 4,
+        "amount": 2
+      },
+      {
+        "stars": 5,
+        "amount": 16
+      }
+    ],
+    "rating": 4,
+    "reviews": 24,
+    "type": [
+      "Corporate office"
+    ],
+    "type_ids": [
+      "corporate_office"
+    ],
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "address": "106A, Temple, Corporate Plaza, Office No. 504, Senapati Bapat Rd, near Chaturshringi, Shivajinagar, Pune, Maharashtra 411016, India",
+    "country": "India",
+    "located_in": "Corporate Plaza",
+    "website": "https://www.pivotchain.com/",
+    "phone": "+91 84828 19181",
+    "plus_code": "GRQH+VG Pune, Maharashtra, India",
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfZreQczB_F7AGSG884BrQ9WUaxjgGCkObKEdwmc0e9RP-3WjNrGw_ubcSEwUYD7zvllvZP1_y1qQj0dRrEjClTqgTtUZemXxd3Fl5shRPz3sxnrMfVP55vRf2M_TvE7uJLaJ-Tg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/QdvCcHicHcRJDoIwAADAF1WKSBATD6hI4goFRLkQLaWIBbQti_zQJ_gbE-cw308u5VPMFIXl2ojWNWWkEYTjupKkkiNclwp9CoAFEIp1iO5vE2UxJx4eFsnasBzfmU4nC-6ZUXjtC-osH8fb1k67EkNiIhdoUXHgTpc0N-zbXXhZGUPLWBu7avJWX14BU8TtYsmCFw1kGJPy3KfamukiR-6gib7i--zk6nqLsvE-CVrbaDa76wYEdN6pEEKQ_8eg-gE1D0ZI"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9So6xaNzT6jXGiQFtKzh1j36vTrSUgSiZ245q_ADL5ojYLT2XfKdjghw19j-D3p7u3NOqT8axcEpr5yGQiCiD4XozeVGQbbhwemP52rMkLGfPrCbg3YzFCiGfKzvXbaOWQxVuHw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/0ljk1XicHcTbboIwAADQL6pcKjiX7MGAdgkMJTDFvSxQSy8qxbYI9gf3DfsbE8_D-f9jxvT63XEuDM6olPRCBk0Ulp0hnZlheXVorwHWQDur7MAfy0KGU53ZMhQV4vnGJJZ5Aob3UhXftOA__jy4_a7iNJDimJZ-1SYnQdnoLQWIYb8YYLa9lW_1hNe9Ch4o5xGP55W0ZI_ypmEjue4CX32dU9TuVNRQeLSbiKM2sfeqqbeHfNoPn-PH6LmuC9hrDLonifFFhw"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OhQcFhG8dvF60k-XmOPnIA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.6912155&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Iqp9xnicHc09DoIwGADQ23SjfxECJo1xwTihmxsppdLG_sV-Fr2Ot_I2Gsc3vc_bAKS8JSTDXWsoVq_JPrXLVZJ4iXFxWiabsYqeFEbAPPwUpHW7JEO0sxjMWfXm0M6lb-ituvjhFI57pKZROasDCC9THnPBIBVYp_GSMloF5xtkBO9a9JI_4aZjnNU1ShaUERT9n2ssglH6Bc7vObk"
+      }
+    ],
+    "user_reviews": {
+      "most_relevant": [
+        {
+          "username": "Viki Satpute",
+          "rating": 5,
+          "contributor_id": "103446258732107290038",
+          "user_review_count": 2,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW5EqHb2rQqUL-rH3ce_yfP3c2aOyW-hnsodGv4WqMnYVMrzuY=s120-c-rp-mo-br100",
+          "description": "Good and Friendly environment Best place💯",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQVFl0N2Y3XzdxQzJBRRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEPTYt7f7_7qC2AE%7C%7C?hl=en-US",
+          "date": "a year ago",
+          "date_iso8601": "2025-06-09T05:57:17+00:00"
+        },
+        {
+          "username": "ankit singh",
+          "rating": 5,
+          "contributor_id": "108178961192851144060",
+          "user_review_count": 10,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXD7TjUVWbWe6sD7d0cVSERfvlWaRJHqWC65FapC742tcUOpgLY=s120-c-rp-mo-br100",
+          "description": "Phenomenal",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBM09uRmdBRRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEICAgIDA3OnFgAE%7C%7C?hl=en-US",
+          "date": "9 years ago",
+          "date_iso8601": "2017-06-09T16:58:09+00:00"
+        },
+        {
+          "username": "Harsh Agrahari",
+          "rating": 5,
+          "contributor_id": "118019729679081261301",
+          "user_review_count": 4,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLXghnvtur_gFuK9JTlE54kQ_9fQjmayOcRMvF85V1DNuihBQ=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VNTFEzNnFIMUtLRXhBRRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEMLQ36qH1KKExAE%7C%7C?hl=en-US",
+          "date": "a year ago",
+          "date_iso8601": "2025-06-06T04:34:55+00:00"
+        },
+        {
+          "username": "Harsh",
+          "rating": 5,
+          "contributor_id": "112664652332444984727",
+          "user_review_count": 0,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCa31PXoNzI9SX7c7VwkABRAdecOqlc3nR6UDPyHPTRO9Tjw=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VMRGNuTVM4dXAySW93RRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKELDcnMS8up2IowE%7C%7C?hl=en-US",
+          "date": "a year ago",
+          "date_iso8601": "2025-06-04T04:39:00+00:00"
+        },
+        {
+          "username": "Yash Gupta",
+          "rating": 5,
+          "contributor_id": "111483224252485540287",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWQPWZl28pYpJ1aegV9Nc1oE3jp125ipijWqA061Sqx9vnRlLMJ=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VQdkh3dW5TNHJxQjVRRRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEPvHwunS4rqB5QE%7C%7C?hl=en-US",
+          "date": "a year ago",
+          "date_iso8601": "2025-06-04T04:28:36+00:00"
+        },
+        {
+          "username": "Manoj Chougule",
+          "rating": 5,
+          "contributor_id": "110213113872909122506",
+          "user_review_count": 1,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVYXaW0kOD3QlnPTMmfu718MOHtV6NtgcUhhlosgrakXBv3J8acqw=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURmN2RpeERnEAE!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEICAgIDf7dixDg%7C%7C?hl=en-US",
+          "date": "a year ago",
+          "date_iso8601": "2025-01-09T09:20:39+00:00"
+        },
+        {
+          "username": "Mukesh Gore",
+          "rating": 1,
+          "contributor_id": "109791985673464404654",
+          "user_review_count": 5,
+          "user_photo_count": 6,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ3DeNwcyHcFzseSZ81DVHYf0rc3fhTCaByEjo5TSEbNycyp9TH=s120-c-rp-mo-ba12-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREb3VETnl3RRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEICAgIDDouDNywE%7C%7C?hl=en-US",
+          "date": "2 years ago",
+          "date_iso8601": "2024-04-07T07:53:40+00:00"
+        },
+        {
+          "username": "Ajay Shelke",
+          "rating": 1,
+          "contributor_id": "105227264113816409253",
+          "user_review_count": 0,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIZt-yJJ-Dyxf26iwEa0nrO-rL1J8uJiPBcenaqfD6UcI4teA=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUREd3BfZTJRRRAB!2m1!1s0x0:0xe6efd99d32587502!3m1!1s2@1:CIHM0ogKEICAgIDDwp_e2QE%7C%7C?hl=en-US",
+          "date": "2 years ago",
+          "date_iso8601": "2024-04-07T07:45:21+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "VITTECH PVT. LTD.",
+            "data_id": "0x0:0xce1f0afb0a01bc29",
+            "data_cid": "14852602169412140073",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xce1f0afb0a01bc29&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xce1f0afb0a01bc29&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 18.575215,
+              "longitude": 73.90971549999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xce1f0afb0a01bc29%218m2%213d18.575215%214d73.90971549999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 10,
+            "thumbnail": "https://www.google.com/maps/vt/data=gcUyDSV2YcSQzxwyrscWfwzfO8-Vy0s8RxTtUrhsJ9z5oOrAC_aTxdezIzaNRPbj6eRBasFyWdcA_8IL-erv0fbMrq_4VBPZ0cmlnrWhCvd8bCWZPnAIYI7kM3Ifq9NHiY5G1CiQKMm8CIb3ePHanL8chTqJ0HeF",
+            "type": [
+              "Software company"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Pivot Parking Systems LLP",
+            "data_id": "0x0:0xc6c07703fe5e2970",
+            "data_cid": "14321577674074368368",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc6c07703fe5e2970&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc6c07703fe5e2970&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 18.5138004,
+              "longitude": 73.81626659999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xc6c07703fe5e2970%218m2%213d18.5138004%214d73.81626659999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 0,
+            "reviews": 0,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOKD30zIVRK-gzwuBT_T_ipg0ZFA1AeBFXn8u_NWisHgOPVksH__fdOSURSEM-K3HPRsr2p8RNx5iGekWSl1yc5_fLYjt1T-P3wsD3j5KaXNEM5XaXcQtumXXaDXMVGAT21thXI=w156-h156-n-k-no",
+            "type": [
+              "Manufacturer"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Pi Tech Solutions",
+            "data_id": "0x0:0x40c5b0a0e267e5cb",
+            "data_cid": "4667330793879102923",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x40c5b0a0e267e5cb&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x40c5b0a0e267e5cb&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 18.5084154,
+              "longitude": 73.78913639999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x40c5b0a0e267e5cb%218m2%213d18.5084154%214d73.78913639999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.8,
+            "reviews": 12,
+            "thumbnail": "https://www.google.com/maps/vt/data=PiignykpK4Uhi2J2xZifLVB6Kn1G5CAgOpwdgGuEhi-kp4Cdf8DBtWooLixfUqB17VfipiNeBVuk60PqwSRMaJEeP8_El11vPzQWXDWrEQGsX7yLhtgT92S_9oYb7FkeMhNoPMFaRf1JrxkQKIn_ml1x-zoOkFRc",
+            "type": [
+              "Software company"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "CloudMotiv",
+            "data_id": "0x0:0xaf4e11be1d3b686e",
+            "data_cid": "12632053513052711022",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xaf4e11be1d3b686e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xaf4e11be1d3b686e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 18.5619695,
+              "longitude": 73.92051
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xaf4e11be1d3b686e%218m2%213d18.5619695%214d73.92051&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3,
+            "reviews": 2,
+            "thumbnail": "https://www.google.com/maps/vt/data=Eyng1et6s0p_YOc2PJyOCCzAZChzqLF93qq12DnKmp4yCsoG9SU4GqYJYUFVstrPcGG8YPsYFBe_-MsX7WU1zBZifdwrfzx-nbr3AWYKzs0-BpVnGutLnB9psfOFf00nc8GJ2392sFrg5w5OGt1FP9QHIGm-hVLP",
+            "type": [
+              "Software company"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "VITA Solutions",
+            "data_id": "0x0:0x376dab124b0a9a9d",
+            "data_cid": "3994036539604245149",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x376dab124b0a9a9d&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x376dab124b0a9a9d&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 18.563058599999998,
+              "longitude": 73.9143954
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x376dab124b0a9a9d%218m2%213d18.563058599999998%214d73.9143954&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 5,
+            "reviews": 29,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM4_OuTqguB3gR2C3qgV2Lvw_CFMMmzx1U7YbpGv7Y_klk6x-_RuBOxeN4kxCfFXWe3P25Pht2wecIR4wZRIu1XNVTgiOGflDW_zZoKBG0A11sigZdZenT3WLz30g8JbgA4PN9hSWbfHFo=w156-h156-n-k-no",
+            "type": [
+              "Software company"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OkcKRSJBUGl2b3RjaGFpbiBTb2x1dGlvbiBUZWNobm9sb2dpZXMgUHZ0IEx0ZCBQdW5lLCBNYWhhcmFzaHRyYSwgSW5kaWEoAg&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COkcKRSJBUGl2b3RjaGFpbiBTb2x1dGlvbiBUZWNobm9sb2dpZXMgUHZ0IEx0ZCBQdW5lLCBNYWhhcmFzaHRyYSwgSW5kaWEoAg&q=local+guide+program"
+  }
+}

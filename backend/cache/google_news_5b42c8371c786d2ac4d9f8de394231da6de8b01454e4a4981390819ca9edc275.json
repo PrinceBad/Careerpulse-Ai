@@ -1,0 +1,113 @@
+{
+  "search_metadata": {
+    "id": "6ac4f93fd58a7a77b6d6bd00",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z0d4bPbrw1_N8MZUDrJuddNye5QGWGgTomIe8O4ECG0/6ac4f93fd58a7a77b6d6bd00.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z0d4bPbrw1_N8MZUDrJuddNye5QGWGgTomIe8O4ECG0/6ac4f93fd58a7a77b6d6bd00.md",
+    "created_at": "2026-10-06 13:35:59 UTC",
+    "processed_at": "2026-10-06 13:35:59 UTC",
+    "google_news_url": "https://news.google.com/search?q=Pivotchain+Solution+Technologies+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/Z0d4bPbrw1_N8MZUDrJuddNye5QGWGgTomIe8O4ECG0/6ac4f93fd58a7a77b6d6bd00.html",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Pivotchain Solution Technologies news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Will scale up e-commerce biz when revenue is assured: Infibeam MD Vishal Mehta",
+      "source": {
+        "name": "Techcircle",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techcircle.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dearton Thomas Hector"
+        ]
+      },
+      "link": "https://www.techcircle.in/2018/06/18/will-scale-up-e-commerce-biz-when-revenue-is-assured-infibeam-ceo-vishal-mehta/",
+      "thumbnail": "https://assets.techcircle.in/uploads/article-image/2018/06/images/15858-infibeam-vishal-mehta.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJSRkZVUm1saWVVRkVOMk0zVFJDMkF4aTlCU2dLTWdZbFJwanNvUWc",
+      "date": "06/18/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-06-18T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "MobiKwik backs Data Science startup Pivotchain Solutions",
+      "source": {
+        "name": "TechStory",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techstory.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Apoorv Anupam"
+        ]
+      },
+      "link": "https://techstory.in/mobikwik-backs-pivotchain-solutions-2018/",
+      "thumbnail": "https://techstory.in/wp-content/uploads/2018/02/mobikwik.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZTVWRTTW5GcFpFOXlObWxsVFJDUkF4ajhCU2dLTWdPRm9SUQ",
+      "date": "06/18/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-06-18T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Tynor Orthotics raises ₹143 crore from Lighthouse Funds, Thuasne Participations",
+      "source": {
+        "name": "TechStory",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techstory.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://techstory.in/tynor-orthotics-raises-funding-2018/",
+      "thumbnail": "https://techstory.in/wp-content/uploads/2018/06/Tynor-Orthotics.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxVR0p5Wld0c1luRTNPR2RoVFJEaEFSamhBU2dLTWdhQndZeWx4Z1U",
+      "date": "06/18/2018, 07:00 AM, +0000 UTC",
+      "iso_date": "2018-06-18T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

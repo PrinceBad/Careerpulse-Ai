@@ -1,0 +1,97 @@
+{
+  "search_metadata": {
+    "id": "6ac4f8ef3047f3bb56f4559c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jAkzPl-uFus3k9WLNiC3Fsbvqcub0KRZMCN-GoMwAiQ/6ac4f8ef3047f3bb56f4559c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jAkzPl-uFus3k9WLNiC3Fsbvqcub0KRZMCN-GoMwAiQ/6ac4f8ef3047f3bb56f4559c.md",
+    "created_at": "2026-10-06 13:34:39 UTC",
+    "processed_at": "2026-10-06 13:34:39 UTC",
+    "google_news_url": "https://news.google.com/search?q=Datawind+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/jAkzPl-uFus3k9WLNiC3Fsbvqcub0KRZMCN-GoMwAiQ/6ac4f8ef3047f3bb56f4559c.html",
+    "total_time_taken": 5.91
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Datawind news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Sikh24.com",
+      "source": {
+        "name": "Sikh24.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sikh24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Greg Williams"
+        ]
+      },
+      "link": "https://www.sikh24.com/2013/08/23/suneet-singh-tuli-plans-to-eradicate-poverty-in-india-with-20-touchscreen/",
+      "thumbnail": "http://www.sikh24.com/wp-content/uploads/2013-08-08-tuli1-650x432.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVTR3h6WWxWbGRWRmtTRE5oVFJDd0F4aUtCU2dLTWdZSk9KaUdIZ2s",
+      "date": "08/23/2013, 07:00 AM, +0000 UTC",
+      "iso_date": "2013-08-23T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Datawind aims to make $20 tablet computer",
+      "source": {
+        "name": "CBC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cbc.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbc.ca/news/science/datawind-aims-to-make-20-tablet-computer-1.2570074",
+      "thumbnail": "https://i.cbc.ca/ais/1.1922440,1394652860000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlYMU5SVFdka1ZrZFdYMmQ2VFJDZkF4ampCU2dLTWdZVkE0aE92UVE",
+      "date": "03/12/2014, 07:00 AM, +0000 UTC",
+      "iso_date": "2014-03-12T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

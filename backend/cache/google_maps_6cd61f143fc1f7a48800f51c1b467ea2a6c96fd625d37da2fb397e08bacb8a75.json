@@ -1,0 +1,135 @@
+{
+  "search_metadata": {
+    "id": "6ac4f8efd58a7a5fa7391c0a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3Z14lB8gbn_AUk1b72eEzB4f5RLndn9fG5WT6fHw1fw/6ac4f8efd58a7a5fa7391c0a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3Z14lB8gbn_AUk1b72eEzB4f5RLndn9fG5WT6fHw1fw/6ac4f8efd58a7a5fa7391c0a.md",
+    "created_at": "2026-10-06 13:34:39 UTC",
+    "processed_at": "2026-10-06 13:34:39 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Datawind+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/3Z14lB8gbn_AUk1b72eEzB4f5RLndn9fG5WT6fHw1fw/6ac4f8efd58a7a5fa7391c0a.html",
+    "prettify_html_file": "https://serpapi.com/searches/3Z14lB8gbn_AUk1b72eEzB4f5RLndn9fG5WT6fHw1fw/6ac4f8efd58a7a5fa7391c0a.prettify",
+    "total_time_taken": 0.37
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Datawind headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Datawind headquarters Bengaluru, India"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "DATA DIRECT NETWORK INDIA PVT LTD",
+      "place_id": "ChIJUV47SI0RrjsRgoMCm6JxMWw",
+      "data_id": "0x3bae118d483b5e51:0x6c3171a29b028382",
+      "data_cid": "7796137373154313090",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae118d483b5e51%3A0x6c3171a29b028382&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae118d483b5e51%3A0x6c3171a29b028382&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9833153,
+        "longitude": 77.7215179
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUV47SI0RrjsRgoMCm6JxMWw",
+      "provider_id": "/g/11cnb7qlnf",
+      "rating": 4.5,
+      "reviews": 52,
+      "unclaimed_listing": true,
+      "type": "Software company",
+      "types": [
+        "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
+      ],
+      "address": "Windmills Of Your Mind Office Building, WINDMILLS OF YOUR MIND, 331, 5B Rd, Shivaji Nagar, Basavanna Nagar, Whitefield, Bengaluru, Karnataka 560066, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Wed",
+      "hours": "Closed · Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM"
+      },
+      "phone": "+91 80 3256 8723",
+      "website": "http://www.tegile.com/",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hi7To7MrFXdhMgkozhLMZA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=266.1127&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/43uHEXicHc09DsIgFADg27DJT4dWTYhxcbKbg3ExSJH3Iu0jgEW9jOfyNhov8H2fN5QS81qIXJJzZUZXIz5cyItouCfywZmImVsaxaxEgft4mQyGTTQT4aABuwN1fdodB-j9jV6w709bZi9nG9BNRWdnkgXu609MNHAfM6t6KRnoVcOepuqmbblSTcciFgtasn9ypVkrKb9cBzmf"
+    },
+    {
+      "position": 2,
+      "title": "Datavert Communications Pvt Ltd",
+      "place_id": "ChIJfYr-zWMUrjsRCXXEPY8xJCI",
+      "data_id": "0x3bae1463cdfe8a7d:0x2224318f3dc47509",
+      "data_cid": "2460145787737502985",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1463cdfe8a7d%3A0x2224318f3dc47509&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1463cdfe8a7d%3A0x2224318f3dc47509&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.927425,
+        "longitude": 77.6372394
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfYr-zWMUrjsRCXXEPY8xJCI",
+      "provider_id": "/g/11c4bc84pf",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Audio visual equipment supplier",
+      "types": [
+        "Audio visual equipment supplier",
+        "Business networking company"
+      ],
+      "type_id": "audio_visual_equipment_supplier",
+      "type_ids": [
+        "audio_visual_equipment_supplier",
+        "business_networking_company"
+      ],
+      "address": "No-72, 2nd Main Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+      "country": "India",
+      "open_state": "Closed · Opens 10 AM Wed",
+      "hours": "Closed · Opens 10 AM Wed",
+      "operating_hours": {
+        "tuesday": "10 AM–5 PM",
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–5 PM",
+        "saturday": "10 AM–2 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM"
+      },
+      "phone": "+91 98867 30794",
+      "website": "http://www.datavert.net/",
+      "extensions": [
+        {
+          "service_options": [
+            "Online estimates",
+            "Delivery",
+            "In-store pickup",
+            "Onsite services",
+            "Same-day delivery"
+          ]
+        },
+        {
+          "offerings": [
+            "Installation service"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHiGSSdqMEmRNj9GTK0nJgM76bwKxCfgq1SwGe6G90VPzRuiO_IZ0Wksgxabx7IvAr6zOybmwVUPGJp6G3MCxL0F-s3wFYSJy5Mm51P-2S7vUPx0f5Gm_TP1Jnn5CoCDvEZ_ng=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L_e1SXicHcRdDoIgAADgE5GYU1dbD80Ss0wmVssXl6bYD2ChQl2wM3Sbtr6H7_tpuq6VU8O4N9aICkHvVS-rZyl4V_FuVApm0FaCUgJpzIMEp4dbcEGEnB_RkiXb6wSla8hDGrlOodbaq-nDJApVDprAPX4n_SXOVxk83CTVp0K7q2H-dN7xq2Bqv8MobB1kRZ7eQB9IS_lHEr7siNkmBmPiDjusYW0jlqfYDDm3PeEthmWWczpTJoQQNP9LwH8zc0PC"
+    }
+  ]
+}
