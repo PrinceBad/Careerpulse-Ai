@@ -1,9 +1,15 @@
 import os
 from pathlib import Path
+from dotenv import load_dotenv
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
+_BASE_DIR = Path(__file__).resolve().parent.parent
+_ENV_FILE = _BASE_DIR / ".env"
+if _ENV_FILE.exists():
+    load_dotenv(dotenv_path=_ENV_FILE)
+
 class Settings(BaseSettings):
-    model_config = SettingsConfigDict(env_file=".env", extra="allow")
+    model_config = SettingsConfigDict(env_file=str(_ENV_FILE), extra="allow")
 
     APP_NAME: str = "CareerPulse AI"
     APP_VERSION: str = "0.1.0"
