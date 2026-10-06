@@ -54,13 +54,15 @@ class LLMService:
 
         # 4. Strict Code-Level Grounding Validation & Sanitization
         is_valid_letter, clean_letter, letter_violations, _ = grounding_validator.validate_and_clean_text(
-            pack.cover_letter, citations
+            pack.cover_letter, citations, candidate_profile_text=candidate_profile
         )
         clean_bullets = []
         all_violations = list(letter_violations)
 
         for bullet in pack.tailored_resume_bullets:
-            is_valid_b, clean_b, b_violations, _ = grounding_validator.validate_and_clean_text(bullet, citations)
+            is_valid_b, clean_b, b_violations, _ = grounding_validator.validate_and_clean_text(
+                bullet, citations, candidate_profile_text=candidate_profile
+            )
             if clean_b:
                 clean_bullets.append(clean_b)
             all_violations.extend(b_violations)

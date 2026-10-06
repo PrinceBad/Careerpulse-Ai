@@ -1,49 +1,561 @@
 {
+  "search_metadata": {
+    "id": "6ac4f670f5d5acd1901d8fb7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/he_3HSJYdcx6OFz2Y31HJRVCQbHWirj4HY3Zl5ZSmAU/6ac4f670f5d5acd1901d8fb7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/he_3HSJYdcx6OFz2Y31HJRVCQbHWirj4HY3Zl5ZSmAU/6ac4f670f5d5acd1901d8fb7.md",
+    "created_at": "2026-10-06 13:24:00 UTC",
+    "processed_at": "2026-10-06 13:24:00 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Senior+Python+Backend+Engineer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/he_3HSJYdcx6OFz2Y31HJRVCQbHWirj4HY3Zl5ZSmAU/6ac4f670f5d5acd1901d8fb7.html",
+    "total_time_taken": 4.39
+  },
+  "search_parameters": {
+    "q": "Senior Python Backend Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWW5k7yS9ONnvXCMdnNbPCmYtvVin7z4qIjLlxKnK_LVA2szgmUeuEuMSoKM8f1JLX9NPSTybrnMEYa0QD6llPY8f1A2aK6xGYuiT83_ZmoLqgUy1rhkUTWCzi8tpm5IVRIBBaObP9KAkq-HMyqIKgHutd5X_6",
+        "q": "Senior Python Backend Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWW5k7yS9ONnvXCMdnNbPCmYtvVin7z4qIjLlxKnK_LVA2szgmUeuEuMSoKM8f1JLX9NPSTybrnMEYa0QD6llPY8f1A2aK6xGYuiT83_ZmoLqgUy1rhkUTWCzi8tpm5IVRIBBaObP9KAkq-HMyqIKgHutd5X_6&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r_qrbTxIuRPMiRG81FwjWW5k7yS9ONnvXCMdnNbPCmYtvVin7z4qIjLlxKnK_LVA2szgmUeuEuMSoKM8f1JLX9NPSTybrnMEYa0QD6llPY8f1A2aK6xGYuiT83_ZmoLqgUy1rhkUTWCzi8tpm5IVRIBBaObP9KAkq-HMyqIKgHutd5X_6"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY",
+            "q": "Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL",
+            "q": "Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK",
+            "q": "Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn",
+            "q": "Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY",
+            "q": "Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-n-vj4MZONR90ISaK9mCIYHr2Sx689kjmRfJ6ycgLCgz6VMs0gnfRxHSE7L5UMue8Mhqk8XKcsNdDhoxB54tegs2bESzlePBqzCiiBL7Qj_HbLC7hRk_pSWI2yCC-MULIjHMqjYv5llWERVl6uIjluw_218jOsUF65KTc4TotEOYvA6pkvnuGpi3SCZBXMGNIdTjeuQxvRpEkRNyvvxk4tNw0LOMmj4Ip5RS6Podcopj_R0-vDAdiut4-2BDoFgg80GwxS2M8XI1wCT3_INcF8Kta7Dh28XNLiI1OxtqAwC6inezKispweIAUsDEqz37gll9mZRAsoP9p-tI3AaE40gnPJ_vY"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL",
+            "q": "Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX5WL_sLv7LZrR6bT-56lSfvpbjuy_8ZSDo71fmPEZVl6mVrx0wZXBDnd0IlBx2WtyqBaKJfT48A-yCyIn42VqJ-KPaJa9DFsDC45-BMAysrJ0HxEJHOqsuB721skkFHI7n_E2l_SO6VSJ6mlR2Fgff0xhJswzY2iUXrqTn2XXBGvCcuBjT8DIRG2HggIom0yFGsFrUxDmnt-230Is_vzEvPnQo2nSHw7bstD8V0H07V-sCDzKlDVi5J3q70iXREgAmm14Z7UjWu2WU2mmWMSGvDtBJNx2n3r6uGxH-aEuwqqP-5nyanTPHjESQit9GSk_wsqR5Gv6o9e2aAlYF5a1U2lu109zajEcJn0rQJhF_-83DKL"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK",
+            "q": "Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUsGC5ojA1cTvb1XjKGN6ZFUh-iqXROpIS8pAbHC4JS_q247od3zcUU5fU1ZhI9ypcfdJiVVkQ8M5AK1SpwsRzg9HizQXtzqD1c8FwsjSDjbwwa7L5UrYO4QAyHHLLQAHZNGiM4pFQzN7fyfn4TA6yiiNTFKX7s0W_ZN_JWDMeFc5pi2Bz2QeCAJeCkYgleqlX-DyPHl2jPPB1VQbSGOxAqblRKzp_ZtwD7aK1raydgcD95GfI3WzkxU634MNyr9DPGntXv7QXs69SXNTfQoNiTzKZx9-Pau6jWoHxbSZUwHl75x-zmCHGegxvPg-fz3K0GSKOtFTogGDNljRYeAwdRJLJaYK"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn",
+            "q": "Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJZ1VSYvJwVbXW4z1PCjkqnGTh0gno2xGvhcrWwWyXxjLNgH9yr8Kq_AUnALsYjPEdWbz59wONwazNbOUFT-lyx8MpvKBLJxfeh0AU0Ifg3Rr9v1M9ycOYZSc2mu-XE6dbxXTPY5WnZBB4e2ldUBEYsImBuGKqsxwdeGNpL96E8w0XCY08Z9btNB6U7S3ZTVaJQZtzVNybbH3rqE_53biDGLdD7P5pf9E9qhuOXreyCzniFEHI9i9PWf4RKfC5_1fHqu4vAVMwsrkDq1OMjFEbyoYwQfG9l8MTAuG29CI9izCa5kDV0I5TXr0l5-nuYNtXIqH3VyUFC3CxwgOR6nc9l3FHVrU_r_Jk0WzXs-iXJP5pVn"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo",
+            "q": "Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA",
+            "q": "Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI",
+            "q": "Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro",
+            "q": "Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo",
+            "q": "Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mq_GT1Zy3P4YbW0-9W_Nu4A7xlxFo5dVX9GXhHIBK13pUofR8ZWkfLVUSW9aWl-mjlxnPp9ih3rcTFZrDudfhpwprEpRq41nbcYrE07POpwz2E5UWZa0lqpIYmWZAQ8xS_dfI4BjLIuLBeOZkxsg56yz5RTmUJb3GbzIZpSiSXGvlqBp-OZWmru22gVmVrAvm5tw4dDGRBftgxYCUr2DCTuksdU3eMEwBFoieXEI7dDm0SKlU3zTnlTr196hlpvJqKq-dYGeKmN_spU9jVSbArt4LtQmo"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA",
+            "q": "Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rtIKYUVSN3N0Dg85oAGvIJAJoMhkA1tUK7kwPfnq-Mm8K7ThT-f-YubDDNL8Sz_mqdRM8Q7FLqgv0q5Rb8ockNzvxFcXHclGXjpUhLkS-SbwvfIBwrUt5oQ5iIoaBVrVCqFfyEOSdkEREQiBUcJK_WaFe7BJR-QYwHL6nf1v0ZP_9RIk_XvsGObyDPawbl0mKMJVj8oxW9UsqfJKliblsgNCkmxlpkB0lnG9ka3wjW0Nx4XbEzItpaqTEWPU-6ns2Wl--_MdxXvgqRHuYI94_1OP66TWJTIe5yl4ntfUHcUGV4RTJ8GbReMlR8e0N5kRbHNGTcJj1TAdkltJGTKIDbZj9nEA"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI",
+            "q": "Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHJRddhxZsf_pP1STtuxzexu2ut9zJGF_JqiFTNhpoC_tNgBgz0qCtX1etL0HzmLpTZoOj6DRsc3a7z9YMehWfdU9Qbvnc4SpeJCz_tlx7_V2siINpl04GauIjrHLOu0P8hkwhkam4pK-YSd6MKG_GTHu-2R4CUpMYZ9I8nzt_puNbDtv9K_p84PG9aaE1bwnmoELgzmtS7-z0fPyeKJtmy8PpKhnEblpHL87QGuOgSIFBYUSp0dcPsng5fqji3Sd0PEhXSrQ6NeM0buUC4U85woZ47TvUq6LEfdHYUDpTtmF4DZ28-mirEBCUm20ZOSevXQaMMwqg9IlZFsdvDqS2lj9ESI"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro",
+            "q": "Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQntXUJUK2WxVQXE1PMXVDPNdToWH2g:1791293043740&q=Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro&udm=8&sa=X&ved=2ahUKEwir8r3MvqWXAxXL5MkDHTI2Mn4QkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rm6LLrakRJRUKPOEmYg3PHuBhyKXkq0X8tbN-DI2eYkEXTt6HYAlj8NQXXS0jK--ZMtLQhQQSOLlSMw84FoZ-1WM_PejO89j0hiLLOFbxGe2CUdPKgkMVViPg0j0QyNmCNDJNJpij6GXcCmuPg--_sCRkIdKHt2U-bcx5TgHUw3b_AwSVCgyo-RzPAf95zM-Y0b-fVnAet2sBH7GBXnKPCTHsaM9XSe7bFMZ1Z4x6no4lzca38-UzmKltNqZfgnkcKXXbr1rfAgrrPrv_wZN8lxRx-WrLOZIs2h6JhwRhG62Y-kP8NBNNLK1_dDFxyy__8i9jiEFdoIaT4n5IC-mJSrXyCro"
+        }
+      ]
+    }
+  ],
   "jobs_results": [
     {
-      "job_id": "job_01",
-      "title": "Senior Senior Python Backend Engineer",
-      "company_name": "Razorpay",
-      "location": "Bengaluru, Karnataka, India",
-      "via": "via LinkedIn",
-      "description": "We are seeking an experienced Backend Engineer to scale our core payment infrastructure. Experience with Python, FastAPI, distributed systems, PostgreSQL, and high-throughput systems required. Competitive compensation and equity.",
-      "detected_extensions": {
-        "posted_at": "2 days ago",
-        "schedule_type": "Full-time",
-        "salary": "₹28,00,000 - ₹42,00,000 a year"
-      },
-      "thumbnail": "https://img.icons8.com/color/96/razorpay.png",
-      "share_link": "https://careers.razorpay.com/jobs/01"
+      "title": "Senior Backend Engineer (Python / Go) (Bengaluru)",
+      "company_name": "Datawind",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=AECgks2fnh_b5c3lAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2OMQrCQBBFsc0RrKZMRLIi2GgXlIA2ggcIYxx216wzYXeDsfMOHsNbeRLXxuY3_33ez96TbH8ituKhwrYjvsCOtWUiD_nxEY0wKKilgLwi1ugGPxTweb7gKmcIhL41kJhaRDuabkyMfVgrFYIrdYgYbVu2clPCdJZRpVH4RRMMeuodRmqWq8VY9qxnsMWId5suWIa_bQ4H9JyaDr-BRtzkrgAAAA&shmds=v1_ARwrE21K9aoLdlUiJWfxGdgCMOSmoqb_9WiqKbekQT4Bpo7vQQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=AECgks2fnh_b5c3lAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4f670f5d5acd1901d8fb7/images/FRJb1T31nKHYMFP5WIQtmv1WtlTBKxAyl-3Sz8Sc438.jpeg",
+      "extensions": [
+        "1 day ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-backend-engineer-python-go-bengaluru/datawind/19711040",
+      "job_title": "Senior Backend Engineer (Python / Go) (Bengaluru)",
+      "description": "- Design, develop, and test scalable and effective backend systems using Python or Go.\n\n- Collaborate with cross-functional teams to identify and prioritize project requirements.\n\n- Develop high-quality code that meets industry standards and best practices.\n\n- Troubleshoot and resolve technical issues efficiently.\n\n- Participate in code reviews and contribute to improving the overall codebase quality.\n\n- Stay updated with the latest trends and technologies in backend development.\n\nDisclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying. .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-backend-engineer-python-go-bengaluru/datawind/19711040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8945618080222937088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFja2VuZCBFbmdpbmVlciAoUHl0aG9uIC8gR28pIChCZW5nYWx1cnUpIiwiY29tcGFueV9uYW1lIjoiRGF0YXdpbmQiLCJodGlkb2NpZCI6IkFFQ2drczJmbmhfYjVjM2xBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dOcFpHRnNZa3RLWlRKV05WVmlOell0TFVSTFkzVllaM3BwZWpCRFduZG9TVXRYVEZkVFIzWkZRbmROTTJ0RFExRklRWFp6WjFSWmFWWjJPWGw2YW10dlJFYzBWWEIyV1ZBeFJtZFlVbkJFZDNsNVJ6TmphREZaYzIwdFQyMHpSVTl5V2xkNVgwNTZUM05UTmxkZlFXcHBMVkJuVlRWWk1TMHpZVVZXV0dsbFdtTjRTa0lTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlNaSHBvZFcxV1ZuWmpURkphY0RORE1WcENjVGxzYTJ4TGRsTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJBRUNna3MyZm5oX2I1YzNsQUFBQUFBPT0ifQ=="
     },
     {
-      "job_id": "job_02",
-      "title": "Staff AI Platform Engineer",
-      "company_name": "Swiggy",
-      "location": "Remote / Bengaluru, India",
-      "via": "via Swiggy Careers",
-      "description": "Lead the engineering efforts behind our agentic dispatch and recommendation engine. Must have deep Python expertise, FastAPI, Redis, LLM orchestration, and async architectures.",
-      "detected_extensions": {
-        "posted_at": "1 day ago",
-        "schedule_type": "Full-time",
-        "salary": "₹35,00,000 - ₹50,00,000 a year"
-      },
-      "thumbnail": "https://img.icons8.com/color/96/swiggy.png",
-      "share_link": "https://careers.swiggy.com/jobs/02"
+      "title": "Senior Back-End Developer - Python Developer",
+      "company_name": "Vontier",
+      "location": "Bengaluru, Karnataka",
+      "via": "Vontier Jobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=CQub_MU4s4r3hVWWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02MMQrCQBBFsc0RbJxaTFYEG-2CwcJGEGzDJA67a9aZZXcjsfMOnsGLeRJjZ_OL93g_e0-y6kRsJUCJbZdXfIEd3cmJpwA5HB_JCP-hz_MFV2kgEobWwOj2ItrRdGtS8nGjVIyu0DFhsm3Ryk0JUyODGqP4mzoaDOQdJqpX6-VQeNbz2Vk42fHeMpTEGl0f-gUcMDAm7PAL8Zzj7qgAAAA&shmds=v1_ARwrE20TyBQpHkFgN-Zq67pzunVeC6T1qa5rFBprx8eGQaBCyA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=CQub_MU4s4r3hVWWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAASFBMVEX___8Ao5sAn5ao2NVlwLsAm5Kk1tPY7ux8y8dpxL_D5-VWvbc_tK7j9fT7___t-fma0c214N6X1dIlrabS7uyK0c1LuLJyx8NtGGBnAAAA4ElEQVRIie3V2w6DIBAE0AEE71rU6v__aU1q6VKx2X1tmUeyJyE6YYGcnD9IfzPv-Ou5xj1HXPk6mawOsdUlbI8x68KRtypE11ew0MeEIbfQRLYCiJLKTgDRKyLngQ8xUqlGPsSgyHVT8gpimKns-RDo6CdaBBAtkbYRQNRUegFERUpkJwHci0vkXQDhqNwEMK58IYBY6F9ZBTCWobgMmK48ByYrz4KpyvNgXHld8iGwflSeDfdnjVTBCyC2SFZ8GFVez4oPo8orCYQ5Sx5EQ_bDaQV8zeJMnPfSycn55TwABk8H3dBlHUEAAAAASUVORK5CYII.png",
+      "extensions": [
+        "18 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://careers.vontier.com/us/en/job/DRI007048/Senior-Back-End-Developer-Python-Developer",
+      "job_title": "Senior Back-End Developer - Python Developer",
+      "description": "About the Role\n\nAt Driivz, AI-augmented development is how we work — not an experiment, not a bonus skill. Our BackEnd team builds and ships complex features using agentic AI tools as a core part of the development loop: from research and architecture through implementation, testing, and code review.\n\nYou'll join a team building a white-label EV charging platform used by 40+ global brands. The app handles real-time charging sessions, multi-gateway payments, geolocation, and operator-branded experiences — all in a multi-module Kotlin codebase undergoing active MVI and Compose migrations.\n\nAs a Senior Back End Developer (Python), you'll own the full delivery lifecycle: designing and shipping complex new features, driving legacy-to-modern migrations and contributing to platform and build system health — all with AI as your co-pilot.\n\nINTRODUCTION and WHAT YOU WILL DO (Job Responsibilities)Driivz, a Vontier company, powers the e-mobility revolution with a market-leading, end-to-end EV Charging and Energy Management platform for global charge point operators and electric mobility service providers. \n\nWe offer a scalable, integrated SaaS solution that enables our clients to efficiently manage their networks and provide EV drivers with exceptional charging experience. \n\nOperating in over 35 countries in the US, Europe and Asia, we enable hundreds of millions of events for millions of EV drivers and manage more than 160,000 public chargers (100,000s in roaming). \n\nOur customers include global industry leaders such as EVgo, Volvo Group, Shell, Circle K, Mer, Recharge, Kople, ESB, CEZ, MOL Group, ST1, and eMobility Power. \n\nJoin our team to work alongside the most brilliant and disruptive minds that are focused on leading the eMobility industry and building a greener world.\n\nFor more information, please visit http://www.driivz.com\n\nWHO YOU ARE (Qualifications)Design and build agentic services and AI-augmented platform capabilities - context and harness engineering, plus tool and MCP integrations that connect LLMs to core systems.Own reliability end to end: build the evals, guardrails, and observability that make those systems measurable and production-grade, not just demos.Enhance core capabilities in LOB areas such as Billing and CRM - including through AI-augmented workflows and services.What should you have?\n\nExperienced Backend Developer.Proven Python experience (Min 5+ Years).Proven AI Engineering experience (Context/Harness engineering, Tools, MCP, etc).Experience making agentic/LLM systems reliable in production - evaluation suites, guardrails, and observability.Proven experience with Microservices Architecture.Proven experience in SaaS multitenant high throughput systems.Proven experience with a Relational Databases (MySQL/Postgres, etc.)Experience with Docker.Team player with extensive experience working in teams.Advantages:\n\nAgent orchestration frameworks (LangChain/LangGraph, etc.) - and comfort building directly on LLM primitives when lighter-weight suits the problem better.Python AI/web frameworks: FastAPI, FastMCP, Pydantic.Retrieval and vector search (pgvector or similar).Familiarity with LLM observability and evaluation tooling (OpenTelemetry, Langfuse, or equivalent). Kubernetes or similar container orchestration, beyond Docker.Public cloud, AWS preferred.Event-driven architecture (Kafka, CDC/streaming).Big-data / analytics warehouses (Snowflake, Redshift).Java/Kotlin (Spring Boot) - you'll integrate closely with our JVM platform.#LI-MK1\n\nDriivz, a Vontier company, powers the e-mobility revolution with a market-leading, end-to-end EV Charging and Energy Management platform for global charge point operators and electric mobility service providers. \n\nWe offer a scalable, integrated SaaS solution that enables our clients to efficiently manage their networks and provide EV drivers with exceptional charging experience. \n\nOperating in over 35 countries in the US, Europe and Asia, we enable hundreds of millions of events for millions of EV drivers and manage more than 160,000 public chargers (100,000s in roaming). \n\nOur customers include global industry leaders such as EVgo, Volvo Group, Shell, Circle K, Mer, Recharge, Kople, ESB, CEZ, MOL Group, ST1, and eMobility Power. \n\nWHO IS VONTIER\nVontier (NYSE: VNT) is a global technology company powering the way the world moves. We empower businesses in the transport sector to adapt to a fast-changing landscape by uniting productivity, automation and multi-energy technologies.\n\nOur smart, connected solutions serve roadside convenience retail stores, fleet operators, and auto repair technicians. From integrated payments and EV charging software to carwash technology and retail automation, we help customers stay productive and prepared for a rapidly evolving industry.\n\nWith decades of expertise and a balanced portfolio, Vontier enables businesses to navigate complexity, unlock growth, and build a cleaner, safer future. Driven by continuous improvement and the dedication of Team Vontier, we empower businesses to think bigger, act boldly, and thrive on the road ahead. Learn more at www.vontier.com\n\nAt Vontier, we empower you to steer your career in the direction of success with a dynamic, innovative, and inclusive environment.\n\nOur commitment to personal growth, work-life balance, and collaboration fuels a culture where your contributions drive meaningful change. We provide the roadmap for continuous learning, allowing creativity to flourish and ideas to accelerate into impactful solutions that contribute to a sustainable future.\n\nJoin our community of passionate people working together to navigate challenges and seize new opportunities. At Vontier, you are not on this journey alone, we are committed to equipping you with the tools and support you need to fuel your innovation, lead with impact, and thrive both personally and professionally.\n\nTogether, let’s power the way the world moves!",
+      "apply_options": [
+        {
+          "title": "Vontier Jobs",
+          "link": "https://careers.vontier.com/us/en/job/DRI007048/Senior-Back-End-Developer-Python-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Talent Zone Consultant",
+          "link": "https://www.talentzoneconsultant.com/job-openings-for-senior-software-developer-bangalore-1372691.htm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-python-developer-risk-analytics-1661079?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Glassdoor",
+          "link": "https://www.glassdoor.co.in/job-listing/senior-back-end-developer-python-developer-vontier-JV_KO0,42_KE43,50.htm?jl=1010186627334&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-back-end-developer-python-developer/vontier/19395966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/vwfkQmf90QHt-b1KzuJRZVjZUJLB0cKGMv9b4wmF0t-JKwtC7uQJow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-441800-senior-python-developer-l6-at-target-in-india-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/rjdp/-75804676324194508?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFjay1FbmQgRGV2ZWxvcGVyIC0gUHl0aG9uIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlZvbnRpZXIiLCJodGlkb2NpZCI6IkNRdWJfTVU0czRyM2hWV1dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZKbllVaFFUVGh1ZDFvM1ltRXdabTFxTFZKSVNXdE1iekJ2UjE5RFNXTjRiRVpQU0VSSGJIQnZTREJyYjB4RVdqZFJaemRETkdGVlRHZzVSSGRKU1MxNVpGcFVXV3RrWkhoQ1ptMUNSVzFQUkZZd1pUQm5TRkpYU1Rkb1QzVTRaV1pyUW5kM1FVZFBVRzlCYjI0Mk16WlpTMmc1VjJkb2VYVnBNa3B2TWxaNVRXSkhRakFTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlJTWFpZY1ZOaFFubzFXbWQyVFRsRFUyVkJYMVpZWmpsWlNXZDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJDUXViX01VNHM0cjNoVldXQUFBQUFBPT0ifQ=="
     },
     {
-      "job_id": "job_03",
-      "title": "Backend Architect - Real-Time Systems",
-      "company_name": "CRED",
-      "location": "Bengaluru, Karnataka, India",
-      "via": "via Instahyre",
-      "description": "Architect mission-critical financial ledger pipelines. Expertise in Python, Go, Event-Driven Architecture, Kafka, and ultra low-latency APIs required.",
-      "detected_extensions": {
-        "posted_at": "3 days ago",
-        "schedule_type": "Full-time",
-        "salary": "₹40,00,000 - ₹60,00,000 a year"
-      },
-      "thumbnail": "https://img.icons8.com/color/96/bank-building.png",
-      "share_link": "https://careers.cred.club/jobs/03"
+      "title": "Senior Backend Engineer (Consultant) Python / AWS",
+      "company_name": "Brihati Global Edge Solutions",
+      "location": "Bengaluru, Karnataka",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=krLayya41muTQNrZAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsfUJVluqSE6ENFoZEUEbIYVl2MTl7sy5G-42oJ1_8EO-xZcYmykGBmb8GY2PJbGXCAU2LfEV9mw9E0WY7oRTHxRZZ3B-qhMGA9tLCd_XG25SQyKMjYPBH0RsoMnGqXZpbUxKIbNJUX2TNXI3wlTLwwxR-qNKDiN1AZWqVb58ZB3beV5E74YCDkFqDLC_WoJSQq9-GAHPUBBbDH3sF3DCyKjY4g_EnfR0wwAAAA&shmds=v1_ARwrE20I9uVlEm5OCCM9DxM2460xNqx2IoePgKZAQEI45V7Q3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=krLayya41muTQNrZAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/senior-backend-engineer-consultant-python-aws-brihati-global-edge-solutions-bengaluru-bangalore-69342693",
+      "job_title": "Senior Backend Engineer (Consultant) Python / AWS",
+      "description": "Senior Backend Engineer (Consultant) – Python / AWS\n\n\n\nLocation: Bangalore – Hybrid (Bangalore candidates preferred)\n\nExperience: 6-10 Years\n\nContract Duration: 3 Months\n\nJoining: Immediate Joiners\n\nBilling: Minimum 8 Hours/Day\n\nHourly Rate: 500-600/Hour\n\n\n\nWe are looking for an experienced Senior Backend Engineer with strong hands-on expertise in Python and AWS to build and support scalable, production-grade backend systems.\n\n\n\nKey Requirements\n\n6+ years of professional Python backend development experienceStrong hands-on AWS experience with SQS, Lambda/ECS/Fargate, S3, DynamoDB, IAM and CloudWatchExperience building background job/queue processing systems at scaleStrong experience with REST API integrations with enterprise/third-party systemsFamiliarity with enterprise authentication patterns such as OAuth2, SAML and SSOStrong understanding of scalable and production-grade backend systemsImmediate availability for a 3-month consulting engagement\n\nNice to Have: Working knowledge of React",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-backend-engineer-consultant-python-aws-brihati-global-edge-solutions-bengaluru-bangalore-69342693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-backend-engineer-consultant-python-aws/brihati-global-edge-solutions/19680548?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NiyukJobs | AI",
+          "link": "https://niyukjobs.ai/jobs/detail/013c3a97-444e-11f1-ba03-0eb338c86b55?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFja2VuZCBFbmdpbmVlciAoQ29uc3VsdGFudCkgUHl0aG9uIC8gQVdTIiwiY29tcGFueV9uYW1lIjoiQnJpaGF0aSBHbG9iYWwgRWRnZSBTb2x1dGlvbnMiLCJodGlkb2NpZCI6ImtyTGF5eWE0MW11VFFOclpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hkRmJFOXpUbE5zVjFGSk1IbExPWFYyZUc1UVlVRTFNM0p5UjFocFVVc3hTMVJJZEcxaGNVMW9TVjlHTmpVd1pFUlNaVE5WUzNwU1ZrNVZlazFGYmkwMWVFVnhZalZ1UjJGalNuWlNkWGxpVDA0MGJHd3daRlU0WVVOQ2NHNWFjVUY2V1ZKeFNuUmhXa2MzU0VOSVZWcFJUM0JMVmswMFVtd3lhSFJwV21GblUxTXdRUzBTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlJMVWRUYmt0UmFEWlVVM2hPTkRoUk5IWk1OM1owVDBOSVUwOTMiLCJmY3YiOiIzIiwiZmNfaWQiOiJrckxheXlhNDFtdVRRTnJaQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Backend Engineer (Consultant) – Python / AWS",
+      "company_name": "Brihati Global Edge Solutions",
+      "location": "Bengaluru, Karnataka",
+      "via": "BeBee",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=kVZXlyffECR5XbKlAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2OMQrCQBAAsfUJVluqSE4EG62MSApBhBSWsonL3em5G-42EDv_4Jd8iS8x2kwxMDDD92B4KIm9RMixvhFfYMfWM1GE8VY4tUGRdQKf5wuOD3XCYGBzKv_iKhUkwlg76H0hYgON1k61SStjUgqZTYrq66yWuxGmSjrTR-mHc3IYqQmodF4s513WsJ0u8-hdX0ARpMIAu4slKCW06vsZ8Aw5scXQxnYGe4yMijf8AtEdR7jHAAAA&shmds=v1_ARwrE22sOz4L_b7uYRAXsMDpoHouppdPqcN-tsABzy8t6fSE_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=kVZXlyffECR5XbKlAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4f670f5d5acd1901d8fb7/images/ZL9ak3PnTkbvjDgj47juoW6s8GA6XlNuB0bVqip8XBE.jpeg",
+      "extensions": [
+        "6 days ago",
+        "₹10.4L–₹12.5L a year",
+        "Full–time"
+      ],
+      "source_link": "https://bebee.com/in/jobs/senior-backend-engineer-consultant-python-aws-brihati-global-edge-solutions-bengaluru-karnataka--t7xk-860296065",
+      "job_title": "Senior Backend Engineer (Consultant) – Python / AWS",
+      "description": "Senior Backend Engineer (Consultant) – Python / AWS\n\n\nLocation:\nBangalore – Hybrid (Bangalore candidates preferred)\n\n\nExperience:\n6-10 Years\n\n\nContract Duration:\n3 Months\nJoining:\nImmediate Joiners\nBilling:\nMinimum 8 Hours/Day\nHourly Rate:\n\n6–8 Years: ₹500–₹600/hour\n8+ Years: Up to ₹8000/hour\n\nWe are looking for an experienced\nSenior Backend Engineer\nwith strong hands-on expertise in\nPython and AWS\nto build and support scalable, production-grade backend systems.\nKey Requirements\n\n6+ years of professional\nPython backend development\nexperience\nStrong hands-on AWS experience with\nSQS, Lambda/ECS/Fargate, S3, DynamoDB, IAM and CloudWatch\nExperience building\nbackground job/queue processing systems at scale\nStrong experience with\nREST API integrations\nwith enterprise/third-party systems\nFamiliarity with enterprise authentication patterns such as\nOAuth2, SAML and SSO\nStrong understanding of scalable and production-grade backend systems\nImmediate availability for a\n3-month consulting engagement\n\n﻿\nNice to Have:\nWorking knowledge of React",
+      "apply_options": [
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-backend-engineer-consultant-python-aws-brihati-global-edge-solutions-bengaluru-karnataka--t7xk-860296065?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/8893478276761124864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/341586704/senior-backend-engineer-consultant-python-aws-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFja2VuZCBFbmdpbmVlciAoQ29uc3VsdGFudCkg4oCTIFB5dGhvbiAvIEFXUyIsImNvbXBhbnlfbmFtZSI6IkJyaWhhdGkgR2xvYmFsIEVkZ2UgU29sdXRpb25zIiwiaHRpZG9jaWQiOiJrVlpYbHlmZkVDUjVYYktsQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVNUpRVVpCWmxkZlVsVTBVRkEyTm5OVVYxbHdWV2hvUjNCS1gyRXpWa3RrUVdONGIyUk5VSFZ1T0Vwc1R6RkNRMEZhVVdFNVMyOUpZV1JKY2tOR1puWjJWMWhsZUhRNWNGZFpaM2xyY0RKMVYwcDZhVFpIUkhKWFJFbEZkelE1VkMxQk5Hd3lTbUZtWW5OeFYwTlpWbFYxVUV0a1dtcGZjMDlOUlZKbllsUkZhR3hrVVVVU0YyTmZZa1ZoZFhaelRFMTJTbkE0TkZCemRYcEpPRkZqR2lKQlJITnlPV1pTWVV0cmVHeHRMUzE1Y0ZwdlZVSnhPWEpITUVGMk9XUk5NRk4zIiwiZmN2IjoiMyIsImZjX2lkIjoia1ZaWGx5ZmZFQ1I1WGJLbEFBQUFBQT09In0="
+    },
+    {
+      "title": "SENIOR BACKEND ENGINEER  PYTHON & AWS",
+      "company_name": "Brihati Global Edge Solutions",
+      "location": "Bengaluru, Karnataka",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=vBTcX280qhOpgEeTAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMQrCMBQGYFw9gtM_OYi0IrgoCK2GKkIUK4iTvNaQVmNeSVJw9A5exRN5EnX5tq_77nTnuZDr7R5pstgIuYSQ2VoKsQd2p8NqK9FHcszxeb5w5QJekSsrsEXGrI3qzaoQGj-NY-9NpH2gUJdRyfeYrSr4Ef-S_3P2FTnVGArqPJ6MHlFj9WCSurr6DWSGCzIQF62Qs2lDzdajtkiV1WRa1w6xIWcp0I2-9cXexbcAAAA&shmds=v1_ARwrE203noiQZTJHlH48JM0Qxuk1v2ZtSXDpoK-kK929wfeSqw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=vBTcX280qhOpgEeTAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-backend-engineer-python-aws/brihati-global-edge-solutions/19680174",
+      "job_title": "SENIOR BACKEND ENGINEER  PYTHON & AWS",
+      "description": "SENIOR BACKEND ENGINEER  PYTHON & AWS\nExperience: 6+ Years\nContract Duration: 3 Months\nLocation: Bangalore\nWork Mode: Hybrid\nRole Type: Consultant / Contract\n\n\nRole Overview\nWe are looking for a Senior Backend Engineer with strong experience in Python and AWS to work on backend development and scalable cloud-based systems.\n\n\nRequired Skills & Experience\n 6+ years of professional experience in Python backend development\n\n\nStrong hands-on experience with AWS services, including:SQSLambda / ECS / FargateS3DynamoDBIAMCloudWatchExperience building and managing background job and queue-processing systems at scaleStrong experience with REST API integration with enterprise or third-party systemsFamiliarity with enterprise authentication and authorization patterns such as:OAuth2SAMLSSOWorking knowledge of React is an added advantage but not mandatory\nCandidate Profile\n Strong backend development expertise with Python\n\n\nGood understanding of cloud-based application architectureHands-on experience with AWS infrastructure and servicesExperience working on scalable and production-grade backend systemsStrong API integration and troubleshooting skills .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-backend-engineer-python-aws/brihati-global-edge-solutions/19680174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6331378689531445248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Trabajo.org",
+          "link": "https://in.trabajo.org/job-2927-a8260ebd090b8f831eb72b1998c653a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340733364/python-go-backend-engineer-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTRU5JT1IgQkFDS0VORCBFTkdJTkVFUiAgUFlUSE9OIFx1MDAyNiBBV1MiLCJjb21wYW55X25hbWUiOiJCcmloYXRpIEdsb2JhbCBFZGdlIFNvbHV0aW9ucyIsImh0aWRvY2lkIjoidkJUY1gyODBxaE9wZ0VlVEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMmswWVc1TmEzaFFWMHBYTW1wQ1IxOVNTalJhYlcxT09WaENaWGRJTUZsdFRYcFRURUpQWjBkYVR6UnRSa05OT1dJMVZEY3pUbXRUTFc1d2RFd3dOVEJMWjBSQ1NWZDRTRU5CTVVGMU1UUTBMVTFRY0hWeVMzWjZYMDFHVDNCcWFubERWamxVUWtKc01GaElSM3BEY1VJMVpsVmxPVFZ5TUUxeGVVbHpWWGRQTWpkYWRVMFNGMk5mWWtWaGRYWnpURTEyU25BNE5GQnpkWHBKT0ZGakdpSkJSSE55T1daVE9FZERRbkZPVFZOclRsbHlaMjF3U2pkUVdGcFhiVlZ4WkVaMyIsImZjdiI6IjMiLCJmY19pZCI6InZCVGNYMjgwcWhPcGdFZVRBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Backend Developer – Python / FastAPI ( 3-7 Years ) PAN India",
+      "company_name": "HypTechie",
+      "location": "Bengaluru, Karnataka",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=WDsLNfBrgX0ZJ82rAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2LOwrCQBQAsc0RrJ6dimZFEUErRfwgSApBrMJzfWRj1t1l3ypJ5x08jdfxJEabaWYmejei4wJlQeYCS3qQto48fJ4vSKqgrAEBK-QwT7bQhlF_AidCz9CBZL6Hrbnk-I-v9gxcG6mgftbWZpqaMxWC46kQzDrOOGDIZSztTVhDZ1uKeuIfUlboyWkMlA7HgzJ2Juu2NpU7kFQ5QW5gQSZDfff3HuzQGwxY4BfHORntvAAAAA&shmds=v1_ARwrE22KGnQGBHrH9HaVeSrKNo4hYmJ6d64IVkHnp8MJ8lZm_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=WDsLNfBrgX0ZJ82rAAAAAA%3D%3D",
+      "extensions": [
+        "8 days ago",
+        "₹12L–₹20L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/backend-developer-python-fastapi-3-7-years-pan-india--bengaluru--e32759d2dc9d2b2add94b0894b6aa1647",
+      "job_title": "Backend Developer – Python / FastAPI ( 3-7 Years ) PAN India",
+      "description": "Backend Developer – Python / FastAPI\nJob ID: 896849 / 1494755\nExperience: 3–7 Years\nEmployment Type: Full-Time\n\n\nJob Summary\nWe are looking for a Backend Developer with strong experience in Python and FastAPI to develop scalable, high-performance backend services and RESTful APIs. The role involves PostgreSQL, API security, performance optimization, testing, and production support.\n\n\nKey Responsibilities\n\nDevelop RESTful APIs and backend services using Python and FastAPI.\nBuild business logic and scalable backend applications.\nWork with PostgreSQL, including query optimization and database performance.\nImplement authentication, authorization, and data validation.\nWrite and maintain unit and integration tests.\nSupport Docker, CI/CD, and production deployments.\nTroubleshoot issues and improve application performance and reliability.\nCollaborate with Frontend, Product, and DevOps teams.\nMaintain proper logging, debugging, and monitoring.\n\nMandatory Skills\n\nPython 3.8+\nFastAPI\nREST API Development\nAsync Programming\nPydantic\nPostgreSQL & SQL\nQuery Optimization\nJWT / OAuth\nPytest / API Testing\nGit, Docker & CI/CD\n\nGood-to-Have Skills\n\nRedis / Caching\nKafka / RabbitMQ / Celery\nMicroservices\nAWS / Azure / GCP\nKubernetes\nGrafana / Prometheus / ELK\nProduction Monitoring & Observability\n\nExperience Required\n\n3–7 years of backend development experience.\n2+ years of hands‑on experience with Python and FastAPI or similar frameworks.\n2+ years of experience with PostgreSQL.\n\nEducation\nBachelor’s Degree in Computer Science, Engineering, Software Development, or a related field.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/backend-developer-python-fastapi-3-7-years-pan-india--bengaluru--e32759d2dc9d2b2add94b0894b6aa1647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJCYWNrZW5kIERldmVsb3BlciDigJMgUHl0aG9uIC8gRmFzdEFQSSAoIDMtNyBZZWFycyApIFBBTiBJbmRpYSIsImNvbXBhbnlfbmFtZSI6Ikh5cFRlY2hpZSIsImh0aWRvY2lkIjoiV0RzTE5mQnJnWDBaSjgyckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa3BJWm1SeVJIUlFjVGh6WjJKblEwWklXRE54UTJ4S1pFOVFXbk5pY3pCRmVuaGpVM1JZUVhCR1dIVmpaM1JQWWtOMFdrRmpTa3R4TTJoUk5HRlhTbWg1UlhWWVFsRXdRWFJoV2tad1pUWldjMjFOVFhaSWN6SmZiVkI2TkhBdE1IUkRTa0YwYm1SaFJuZE5lR2xCUVdsRk9FZEdjSGRUTkVFMGVHeG9jelZQY3pGUFNYZ1NGMk5mWWtWaGRYWnpURTEyU25BNE5GQnpkWHBKT0ZGakdpSkJSSE55T1daU2VWWkpObVJuTWxKQk9ETlFTVmxzVTNWRlZXeHFTVTFDVkhObiIsImZjdiI6IjMiLCJmY19pZCI6IldEc0xOZkJyZ1gwWko4MnJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Backend Engineer (Go, Rust, Python, TS) - Bengaluru",
+      "company_name": "CLANX",
+      "location": "Bengaluru, Karnataka",
+      "via": "Clanx",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=LB_w-hlGi5dgcKyXAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_0XNMQrCQBBAUWxzBEGYUiUmIthoZURSKCLGwi5M4rBZs86E3Q3Ezjt4Eq_kSdTK5nePH7x6QZYRa7GQYFkTX2DDSjORhWEqIRxb50M43H0lHMIpG8EEEmKFprUtvB9PuEoBjtCWFQhDKqIM9ZeV941bxLFzJlLOo9dlVMotFqZCuviL3C-5q9BSY9BTPptPu6hhNR6sd6v9GTT_TyFs0TJ6rPEDAH4v5bQAAAA&shmds=v1_ARwrE23gtYudmsd6EVXo2QbLf_X2EWY0oD9GG3LG6l3Uk91vJw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=LB_w-hlGi5dgcKyXAAAAAA%3D%3D",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://jobs.clanx.ai/o/senior-backend-engineer-go-rust-python-ts-bengaluru",
+      "job_title": "Senior Backend Engineer (Go, Rust, Python, TS) - Bengaluru",
+      "description": "Join Cardboard as a Senior Backend Engineer and own the systems powering browser-based video editing, including media processing, exports, proxies, analysis, and agent-powered editing.\n\n\n\nCompany Details\nCardboard is building the future of storytelling and video editing through an AI-powered browser-based video editor. The team is backed by a Tier-1 global fund, YC, and founders of billion-dollar companies. Website: https://www.usecardboard.com\n\n\n\nRequirements\n\n3+ years of experience as a backend engineer\n\nStrong experience owning and operating production backend systems.\n\nStrong understanding of state management, queues, workers, storage, databases, and service contracts.\n\nExperience designing scalable APIs and backend services.\n\nAbility to design reliable systems for long-running and asynchronous workflows.\n\nStrong problem-solving and end-to-end ownership.\n\nExperience with one or more of TypeScript, Go, Rust, or Python.\n\nAbility to translate product requirements into practical backend architecture.\n\nStrong understanding of performance, reliability, and operational simplicity.\n\nInterest in media processing, video infrastructure, and creative tools.\n\nBonus: Deep FFmpeg or GStreamer experience.\n\nBonus: Knowledge of video codecs and formats such as ProRes, H.264/H.265, BRAW, R3D, and DNx.\n\n\n\nResponsibilities\n\nOwn backend systems for video exports, proxy generation, media preprocessing, analysis, and agent-powered editing.\n\nDesign and maintain APIs and state contracts across the browser, workers, storage, and database.\n\nBuild reliable workflows for uploads, processing jobs, exports, progress tracking, and recovery.\n\nImprove performance and reliability of long-running media workflows.\n\nDesign systems that remain simple and operable as projects, files, and usage scale.\n\nWork closely with founders and engineers to solve complex video infrastructure problems.\n\nTurn product goals such as faster exports and instant-feeling uploads into robust backend systems.\n\n\n\nJob Details\nBengaluru, India\n\n\n\nInterview Process\n\nRecruiter Screen\n\nBackend Technical Interview\n\nSystem Design Interview\n\nCoding Interview\n\nFounder Interview\n\n\n\nImportant Note\nClanX is a recruitment partner, helping Cardboard hire Senior Backend Engineer.",
+      "apply_options": [
+        {
+          "title": "Clanx",
+          "link": "https://jobs.clanx.ai/o/senior-backend-engineer-go-rust-python-ts-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-backend-mlops-engineer-pythonmicroservices-architecture-1660280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-428987-golang-engineer-t1-proxy-at-walmart-global-tech-india-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Cutshort",
+          "link": "https://cutshort.io/job/Senior-Golang-Engineer-Cybersecurity-Platform-Bengaluru-Bangalore-Securite-Technology-xRXrUdu2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/3639222587336330211?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/kD8FrxplVXGjMyq8w9D1Eu5KNrbq8dmEeNLy2OJmfIVknVPMFr30Rw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-backend-engineer-go-rust-python-ts-bengaluru-clanx-bengaluru-karnataka--t7xk-819227369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Saarthi",
+          "link": "https://joinsaarthi.com/jobs/clanx/senior-backend-engineer-go-rust-python-ts-bengaluru-bengaluru/08198571-f411-459b-a729-9c8d8d3f4698?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQmFja2VuZCBFbmdpbmVlciAoR28sIFJ1c3QsIFB5dGhvbiwgVFMpIC0gQmVuZ2FsdXJ1IiwiY29tcGFueV9uYW1lIjoiQ0xBTlgiLCJodGlkb2NpZCI6IkxCX3ctaGxHaTVkZ2NLeVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21Gb2VtVTVVWGgzUlVwMFNrZGFSVFpJZVRFME9GQTNVV2MwUnpWaU0ycDFWV2xYWm1aS05WaDNSazF3WjNCR1pUTXpZVVpDYTFsYVpuQlJOR296UldsUmRHVXdkbnBYUnpKb2RrZERNazlVUm5KR1gyRm9WMVZFYzFsWVYyTnZZWFpsYVhWeFJXVjBZMjVXZEV4eU5YbFdabEpST0d4SWNqbHpRMWN4WTBsd01YVTNhemdTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlJOMDFCU1hSdGFERnpaRkJyWkRGNWNWb3lNbU5MUjBWRGNWbDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJMQl93LWhsR2k1ZGdjS3lYQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Python Developer - Backend Architecture",
+      "company_name": "Andor Tech",
+      "location": "Bengaluru, Karnataka",
+      "via": "Hirist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=Nm4WK7ZqJ74Dtg3kAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrAZL0UQEG60ShBQ2gvZhshmSNetM2J1I7LyDt_BYnsS1ecWH93nJZ5aUF2IrHs5P7YThSA9yMpCHNRRoeuIGcm86q2R09ATf1xtuUkMgjDNEpRRpHc0PneoQ9lkWgkvboKjWpEbumTDVMmVRCn9UoUNPg0OlarvbTOnA7XKRcxMjrhQvLUNB3KIb_biCE3pGxR5_jK6chK0AAAA&shmds=v1_ARwrE21793vgHI0uw_wcxDbjjyjywZWkwegV34iT3Nt-rc3k2A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=Nm4WK7ZqJ74Dtg3kAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac4f670f5d5acd1901d8fb7/images/Ukv6J1ixrkqFykVwFQazOw26Ocsrw3YwWj-pYYK2bZY.jpeg",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://www.hirist.tech/j/senior-python-developer-backend-architecture-1670064",
+      "job_title": "Senior Python Developer - Backend Architecture",
+      "description": "Company Overview : \n\nAndor Tech (India) Pvt Ltd is a technology-driven organization specializing in high-performance software solutions and intelligent automation platforms. Operating at the intersection of data engineering and artificial intelligence, the company builds scalable enterprise systems that streamline complex workflows for global clients. With a focus on engineering excellence and technical innovation, Andor Tech maintains a collaborative culture that empowers senior architects and developers to solve critical business challenges through robust, cloud-native architectures.\n\nRole Overview : \n\nAs a Senior Python Developer, you will lead the design and implementation of sophisticated backend systems and AI-driven applications. You will work closely with cross-functional product teams and stakeholders to translate complex business requirements into high-performance, maintainable code. This role is pivotal in shaping the technical roadmap of our core platforms, ensuring that our infrastructure remains scalable, secure, and capable of delivering significant value to our end users. You will be expected to drive architectural decisions and mentor junior team members while maintaining a hands-on approach to complex problem-solving in a fast-paced Bangalore-based environment.\n\nKey Responsibilities : \n\n- Architect and develop high-throughput backend services using Python and FastAPI to support mission-critical business operations.\n\n- Integrate advanced Artificial Intelligence models into production environments to enhance platform capabilities and user decision-making.\n\n- Design and optimize complex database schemas and stored procedures within SQL Server to ensure data integrity and high-speed retrieval.\n\n- Deploy and manage scalable cloud infrastructure using Azure services to ensure high availability and performance for global users.\n\n- Collaborate with frontend engineers to integrate React.js interfaces with backend APIs, ensuring a seamless and responsive user experience.\n\n- Lead code reviews and technical design discussions to maintain high standards of software quality and architectural consistency across the engineering team.\n\nRequired Skillset : \n\n- Demonstrated expertise in building enterprise-grade applications using Python and FastAPI with 8 - 18 years of relevant software development experience.\n\n- Proven ability to design and implement AI-integrated solutions that solve real-world business problems.\n\n- Strong proficiency in managing and optimizing SQL Server databases for large-scale data environments.\n\n- Hands-on experience in architecting and deploying solutions within the Azure ecosystem, including service bus, functions, and cloud storage.\n\n- Solid understanding of modern frontend integration using React.js to create cohesive full-stack applications.\n\n- Excellent communication skills with the ability to articulate complex technical concepts to non-technical stakeholders and lead cross-functional initiatives.\n\n- Ability to work effectively in a hybrid office environment in Bangalore, demonstrating strong self-management and team collaboration skills.",
+      "apply_options": [
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-python-developer-backend-architecture-1670064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-developer-python-backend-arctic-wolf-bengaluru-bangalore-58143572?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/4486501452346448009?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Job Search At Monster Thailand",
+          "link": "https://www.monster.co.th/job/senior-python-backend-developer-fastapi-gyansys-inc-bengaluru-bangalore-62545205?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-developer-python-backend-arctic-wolf-networks-bengaluru--ss-in-1sonew6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Instahyre",
+          "link": "https://www.instahyre.com/job-412074-senior-backend-developer-python-at-arctic-wolf-bangalore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/4236198929923833856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "TheJobsMap",
+          "link": "https://www.thejobsmap.com/job/c793e950-c7c6-4bb9-9a13-54222cd4e91c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIERldmVsb3BlciAtIEJhY2tlbmQgQXJjaGl0ZWN0dXJlIiwiY29tcGFueV9uYW1lIjoiQW5kb3IgVGVjaCIsImh0aWRvY2lkIjoiTm00V0s3WnFKNzREdGcza0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWEJmYUVKV2NXRmtjR3BxUzNrdGVIWldWMUJQUXkxMVpYZG5SbnA2Y1Uxc09FWTRTMUEzY0RSdGJtTmpVVEYyU3psU1RVVlBjV2hhV2trNFJHRTNWWHB5Y0dad1VWRnVlVkZtUjJkcVVtdFlVbVJKVGxWTFVuUnVhRkZ5V2tSeGEwOXZOVTExUmtSZlYwdGFjRmxvVW14TFdsSm1NRzVxWkRFNFRWTmhhRUZMWVhJd1EzRVNGMk5mWWtWaGRYWnpURTEyU25BNE5GQnpkWHBKT0ZGakdpSkJSSE55T1daUlZHNHdXSE51ZWsxU05HcGZYMnhUUVVwUGFVaHhUbUZ2Y0dGQiIsImZjdiI6IjMiLCJmY19pZCI6Ik5tNFdLN1pxSjc0RHRnM2tBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Python Backend Developer (Immediate Joiners Only) (Bengaluru)",
+      "company_name": "MishiPay",
+      "location": "Bengaluru, Karnataka",
+      "via": "Jobrapido.com",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=rFAnDcihWYn1KVp7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_zWOMQrCQBBFsc0RrKZMRBIRbLQTQVREwVpkEofs6mYm7Gwk6byD9_EwnsRY2Pzuvfej9yA6n4iteDh2wQjDEos78RVW9CAnNXmIN1VFV4uBYCuWySsc2HUJxEviEl3jmwQ-zxfcJAcl9IWBXrQWKR0NFyaEWudZpurSUgMGW6SFVJkw5dJmPaS_uahBT7XrM5fpbNKmNZcj2Fs19ogd2P7ZvzaGHXrGgHf8AlUI3xrBAAAA&shmds=v1_ARwrE23tbilaBi1nJ0Htr2pNVobdSUL-jlGADVIhKRgwIB5Gog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=rFAnDcihWYn1KVp7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX-_v7___8AAABra2tvb29-fn6FhYXT09OJiYmhoaH39_fY2NhISEh3d3fg4OBlZWWXl5eRkZFfX1-urq4MDAxBQUEtLS2np6fp6em3t7dNTU07OzvAwMDv7-82NjYnJyccHBwWFhZWVlaNnbkPAAABPElEQVRIie2U23KDIBCG-UERPHCQpIqiSfP-D1k8NDFJe9HbDt_Msq7DN7MwsxCSSCT-CXiGvOT715YOHueymMVc6Xo4K2eQ1zWHyGH8bOthVK4cW-SzKkctOX-YYMwWtKHFmVKqOo6W0gashXA0X37Jkl6gaVXSs2HsIGa7WO-ipqcG2ZP4cRezJCbxd5H-TRyu15PqBNjnpUGjYRfxEsWJjmCLOLyK4jBU65xtq4xij-96yeJHkRxiXTZxrwjeRKY5Aqtu8NrDW4OuLIqpyYmMB-jhrFBgARayFPo4Vs55uLa-AS3AwxQPJzy6AoXwPFbBmd5kUINFcO74BERccGwVK5VBVN0qbk3aUMGIoUdWkqenY3WDgkSXxbAdXGxVNfm03ZGbAAMVYqfknf3wj8t5vEtYY92QSCT-E18BJB7iDv31YQAAAABJRU5ErkJggg.png",
+      "extensions": [
+        "5 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://in.jobrapido.com/jobpreview/6389889750559358976",
+      "job_title": "Senior Python Backend Developer (Immediate Joiners Only) (Bengaluru)",
+      "description": "Senior Python Backend Developer (Immediate Joiners Only)\n\nMishiPay\n\nBangalore\n\nSalary plus 20% bonus\n\nUnlimited Holidays\n\nWe are looking for immediate joiners only and will be conducting a virtual hiring drive on Thursday, 01st October.\n\nPlease apply only if you are available to join immediately and can relocate to Bangalore.\n\nAbout MishiPay\n\nMishiPay is a global leader in next-generation checkout technology, enabling seamless in-store purchases via shoppers’ own smartphones or our minimalist, low capex kiosks.\n\nWe provide a complete checkout ecosystem - spanning self-checkout, Mobile POS, Click & Collect and traditional tills - allowing retailers to run their entire store checkout operation on MishiPay.\n\nOur technology reduces operating costs, increases basket size and visit frequency, lowers abandonment, and unlocks rich, real-time customer data, delivering both immediate commercial impact and deeper insight into the in-store customer journey. We now have major international retail customers in the UK, Europe, Middle East, Australia and the USA, and we’re expanding!\n\nAbout The Role\n\nWe are looking for Senior Python Backend Developers to join our talented engineering squad. The team is responsible for our main infrastructure and delivering the necessary tools to create the best in-store experience possible. You MUST have experience in Python, Django, and within a scaling product business, as you will need to work at speed. You will also be used to change.\n\nYou’ll work closely with the Director of Backend and other squad members, alongside the Product, Payment, Security and Delivery teams achieving the roadmap which has been set against our top business priorities. You’ll work on getting rid of tech debt, deploy best in class systems and architecture and ensure that we can scale to 1000s of stores while maintaining system performance at over 99.9% at the push of a button.\n\nYou should have experience building microservices from scratch that have over time scaled to millions of requests, experience working with retail systems such as inventory, promotions, ERP, EPOS, loyalty programmes or payments in a physical or online retail environment is a huge plus for this position. If you're a startup enthusiast who is passionate about solving complex problems and wants to learn something new everyday, we'd absolutely love to speak to you!\n\nKey Responsibilities\n\n- Deliver stability of over 99.95% across MishiPay’s key platforms\n- Achieve ability to scale the infrastructure so it can handle up to 100k transactions a day\n- Design, code, and develop new features/fix bugs/add enhancements improve performance of large scale services.\n- Actively work to clear tech-debt as we continue developing new technology.\n- Coach and mentor junior team members\n- Prepare high quality technical documentation\n\nRequired Experience\n\n- We are looking for immediate joiners only. \n- Experience with at least one relational like PostgreSQL, MySQL & also one NoSQL database like MongoDB, Cassandra, DynamoDB\n- Hands on experience with at least one major cloud provider like AWS, Azure or GCP (Azure preferred)\n- Hands-on experience with at least one of the deployments-orchestration technologies like Kubernetes, Docker Swarm etc\n- (bonus) Hands-on experience with event-driven services and technologies like Kafka, Amazon SQS, Apache Spark etc\n- (bonus) Worked in a startup that has seen scale or coming from an entrepreneur background\n- (bonus) Experience of fintech, retail-system and technologies\n\nWhy MishiPay?\n\nYou’ll work with an inspirational multi-cultural team, based in our Dubai HQ, the US, London and Bangalore, who are redefining the retail industry globally. We offer a tight-knit, collaborative and exciting work setting, coupled with the opportunity to see the apps we develop live in action within some of the world’s largest retailers, impacting the lives of millions of shoppers.\n\nWe also offer:\n\n- Bonuses\n- Unlimited holidays\n- Hybrid Working (36 days WFH a year)\n- Monthly Employee Awards\n- A small monthly training budget\n- Company events\n- Free lunch in Bangalore\n- MacBook\n- Career progression and a chance to work with some of the brightest minds in tech\n- Options depending on experience level",
+      "apply_options": [
+        {
+          "title": "Jobrapido.com",
+          "link": "https://in.jobrapido.com/jobpreview/6389889750559358976?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340011078/senior-python-backend-developer-immediate-joiners-only-bengaluru?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEJhY2tlbmQgRGV2ZWxvcGVyIChJbW1lZGlhdGUgSm9pbmVycyBPbmx5KSAoQmVuZ2FsdXJ1KSIsImNvbXBhbnlfbmFtZSI6Ik1pc2hpUGF5IiwiaHRpZG9jaWQiOiJyRkFuRGNpaFdZbjFLVnA3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsUnBNRm8yWmpKWmJIRjRXV2xxWVc4M01FZzNaakZRYmpOcVgyNUtjVUUwT0dac2RGOU1aRFZZUTJwTFNsUm9UQzB5T0c5RFkwSlJMVEYzVVdKcVRWUlVOUzFLU1VjMlRGRktjekpwYm1vME9ERnRNVTVEWnpVM1JHdEpjV05rUWsxWVpFZFBjek52ZGtkVGNsa3pPSEJaWjFnMVJtVkVNRFp5UVRoNlh6YzJPRXg1UzFRU0YyTmZZa1ZoZFhaelRFMTJTbkE0TkZCemRYcEpPRkZqR2lKQlJITnlPV1pSZFRjd1V6Um1VM1U0U21ONlF6SlpURXgwWjFwQlNuSmpSazFCIiwiZmN2IjoiMyIsImZjX2lkIjoickZBbkRjaWhXWW4xS1ZwN0FBQUFBQT09In0="
+    },
+    {
+      "title": "Senior Developer ( Python , Go , Cloud )",
+      "company_name": "Arctic Wolf Networks India Private Limited",
+      "location": "Bengaluru, Karnataka",
+      "via": "Workday",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Senior+Python+Backend+Engineer&htidocid=kh5RzWmka-lmritWAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXLMW7CQBBGYdFyBKq_TCJkR0hpksoOEkJEEVIKSmtsT-yFZceaHQPpcodciZNwEjbNq743vU6mxRcHJ4oln9jLwIoHbH-sl4A5VpLy7mVs8Yjb7x_2UiMyadMjgZVI53n21psN8TXPY_RZF43MNVkjx1wC13LJ0xT_U8WelAdPxtXi5fmSDaF7KgttksdO_Dc-2c6ih4h1aB1hq-6UMD7c0Rm3cAElh478qOMcG9JARge6AyjnQF_HAAAA&shmds=v1_ARwrE20aYhGs9rwRsN7hCsh4MexPBMGMYv7flaaAmNOUsIqBqQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Senior+Python+Backend+Engineer&htidocid=kh5RzWmka-lmritWAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-IND/Senior-Developer-2_R26_1052?q=intel",
+      "job_title": "Senior Developer ( Python , Go , Cloud )",
+      "description": "Job Description At Arctic Wolf, we're not just navigating the cybersecurity landscape - we're redefining it. Our global team of dedicated Pack members is driving innovation and setting new industry standards every day. Our impact speaks for itself: we've earned recognition on the Forbes Cloud 100, CNBC Disruptor 50, Fortune Future 50, and Fortune Cyber 60 lists, and we recently took home the 2024 CRN Products of the Year award. We’re proud to be named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services and earning a Customers' Choice distinction from Gartner Peer Insights. Our Aurora Platform also received CRN’s Products of the Year award in the inaugural Security Operations Platform category. Join a company that’s not only leading, but also shaping, the future of security operations. Our mission is simple: End Cyber Risk. We’re looking for a Senior Developer 2 to be part of making this happen. As a Senior Developer 2, You will work across the full technology stack—building scalable backend services, modern user experiences, and cloud-native solutions. In addition to delivering high-impact features, you will provide technical leadership, mentor engineers, drive engineering best practices, and collaborate across teams to shape the technical direction of the platform. You will collaborate closely with our Engineering, Product, and Customer Success teams to guarantee release readiness and high-quality delivery with a heavy focus on automation, reliability, and quality assurance. Required Qualifications 5+ years of professional experience as a Full Stack Software Engineer. Strong experience building production-grade applications across both frontend and backend technologies. Proficiency in one or more backend languages such as Go and Python (Bonus - React). Experience designing and building REST APIs, distributed systems, and microservices architectures. Hands-on experience with Docker, Kubernetes, and cloud platforms such as AWS or GCP. Must have some experience using AI tooling (Claude, CoPilot, etc.) for development, debugging, research, and testing purposes, appropriate for the job and title/level Experience with infrastructure as code (IaC; e.g. Ansible, Terraform, CloudFormation) and configuration management tools Strong understanding of SQL/NoSQL databases and messaging technologies such as Kafka or RabbitMQ. Strong hands-on experience with AWS services including EC2, ECS and cloud networking concepts and architecture (VPCs, subnetting, routing, CDNs, load balancers, security groups) Experience with Azure cloud platform and services Experience with CI/CD tooling (e.g., Jenkins, GitHub Actions, Bazel) with a focus on deploying to cloud platforms (AWS, Azure) Experience with build tools and systems (e.g., Make, Bazel) Expertise in release automation and orchestration frameworks/tools Experience with code quality and security tooling (e.g. SonarQube) Strong understanding of release engineering principles and best practices Strong system design, debugging, and performance optimization skills. Proven ability to lead technical initiatives and influence engineering decisions across teams. Experience preparing, reviewing and executing deployment plans, release plans, MOPs and rollback procedures for production environments Proficiency across multiple operating systems and platforms (Windows, Linux, macOS; Intel, ARM) Experience leading an Agile/Scrum team Experience owning or orchestrating large-scale or enterprise software releases Must have cybersecurity experience. Preferred Qualifications Experience debugging and deciphering network and/or endpoint device logs Experience delivering and deploying cloud-based software as well as endpoint software Experience with monitoring, observability, and alerting platforms (e.g. Grafana/Prometheus/Sentry/Datadog) About the Role You'll be working as a Senior Developer 2 on our MDR Endpoint cloud team, responsible for ensuring quality through automation, executing deployments, and maintaining the reliability of Arctic Wolf's endpoint software across multiple platforms and cloud environments. Some of your day-to-day responsibilities will be: Act as the technical lead of the team, focused on designing, architecting, and overseeing all the team’s projects Plan, coordinate, and execute software releases across customer environments and geographies Design and implement automated builds, testing, deployment, and rollback strategies Design, build and maintain CI/CD pipelines and workflows for cloud-based services Build and maintain quality gates and validation frameworks to ensure release readiness Collaborate with software developers, QA, customer support, and product teams to ensure high-quality delivery Troubleshoot and resolve deployment issues and assist with root cause analysis Manage and optimize infrastructure across AWS, Azure, and vSphere environments Build runbooks and documentation for internal teams and end users Ensure compliance with security and regulatory requirements during deployments Contribute to continuous improvement of team processes, leveraging automation to ensure efficiency, reliability, and quality Evaluate and implement new relevant technologies and tools Mentor junior engineers Assist and contribute to intra/inter-team planning We value a culture of sharing, so every team has the opportunity to share their work with the entire department during our monthly meetings. Once a year we hold a department-wide Hackathon, teaming up across all R&D teams over four days to collaborate and build cool ideas outside the normal project scope. While innovation is the focus, some of these ideas do make it into our products. About You You're a proactive and detail-oriented professional with a quality-first mindset and a passion for delivering reliable, secure software to customers in dynamic, multi-platform environments. Your DevOps/SRE experience enables you to bridge development ,testing, deployment, and operations seamlessly. Your analytical skills enable you to resolve complex issues efficiently across diverse platforms and cloud environments, while your collaborative mindset ensures effective communication within your team and across cross-functional teams. You are committed to continuous learning and staying current with emerging technologies while maintaining high standards of quality, security, documentation, and process improvement in all projects you undertake We value a culture of sharing, so every team has the opportunity to share their work with the entire department during our monthly R&D Demos. Once a year we hold a department-wide Hackathon, teaming up across all R&D teams over four days to collaborate and build cool ideas outside the normal project scope. While innovation is the focus, some of these ideas do make it into our products. About Arctic Wolf At Arctic Wolf, we foster a collaborative and inclusive work environment that thrives on diversity of thought, background, and culture. This is reflected in our multiple awards, including Top Workplace USA (2021-2024), Best Places to Work – USA (2021-2024), Great Place to Work – Canada (2021-2024), Great Place to Work – UK (2024), and Kununu Top Company – Germany (2024). Our commitment to bold growth and shaping the future of security operations is matched by our dedication to customer satisfaction, with over 7,000 customers worldwide and more than 2,000 channel partners globally. As we continue to expand globally and enhance our technology, Arctic Wolf remains the most trusted name in the industry. Our Values Arctic Wolf recognizes that success comes from delighting our customers, so we work together to ensure that happens every day. We believe in diversity and inclusion, and truly value the unique qualities and unique perspectives all employees bring to the organization. And we appreciate that—by protecting people’s and organizations’ sensitive data and seeking to end cyber risk— we get to work in an industry that is fundamental to the greater good. We celebrate unique perspectives by creating a platform for all voices to be heard through our Pack Unity program. We encourage all employees to join or create a new alliance. See more about our Pack Unity here. We also believe and practice corporate responsibility, and have recently joined the Pledge 1% Movement, ensuring that we continue to give back to our community. We know that through our mission to End Cyber Risk we will continue to engage and give back to our communities. All wolves receive compelling compensation and benefits packages, including: Equity for all employees Flexible time off and paid volunteer days RRSP and 401k match Training and career development programs Comprehensive private benefits plan including medical, mental health, dental, disability, life and AD&D, and value-added services Robust Employee Assistance Program (EAP) with mental health services Fertility support and paid parental leave On-Camera Policy To support a fair, transparent, and engaging interview experience, candidates interviewing remotely are expected to be on camera during all video interviews. Being on camera fosters authentic connection, improves communication, and allows for full engagement from both candidates and interviewers. We understand that technical, bandwidth, or location-related challenges may occasionally prevent video use. If this applies, candidates are required to notify us in advance so we can explore appropriate accommodations. Arctic Wolf is an Equal Opportunity Employer and considers applicants for employment without regard to race, colour, religion, sex, orientation, national origin, age, disability, genetics, or any other basis forbidden under federal, provincial, or local law. Arctic Wolf is committed to fostering a welcoming, accessible, respectful, and inclusive environment ensuring equal access and participation for people with disabilities. As such, we strive to make our entire employee experience as accessible as possible and provide accommodations as required for candidates and employees with disabilities and/or other specific needs where possible. Please let us know if you require any accommodations by emailing recruiting@arcticwolf.com. Security Requirements Conducts duties and responsibilities in accordance with AWN’s Information Security policies, standards, processes and controls to protect the confidentiality, integrity and availability of AWN business information (in accordance with our employee handbook and corporate policies). Background checks are required for this position. This position may require access to information protected under U.S. export control laws and regulations, including the Export Administration Regulations (“EAR”). Please note that, if applicable, an offer for employment will be conditioned on authorization to receive software or technology controlled under these U.S. export control laws and regulations. At Arctic Wolf, we recognize that success comes from delighting our customers. We believe in being lean – in constantly building, measuring, and learning in all aspects of our business. We truly value people. All wolves are welcome to join the Arctic Wolf pack, with compelling compensation packages, benefits, and equity for employees. Arctic Wolf is focused on building a workforce that is diverse and inclusive. If you’re excited about this role, but do not meet all of the qualifications listed above, we encourage you to apply. We review all applications. Arctic Wolf is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetics, or any other basis forbidden under federal, provincial, or local law. Arctic Wolf is committed to fostering a welcoming, accessible, respectful and inclusive environment ensuring equal access and participation for people with disabilities. As such, we strive to make our recruitment, assessment and selection processes as accessible as possible and provide accommodations as required for applicants with disabilities. If you require a reasonable accommodation for any part of the application or hiring process, you may make a request by calling the Arctic Wolf general contact number at 1-888-272-8429 and asking to speak to Recruiting, or by emailing recruiting@arcticwolf.com.",
+      "apply_options": [
+        {
+          "title": "Workday",
+          "link": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-IND/Senior-Developer-2_R26_1052?q=intel&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-developer-2/11324561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/senior-developer-python-go-cloud-arcticwolf-com-10167693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://in.linkedin.com/jobs/view/senior-developer-python-go-cloud-at-arctic-wolf-4469441037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-developer-python-go-cloud--bengaluru--ee8f854f8329be65e6f6b5a7fc4d1f756?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NextRaise",
+          "link": "https://nextraise.ai/jobs/python-developer-aws-at-arcticwolf-090feceed1ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "OpsRoles",
+          "link": "https://opsroles.com/role/arctic%20wolf%20networks-senior-developer-python-go-cloud--bengaluru-ind?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGV2ZWxvcGVyICggUHl0aG9uICwgR28gLCBDbG91ZCApIiwiY29tcGFueV9uYW1lIjoiQXJjdGljIFdvbGYgTmV0d29ya3MgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkIiwiaHRpZG9jaWQiOiJraDVSeldta2EtbG1yaXRXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVaFdWRWRNVm5sSVFrZ3pTa3hoV0dwUmREWldhSEZvU1hrNVRrb3RTMjVqVWtZd1YxbHdUbVJQYURVdGNXcEdSR1owU1VwalNGaDBUVWt6Y200eFYweDJjMEZUZWpOYU5rNTFVamRqY0ZSdGNrTnNNRFJaZEZSblJVZFRiREJoY0cxMVZreG5UR1JyVkU5M2NqVjNWRFptZEdvMVFubGZPR3BoUkRCNmIzTmlkVUZDTkVFU0YyTmZZa1ZoZFhaelRFMTJTbkE0TkZCemRYcEpPRkZqR2lKQlJITnlPV1pTYTFVdFFtTllOSGxhZEdWVU16SjNYMEk0Tm14NllVcFFTRkpSIiwiZmN2IjoiMyIsImZjX2lkIjoia2g1UnpXbWthLWxtcml0V0FBQUFBQT09In0="
     }
-  ]
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTbGxvU2xGaGNUVkJaMWxCZVdkaFdVWlNTa2d0VUVJd2J6QkRNa1YwWDA1M1JsRjVWVXh2Wm1aUE5rVk9aMVI1U0MxQ09GSlZkRkZPV0RsT2RqWkhhalZTZEdSc1JXUm1TRVpDTm5sWVQzaDBTR2xKYTJWRVpsbDBRWFZVWDBoMVZIcFZTMWRZUm1jMlJFOXNRVEpuVFd0aFkwUnFRMkZIY0ROS05ucDROakJLTUhGSVkxb3dTbXAxWTJ0bFdETXRlVlF3VlRJNVRYaGxSRjlHUzFaRVgyOWhaek5GTjBsdlVXWTBTWFZrVld4MmVWRkxlV28zWkRNdFVrbFpRak5EZDBkRmVFWk9WMjFyUTBObk9EaHVUMmR5UzJvNVRFWnNTbTF1VVU0MlFUaERVbVZKTUZKTVZrTTRVbUUxYnpKUVZsUmhNemN5VUhOSUxWSnRiMHR2TmpOYU9IRTFOMmROUVZWbVdYWm1kbmR3UjNCYU1YRkdZM013UkVnNGRrSkNPRlJNVUdwRVJEQlBjVTl1VEdWeFJrWndWMEUyVlVaUVpVZ3RTM2xsTW5WRVZ6SndiRklTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlJlSFF0YzIxdFVuSjNiRmxXYldaeFpubGpMWFZITnpsMVJWZFIiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVvd0RDc3dDUVVwcFZEUjBTbGxvU2xGaGNUVkJaMWxCZVdkaFdVWlNTa2d0VUVJd2J6QkRNa1YwWDA1M1JsRjVWVXh2Wm1aUE5rVk9aMVI1U0MxQ09GSlZkRkZPV0RsT2RqWkhhalZTZEdSc1JXUm1TRVpDTm5sWVQzaDBTR2xKYTJWRVpsbDBRWFZVWDBoMVZIcFZTMWRZUm1jMlJFOXNRVEpuVFd0aFkwUnFRMkZIY0ROS05ucDROakJLTUhGSVkxb3dTbXAxWTJ0bFdETXRlVlF3VlRJNVRYaGxSRjlHUzFaRVgyOWhaek5GTjBsdlVXWTBTWFZrVld4MmVWRkxlV28zWkRNdFVrbFpRak5EZDBkRmVFWk9WMjFyUTBObk9EaHVUMmR5UzJvNVRFWnNTbTF1VVU0MlFUaERVbVZKTUZKTVZrTTRVbUUxYnpKUVZsUmhNemN5VUhOSUxWSnRiMHR2TmpOYU9IRTFOMmROUVZWbVdYWm1kbmR3UjNCYU1YRkdZM013UkVnNGRrSkNPRlJNVUdwRVJEQlBjVTl1VEdWeFJrWndWMEUyVlVaUVpVZ3RTM2xsTW5WRVZ6SndiRklTRjJOZllrVmhkWFp6VEUxMlNuQTRORkJ6ZFhwSk9GRmpHaUpCUkhOeU9XWlJlSFF0YzIxdFVuSjNiRmxXYldaeFpubGpMWFZITnpsMVJWZFIiLCJmY3YiOiIzIn0%3D&q=Senior+Python+Backend+Engineer"
+  }
 }

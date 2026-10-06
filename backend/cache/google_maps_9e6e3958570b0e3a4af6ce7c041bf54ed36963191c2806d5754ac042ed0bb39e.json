@@ -1,27 +1,27 @@
 {
   "search_metadata": {
-    "id": "6ac4f6f803610a1f062ac02e",
+    "id": "6ac4f690c2034869a19f77fe",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/raeHIk6PfpDIDE0kYkyi4lWFgy0JfKcTPc7zyb_likQ/6ac4f6f803610a1f062ac02e.json",
-    "markdown_endpoint": "https://serpapi.com/searches/raeHIk6PfpDIDE0kYkyi4lWFgy0JfKcTPc7zyb_likQ/6ac4f6f803610a1f062ac02e.md",
-    "created_at": "2026-10-06 13:26:16 UTC",
-    "processed_at": "2026-10-06 13:26:16 UTC",
-    "google_maps_url": "https://www.google.com/maps/search/Razorpay+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
-    "raw_html_file": "https://serpapi.com/searches/raeHIk6PfpDIDE0kYkyi4lWFgy0JfKcTPc7zyb_likQ/6ac4f6f803610a1f062ac02e.html",
-    "prettify_html_file": "https://serpapi.com/searches/raeHIk6PfpDIDE0kYkyi4lWFgy0JfKcTPc7zyb_likQ/6ac4f6f803610a1f062ac02e.prettify",
-    "total_time_taken": 1.01
+    "json_endpoint": "https://serpapi.com/searches/rgFK4fX05Qjohftl0uV9TN5WQFHAC-Vk_02C8ScDee8/6ac4f690c2034869a19f77fe.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rgFK4fX05Qjohftl0uV9TN5WQFHAC-Vk_02C8ScDee8/6ac4f690c2034869a19f77fe.md",
+    "created_at": "2026-10-06 13:24:32 UTC",
+    "processed_at": "2026-10-06 13:24:32 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Razorpay+headquarters+Bengaluru/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/rgFK4fX05Qjohftl0uV9TN5WQFHAC-Vk_02C8ScDee8/6ac4f690c2034869a19f77fe.html",
+    "prettify_html_file": "https://serpapi.com/searches/rgFK4fX05Qjohftl0uV9TN5WQFHAC-Vk_02C8ScDee8/6ac4f690c2034869a19f77fe.prettify",
+    "total_time_taken": 1.19
   },
   "search_parameters": {
     "engine": "google_maps",
     "type": "search",
-    "q": "Razorpay headquarters Bengaluru, India",
+    "q": "Razorpay headquarters Bengaluru",
     "ll": "@12.9716,77.5946,14z",
     "google_domain": "google.com",
     "hl": "en"
   },
   "search_information": {
     "local_results_state": "Results for exact spelling",
-    "query_displayed": "Razorpay headquarters Bengaluru, India"
+    "query_displayed": "Razorpay headquarters Bengaluru"
   },
   "local_results": [
     {
@@ -43,6 +43,10 @@
       "type": "Software company",
       "types": [
         "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
       ],
       "address": "SJR Cyber Laskar, Hosur Rd, Adugodi, Bengaluru, Karnataka 560030, India",
       "country": "India",
@@ -66,8 +70,9 @@
           ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNUB7kUudZd7RkBXIODXBZCvXRC1qByeS-NvwYUckawx6HtZmJqAHpDLjgr-MEO78I4xSr7flV8XAh4iWAyAkQM9fVMFDTNvbbO-0MDwMq-0qUpkXiPorkGqg6-NVgo5srVnix4PQ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/Jhu-T3icHcRJDoIwAADAF1VqRFETDwVcY8ENrNy0YsECpYuAT_QJ_sbEOcz3kxlT66llFdmgx4RgRfrSqaKiMmllelSUFlNXrQHVFvKauiiDyHV49Lond-fAXbIOfeImXkMOXl-67_QIgqa9RJRf2260Mkm5kWhV-9snUwDPQ2e8trujch5FPCYos_MzeiO-x5NHjBf-KWhutxBA7LdYAiijmpN8JxRfSjYCQczEUKu4yjt7t5-1fQghyP5TUP0AML1FzQ"
+      "user_review": "\"What truly sets Razorpay apart is their remarkable customer support.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk2wLXsIv8CUF6lUVGQSNh2fdHDXRE8FnNFDh10PoFZdpdE-7bs9CX49sspm5wEoGTBpW2Msae2sYO3x1cHy_DwfRaU0jDWDF_RIrWQqKRAwxm73P1F19tK_vq4t0R03KbDqWhp_Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IIOvJHicHcRRboIwGADgE1VacFOW-OAsFYM66GRleyFakGYCLf7V6hE9grdZsu_hez6UtQbePK9VwajRumnrC9RnqXtb93Ykdec1BpAEBN485ulOnHy3LmB1nS5y9trmX8vsc6v8YxXTgkdT1m8ZVQSnmv1UporQ5ADhohiHAKZ7cZFe7t6N8Dewr334_ghuRMb3kroj3-f4lwrKSr46i2xI-NzdukmQEkZCm5TXYWwxx0FyoINQpsxmjmCMkfpfov4PZd5D5g"
     },
     {
       "position": 2,
@@ -90,6 +95,10 @@
       "types": [
         "Corporate office"
       ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
       "address": "3rd, 4th, 5th and 6th Floor, Kothari Arena 24, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560030, India",
       "country": "India",
       "website": "http://www.razorpay.com/",
@@ -100,10 +109,16 @@
             "Wheelchair accessible parking lot",
             "Wheelchair accessible restroom"
           ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMsdpzjB11NT3-zA-FawBz0COJMV8XEXCwV306qmrHDrNTDPylC9CXEFve29yRR5OH8ffjtBgpcA3Qy6Y2hNF-uwY2QQhM6HXcUef9OJ9Eku7I60AW8-xdoYJErl192aRc5frJWHWKZblrZ=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/emNrQHicHcTBboIwAADQL6oUiIwu8QAVgiyAEBXwxmqh0UJZW2Twkzvvb0x8h_f_x7Qe1adhcGZvOiE6TidFJRGDpoPeENEbnWyUAkQZHn6OvE_UbVzvvmmmJxusHgib2V8hzuLk4lZBheeLDZ2fXkZ7mZ72x4VjhKsgfFILLUWxzSK3be_a70bi2fni1BZLQzDNtZXnLHGiipxpi7IYBY_p4-BAr3TB703UcSC5iaymINtWxmVUfl2_ubzuZhNCCNh7AoYXMK1FtQ"
+      "user_review": "\"Razorpay is used by businesses to accept, process, and disburse payments.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmNq5hII4S26NNoJbi-Js6jHf32d7ZH5Uo-yCX6-F5qQJ1TusnDOQLvvsZS3yGx_dcIHNhhTgV2nQ0-0Yn7RcT4x1wB09qr0C57kty7XHmKNg6jJPrdusQ4LEze-DuZXGBDVkF8kzuQV1W=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L9MtZnicHcRNcoIwGADQE30S_mtnuqhSDdSJRilSNp0xYFKRREii4iW77m0607d4vz_CmIt-dpyz8CdcKX5urG4GpqRppJkw1Tn8ooFp0M4r3m7yfduRPhRpGuy8iBCVHb4h09EJH32vjiscfigY52UEi7CnmZtbLZM1XV2vutr54_L-VbMUEyFyXniSIkCfMt6yPLi7txma9gOah3FrxrjE3Tvh0SnbDLXVNFi9PRpIbFUuZ0nRLp7ah6WFu3-5uQghEP8zkH_jlEWb"
     },
     {
       "position": 3,
@@ -124,6 +139,10 @@
       "type": "Software company",
       "types": [
         "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
       ],
       "address": "No. L374, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
       "country": "India",
@@ -148,8 +167,8 @@
           ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPdfSrT2Zt_MacOjNanHTtb4ZDuyB0kOycc36ekhZP75SGKZ8uuPXrNpeqkk9Jpc_vttTe7uHsJE-Nh9IERlpR6jrQRr2c9wDOg3X4-bymhdkAFNjUZRVkDHPcTDPKkzfVPxIRE=w1000-h1000-c-n",
-      "serpapi_thumbnail": "https://serpapi.com/images/url/tq2BtXicHcTbboIwGADgJyqgOJElu3CDCZpBV9GY3hj8LTSUQ9eDDl_QZ_BtTPwuvsedGyP1u-u23HfqYahbZjVTMPSG9caBoXNrVWqNQLvLr4tsO3yutqqYUnP8KSFvsrJPCnOa0ciOn57IRwB_zgSnOHjbrjZ0YS0-qEyyPyHCtYTjxZiCBTbR6xhlPExj0koyb9QvUVMIr1Fe-4cZOo0dP4vld9bsKNmLKMFQRHgjbtUe_6ck_rhOPM9D_DWg_gkk5UYq"
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6GTUMqD7S1ZZvTszogyP52HIiiB2-T52sJuoNRNRqNYDLNmXsfhtP_tnCbI4wmoWuw6OoeH2Ken7Nt8LJq-ck9VFJkmV3GiDc2QXV-Rx6ceEwOpsZriWHTpyVVdxGILoWhE56=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bgw-_XicHcRbcoIwFADQFUUwFmyd6YctyqMYkabB8tMZ05QwSC54Q9Fu0DW4G2d6Ps7tqq3tcOE4Rz2bVADVUQ2oThKMVcZOJLRO1SGRSNBZRnnGi8YP-cemD-bv07L85fgH1SXzaBTX9Qsl3KOYDMBylvfsM0hZu8cfbbMva14P8cPYQjGM_hZURN-UmTP7mCY9kc2TWCdNK2ZhHUi62wuSn32pVuO2w_JUFxHvLkJ8n8M4hUKvPP95nLquS_T_kpg7Xn5E1g"
     }
   ]
 }

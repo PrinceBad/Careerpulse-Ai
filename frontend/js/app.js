@@ -471,6 +471,11 @@ window.showCitationModal = function(citationId) {
   if (modalCitMethod) {
     modalCitMethod.textContent = `${c.verification_method || 'exact_entity_match'} · Provenance: ${c.provenance || 'cached'}`;
   }
+
+  const modalCitConfidence = document.getElementById('modalCitConfidence');
+  if (modalCitConfidence) {
+    modalCitConfidence.textContent = `${Math.round((c.verification_confidence || 0.8) * 100)}% (Heuristic Confidence Score)`;
+  }
   
   modalCitUrl.href = c.source_url;
   modalCitUrl.textContent = c.source_url;

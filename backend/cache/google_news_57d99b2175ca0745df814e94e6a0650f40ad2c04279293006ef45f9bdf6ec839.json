@@ -1,0 +1,967 @@
+{
+  "search_metadata": {
+    "id": "6ac4f6979a1f2ccce999876f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3JznRkutKy05gYz_WqTTNkCGhfg8oFYhGV9WA9qQmcc/6ac4f6979a1f2ccce999876f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3JznRkutKy05gYz_WqTTNkCGhfg8oFYhGV9WA9qQmcc/6ac4f6979a1f2ccce999876f.md",
+    "created_at": "2026-10-06 13:24:39 UTC",
+    "processed_at": "2026-10-06 13:24:39 UTC",
+    "google_news_url": "https://news.google.com/search?q=CRED+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/3JznRkutKy05gYz_WqTTNkCGhfg8oFYhGV9WA9qQmcc/6ac4f6979a1f2ccce999876f.html",
+    "total_time_taken": 1.01
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "CRED news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "LIV Golf secures funding from BC Partners Credit to support restructuring",
+      "source": {
+        "name": "Devdiscourse",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.devdiscourse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.devdiscourse.com/article/international/3987273-liv-golf-secures-funding-from-bc-partners-credit-to-support-restructuring?amp",
+      "date": "10/06/2026, 12:48 AM, +0000 UTC",
+      "iso_date": "2026-10-06T00:48:01Z"
+    },
+    {
+      "position": 2,
+      "title": "Fortitude Secures Priority Supply Allocation for BITMAIN’s Next-Generation Zcash Mining Equipment, Announces $100 Million Non-Binding Purchase Commitment, and Additional Upsizing of DCG Credit Facility and Available ZEC Funding from DCG",
+      "source": {
+        "name": "Business Wire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20261005712271/en/Fortitude-Secures-Priority-Supply-Allocation-for-BITMAINs-Next-Generation-Zcash-Mining-Equipment-Announces-%24100-Million-Non-Binding-Purchase-Commitment-and-Additional-Upsizing-of-DCG-Credit-Facility-and-Available-ZEC-Funding-from-DCG",
+      "thumbnail": "https://mms.businesswire.com/media/20261005712271/en/2923905/22/Fortitude_logo_black.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1USHBYUW1odE1FUmZZVGt0VFJDSEF4aVBCaWdLTWdhaHBKU0x0UVk",
+      "date": "10/05/2026, 10:10 PM, +0000 UTC",
+      "iso_date": "2026-10-05T22:10:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Lakewood-based credit union lays off workers amid restructuring",
+      "source": {
+        "name": "Tacoma News Tribune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thenewstribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Debbie Cockrell"
+        ]
+      },
+      "link": "https://www.thenewstribune.com/news/local/article317499783.html",
+      "thumbnail": "https://www.thenewstribune.com/public/latest-news/j9me2o/picture277902523/alternates/LANDSCAPE_1200/Federal%20Way%20Branch%20.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJYMFZxWTJ0blJsWTBkWFZFVFJDZkF4ampCU2dLTWdZZFU1d3NJUWs",
+      "date": "10/05/2026, 08:25 PM, +0000 UTC",
+      "iso_date": "2026-10-05T20:25:06Z"
+    },
+    {
+      "position": 4,
+      "title": "Cred bags $900m investment from Meta, CEO Kunal Shah appointed to lead WhatsApp",
+      "source": {
+        "name": "FinTech Futures",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fintechfutures.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Francis Bignell"
+        ]
+      },
+      "link": "https://www.fintechfutures.com/venture-capital-funding/cred-bags-900m-investment-from-meta",
+      "thumbnail": "https://eu-images.contentstack.com/v3/assets/blt7dacf616844cf077/bltd95d83a3c687222d/6a3a57968052343c83b88cbb/Cred_-_FinTech_News.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpiSFUxY1hoWWQycGpNbE42VFJDcUJCaXFCQ2dLTWdZbGhKQ3RMUVk",
+      "date": "06/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-23T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Priyanka Salve"
+        ]
+      },
+      "link": "https://www.cnbc.com/2026/06/23/4-billion-startup-cred-meta-whatsapp.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108325204-1782183740826-gettyimages-1243399633-AVaishnav_Company_logos_displayed_at_Global_Fintech_Fest_in_Mumbai_13.jpeg?v=1782183758&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVORFJKVkdSdFpFWktXVkI1VFJDZkF4ampCU2dLTWdZVlk1aElMUWc",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Nvidia’s $500 Billion AI Funding Plan Calms Credit Markets",
+      "source": {
+        "name": "equiti.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equiti.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ahmed Azzam"
+        ]
+      },
+      "link": "https://www.equiti.com/sc-en/news/stock-market/nvidia-500-billion-ai-funding-credit-markets/",
+      "thumbnail": "https://eq-cdn.equiti-me.com/website/images/Nvidias_500_Billion_AI_Funding_Plan_Calms_Cre.width-1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpURmxpZW5jeE0zUlpWaTFwVFJDZkF4ampCU2dLTWdB",
+      "date": "08/12/2026, 09:47 AM, +0000 UTC",
+      "iso_date": "2026-08-12T09:47:19Z"
+    },
+    {
+      "position": 7,
+      "title": "From CRED To Square Yards — Indian Startups Raised $1.1 Bn This Week",
+      "source": {
+        "name": "Inc42",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lokesh Choudhary"
+        ]
+      },
+      "link": "https://inc42.com/buzz/from-cred-to-square-yards-indian-startups-raised-1-1-bn-this-week/",
+      "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Fundign-Glore-ftr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5TRTVLWjJoelIzcFFSV1pDVFJEZ0F4aUFCU2dLTWdrQklveE10ZVhJNHdJ",
+      "date": "06/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-27T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "CRED reports Rs 2,735 Cr revenue in FY25; operating losses fall 51%",
+      "source": {
+        "name": "Entrackr",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrackr.com/news/cred-reports-rs-2735-cr-revenue-in-fy25-operating-losses-fall-51-11058243",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2025/08/19/cred-2025-08-19-15-49-29.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjMWcyYUdsZlEzSXRNazVpVFJDZkF4ampCU2dLTWdZcGRZN09zUVk",
+      "date": "01/30/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-30T08:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "How Delhi government’s carbon credit plan aims to tackle air pollution, raise revenue",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Devansh Mittal"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/delhi/carbon-credit-monetisation-how-new-policy-will-generate-revenue-from-carbon-credits-reduce-emission-10474160/",
+      "thumbnail": "https://images.indianexpress.com/2026/01/factory.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSbmN6VTB4MWQyZE1ValZGVFJDZkF4ampCU2dLTWdZUllJejByQWM",
+      "date": "01/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-15T08:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Content Partners Secures Fresh Round of Funding From Carlyle Global Credit",
+      "source": {
+        "name": "Variety",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://variety.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cynthia Littleton"
+        ]
+      },
+      "link": "https://variety.com/2026/tv/news/content-partners-carlyle-global-credit-steve-kram-john-mass-1236782183/",
+      "thumbnail": "https://variety.com/wp-content/uploads/2026/06/MixCollage-18-Jun-2026-12-29-PM-3908.jpg?w=1000&h=667&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkWFZEZW5WQ1RqaEhiMmhCVFJERUF4aW1CU2dLTWdZRk1KeGtvQWs",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Exclusive: Credit Acceptance lays off 5% of staff",
+      "source": {
+        "name": "Auto Finance News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autofinancenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aidan Bush"
+        ]
+      },
+      "link": "https://www.autofinancenews.net/allposts/risk-management/exclusive-credit-acceptance-lays-off-5-of-staff/",
+      "thumbnail": "https://www.autofinancenews.net/wp-content/uploads/2025/07/cars-1024x683.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlZVUZNYm1GR1ZFcEJibWxhVFJERUF4aW1CU2dLTWdNQjRBUQ",
+      "date": "04/17/2026, 09:53 PM, +0000 UTC",
+      "iso_date": "2026-04-17T21:53:17Z"
+    },
+    {
+      "position": 12,
+      "title": "Credit union group works to find jobs for laid-off FirstBank employees",
+      "source": {
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jackson Guilfoil"
+        ]
+      },
+      "link": "https://www.bizjournals.com/denver/news/2026/05/15/gowest-firstbank-credit-union-job-board.html",
+      "thumbnail": "https://media.bizj.us/view/img/13048007/1stbank-6th-broadway-sm83336*900xx5568-3132-0-290.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRUVXcyYTJwNFVTMWFObTF1VFJDZkF4ampCU2dLTWdNQnNRbw",
+      "date": "05/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-15T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Funding Wrap: CRED, Square Yards, Bodycraft raise fresh capital",
+      "source": {
+        "name": "ET Entrepreneur",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrepreneur.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://entrepreneur.economictimes.indiatimes.com/news/funding/cred-secures-900-million-square-yards-hits-unicorn-status-key-funding-news/132011574",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132011574,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlRWEZwYTNaelVuSnVSM0V0VFJDZkF4ampCU2dLTWdhVlFvNHluUWM",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Jim Chalmers claims removing card surcharges will ease cost-of-living pressures. But will you be better off?",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luca Ittimani"
+        ]
+      },
+      "link": "https://www.theguardian.com/australia-news/2026/mar/31/jim-chalmers-claims-removing-card-surcharges-will-ease-cost-of-living-pressures-but-will-you-be-better-off",
+      "thumbnail": "https://i.guim.co.uk/img/media/50837e34dd53840448d346dfe1b3e59b3fa4b1af/0_0_3500_2333/master/3500.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVkJJWld4VmJUTnpZVFpUVFJDMkFoalJBeWdLTWdhQlE0cXJPUVU",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "CRED-owned Happay lays off 35% of its workforce as 'restructuring exercise'",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.business-standard.com/companies/news/cred-owned-happay-lays-off-35-of-its-workforce-as-restructuring-exercise-123051500283_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2015-08/20/full/1440063888-9199.gif",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtTMmhsVGpCNFZubHhhWFJaVFJEUUF4anNCQ2dLTWdrZElaTHpJT2N0QXdN",
+      "date": "05/15/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-05-15T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Intuit, Credit Karma layoffs will affect hundreds in Bay Area, more than 1,000 in California",
+      "source": {
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeremy Owens"
+        ]
+      },
+      "link": "https://www.bizjournals.com/sanfrancisco/news/2026/05/21/intuit-layoffs-credit-karma-oakland-mountain-view.html",
+      "thumbnail": "https://media.bizj.us/view/img/12672350/intuit-new-building-2024-1*1200xx1275-717-0-29.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZaVmh6TnpVdE9FRmFUeTFLVFJDZkF4ampCU2dLTWdtQmdJb0FPMlpFYlFF",
+      "date": "05/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-21T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "CRED Kunal Shah to lead WhatsApp in surprise move",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Soumyarendra Barik"
+        ]
+      },
+      "link": "https://indianexpress.com/article/business/kunal-shah-whatsapp-global-head-meta-cred-funding-investment-10752184/",
+      "thumbnail": "https://images.indianexpress.com/2026/06/kunal-shah-cred-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlla05ZTjFoM05ESmhhSE5VVFJDZkF4ampCU2dLTWdhbE5ZN3NIUWs",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "New York State bans employers from using credit history in hiring decisions starting Saturday",
+      "source": {
+        "name": "WHEC.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.whec.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Erin Mahon"
+        ]
+      },
+      "link": "https://www.whec.com/top-news/new-york-state-bans-employers-from-using-credit-history-in-hiring-decisions-starting-saturday/",
+      "thumbnail": "https://www.whec.com/wp-content/uploads/2026/04/1053449_thumbnail.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxUekF6YW5ZMk1uRTFaRXhSVFJDZkF4ampCU2dLTWdZTmtJd29OZ2M",
+      "date": "04/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-13T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "CRED to Raise INR 8,550 Crore (~USD 900M) From Meta",
+      "source": {
+        "name": "Business Wire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260622947239/en/CRED-to-Raise-INR-8550-Crore-USD-900M-From-Meta",
+      "thumbnail": "https://mms.businesswire.com/media/20260622947239/en/2836316/22/Type%3Dvertical%2C_Color%3Dblack.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlhR3hvYURSaGExWmxWM1F6VFJDSEF4aVBCaWdLTWdZcFZZYk9wUU0",
+      "date": "06/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-22T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Delhi to generate revenue from green initiatives using carbon credit",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-to-generate-revenue-from-green-initiatives-using-carbon-credit/article70506248.ece",
+      "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+      "date": "01/14/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-14T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Democrat Shomari Figures voted against Montgomery airport funding from Trump Admin he now takes credit for",
+      "source": {
+        "name": "Yellowhammer News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yellowhammernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yellowhammernews.com/democrat-shomari-figures-voted-against-montgomery-airport-funding-from-trump-admin-he-now-takes-credit-for/",
+      "thumbnail": "https://yellowhammernews.com/wp-content/uploads/2026/08/shomari-figures-1024x512.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpNRkpvVW5WcldsUlZaRE5ZVFJDSEF4aVBCaWdLTWdB",
+      "date": "08/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-18T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Cred hiring requirement: 750 credit score",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Supriya Roy"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/india-business/cred-hiring-requirement-750-credit-score/articleshow/118569249.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+      "date": "02/26/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-26T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "NCUA Moves to Protect Credit Union Interchange Revenue From State Restrictions",
+      "source": {
+        "name": "CUTimes",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cutimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cutimes.com/2026/06/08/ncua-moves-to-protect-credit-union-interchange-revenue-from-state-restrictions/",
+      "thumbnail": "https://assets.touchpointmarkets.com/68/89/9f54cae14251bdf2bd3a5a09b931/ncua-e1525978538320.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtOMkpWV0dadlIxOUhMV3RuVFJDbUF4anNCQ2dLTWdNVnNBWQ",
+      "date": "06/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-08T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Fintech firm Cred's revenue rises 66%, losses decline to Rs 609 crore",
+      "source": {
+        "name": "Business Standard",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ajinkya Kawale"
+        ]
+      },
+      "link": "https://www.business-standard.com/finance/news/fintech-firm-cred-s-revenue-rises-66-losses-decline-to-rs-609-crore-124093001033_1.html",
+      "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/26/full/1714109902-4283.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWMGxSTFhoS1VYVTJRMmhoVFJEZ0F4al9CQ2dLTWdhSjRZakd6UVE",
+      "date": "09/30/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-09-30T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Oolka bags $7 million in funding from Lightspeed, Z47, 8i Ventures to scale AI credit platform",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/funding/oolka-bags-7-million-in-funding-from-lightspeed-z47-8i-ventures-to-scale-ai-credit-platform-13573494.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250924055008_funding3.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNaa1p4ZUZrMlpXdEVUbmR0VFJDZkF4ampCU2dLTWdhWkFvck1IUVU",
+      "date": "09/24/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-24T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Credit Wise Capital raises Rs 120 crore from Trident Growth Partners",
+      "source": {
+        "name": "bfsi.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bfsi.economictimes.indiatimes.com/news/nbfc/credit-wise-capital-secures-rs-120-crore-investment-from-trident-growth-partners/122314926",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-122314926,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjamQwWjFSZmFrNUxja1prVFJDZkF4ampCU2dLTWdhUm81SnBPUVk",
+      "date": "07/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-08T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Credit Saison India secures $150m funding from Japan’s Mizuho Bank",
+      "source": {
+        "name": "Asian Banking & Finance",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://asianbankingandfinance.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://asianbankingandfinance.net/lending-credit/news/credit-saison-india-secures-150m-funding-japans-mizuho-bank",
+      "thumbnail": "https://www.cmgassets.com/s3fs-public/styles/article_details_tablet_image/public/2025-05/mizuho-screenshot-from-editorial-stock-photos.png.webp?itok=a89m9d3H",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhM2xKYkhnMlpteHNabkpGVFJDZkF4amlCU2dLTWdhQkE0eVBDUXc",
+      "date": "05/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-14T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Nue Launches Credit and Commit Burndown to Support the Shift from Subscription to Outcome-Based Revenue with Flexible Consumption Models",
+      "source": {
+        "name": "Business Wire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260331822054/en/Nue-Launches-Credit-and-Commit-Burndown-to-Support-the-Shift-from-Subscription-to-Outcome-Based-Revenue-with-Flexible-Consumption-Models",
+      "thumbnail": "https://mms.businesswire.com/media/20260331822054/en/2761069/22/Nue_Logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jWFp0V1daVGNGWlVZa1ZXVFJDSEF4aVBCaWdLTWdZUmdvNVB3UVk",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Indian startups raised over $1.08 billion from June 22 to June 27, 2026; Fintech unicorn CRED tops the list",
+      "source": {
+        "name": "Indian Startup News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianstartupnews.com/funding/indian-startups-raised-over-108-billion-from-june-22-to-june-27-2026-fintech-unicorn-cred-tops-the-list-12115217",
+      "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2026/06/28/funding-fusion-june-last-week-2026-2026-06-28-23-19-01.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJSbXhuYTNoWU1WQktURmx5VFJEZ0F4aUFCU2dLTWdtVm9vNG9QdVZNN1FF",
+      "date": "06/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-28T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Kiwi lands $100m funding to expand Latino credit access",
+      "source": {
+        "name": "FinTech Global",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fintech.global&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fintech.global/2025/11/07/kiwi-lands-100m-funding-to-expand-latino-credit-access/",
+      "thumbnail": "https://fintech.global/wp-content/uploads/2025/11/rajiv-perera-fXkoHG4dYxA-unsplash-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJVa2hNUlhWWE0wRkVla2RwVFJERUF4aW1CU2dLTWdB",
+      "date": "11/07/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-07T08:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "From lender to kingmaker — How private credit is seizing the restructuring crown",
+      "source": {
+        "name": "9fin",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.9fin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gregory Rosenvinge",
+          "Alessia Argentieri"
+        ]
+      },
+      "link": "https://www.9fin.com/insights/private-credit-seizing-restructuring-crown",
+      "thumbnail": "https://cdn.sanity.io/images/2ot3aypi/production/372bf8db63539f32217c0b452992be3b25248359-4000x1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtPSFpYYlZkclVFbzJYM1U0VFJDT0FSampBaWdCTWdhZGs1YU50UWM",
+      "date": "09/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-05T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "VOX Funding Secures $150 Million Credit Facility from Raven Capital",
+      "source": {
+        "name": "Business Wire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20250528957602/en/VOX-Funding-Secures-%24150-Million-Credit-Facility-from-Raven-Capital",
+      "thumbnail": "https://mms.businesswire.com/media/20250528957602/en/2480507/22/VOX-Funding-logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVFWMjlDZUZweVRFRTBjV3MzVFJDSEF4aVBCaWdLTWdB",
+      "date": "05/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-28T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Indonesian Digital Lender JULO Bags US$80 Million Funding From Credit Saison",
+      "source": {
+        "name": "Fintech Singapore",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fintechnews.sg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fintechnews.sg/60467/funding/indonesian-digital-lender-julo-bags-us80-million-funding-from-credit-saison/",
+      "thumbnail": "https://fintechnewssg-22e90.kxcdn.com/wp-content/uploads/2022/04/Indonesian-Digital-Lender-JULO-Bags-US80-Million-Funding-From-Credit-Saison.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNhRWRwZUZveFprRlJabEpxVFJDY0F4am9CU2dLTWdZWllaYk5wUWc",
+      "date": "04/13/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-04-13T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Exclusive: Credit.com Parent Cuts Jobs As Tech Layoffs Mount",
+      "source": {
+        "name": "Crunchbase News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.crunchbase.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sophia Kunthara"
+        ]
+      },
+      "link": "https://news.crunchbase.com/job-market/progrexion-lays-off-workers/",
+      "date": "06/07/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-06-07T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Elizabeth Warren introduces bill to ban employers from running credit reports in hiring",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Sainato"
+        ]
+      },
+      "link": "https://www.theguardian.com/us-news/2025/sep/15/elizabeth-warren-credit-reports-employment",
+      "thumbnail": "https://i.guim.co.uk/img/media/0f6e1c7c10f36fd43206b500c9056f68cb4fa5ce/0_0_5000_3333/master/5000.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRUSGhQWVRkVGRWVXdOVkZPVFJDMkFoalJBeWdLTWdZVlZZNHJKZ2c",
+      "date": "09/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-15T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "CRED gets $81 million funding from DST Partners, others at $800 million valuation",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/small-biz/startups/newsbuzz/cred-gets-81-million-funding-from-dst-partners-others-at-800-million-valuation/videoshow/80103509.cms",
+      "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-80103509,width-1600,height-900,resizemode-4/small-biz/startups/newsbuzz/cred-gets-81-million-funding-from-dst-partners-others-at-800-million-valuation.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZTVXN6ZG1NdFJtY3RUM0ZYVFJDZkF4ampCU2dLTWdB",
+      "date": "01/05/2021, 08:00 AM, +0000 UTC",
+      "iso_date": "2021-01-05T08:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Tesla's Carbon Credit Revenue Drops 67%: Can AI, Energy Storage, and Robots Drive TSLA Stock's Next Chapter?",
+      "source": {
+        "name": "CarbonCredits.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://carboncredits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://carboncredits.com/teslas-carbon-credit-revenue-drops-67-can-ai-energy-storage-and-robots-drive-tsla-stocks-next-chapter/",
+      "thumbnail": "https://carboncredits.com/wp-content/uploads/2026/07/shutterstock_2462603275.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVpOWGhhTlZFMFYwWTFiMms1VFJERUF4aW1CU2dLTWdzUklJaEtuS1UwTmVtQm1R",
+      "date": "07/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-23T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "AI Hyperscalers’ Shadow Borrowing Bolsters Private Credit Risks",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Esteban Duarte"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-03-16/ai-hyperscalers-shadow-borrowing-bolsters-private-credit-risks",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWrW07xxiT2I/v1/1200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU5TVXhTVFZkRVVIRnpSWEYyVFJERUF4aW1CU2dLTWdzQkFJcWpxS2RNd3pwVFRB",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "What London's Laid-Off Credit Suisse Bankers Can Expect to Take Home",
+      "source": {
+        "name": "finews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.finews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.finews.com/news/english-news/58594-credit-suisse-job-cuts-london-investment-bankers",
+      "thumbnail": "https://www.finews.ch/images/news/2023/04/ubscs_504.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpjR1J3ZDB4NE1HVTFYMDUyVFJDc0FoajBBeWdLTWdtSk1ZVEdIS3BNOVFB",
+      "date": "08/02/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-08-02T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Almost a million young people to benefit from expanded support, new training, and work experience opportunities",
+      "source": {
+        "name": "GOV.UK",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gov.uk/government/news/almost-a-million-young-people-to-benefit-from-expanded-support-new-training-and-work-experience-opportunities",
+      "thumbnail": "https://assets.publishing.service.gov.uk/media/693372ec375aee4a15ee8cd5/s300_20251206_-_Youth_Guarantee_-_PN_graphic.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhRmh6TjFkVGJtVmZTRFJ5VFJEREFSaXNBaWdLTWdZTlpKSW1xZ2c",
+      "date": "12/06/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-06T08:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Credit Karma lays off 117 workers despite sales surge",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aparajita Chatterjee",
+          "Celine Provini"
+        ]
+      },
+      "link": "https://www.thestreet.com/employment/credit-karma-lays-off-hundreds-despite-631m-revenue-jump",
+      "thumbnail": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzk3NDYx/layoffs-unemployed-lead-shutterstock_1997230940.jpg?profile=w2560&ar=4-3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdWRWR3TmpWdlNIcDZVWE0yVFJEZ0F4aUFCU2dLTWdZNUlKQzFzQVk",
+      "date": "06/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-11T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Automotive Credit Corp. lays off 12 employees",
+      "source": {
+        "name": "Auto Finance News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autofinancenews.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Harris"
+        ]
+      },
+      "link": "https://www.autofinancenews.net/allposts/risk-management/automotive-credit-corp-lays-off-12-employees/",
+      "thumbnail": "https://www.autofinancenews.net/wp-content/uploads/2024/01/Untitled-design-60-1024x683.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW1WbWhmUkU5TFdUbFBUVlpNVFJERUF4aW1CU2dLTWdzQkFJaENVMk56emJsRm1n",
+      "date": "10/07/2025, 08:41 PM, +0000 UTC",
+      "iso_date": "2025-10-07T20:41:59Z"
+    },
+    {
+      "position": 43,
+      "title": "Pure Fishing nets new funding from private credit lenders",
+      "source": {
+        "name": "9fin",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.9fin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Brooke",
+          "Rachel Butt",
+          "Shubham Saharan"
+        ]
+      },
+      "link": "https://www.9fin.com/insights/pure-fishing-nets-new-funding-from-private-credit",
+      "thumbnail": "https://cdn.sanity.io/images/2ot3aypi/production/fac9dd59b606aafbe08e328bcf318f8c3f38c40b-2200x800.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWMjh4TjNBemRtZEhRMk5EVFJDSEFSajFBaWdCTWdZQlE2UUpHZ3c",
+      "date": "10/23/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-10-23T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Banks balk as Trump pushes for 1-year, 10% cap on credit card interest rates",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ken Sweet",
+          "Seung Min Kim"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/politics/banks-balk-as-trump-pushes-for-1-year-10-cap-on-credit-card-interest-rates",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2025-12-19T143021Z_661741721_RC2PJIAZU3BX_RTRMADP_3_FINANCIAL-ANTITRUST-VISA-MASTERCARD-1024x794.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFTemRKWDBseWVFTndSRVpOVFJEb0F4ajFCQ2dLTWdtSmNwQ0hxaWhGY1FF",
+      "date": "01/10/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-10T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "The Trump Administration Tried to Stop the National EV Charging Program. It Has Kept Rolling Along Anyway.",
+      "source": {
+        "name": "Inside Climate News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insideclimatenews.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Gearino"
+        ]
+      },
+      "link": "https://insideclimatenews.org/news/30042026/inside-clean-energy-national-ev-charging-program/",
+      "thumbnail": "https://insideclimatenews.org/wp-content/uploads/2026/04/IMG_7580-330x220.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFhVlJHWVdKTlgwWlJRMFZqVFJEY0FSaktBaWdLTWdZQkVJcUdFZ28",
+      "date": "04/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-30T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "JLR supply chain staff told to apply for universal credit, union claims",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emer Moreau"
+        ]
+      },
+      "link": "https://www.bbc.co.uk/news/articles/c784nwvj1l3o",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/923/cpsprodpb/e1c4/live/890ce1f0-93b2-11f0-bd0e-75d70011515a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXpjbWcwY2s5R1pHbFVZV3BtVFJDZkF4ampCU2dLTWdzQk1KUUFHR2dWUkRzdWRB",
+      "date": "09/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-17T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Tesla’s Carbon Credit Revenue Soars to $2.76 Billion Amid Profit Drop",
+      "source": {
+        "name": "CarbonCredits.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://carboncredits.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://carboncredits.com/teslas-carbon-credit-revenue-soars-to-2-76-billion-amid-profit-drop/",
+      "thumbnail": "https://carboncredits.com/wp-content/uploads/2025/01/Teslas-Carbon-Credit-Revenue-Soars-to-2.76-Billion-Amid-Profit-Drop.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhjRWRqWW1STGFreE5PVFZyVFJDR0F4aVJCaWdLTWdZaFVZYXVxUVE",
+      "date": "01/30/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-30T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Port Adelaide’s Empowered program set for funding boost from Credit Union SA",
+      "source": {
+        "name": "portadelaidefc.com.au",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.portadelaidefc.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ruby Mchaffie"
+        ]
+      },
+      "link": "https://www.portadelaidefc.com.au/news/2043368/port-adelaides-empowered-program-set-for-funding-boost-from-credit-union-sa",
+      "thumbnail": "https://resources.portadelaidefc.com.au/photo-resources/2026/06/09/8ff56c0b-5110-4153-8513-cf31be8b99e4/Credit-Union-SA-Empowered-Announcement-01355.jpg?width=1064&height=600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNVWEpKV0d0RE9HWXlZWHBxVFJDZ0F4amlCU2dLTWdhcE5Jek5uUW8",
+      "date": "06/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-08T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Goldman Sachs, JPM, Morgan Stanley hiring from Credit Suisse",
+      "source": {
+        "name": "eFinancialCareers",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.efinancialcareers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Butcher"
+        ]
+      },
+      "link": "https://www.efinancialcareers.com/news/2022/07/leaving-credit-suisse",
+      "thumbnail": "https://www.efinancialcareers.com/img/resize=width:730,height:432,fit:crop/kLTqF5r3QR2DumpY3NnS",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1heTF4T0VGUVFqUkdaekpLVFJDcUF4alFCU2dLTWdhUms0eUp0UVk",
+      "date": "07/25/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-07-25T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Ohio Casino Control Commission to consider banning the use of credit cards to fund sports betting accounts",
+      "source": {
+        "name": "News 5 Cleveland WEWS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.news5cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "John Kosich"
+        ]
+      },
+      "link": "https://www.news5cleveland.com/news/local-news/ohio-casino-control-commission-to-consider-banning-the-use-of-credit-cards-to-fund-sports-betting-accounts",
+      "thumbnail": "https://cf.cdn.uplynk.com/ause1/slices/276/b2c1c5c2af374f52af57ddcae54c6663/276a73633d5342e2b2626e9f48088ecd/poster_9ae19d96dabc454591fc18c3860b7ffc.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhOazlHYlhoWlgwMTBXak13VFJDb0FSaXNBaWdCTWdB",
+      "date": "05/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "A major solar installer in Philly is ceasing most operations amid federal tax credit rollbacks",
+      "source": {
+        "name": "WHYY",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://whyy.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sophia Schmidt"
+        ]
+      },
+      "link": "https://whyy.org/articles/posigen-philadelphia-cease-operation-federal-tax-credit-rollbacks/",
+      "thumbnail": "https://whyy.org/wp-content/uploads/2024/07/solar-panels-spotlight-pa-2024-07-24-768x467.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdXVk5PWDA1WWFYcDJSWGxoVFJDd0F4akdCU2dLTWdNRm1CQQ",
+      "date": "08/27/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-27T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "The Republicans taking credit for federal funding they voted against",
+      "source": {
+        "name": "Politico",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Tully-McManus"
+        ]
+      },
+      "link": "https://www.politico.com/news/2024/06/10/house-republicans-infrastructure-funding-vote-no-00162361",
+      "thumbnail": "https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F00%2F84%2F3e108d964c2bb08e8ba0ec514aa5%2Fu-s-congress-57079.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZbGRsYTBOdlIyRnROWFZVVFJDa0F4ajJCQ2dLTWdhaE5vWUxHZ2s",
+      "date": "06/10/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-06-10T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Trump Officials Discussed $500M Alberta Independence Loan, Separatist Claims",
+      "source": {
+        "name": "DeSmog",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.desmog.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.desmog.com/2025/07/22/trump-officials-discussed-500m-alberta-independence-loan-separatist-claims/",
+      "thumbnail": "https://www.desmog.com/wp-content/uploads/2025/07/Modry-1024x583.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZNWFJEV1VacFRWZEdWemcwVFJDcEFSaXFBaWdCTWdZcFpZN09LUWM",
+      "date": "07/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-22T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Singapore-based fintech Credit Culture raises US$29.5M funding from RCE Capital Berhad",
+      "source": {
+        "name": "Yahoo News Singapore",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sg.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prisca Akhaya"
+        ]
+      },
+      "link": "https://sg.news.yahoo.com/singapore-based-fintech-credit-culture-raises-us-29-110246013.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/6bc3a2a09b3abb0391f1f08ae94e6e6af7696da0bb0afbe28830d7c39c2767a4/lightyear_networkapi/resizefill_w690_h390%3Bquality_80%3Bformat_webp/http%3A%2F%2Fmedia.zenfs.com%2Fen_SG%2FNews%2Fe27%2FCreditCulture_RCEBerhad_Singapore_Malaysia_fintech_funding.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXROa1F5YWpkR1MxaGFNa0V0VFJDR0F4aXlCU2dLTWdrQmNKS0NNdWNkREFJ",
+      "date": "01/23/2019, 08:00 AM, +0000 UTC",
+      "iso_date": "2019-01-23T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Four South Peace Non-Profits Receive Funding from Lake View Credit Union",
+      "source": {
+        "name": "CJDC-TV",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cjdctv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Popove"
+        ]
+      },
+      "link": "https://www.cjdctv.com/news/article/four-south-peace-non-profits-receive-funding-from-lake-view-credit-union/",
+      "thumbnail": "https://www.cjdctv.com/resizer/v2/3CLOJPJJEFGSDIPWWGIFX45CZU.png?auth=29505d3abf9c20df91f4d155c5fd13a3f5fb1a7c79fd2427c7f7741884784b87",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVaMFpuYVU1VlJVaHBXbU54VFJDZkF4ampCU2dLTWdhZEZJVEtSUVU",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Canada Revenue Agency accepts letter of credit from Sask. while court rules on carbon levy",
+      "source": {
+        "name": "CTV News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ctvnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rory Maclean"
+        ]
+      },
+      "link": "https://www.ctvnews.ca/saskatoon/article/canada-revenue-agency-accepts-letter-of-credit-from-sask-while-court-rules-on-carbon-levy/",
+      "thumbnail": "https://www.ctvnews.ca/resizer/ekc3lCXrb4blkxvdTWT7BtyHaT0=/300x0/arc-photo-bellmediainc/arc2-prod/public/LJJRV2PSHTZJQ2XLUFYFABRNUQ.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJOMmROWkRoSGFXTlBTbGhxVFJDcEFSaXNBaWdLTWdtTkJZaXR6V0twNHdJ",
+      "date": "07/16/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-07-16T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "$500K investment to support food rescue, distribution facility",
+      "source": {
+        "name": "CTV News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ctvnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kayla Rosen"
+        ]
+      },
+      "link": "https://www.ctvnews.ca/winnipeg/article/500k-investment-to-support-food-rescue-distribution-facility/",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/V5W7IOENPFABJPKVTC7A5HWPOU.png?smart=true&auth=5e971ad9fd805436291cbeeb5762539cdc0f9406be7257f5213523d0fda3a534&width=773&height=434",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNWMjFaWlRsaVZGRmxRa3hKVFJDZkF4ampCU2dLTWdrQlVJcUNzQ1lXY3dF",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-01T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Navara Savings & Credit Cooperative secures VT6M funding from SPC",
+      "source": {
+        "name": "Vanuatu Daily Post",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailypost.vu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dailypost.vu/news/navara-savings-credit-cooperative-secures-vt6m-funding-from-spc/article_0acaf17c-9925-5bdd-9ab0-3a8cc53e5592.html",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/dailypost.vu/content/tncms/assets/v3/editorial/c/61/c615626d-5df8-5982-aaf0-4bebe928d4a9/616361fc62605.image.jpg?resize=1200%2C800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXJjWFozUkRoek9ETmtOVEZTVFJERUF4aW1CU2dLTWdB",
+      "date": "10/11/2021, 07:00 AM, +0000 UTC",
+      "iso_date": "2021-10-11T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Servus Credit Union announces staff layoffs",
+      "source": {
+        "name": "CTV News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ctvnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sean Amato"
+        ]
+      },
+      "link": "https://www.ctvnews.ca/edmonton/article/servus-credit-union-announces-staff-layoffs/",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/NLCA6CUWQGBFUF5JROGJ7ZBHZI.jpg?smart=true&auth=574ac76e78631bca024b42115525082066c03cd33d41606647554323ff646d10&width=1200&height=630",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9TVGhCVTNGVVFWcE1XREZ6VFJDUkF4ajhCU2dLTWdZRllZN1BMQWM",
+      "date": "05/04/2022, 07:00 AM, +0000 UTC",
+      "iso_date": "2022-05-04T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Vt. kicks off tax credit for hiring veterans",
+      "source": {
+        "name": "reformer.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.reformer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.reformer.com/local-news/vt-kicks-off-tax-credit-for-hiring-veterans/2503292",
+      "thumbnail": "https://image.reformer.com/4925031.jpg?imageId=4925031&panox=0.00&panoy=0.00&panow=100.00&panoh=100.00&heightx=0.00&heighty=0.00&heightw=100.00&heighth=100.00&width=960&height=432&format=webp&format=jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhNRlJOU3pCa1lYcFFZVkozVFJEekFoaTZCaWdLTWdrQmNZYWp1ZVJNU1FJ",
+      "date": "06/15/2011, 07:00 AM, +0000 UTC",
+      "iso_date": "2011-06-15T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Tech Layoffs: Shocking Story of a Former Google Employee Fired for Credit Card Fraud Amidst Mass Layoff",
+      "source": {
+        "name": "Times Now",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.timesnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.timesnownews.com/technology-science/tech-layoffs-shocking-story-of-a-former-google-employee-fired-for-credit-card-fraud-amidst-mass-layoff-article-97604108",
+      "thumbnail": "https://images.timesnownews.com/thumb/msid-97604365,thumbsize-74738,width-400,height-225,resizemode-75/97604365.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJUa2RFWTJsYVExRnFSVTh3VFJEaEFSaVFBeWdLTWdtVkE0Z3BQbVZjQkFN",
+      "date": "02/04/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-02-04T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

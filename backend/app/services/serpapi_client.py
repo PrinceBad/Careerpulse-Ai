@@ -34,7 +34,12 @@ class SerpApiClient:
                 with open(cache_file, "r", encoding="utf-8") as f:
                     data = json.load(f)
                     data["_from_cache"] = True
-                    logger.info(f"Loaded {engine} response from disk cache: {cache_file.name}")
+                    # A genuine SerpApi response always contains search_metadata
+                    if "search_metadata" in data:
+                        data["_is_mock"] = False
+                    else:
+                        data["_is_mock"] = True
+                    logger.info(f"Loaded {engine} response from disk cache: {cache_file.name} (is_mock={data['_is_mock']})")
                     return data
             except Exception as e:
                 logger.warning(f"Error reading cache file {cache_file}: {e}")
@@ -75,22 +80,24 @@ class SerpApiClient:
             try:
                 api_params = dict(query_params)
                 api_params["api_key"] = self.api_key
-                response = requests.get(self.BASE_URL, params=api_params, timeout=15)
+                response = requests.get(self.BASE_URL, params=api_params, timeout=40)
                 if response.status_code == 200:
                     data = response.json()
-                    self._write_to_cache(engine, cache_key, data)
+                    # Only cache genuine responses with search_metadata
+                    if "search_metadata" in data or "jobs_results" in data or "news_results" in data:
+                        self._write_to_cache(engine, cache_key, data)
                     data["_from_cache"] = False
+                    data["_is_mock"] = False
                     return data
                 else:
                     logger.error(f"SerpApi HTTP {response.status_code}: {response.text}")
             except Exception as e:
                 logger.error(f"Network error calling SerpApi engine {engine}: {e}")
 
-        # 3. Fallback to built-in offline mock data for demo robustness
+        # 3. Fallback to built-in offline mock data for demo robustness (NEVER cached to disk)
         logger.info(f"Using offline fallback mock for engine {engine}")
         mock_data = self._generate_mock_response(engine, params)
-        self._write_to_cache(engine, cache_key, mock_data)
-        mock_data["_from_cache"] = True
+        mock_data["_from_cache"] = False
         mock_data["_is_mock"] = True
         return mock_data
 

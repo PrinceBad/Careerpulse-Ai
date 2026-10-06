@@ -258,11 +258,11 @@
         <div id="hallucinationAlertBox" class="hallucination-box hidden">
           <div class="hallucination-header">
             <span class="alert-icon">🛡️</span>
-            <strong>Grounding Guard Live Interception Proof</strong>
+            <strong>Grounding Guard Interception Demonstration (Simulated Draft)</strong>
             <span class="badge-blocked">2 Sentences Blocked & Stripped</span>
           </div>
           <div class="hallucination-content">
-            <p class="hallucination-intro">The AI attempted to generate ungrounded claims. The code-level validator intercepted the draft:</p>
+            <p class="hallucination-intro">Demonstration proof: The validator inspected a simulated draft containing injected hallucinations. The code-level guard intercepted the draft:</p>
             <ul id="hallucinationViolationsList" class="violations-list">
               <!-- Populated by app.js -->
             </ul>
@@ -311,7 +311,8 @@
         </div>
         <p id="modalCitSnippet" class="modal-snippet"></p>
         <div class="modal-verification-details">
-          <strong>Verification Method:</strong> <span id="modalCitMethod">exact_entity_match</span>
+          <div style="margin-bottom: 4px;"><strong>Heuristic Confidence:</strong> <span id="modalCitConfidence">80%</span></div>
+          <div><strong>Verification Heuristics:</strong> <span id="modalCitMethod">exact_entity_match</span></div>
         </div>
         <div class="modal-source">
           <strong>Source URL:</strong>

@@ -1,0 +1,463 @@
+{
+  "search_metadata": {
+    "id": "6ac4f72cf607a9a39b064fc0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6m8MaNavsBYEV0nbSISIqu5elSz34d0W47YT8fjYFaY/6ac4f72cf607a9a39b064fc0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6m8MaNavsBYEV0nbSISIqu5elSz34d0W47YT8fjYFaY/6ac4f72cf607a9a39b064fc0.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6m8MaNavsBYEV0nbSISIqu5elSz34d0W47YT8fjYFaY/6ac4f72cf607a9a39b064fc0.json_with_pixel_position",
+    "created_at": "2026-10-06 13:27:08 UTC",
+    "processed_at": "2026-10-06 13:27:08 UTC",
+    "google_url": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&oq=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6m8MaNavsBYEV0nbSISIqu5elSz34d0W47YT8fjYFaY/6ac4f72cf607a9a39b064fc0.html",
+    "total_time_taken": 0.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "AcmeCorp employee reviews glassdoor ambitionbox interview",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "AcmeCorp employee reviews glassdoor ambitionbox interview",
+    "total_results": 21220000000,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How can I check my Google reviews?",
+      "type": "ai_overview",
+      "page_token": "tymNiXicHdBfbpswHABg7TJ9bDBuUxEpqsbAhKiAMP45CS-TsRsINn9WnNDw1rvsVDvNpp3gk76v3-bS6z_fbo2147RZreZ5fqyHoTbvj3LoVmK693IlhTGVkHqzflmj17PchtfY__Er9nMYRx5QhwX0ozLkWqGTqzBt1A4QNWYttDe_Mx-pjuCTRhfGeQa8ibPQGNbtP6mbFkVfu5U7u0UAS4JqC1H8VIXNXRk_SJ3nfaGfjQwndGB0LRe_r1h5zQK457hcElL2FLwo52mbaBsoVnbiQC1o515x8qSi5gg77VTL3ihtMxkZl4fTQv_5yrFC4RIX_V6o1j8VbcMVeD30BIeNSiAqyelI33JIBVu-I9Z5eXYgiLoepXS45EAX2ZoOnMmyQ7pLncEekWmhjTGgJmFYiYSPt5JwAvnDWd62-OH_5_bnubOb8WOo_wIBUoLw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tymNiXicHdBfbpswHABg7TJ9bDBuUxEpqsbAhKiAMP45CS-TsRsINn9WnNDw1rvsVDvNpp3gk76v3-bS6z_fbo2147RZreZ5fqyHoTbvj3LoVmK693IlhTGVkHqzflmj17PchtfY__Er9nMYRx5QhwX0ozLkWqGTqzBt1A4QNWYttDe_Mx-pjuCTRhfGeQa8ibPQGNbtP6mbFkVfu5U7u0UAS4JqC1H8VIXNXRk_SJ3nfaGfjQwndGB0LRe_r1h5zQK457hcElL2FLwo52mbaBsoVnbiQC1o515x8qSi5gg77VTL3ihtMxkZl4fTQv_5yrFC4RIX_V6o1j8VbcMVeD30BIeNSiAqyelI33JIBVu-I9Z5eXYgiLoepXS45EAX2ZoOnMmyQ7pLncEekWmhjTGgJmFYiYSPt5JwAvnDWd62-OH_5_bnubOb8WOo_wIBUoLw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjaGVjayBteSBHb29nbGUgcmV2aWV3cz8iLCJsayI6IkdoUmphR1ZqYXlCbmIyOW5iR1VnY21WMmFXVjNjdyIsImJzIjoiYzNXUU1RLUNNQkNGNDlySktISG9kT0xvSkRxYWtPaWdETTdPQlE3YUlKeHBLNFJfYjFFWWtMaS1kLTk5TDhlT3pMOVNBNG1vSUlKRVlsSkEyY0tGS0g4Z2FLd1ZOaVlNVnR6N2V2bklZRnUydkV0aFFSbXdjcEREd09PTFppS3ppUG5uRHlaSEMwLWhVc2hJVDFBYnZ1N0dxUEhWRDdkZ2gyNTFTcTVOWTBrMVFpelN3WVpNVXprVTMxbzR2WXlxMExqeVBkOUpsN1AwTjlXRDNBX2lQaldmdlFFIiwiaWQiOiJmY19MUGZFYXRLQUNaTzA1Tm9QOWF1R29RRV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjaGVjayBteSBHb29nbGUgcmV2aWV3cz8iLCJsayI6IkdoUmphR1ZqYXlCbmIyOW5iR1VnY21WMmFXVjNjdyIsImJzIjoiYzNXUU1RLUNNQkNGNDlySktISG9kT0xvSkRxYWtPaWdETTdPQlE3YUlKeHBLNFJfYjFFWWtMaS1kLTk5TDhlT3pMOVNBNG1vSUlKRVlsSkEyY0tGS0g4Z2FLd1ZOaVlNVnR6N2V2bklZRnUydkV0aFFSbXdjcEREd09PTFppS3ppUG5uRHlaSEMwLWhVc2hJVDFBYnZ1N0dxUEhWRDdkZ2gyNTFTcTVOWTBrMVFpelN3WVpNVXprVTMxbzR2WXlxMExqeVBkOUpsN1AwTjlXRDNBX2lQaldmdlFFIiwiaWQiOiJmY19MUGZFYXRLQUNaTzA1Tm9QOWF1R29RRV81In0%3D"
+    },
+    {
+      "question": "What is the review?",
+      "type": "ai_overview",
+      "page_token": "NzzPoXicHdBdboIwAADg7DI-DiuDRROzDKEgEZCftrQvCz_FKkWIMqu87S471U6zZflu8H19y-O5_XnKxTgO15WmKaWeD31_kPy56jutuD7OlVYVUpZF1a7MVxO8NdXauSpr0ysrRsOA7WSeShbnD2ARm22ZHowcMzNBS2OX-WM4T1Ka-3vcLT9jXfQlDIya-JROrOcdEMmpThHuddYOQ0akgUHYoSk8FiBYME-eKke23JZmTESUIuEEnnULOrhAODlGBOx4ViPuChkiBYLM6mjms8oVlHcQxpPchBA3qUunOgsVIf4-Bdt7RFQK5_eYtVjUzmjFYNgHNo5K8G7QHHslgNA9-lbihY-IMMSyP6B94RhuOfEvcWbdkzYsKJZNsQERO4tk1lS3tT77H1t_NN24Gi794RdQPXiU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NzzPoXicHdBdboIwAADg7DI-DiuDRROzDKEgEZCftrQvCz_FKkWIMqu87S471U6zZflu8H19y-O5_XnKxTgO15WmKaWeD31_kPy56jutuD7OlVYVUpZF1a7MVxO8NdXauSpr0ysrRsOA7WSeShbnD2ARm22ZHowcMzNBS2OX-WM4T1Ka-3vcLT9jXfQlDIya-JROrOcdEMmpThHuddYOQ0akgUHYoSk8FiBYME-eKke23JZmTESUIuEEnnULOrhAODlGBOx4ViPuChkiBYLM6mjms8oVlHcQxpPchBA3qUunOgsVIf4-Bdt7RFQK5_eYtVjUzmjFYNgHNo5K8G7QHHslgNA9-lbihY-IMMSyP6B94RhuOfEvcWbdkzYsKJZNsQERO4tk1lS3tT77H1t_NN24Gi794RdQPXiU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJldmlldz8iLCJsayI6IkdoSjNhR0YwSUdseklIUm9aU0J5WlhacFpYYyIsImJzIjoiYzNXUU1RLUNNQkNGNDlySktISG9kT0xvSkRxYWtPaWdETTdPQlE3YUlKeHBLNFJfYjFFWWtMaS1kLTk5TDhlT3pMOVNBNG1vSUlKRVlsSkEyY0tGS0g4Z2FLd1ZOaVlNVnR6N2V2bklZRnUydkV0aFFSbXdjcEREd09PTFppS3ppUG5uRHlaSEMwLWhVc2hJVDFBYnZ1N0dxUEhWRDdkZ2gyNTFTcTVOWTBrMVFpelN3WVpNVXprVTMxbzR2WXlxMExqeVBkOUpsN1AwTjlXRDNBX2lQaldmdlFFIiwiaWQiOiJmY19MUGZFYXRLQUNaTzA1Tm9QOWF1R29RRV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHJldmlldz8iLCJsayI6IkdoSjNhR0YwSUdseklIUm9aU0J5WlhacFpYYyIsImJzIjoiYzNXUU1RLUNNQkNGNDlySktISG9kT0xvSkRxYWtPaWdETTdPQlE3YUlKeHBLNFJfYjFFWWtMaS1kLTk5TDhlT3pMOVNBNG1vSUlKRVlsSkEyY0tGS0g4Z2FLd1ZOaVlNVnR6N2V2bklZRnUydkV0aFFSbXdjcEREd09PTFppS3ppUG5uRHlaSEMwLWhVc2hJVDFBYnZ1N0dxUEhWRDdkZ2gyNTFTcTVOWTBrMVFpelN3WVpNVXprVTMxbzR2WXlxMExqeVBkOUpsN1AwTjlXRDNBX2lQaldmdlFFIiwiaWQiOiJmY19MUGZFYXRLQUNaTzA1Tm9QOWF1R29RRV81In0%3D"
+    },
+    {
+      "question": "Can I get paid for Google reviews?",
+      "type": "ai_overview",
+      "page_token": "VLcosXicHdDdToMwGIDheDMeurGJhiWLEaHoMor96A_riWEFhlBKnZvTnnkvXpVX48_he_Qk7-eXfjb999lbezjY18VkcjqdLnbjuNP1hRqHSfn6YdRElVpvS9Uvrq6vvJtGLePjQ3j38hASZi2PYJpTpLPEy6WRDDo8ShH0dYQvc6GPGdp8pKY9puKv_abqeFb3MuNuNWzYe6hm9l2ZFc54EFcsiMQ9rLOk2tfo1hVTOydzafEca1pwlA8-SGMHyuRITUuAyaLkkMHMj_A98kAzv2JWq9g78Ag9iiQ41jFykKz2Wx3KXPd-aZDhieeE8AR4GBGKSIqCsqThmrtqYCg0cVulLJFoU8CaMFxSd-vRISCZ-DVmAQCMz4SBU50eWNeSbYxdyiGmFLqKSk4cboqpTmu6atecvxBy3qi35fz8_-fyqRkOC7sfdz_vz4KY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VLcosXicHdDdToMwGIDheDMeurGJhiWLEaHoMor96A_riWEFhlBKnZvTnnkvXpVX48_he_Qk7-eXfjb999lbezjY18VkcjqdLnbjuNP1hRqHSfn6YdRElVpvS9Uvrq6vvJtGLePjQ3j38hASZi2PYJpTpLPEy6WRDDo8ShH0dYQvc6GPGdp8pKY9puKv_abqeFb3MuNuNWzYe6hm9l2ZFc54EFcsiMQ9rLOk2tfo1hVTOydzafEca1pwlA8-SGMHyuRITUuAyaLkkMHMj_A98kAzv2JWq9g78Ag9iiQ41jFykKz2Wx3KXPd-aZDhieeE8AR4GBGKSIqCsqThmrtqYCg0cVulLJFoU8CaMFxSd-vRISCZ-DVmAQCMz4SBU50eWNeSbYxdyiGmFLqKSk4cboqpTmu6atecvxBy3qi35fz8_-fyqRkOC7sfdz_vz4KY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBwYWlkIGZvciBHb29nbGUgcmV2aWV3cz8iLCJsayI6IkdpRmpZVzRnYVNCblpYUWdjR0ZwWkNCbWIzSWdaMjl2WjJ4bElISmxkbWxsZDNNIiwiYnMiOiJjM1dRTVEtQ01CQ0Y0OXJKS0hIb2RPTG9KRHFha09pZ0RNN09CUTdhSUp4cEs0Ul9iMUVZa0xpLWQtOTlMOGVPekw5U0E0bW9JSUpFWWxKQTJjS0ZLSDhnYUt3Vk5pWU1WdHo3ZXZuSVlGdTJ2RXRoUVJtd2NwRER3T09MWmlLemlQbm5EeVpIQzAtaFVzaElUMUFidnU3R3FQSFZEN2RnaDI1MVNxNU5ZMGsxUWl6U3dZWk1VemtVMzFvNHZZeXEwTGp5UGQ5Smw3UDBOOVdEM0FfaVBqV2Z2UUUiLCJpZCI6ImZjX0xQZkVhdEtBQ1pPMDVOb1A5YXVHb1FFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkNhbiBJIGdldCBwYWlkIGZvciBHb29nbGUgcmV2aWV3cz8iLCJsayI6IkdpRmpZVzRnYVNCblpYUWdjR0ZwWkNCbWIzSWdaMjl2WjJ4bElISmxkbWxsZDNNIiwiYnMiOiJjM1dRTVEtQ01CQ0Y0OXJKS0hIb2RPTG9KRHFha09pZ0RNN09CUTdhSUp4cEs0Ul9iMUVZa0xpLWQtOTlMOGVPekw5U0E0bW9JSUpFWWxKQTJjS0ZLSDhnYUt3Vk5pWU1WdHo3ZXZuSVlGdTJ2RXRoUVJtd2NwRER3T09MWmlLemlQbm5EeVpIQzAtaFVzaElUMUFidnU3R3FQSFZEN2RnaDI1MVNxNU5ZMGsxUWl6U3dZWk1VemtVMzFvNHZZeXEwTGp5UGQ5Smw3UDBOOVdEM0FfaVBqV2Z2UUUiLCJpZCI6ImZjX0xQZkVhdEtBQ1pPMDVOb1A5YXVHb1FFXzUifQ%3D%3D"
+    },
+    {
+      "question": "How do I remove bad reviews from Google My Business?",
+      "type": "ai_overview",
+      "page_token": "lkf4qnicHdBdbqMwFEBhdTN9bDCZtCVSVA3DzzQNtDbXdvDLyBgSAjbQxkoCb7OFWUNX1dU0mhWcT-fvpz507dfNv9ra4biczc7n892-7_e6ulO9mcnj2KmZkloXUrXL-4d79LRTq_Ck_F8fysd0GFhAnEzjMeEWKTexENSoCltHZkhsEXkX5tGtYpsCv9As8oC5dsMocjLKonxEP7h5nHLt4dfQmwqtoyqMkuI3G_N5DWV7dETnj0CJgY7V-fRst6i8sEC7GV-8p613kGbdJwEBiHUvaTLHTYJUoy8ZF23hLjY0Jq1C4gRs2GZoLSjSZ9ywBpoUYCKT5OVbGZdCuEOXN-Iiw_SFNESnLsPUWQQJpFwEvuZcvCmm12FdJjQWUb4lG0xTCdNPBObq5xEirkcI6Q-YkulqMNc3fWbYIJC2wimDylgCjX-A1tYF9cy1wym-3anTan77__Xqz87Y5fDR778BVjSNZg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lkf4qnicHdBdbqMwFEBhdTN9bDCZtCVSVA3DzzQNtDbXdvDLyBgSAjbQxkoCb7OFWUNX1dU0mhWcT-fvpz507dfNv9ra4biczc7n892-7_e6ulO9mcnj2KmZkloXUrXL-4d79LRTq_Ck_F8fysd0GFhAnEzjMeEWKTexENSoCltHZkhsEXkX5tGtYpsCv9As8oC5dsMocjLKonxEP7h5nHLt4dfQmwqtoyqMkuI3G_N5DWV7dETnj0CJgY7V-fRst6i8sEC7GV-8p613kGbdJwEBiHUvaTLHTYJUoy8ZF23hLjY0Jq1C4gRs2GZoLSjSZ9ywBpoUYCKT5OVbGZdCuEOXN-Iiw_SFNESnLsPUWQQJpFwEvuZcvCmm12FdJjQWUb4lG0xTCdNPBObq5xEirkcI6Q-YkulqMNc3fWbYIJC2wimDylgCjX-A1tYF9cy1wym-3anTan77__Xqz87Y5fDR778BVjSNZg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHJlbW92ZSBiYWQgcmV2aWV3cyBmcm9tIEdvb2dsZSBNeSBCdXNpbmVzcz8iLCJsayI6IkdqRm9iM2NnZEc4Z2NtVnRiM1psSUdKaFpDQnlaWFpwWlhkeklHWnliMjBnWjI5dloyeGxJRzE1SUdKMWMybHVaWE56IiwiYnMiOiJjM1dRTVEtQ01CQ0Y0OXJKS0hIb2RPTG9KRHFha09pZ0RNN09CUTdhSUp4cEs0Ul9iMUVZa0xpLWQtOTlMOGVPekw5U0E0bW9JSUpFWWxKQTJjS0ZLSDhnYUt3Vk5pWU1WdHo3ZXZuSVlGdTJ2RXRoUVJtd2NwRER3T09MWmlLemlQbm5EeVpIQzAtaFVzaElUMUFidnU3R3FQSFZEN2RnaDI1MVNxNU5ZMGsxUWl6U3dZWk1VemtVMzFvNHZZeXEwTGp5UGQ5Smw3UDBOOVdEM0FfaVBqV2Z2UUUiLCJpZCI6ImZjX0xQZkVhdEtBQ1pPMDVOb1A5YXVHb1FFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWNtd3RWVXRWT0RoMmJWRndYMFpMT1V4M2RIWTFVR3N4TjBWSVgxUjBRbUpuWTFScVVXVlRVMUZ1VmtKaldtZ3djbGRFY0hRM1gxZDVWVEpXVERkNVNrWnNUV1UzVWtwT05sQlpOR05EVGtOa1dISTBRbmwyVEdreFFSSVhURkJtUldGMFMwRkRXazh3TlU1dlVEbGhkVWR2VVVVYUlrRkVjM0k1WmxNMmNreElkamhVVkVoeFFsVjJMVlJWWVZWMVR6WmtUMHBHUTBFIiwiZmN2IjoiMyIsImVpIjoiTFBmRWF0S0FDWk8wNU5vUDlhdUdvUUUiLCJxYyI6IkNqbGhZMjFsWTI5eWNDQmxiWEJzYjNsbFpTQnlaWFpwWlhkeklHZHNZWE56Wkc5dmNpQmhiV0pwZEdsdmJtSnZlQ0JwYm5SbGNuWnBaWGNRQUgyMHlEWV8iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHJlbW92ZSBiYWQgcmV2aWV3cyBmcm9tIEdvb2dsZSBNeSBCdXNpbmVzcz8iLCJsayI6IkdqRm9iM2NnZEc4Z2NtVnRiM1psSUdKaFpDQnlaWFpwWlhkeklHWnliMjBnWjI5dloyeGxJRzE1SUdKMWMybHVaWE56IiwiYnMiOiJjM1dRTVEtQ01CQ0Y0OXJKS0hIb2RPTG9KRHFha09pZ0RNN09CUTdhSUp4cEs0Ul9iMUVZa0xpLWQtOTlMOGVPekw5U0E0bW9JSUpFWWxKQTJjS0ZLSDhnYUt3Vk5pWU1WdHo3ZXZuSVlGdTJ2RXRoUVJtd2NwRER3T09MWmlLemlQbm5EeVpIQzAtaFVzaElUMUFidnU3R3FQSFZEN2RnaDI1MVNxNU5ZMGsxUWl6U3dZWk1VemtVMzFvNHZZeXEwTGp5UGQ5Smw3UDBOOVdEM0FfaVBqV2Z2UUUiLCJpZCI6ImZjX0xQZkVhdEtBQ1pPMDVOb1A5YXVHb1FFXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "qacC33iczVVZcqs4FF1Ar6P948RgPJIq6pWkCIyH2CR2ph8KAxbYYNmAB_LXe-mF9Dp6NS3wEIiHznsfXa0PhNC9R_de7tH540_Pnc_-_u0vJ4oW4R3HbTabEqGUeHbJpD5nhPHc5CbUCwPT-UE8yZ0XHE-y54V4LVUKZijxBduVuoMJNqIOQO99vvZAB6KxUqiGC6m7pI-N0J4y9O005HSOPWa_V-7ZohSW7LmuwNJQfBGovG5HYFMSeKFS6nOGz2zAfzqICt7Y1E7e8UUrCAD6DhpmEFDNAkGYThlvwrZhMqlaupavoKVuWCNpBGzo2-nHPXNTyMFmdtE7t6PsADQ1nTFzR-p3EsoEkwv2mvOlPZJDSMue3zo7IMxuqgCRHhiowDnvzGqfO57V6n733QRqs1WF7H9oV2IHHQL67wA7O99rYwQV-3i2HLJjMGcR1sA8Nw7YVOZc0zHTlyBM-hoNRZ7K1aBb6bx6wbJWj7etQfN17SuLia8pPY0zx8zOo4ZlW7qj8z_SdVko13ix0mjepJwywyOpwiypFH-sPzZNUW7QUrcEywc6oewPyaaUfB2dyxEm3YoPLfd1oMTxxA0hmoPYG7Cf0UMA5cmD5FZStiPR2cuWgFW-CQ4UIuCUTugQyWfEzO5w5qN29M6FqWLoZjyy2bW-psOwT7Mn_Z0nYq27Q963JgZfrweEYcKxYwCb7GZymSBGargjw7Kq7hLtfbYy5nH75DZKSuEw1-Nyl9Z--ZYtX1IDdmuwONtAhVh9ktm1hA6ns_D2FWJ0-soH9YiTrUBSYZatdvmKvDZG37LCB958oUGWPq0PXevGS7M7G7rxmKw060PgGytsBxPtPF2oP_45ETL_b5w6SFRigK9xCn2HU0yiyBmJ2uPtQI8S1d5L1GVOySmn9hKVAB0kqnUiUaecmmU5pWjp9iO9IFE_yyn1CqeOwGc5JZ_jFLnMqVSispxyelpOonKcOkrUJ6d-RaJGvypRKcXs3ZTXq9WUXNQtpTWsv7ab5Sdy21GR4fHudvne0YzZqEv-VbcmfnTnG5Z3o7vWHRTaUWzd6OwDvbOtwlICpm8jGiyKtr_waGzbxcBeu_YmLBLPCEOL0qBo-GM3cul8TLdFdx7ZQWJQ8L2ASrxR7wDD7slONITW_UP5vuPEjSlujC2tD5vquN6rdEdkIVZ1dbgUlwPh7SFERscz45dnaFeaU-y6a0Fo4eAWz6Lg9jlWbgU3Vsy2qVeAN-o9bSkSLCRP4Fvf2dbCwXPbovLQ9Keq6Phev4Vdda5MluW3Ubmmz7U0rlBaTWrb0WAiGiKLNDAl1ixVAh408EKgCRDrJETAyKBs3gBNqbNWgALrokJoGrodrqWmYNaqE77eqPHNWtnkCz6J4oUk8oVwHkjlfwBhIFQt",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qacC33iczVVZcqs4FF1Ar6P948RgPJIq6pWkCIyH2CR2ph8KAxbYYNmAB_LXe-mF9Dp6NS3wEIiHznsfXa0PhNC9R_de7tH540_Pnc_-_u0vJ4oW4R3HbTabEqGUeHbJpD5nhPHc5CbUCwPT-UE8yZ0XHE-y54V4LVUKZijxBduVuoMJNqIOQO99vvZAB6KxUqiGC6m7pI-N0J4y9O005HSOPWa_V-7ZohSW7LmuwNJQfBGovG5HYFMSeKFS6nOGz2zAfzqICt7Y1E7e8UUrCAD6DhpmEFDNAkGYThlvwrZhMqlaupavoKVuWCNpBGzo2-nHPXNTyMFmdtE7t6PsADQ1nTFzR-p3EsoEkwv2mvOlPZJDSMue3zo7IMxuqgCRHhiowDnvzGqfO57V6n733QRqs1WF7H9oV2IHHQL67wA7O99rYwQV-3i2HLJjMGcR1sA8Nw7YVOZc0zHTlyBM-hoNRZ7K1aBb6bx6wbJWj7etQfN17SuLia8pPY0zx8zOo4ZlW7qj8z_SdVko13ix0mjepJwywyOpwiypFH-sPzZNUW7QUrcEywc6oewPyaaUfB2dyxEm3YoPLfd1oMTxxA0hmoPYG7Cf0UMA5cmD5FZStiPR2cuWgFW-CQ4UIuCUTugQyWfEzO5w5qN29M6FqWLoZjyy2bW-psOwT7Mn_Z0nYq27Q963JgZfrweEYcKxYwCb7GZymSBGargjw7Kq7hLtfbYy5nH75DZKSuEw1-Nyl9Z--ZYtX1IDdmuwONtAhVh9ktm1hA6ns_D2FWJ0-soH9YiTrUBSYZatdvmKvDZG37LCB958oUGWPq0PXevGS7M7G7rxmKw060PgGytsBxPtPF2oP_45ETL_b5w6SFRigK9xCn2HU0yiyBmJ2uPtQI8S1d5L1GVOySmn9hKVAB0kqnUiUaecmmU5pWjp9iO9IFE_yyn1CqeOwGc5JZ_jFLnMqVSispxyelpOonKcOkrUJ6d-RaJGvypRKcXs3ZTXq9WUXNQtpTWsv7ab5Sdy21GR4fHudvne0YzZqEv-VbcmfnTnG5Z3o7vWHRTaUWzd6OwDvbOtwlICpm8jGiyKtr_waGzbxcBeu_YmLBLPCEOL0qBo-GM3cul8TLdFdx7ZQWJQ8L2ASrxR7wDD7slONITW_UP5vuPEjSlujC2tD5vquN6rdEdkIVZ1dbgUlwPh7SFERscz45dnaFeaU-y6a0Fo4eAWz6Lg9jlWbgU3Vsy2qVeAN-o9bSkSLCRP4Fvf2dbCwXPbovLQ9Keq6Phev4Vdda5MluW3Ubmmz7U0rlBaTWrb0WAiGiKLNDAl1ixVAh408EKgCRDrJETAyKBs3gBNqbNWgALrokJoGrodrqWmYNaqE77eqPHNWtnkCz6J4oUk8oVwHkjlfwBhIFQt"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Google Business Reviews",
+      "link": "https://business.google.com/reviews",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://business.google.com/reviews&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECCAQAQ",
+      "displayed_link": "https://business.google.com › reviews",
+      "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0oEG1mMguwDeSSI0C_2BEs1b4P_3OKRXcbn3XjqtTlqG3rgAD-9gfCstX2LrU9lgcrzhKQ6bD6LL_qp98eQ6E-aiVRI-_8Ln_cxVJsxl6_H6PTkfD6R0lJdt1fHV3sdaLO6twoSQd91aofzN1C8hBIi9kB__eCdO37kuNhnhD3yezHFd_mBrEr3ksAf_mUexCggx_Cui1n7LbsHt9jHWNR4U_81ct26cTUtTS_LL6kwPKzicH-hR-z956H8fdxVDxyEYmAQwgeL733KJgdfNddp75UP_WNwvy-tw1keehQzJ0a6TgOSiHdn3lmR9z5wWQ0eUAXz9f8eRPoOriIQAA.webp",
+      "snippet": "No information is available for this page.",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://business.google.com/reviews",
+          "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0oEG1mMguwDeSSI0C_2BEs1b4P_3OKRXcbn3XjqtTlqG3rgAD-9gfCstX2LrU9lgcrzhKQ6bD6LL_qp98eQ6E-aiVRI-_8Ln_cxVJsxl6_H6PTkfD6R0lJdt1fHV3sdaLO6twoSQd91aofzN1C8hBIi9kB__eCdO37kuNhnhD3yezHFd_mBrEr3ksAf_mUexCggx_Cui1n7LbsHt9jHWNR4U_81ct26cTUtTS_LL6kwPKzicH-hR-z956H8fdxVDxyEYmAQwgeL733KJgdfNddp75UP_WNwvy-tw1keehQzJ0a6TgOSiHdn3lmR9z5wWQ0eUAXz9f8eRPoOriIQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CiNodHRwczovL2J1c2luZXNzLmdvb2dsZS5jb20vcmV2aWV3cxIEGgIIABqqARICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQIQBCAAQABgAIAAqNQoIYWNtZWNvcnAVAAAAPxoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMiNodHRwczovL2J1c2luZXNzLmdvb2dsZS5jb20vcmV2aWV3czoeR29vZ2xlIEJ1c2luZXNzIDxiPlJldmlld3M8L2I-IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CiNodHRwczovL2J1c2luZXNzLmdvb2dsZS5jb20vcmV2aWV3cxIEGgIIABqqARICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQIQBCAAQABgAIAAqNQoIYWNtZWNvcnAVAAAAPxoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMiNodHRwczovL2J1c2luZXNzLmdvb2dsZS5jb20vcmV2aWV3czoeR29vZ2xlIEJ1c2luZXNzIDxiPlJldmlld3M8L2I-IgIQAUgAWABoAA",
+      "source": "Google Business Profile"
+    },
+    {
+      "position": 2,
+      "title": "Add, edit, or delete Google Maps reviews & ratings",
+      "link": "https://support.google.com/maps/answer/6230175?hl=en&co=GENIE.Platform%3DDesktop",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/maps/answer/6230175%3Fhl%3Den%26co%3DGENIE.Platform%253DDesktop&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECBwQAQ",
+      "displayed_link": "https://support.google.com › maps › answer",
+      "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
+      "snippet": "On Google Maps, you can write reviews for places you visit. All reviews are public and anyone can find what you add.",
+      "snippet_highlighted_words": [
+        "reviews",
+        "reviews"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "On Google Maps, you can write reviews for places you visit. All reviews are public and anyone can find what you add.",
+          "source_info_link": "https://support.google.com/maps/answer/6230175?hl=en&co=GENIE.Platform%3DDesktop",
+          "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClBodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYXBzL2Fuc3dlci82MjMwMTc1P2hsPWVuJmNvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcBIEGgIIABqNAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOcCCAAQABgAIAAqNQoIYWNtZWNvcnAVz7yuQBoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMlBodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYXBzL2Fuc3dlci82MjMwMTc1P2hsPWVuJmNvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcDpPQWRkLCBlZGl0LCBvciBkZWxldGUgR29vZ2xlIE1hcHMgPGI-cmV2aWV3czwvYj4gJmFtcDsgPGI-cmF0aW5nczwvYj4gLSBDb21wdXRlckKCAU9uIEdvb2dsZSBNYXBzLCB5b3UgY2FuIHdyaXRlIDxiPnJldmlld3M8L2I-IGZvciBwbGFjZXMgeW91IHZpc2l0LiBBbGwgPGI-cmV2aWV3czwvYj4gYXJlIHB1YmxpYyBhbmQgYW55b25lIGNhbiBmaW5kIHdoYXQgeW91IGFkZC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClBodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYXBzL2Fuc3dlci82MjMwMTc1P2hsPWVuJmNvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcBIEGgIIABqNAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOcCCAAQABgAIAAqNQoIYWNtZWNvcnAVz7yuQBoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMlBodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYXBzL2Fuc3dlci82MjMwMTc1P2hsPWVuJmNvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcDpPQWRkLCBlZGl0LCBvciBkZWxldGUgR29vZ2xlIE1hcHMgPGI-cmV2aWV3czwvYj4gJmFtcDsgPGI-cmF0aW5nczwvYj4gLSBDb21wdXRlckKCAU9uIEdvb2dsZSBNYXBzLCB5b3UgY2FuIHdyaXRlIDxiPnJldmlld3M8L2I-IGZvciBwbGFjZXMgeW91IHZpc2l0LiBBbGwgPGI-cmV2aWV3czwvYj4gYXJlIHB1YmxpYyBhbmQgYW55b25lIGNhbiBmaW5kIHdoYXQgeW91IGFkZC4iAhABSABYAGgA",
+      "source": "Google Help"
+    },
+    {
+      "position": 3,
+      "title": "Review",
+      "link": "https://en.wikipedia.org/wiki/Review",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAV3LxQcbNEU881YY0mQAcYRIoGhklE_ROpoLvpngQ1uOeN3ppKerca5CXsf-hHc1z8DCAPQMQU2797bG_6M43twwLJRz_8W6fjZ9b1A5lHkLFWjlSsYt08LIqR&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org › wiki › Review",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "A review is an evaluation of a publication, product, service, or company or a critical take on current affairs in literature, politics, science or culture.",
+      "snippet_highlighted_words": [
+        "review"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "User review",
+            "link": "https://en.wikipedia.org/wiki/Review#User_review"
+          },
+          {
+            "title": "Book review",
+            "link": "https://en.wikipedia.org/wiki/Review#Book_review"
+          },
+          {
+            "title": "Music reviews",
+            "link": "https://en.wikipedia.org/wiki/Review#Music_reviews"
+          },
+          {
+            "title": "Motion picture, television and...",
+            "link": "https://en.wikipedia.org/wiki/Review#Motion_picture,_television_and_video_reviews"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A review is an evaluation of a publication, product, service, or company or a critical take on current affairs in literature, politics, science or culture.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Review",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjNMeFFjYk5FVTg4MVlZMG1RQWNZUklvR2hrbEVfUk9wb0x2cG5nUTF1T2VOM3BwS2VyY2E1Q1hzZi1oSGMxejhEQ0FQUU1RVTI3OTdiR182TTQzdHd3TEpSel84VzZmalo5YjFBNWxIa0xGV2psU3NZdDA4TElxUhIEGgIIABq2AxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJADCAAQABgAIAAqNQoIYWNtZWNvcnAVA0qaPxoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjNMeFFjYk5FVTg4MVlZMG1RQWNZUklvR2hrbEVfUk9wb0x2cG5nUTF1T2VOM3BwS2VyY2E1Q1hzZi1oSGMxejhEQ0FQUU1RVTI3OTdiR182TTQzdHd3TEpSel84VzZmalo5YjFBNWxIa0xGV2psU3NZdDA4TElxUjoZPGI-UmV2aWV3PC9iPiAtIFdpa2lwZWRpYUKiAUEgPGI-cmV2aWV3PC9iPiBpcyBhbiBldmFsdWF0aW9uIG9mIGEgcHVibGljYXRpb24sIHByb2R1Y3QsIHNlcnZpY2UsIG9yIGNvbXBhbnkgb3IgYSBjcml0aWNhbCB0YWtlIG9uIGN1cnJlbnQgYWZmYWlycyBpbiBsaXRlcmF0dXJlLCBwb2xpdGljcywgc2NpZW5jZSBvciBjdWx0dXJlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjNMeFFjYk5FVTg4MVlZMG1RQWNZUklvR2hrbEVfUk9wb0x2cG5nUTF1T2VOM3BwS2VyY2E1Q1hzZi1oSGMxejhEQ0FQUU1RVTI3OTdiR182TTQzdHd3TEpSel84VzZmalo5YjFBNWxIa0xGV2psU3NZdDA4TElxUhIEGgIIABq2AxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJADCAAQABgAIAAqNQoIYWNtZWNvcnAVA0qaPxoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVjNMeFFjYk5FVTg4MVlZMG1RQWNZUklvR2hrbEVfUk9wb0x2cG5nUTF1T2VOM3BwS2VyY2E1Q1hzZi1oSGMxejhEQ0FQUU1RVTI3OTdiR182TTQzdHd3TEpSel84VzZmalo5YjFBNWxIa0xGV2psU3NZdDA4TElxUjoZPGI-UmV2aWV3PC9iPiAtIFdpa2lwZWRpYUKiAUEgPGI-cmV2aWV3PC9iPiBpcyBhbiBldmFsdWF0aW9uIG9mIGEgcHVibGljYXRpb24sIHByb2R1Y3QsIHNlcnZpY2UsIG9yIGNvbXBhbnkgb3IgYSBjcml0aWNhbCB0YWtlIG9uIGN1cnJlbnQgYWZmYWlycyBpbiBsaXRlcmF0dXJlLCBwb2xpdGljcywgc2NpZW5jZSBvciBjdWx0dXJlLiICEAFIAFgAaAA",
+      "source": "Wikipedia",
+      "read_more_link": "https://en.wikipedia.org/wiki/Review#:~:text=A%20review%20is%20an%20evaluation,literature%2C%20politics%2C%20science%20or%20culture."
+    },
+    {
+      "position": 4,
+      "title": "Renewable and Sustainable Energy Reviews | Journal",
+      "link": "https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFV7BLLPfj7ki0OHAC5ZVHCklbdSeca-F0jHNrFoOA4iFhj6lqXZEDypRDMLJY47zAERiOZVsp4_UrjRAfVSn7fKcvM5NKN06IDmN9bYmwkh90-v0lE8jztZ-HGzUQjcfy4g8vbb88UvXAjBL11mwLvPvy94rH8Q86fjLhgqrdJLSrN9rZg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.sciencedirect.com › journal › renewable-and...",
+      "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp",
+      "snippet": "The aim of the journal is to share problems, solutions, novel ideas and technologies to support sustainable development, the transition to a low carbon future",
+      "about_this_result": {
+        "source": {
+          "description": "The aim of the journal is to share problems, solutions, novel ideas and technologies to support sustainable development, the transition to a low carbon future",
+          "source_info_link": "https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALElQTQC6PtBBgNsB-unQgeoDeAPRA8rv9gPg6_b70VSl7HDAh2KGltr_EST6IruifoRgONCl9gA_v0tEq9NvcR-Rj2Ix8in-HtlsMNKCqDesdVlvt0VmJ8rOx31fm5xN8anZGqNUmtBpwe9Yy5AnZ3_g3UGj9-QMmmttVUbUrKwfGke7w1TXR4p6MABdn38ew6evio2YyR6O75_Z6k9Jqrun3e8o7-p-M5EG4xy-NEmA-F0NSLLvl8MrchY4o056X-2V9rEKs6IfzAaCAfv7ofdGt-zr4e8tGnllzUB-vMIWwJ6cSGZCoEXeAqcCy6KU3bymLZLNAYjRjbxeUlYprm9snWKmZeViuAudTjI3oKWfsK29UhLPJ0Jat9Z6D9K7jv3WQpwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZWN0JMTFBmajdraTBPSEFDNVpWSENrbGJkU2VjYS1GMGpITnJGb09BNGlGaGo2bHFYWkVEeXBSRE1MSlk0N3pBRVJpT1pWc3A0X1VyalJBZlZTbjdmS2N2TTVOS04wNklEbU45Ylltd2toOTAtdjBsRThqenRaLUhHelVRamNmeTRnOHZiYjg4VXZYQWpCTDExbXdMdlB2eTk0ckg4UTg2ZmpMaGdxcmRKTFNyTjlyWmcSBBoCCAAajAQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKjUKCGFjbWVjb3JwFSTCmkAaCWFjbWUgY29ycBoNaXY7cDthY21lY29ycBoKYWNtZSBncm91cDLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGVjdCTExQZmo3a2kwT0hBQzVaVkhDa2xiZFNlY2EtRjBqSE5yRm9PQTRpRmhqNmxxWFpFRHlwUkRNTEpZNDd6QUVSaU9aVnNwNF9VcmpSQWZWU243Zktjdk01TktOMDZJRG1OOWJZbXdraDkwLXYwbEU4anp0Wi1IR3pVUWpjZnk0Zzh2YmI4OFV2WEFqQkwxMW13THZQdnk5NHJIOFE4NmZqTGhncXJkSkxTck45clpnOjlSZW5ld2FibGUgYW5kIFN1c3RhaW5hYmxlIEVuZXJneSA8Yj5SZXZpZXdzPC9iPiB8IEpvdXJuYWxCngFUaGUgYWltIG9mIHRoZSBqb3VybmFsIGlzIHRvIHNoYXJlIHByb2JsZW1zLCBzb2x1dGlvbnMsIG5vdmVsIGlkZWFzIGFuZCB0ZWNobm9sb2dpZXMgdG8gc3VwcG9ydCBzdXN0YWluYWJsZSBkZXZlbG9wbWVudCwgdGhlIHRyYW5zaXRpb24gdG8gYSBsb3cgY2FyYm9uIGZ1dHVyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZWN0JMTFBmajdraTBPSEFDNVpWSENrbGJkU2VjYS1GMGpITnJGb09BNGlGaGo2bHFYWkVEeXBSRE1MSlk0N3pBRVJpT1pWc3A0X1VyalJBZlZTbjdmS2N2TTVOS04wNklEbU45Ylltd2toOTAtdjBsRThqenRaLUhHelVRamNmeTRnOHZiYjg4VXZYQWpCTDExbXdMdlB2eTk0ckg4UTg2ZmpMaGdxcmRKTFNyTjlyWmcSBBoCCAAajAQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDmAwgAEAAYACAAKjUKCGFjbWVjb3JwFSTCmkAaCWFjbWUgY29ycBoNaXY7cDthY21lY29ycBoKYWNtZSBncm91cDLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGVjdCTExQZmo3a2kwT0hBQzVaVkhDa2xiZFNlY2EtRjBqSE5yRm9PQTRpRmhqNmxxWFpFRHlwUkRNTEpZNDd6QUVSaU9aVnNwNF9VcmpSQWZWU243Zktjdk01TktOMDZJRG1OOWJZbXdraDkwLXYwbEU4anp0Wi1IR3pVUWpjZnk0Zzh2YmI4OFV2WEFqQkwxMW13THZQdnk5NHJIOFE4NmZqTGhncXJkSkxTck45clpnOjlSZW5ld2FibGUgYW5kIFN1c3RhaW5hYmxlIEVuZXJneSA8Yj5SZXZpZXdzPC9iPiB8IEpvdXJuYWxCngFUaGUgYWltIG9mIHRoZSBqb3VybmFsIGlzIHRvIHNoYXJlIHByb2JsZW1zLCBzb2x1dGlvbnMsIG5vdmVsIGlkZWFzIGFuZCB0ZWNobm9sb2dpZXMgdG8gc3VwcG9ydCBzdXN0YWluYWJsZSBkZXZlbG9wbWVudCwgdGhlIHRyYW5zaXRpb24gdG8gYSBsb3cgY2FyYm9uIGZ1dHVyZSICEAFIAFgAaAA",
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 5,
+      "title": "r/Reviews",
+      "link": "https://www.reddit.com/r/Reviews/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVYC4rM6481mGz7X7aLrisarznYEfjLRpGCVfwhPKX6d9BHqkCnmDbTMMEi_-No1Ab-_53iTNMa3WOYPtpM4As1SmOVIp-X03bYEQskeVNl5I12Ati3oZg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECCEQAQ&uoh=1",
+      "displayed_link": "24.1K+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "r/Reviews: The most honest reviews on Reddit about products, movies, books, and whatnot. Asking for recommendations is allowed.",
+      "snippet_highlighted_words": [
+        "Reviews",
+        "reviews"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "r/Reviews: The most honest reviews on Reddit about products, movies, books, and whatnot. Asking for recommendations is allowed.",
+          "source_info_link": "https://www.reddit.com/r/Reviews/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVllDNHJNNjQ4MW1HejdYN2FMcmlzYXJ6bllFZmpMUnBHQ1Zmd2hQS1g2ZDlCSHFrQ25tRGJUTU1FaV8tTm8xQWItXzUzaVROTWEzV09ZUHRwTTRBczFTbU9WSXAtWDAzYllFUXNrZVZObDVJMTJBdGkzb1pnEgQaAggAGp0DEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9wIIABAAGAAgACo1CghhY21lY29ycBVTwHNAGglhY21lIGNvcnAaDWl2O3A7YWNtZWNvcnAaCmFjbWUgZ3JvdXAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWWUM0ck02NDgxbUd6N1g3YUxyaXNhcnpuWUVmakxScEdDVmZ3aFBLWDZkOUJIcWtDbm1EYlRNTUVpXy1ObzFBYi1fNTNpVE5NYTNXT1lQdHBNNEFzMVNtT1ZJcC1YMDNiWUVRc2tlVk5sNUkxMkF0aTNvWmc6GXIvPGI-UmV2aWV3czwvYj4gLSBSZWRkaXRCjQFyLzxiPlJldmlld3M8L2I-OiBUaGUgbW9zdCBob25lc3QgPGI-cmV2aWV3czwvYj4gb24gUmVkZGl0IGFib3V0IHByb2R1Y3RzLCBtb3ZpZXMsIGJvb2tzLCBhbmQgd2hhdG5vdC4gQXNraW5nIGZvciByZWNvbW1lbmRhdGlvbnMgaXMgYWxsb3dlZC4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVllDNHJNNjQ4MW1HejdYN2FMcmlzYXJ6bllFZmpMUnBHQ1Zmd2hQS1g2ZDlCSHFrQ25tRGJUTU1FaV8tTm8xQWItXzUzaVROTWEzV09ZUHRwTTRBczFTbU9WSXAtWDAzYllFUXNrZVZObDVJMTJBdGkzb1pnEgQaAggAGp0DEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9wIIABAAGAAgACo1CghhY21lY29ycBVTwHNAGglhY21lIGNvcnAaDWl2O3A7YWNtZWNvcnAaCmFjbWUgZ3JvdXAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWWUM0ck02NDgxbUd6N1g3YUxyaXNhcnpuWUVmakxScEdDVmZ3aFBLWDZkOUJIcWtDbm1EYlRNTUVpXy1ObzFBYi1fNTNpVE5NYTNXT1lQdHBNNEFzMVNtT1ZJcC1YMDNiWUVRc2tlVk5sNUkxMkF0aTNvWmc6GXIvPGI-UmV2aWV3czwvYj4gLSBSZWRkaXRCjQFyLzxiPlJldmlld3M8L2I-OiBUaGUgbW9zdCBob25lc3QgPGI-cmV2aWV3czwvYj4gb24gUmVkZGl0IGFib3V0IHByb2R1Y3RzLCBtb3ZpZXMsIGJvb2tzLCBhbmQgd2hhdG5vdC4gQXNraW5nIGZvciByZWNvbW1lbmRhdGlvbnMgaXMgYWxsb3dlZC4iAhABSABYAGgA",
+      "source": "Reddit · r/Reviews"
+    },
+    {
+      "position": 6,
+      "title": "Review Snippet (Review, AggregateRating) Structured Data",
+      "link": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developers.google.com/search/docs/appearance/structured-data/review-snippet&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQFnoECB8QAQ",
+      "displayed_link": "https://developers.google.com › ... › Documentation",
+      "favicon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAACwBwCdASocABwAPtEutFooIagoGAEAGglsALEMq3oCaY3ALGgw3cx_xyvgByn8hv16Bdj3K3pDLwDSJ1bi8k_koAdH_JQAAP73gOdlr58fRHMqu2eucnKRoHQ7WqxT5WXNMXzZDPfoX4CcrarH9uzwy7LeoBTryjQLhWqMewIa-JWCFvwx8863YV0yTZp2wHluunb02gTL8rdJhKKIt-_IEsdRbXIfGBSAhI5gclIVOypydsEGoeO-2RwEuVvcjtNmLhgn1YZVz1ny3lTyaBbaJvwT03ZpP06tz0TYp78_jH_e3vWd7T0E1tDDX2UBcdS7GfxOz2guP0YhZB-lcqWK0v-Gcppym5s18Sv7BlpapKYFBJ-vQwE50VygXnHxvlX7FdO6iZAD0E7mmo53gC0iHffVI5pmRmMy7hgU023WnNdomLg1gja9rO_wH0hUUu1s-39UssnRXNpqa51l6uAuWl7FMW0u2WeFOcQnkSsxCXCDVqA5bL6-__q-8pa_aa3gqN53lbH12AAA.webp",
+      "snippet": "A review snippet is a short excerpt of a review or a rating from a review website, usually an average of the combined rating scores from many reviewers.",
+      "snippet_highlighted_words": [
+        "review",
+        "review",
+        "review"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A review snippet is a short excerpt of a review or a rating from a review website, usually an average of the combined rating scores from many reviewers.",
+          "source_info_link": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+          "icon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAACwBwCdASocABwAPtEutFooIagoGAEAGglsALEMq3oCaY3ALGgw3cx_xyvgByn8hv16Bdj3K3pDLwDSJ1bi8k_koAdH_JQAAP73gOdlr58fRHMqu2eucnKRoHQ7WqxT5WXNMXzZDPfoX4CcrarH9uzwy7LeoBTryjQLhWqMewIa-JWCFvwx8863YV0yTZp2wHluunb02gTL8rdJhKKIt-_IEsdRbXIfGBSAhI5gclIVOypydsEGoeO-2RwEuVvcjtNmLhgn1YZVz1ny3lTyaBbaJvwT03ZpP06tz0TYp78_jH_e3vWd7T0E1tDDX2UBcdS7GfxOz2guP0YhZB-lcqWK0v-Gcppym5s18Sv7BlpapKYFBJ-vQwE50VygXnHxvlX7FdO6iZAD0E7mmo53gC0iHffVI5pmRmMy7hgU023WnNdomLg1gja9rO_wH0hUUu1s-39UssnRXNpqa51l6uAuWl7FMW0u2WeFOcQnkSsxCXCDVqA5bL6-__q-8pa_aa3gqN53lbH12AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClNodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9zZWFyY2gvZG9jcy9hcHBlYXJhbmNlL3N0cnVjdHVyZWQtZGF0YS9yZXZpZXctc25pcHBldBIEGgIIABqyAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIwDCAAQABgAIAAqNQoIYWNtZWNvcnAVZaKvPhoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMlNodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9zZWFyY2gvZG9jcy9hcHBlYXJhbmNlL3N0cnVjdHVyZWQtZGF0YS9yZXZpZXctc25pcHBldDpGPGI-UmV2aWV3PC9iPiBTbmlwcGV0ICg8Yj5SZXZpZXc8L2I-LCBBZ2dyZWdhdGVSYXRpbmcpIFN0cnVjdHVyZWQgRGF0YUKtAUEgPGI-cmV2aWV3PC9iPiBzbmlwcGV0IGlzIGEgc2hvcnQgZXhjZXJwdCBvZiBhIDxiPnJldmlldzwvYj4gb3IgYSByYXRpbmcgZnJvbSBhIDxiPnJldmlldzwvYj4gd2Vic2l0ZSwgdXN1YWxseSBhbiBhdmVyYWdlIG9mIHRoZSBjb21iaW5lZCByYXRpbmcgc2NvcmVzIGZyb20gbWFueSByZXZpZXdlcnMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClNodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9zZWFyY2gvZG9jcy9hcHBlYXJhbmNlL3N0cnVjdHVyZWQtZGF0YS9yZXZpZXctc25pcHBldBIEGgIIABqyAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIwDCAAQABgAIAAqNQoIYWNtZWNvcnAVZaKvPhoJYWNtZSBjb3JwGg1pdjtwO2FjbWVjb3JwGgphY21lIGdyb3VwMlNodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9zZWFyY2gvZG9jcy9hcHBlYXJhbmNlL3N0cnVjdHVyZWQtZGF0YS9yZXZpZXctc25pcHBldDpGPGI-UmV2aWV3PC9iPiBTbmlwcGV0ICg8Yj5SZXZpZXc8L2I-LCBBZ2dyZWdhdGVSYXRpbmcpIFN0cnVjdHVyZWQgRGF0YUKtAUEgPGI-cmV2aWV3PC9iPiBzbmlwcGV0IGlzIGEgc2hvcnQgZXhjZXJwdCBvZiBhIDxiPnJldmlldzwvYj4gb3IgYSByYXRpbmcgZnJvbSBhIDxiPnJldmlldzwvYj4gd2Vic2l0ZSwgdXN1YWxseSBhbiBhdmVyYWdlIG9mIHRoZSBjb21iaW5lZCByYXRpbmcgc2NvcmVzIGZyb20gbWFueSByZXZpZXdlcnMuIgIQAUgAWABoAA",
+      "source": "Google for Developers",
+      "read_more_link": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet#:~:text=A%20review%20snippet%20is%20a,rating%20scores%20from%20many%20reviewers."
+    },
+    {
+      "position": 7,
+      "title": "Can you really trust online reviews?",
+      "link": "https://www.youtube.com/watch?v=MfriPbc8hxM",
+      "displayed_link": "18.1K+ views · 9 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ac4f72cf607a9a39b064fc0/images/sTAUDjnt4Kf6KUHzNBqUrNACxIcFduZqy6qZ_RMtth8.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+      "snippet": "Can online reviews actually be trusted? discuss how consumers can navigate the subjective world of customer ratings. reviews can we rely on?",
+      "duration": "5:31",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "What was the last online review you used?",
+          "link": "https://www.youtube.com/watch?v=MfriPbc8hxM&t=0"
+        },
+        {
+          "time": "00:45",
+          "title": "Can you trust an online review?",
+          "link": "https://www.youtube.com/watch?v=MfriPbc8hxM&t=45"
+        },
+        {
+          "time": "01:44",
+          "title": "Have researchers looked at how reliable online reviews are?",
+          "link": "https://www.youtube.com/watch?v=MfriPbc8hxM&t=104"
+        },
+        {
+          "time": "02:47",
+          "title": "What types of reviews can we rely on?",
+          "link": "https://www.youtube.com/watch?v=MfriPbc8hxM&t=167"
+        },
+        {
+          "time": "04:23",
+          "title": "Are there particular platforms that are more reliable than others",
+          "link": "https://www.youtube.com/watch?v=MfriPbc8hxM&t=263"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Can online reviews actually be trusted? discuss how consumers can navigate the subjective world of customer ratings. reviews can we rely on?",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjlLdTRKQWdMVkJGOC1QVDFad0RWeFZuTmduSFNBdzJ2cnhJZHBzeWxzc1RCeUluZnhGenFJMjVPTFhzMlRrMUFvNmF3MmdNc2FrMDhCSVpEb1ViZ29FSWlNa054QUhzdXQ4ekhidEd3QVEwX3V0OVJwc1dWbFk5UWZpeXZNSEhTSmcSIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjlLdTRKQWdMVkJGOC1QVDFad0RWeFZuTmduSFNBdzJ2cnhJZHBzeWxzc1RCeUluZnhGenFJMjVPTFhzMlRrMUFvNmF3MmdNc2FrMDhCSVpEb1ViZ29FSWlNa054QUhzdXQ4ekhidEd3QVEwX3V0OVJwc1dWbFk5UWZpeXZNSEhTSmcSIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube · The Economist"
+    },
+    {
+      "position": 8,
+      "title": "How to write Google Reviews | Skill Ninja Academy",
+      "link": "https://www.facebook.com/SkillNinjaAcademy/videos/how-to-write-google-reviews/1583681059391109/",
+      "displayed_link": "10+ reactions · 5 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ac4f72cf607a9a39b064fc0/images/sTAUDjnt4Kf6KUHzNBqUrCtrx5LJy-9kIMIJZndd_Jg.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "This video is a tutorial that demonstrates how to write Google reviews. including choosing a review topic, adding a date, and providing a name ...",
+      "duration": "1:37",
+      "about_this_result": {
+        "source": {
+          "description": "This video is a tutorial that demonstrates how to write Google reviews. including choosing a review topic, adding a date, and providing a name ...",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZlbDItaGZ3X1dFTUprd3ZlNkdRX0dUbjl2MUo4UmoyRDREczdPRklKaUVaSjFUa1lfNTdiNGdxdzBTbmtIb29OMGQ3OWV1WGtwY3I3LVlBVTZpb2ZFNGJrU1M2RUtLZ1gyMnlZdUFkZ1hTR2E2ejAxN2dwRlI1ZXBWY2Q5WW04MHFQeWlvakhrOVdyd3V6T01YclZ2azNuM1NBNHhLdVRjVjJKRmd0eDNWX2RCN0RHTm5OZ2xkLXBVYnpicWNwSFlOZ2JGYURiEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZlbDItaGZ3X1dFTUprd3ZlNkdRX0dUbjl2MUo4UmoyRDREczdPRklKaUVaSjFUa1lfNTdiNGdxdzBTbmtIb29OMGQ3OWV1WGtwY3I3LVlBVTZpb2ZFNGJrU1M2RUtLZ1gyMnlZdUFkZ1hTR2E2ejAxN2dwRlI1ZXBWY2Q5WW04MHFQeWlvakhrOVdyd3V6T01YclZ2azNuM1NBNHhLdVRjVjJKRmd0eDNWX2RCN0RHTm5OZ2xkLXBVYnpicWNwSFlOZ2JGYURiEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Facebook · Skill Ninja Academy"
+    },
+    {
+      "position": 9,
+      "title": "How to Get Your First 10 Google Reviews This Week",
+      "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en",
+      "displayed_link": "890+ views · 3 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ac4f72cf607a9a39b064fc0/images/sTAUDjnt4Kf6KUHzNBqUrMr1-pnvUPOBcTMD4tr3euY.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+      "snippet": "Want your reviews to work harder and actually bring in more calls? Grab my free AI-Mode Reviews guide and make every review count.",
+      "duration": "5:02",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "How to get your first 10 Google reviews",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=0"
+        },
+        {
+          "time": "00:40",
+          "title": "Why the first 10 reviews are a turning point for trust",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=40"
+        },
+        {
+          "time": "01:21",
+          "title": "5 fast strategies to get Google reviews quickly",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=81"
+        },
+        {
+          "time": "01:46",
+          "title": "How to use QR codes for storefront reviews",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=106"
+        },
+        {
+          "time": "02:22",
+          "title": "The best time to ask for reviews (Text message strategy)",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=142"
+        },
+        {
+          "time": "02:51",
+          "title": "Passive ways to get reviews via email signatures",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=171"
+        },
+        {
+          "time": "03:07",
+          "title": "How to move Facebook & Yelp reviews to Google",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=187"
+        },
+        {
+          "time": "03:27",
+          "title": "The \"Copy-Paste\" trick for effortless customer reviews",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=207"
+        },
+        {
+          "time": "03:58",
+          "title": "Using review photos to beat your local competition",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=238"
+        },
+        {
+          "time": "04:54",
+          "title": "Case Study: How to get 100+ reviews a day",
+          "link": "https://www.youtube.com/watch?v=nv-hLfuWWao&vl=en&t=294"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Want your reviews to work harder and actually bring in more calls? Grab my free AI-Mode Reviews guide and make every review count.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlF0UHltVUVCT0pSX1lyOWN5RTZaOTg4WXJSeG9fSnpPdkIwelYtd3VzdVJKX2llU3ZUU3liOGg1ZnlsOUxReDdQeHRCM0JmRGctYWxSSjhaUnliemlxN2tKT3YzZV9VMjd3Y2ZibWVyOG1RRzljMWRmOVZQZ2V2TGJ0MUdoNGpRczBpVDZaS3VwZxIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlF0UHltVUVCT0pSX1lyOWN5RTZaOTg4WXJSeG9fSnpPdkIwelYtd3VzdVJKX2llU3ZUU3liOGg1ZnlsOUxReDdQeHRCM0JmRGctYWxSSjhaUnliemlxN2tKT3YzZV9VMjd3Y2ZibWVyOG1RRzljMWRmOVZQZ2V2TGJ0MUdoNGpRczBpVDZaS3VwZxIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQPT7UylJx9UX6-9l_lI4co3k07McCIA2QZtg",
+      "source": "YouTube · Zanet Design"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "My contributions Google reviews",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=My+contributions+Google+reviews&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=My+contributions+Google+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "My Google reviews login",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=My+Google+reviews+login&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=My+Google+reviews+login"
+    },
+    {
+      "block_position": 1,
+      "query": "Maps my reviews",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Maps+my+reviews&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Maps+my+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "Write a Google review for a company",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Write+a+Google+review+for+a+company&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Write+a+Google+review+for+a+company"
+    },
+    {
+      "block_position": 1,
+      "query": "Read Google reviews",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Read+Google+reviews&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Read+Google+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "Do a Google review",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Do+a+Google+review&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Do+a+Google+review"
+    },
+    {
+      "block_position": 1,
+      "query": "Edit my Google reviews",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Edit+my+Google+reviews&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Edit+my+Google+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "Reviews I left on Google",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&q=Reviews+I+left+on+Google&sa=X&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Reviews+I+left+on+Google"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&ei=LPfEatKACZO05NoP9auGoQE&start=10&sa=N&sstk=AS6-VmIKDlrdLEu-uR90uDh1qf8j9P5pZq_Fw1mJ2Omxpcvj-v4rZmWJvQz5wJOjWS4cqkF80djxc3Iel_Wwnfo_19CaViYx4ZRFYg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ8NMDegQIPRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&ei=LPfEatKACZO05NoP9auGoQE&start=10&sa=N&sstk=AS6-VmIKDlrdLEu-uR90uDh1qf8j9P5pZq_Fw1mJ2Omxpcvj-v4rZmWJvQz5wJOjWS4cqkF80djxc3Iel_Wwnfo_19CaViYx4ZRFYg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ8tMDegQIPRAE",
+      "3": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&ei=LPfEatKACZO05NoP9auGoQE&start=20&sa=N&sstk=AS6-VmIKDlrdLEu-uR90uDh1qf8j9P5pZq_Fw1mJ2Omxpcvj-v4rZmWJvQz5wJOjWS4cqkF80djxc3Iel_Wwnfo_19CaViYx4ZRFYg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ8tMDegQIPRAG",
+      "4": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&ei=LPfEatKACZO05NoP9auGoQE&start=30&sa=N&sstk=AS6-VmIKDlrdLEu-uR90uDh1qf8j9P5pZq_Fw1mJ2Omxpcvj-v4rZmWJvQz5wJOjWS4cqkF80djxc3Iel_Wwnfo_19CaViYx4ZRFYg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ8tMDegQIPRAI",
+      "5": "https://www.google.com/search?q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&gl=in&hl=en&sxsrf=APpeQnu7J1cnGinNOQaq0mqWTkFc2mUKfw:1791293228154&ei=LPfEatKACZO05NoP9auGoQE&start=40&sa=N&sstk=AS6-VmIKDlrdLEu-uR90uDh1qf8j9P5pZq_Fw1mJ2Omxpcvj-v4rZmWJvQz5wJOjWS4cqkF80djxc3Iel_Wwnfo_19CaViYx4ZRFYg&ved=2ahUKEwjSxrWkv6WXAxUTGlkFHfWVIRQQ8tMDegQIPRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AcmeCorp+employee+reviews+glassdoor+ambitionbox+interview&start=40"
+    }
+  }
+}

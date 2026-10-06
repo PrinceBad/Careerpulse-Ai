@@ -1,10 +1,174 @@
 {
-  "place_results": {
-    "title": "Razorpay headquarters India Corporate Headquarters",
-    "address": "Salarpuria Softzone, Outer Ring Road, Bellandur, Bengaluru, Karnataka 560103",
-    "rating": 4.6,
-    "reviews": 320,
-    "website": "https://razorpay.com",
-    "link": "https://maps.google.com/?cid=mock123"
-  }
+  "search_metadata": {
+    "id": "6ac4f6fa874d50297a84c7cb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Ut1s6Liq5YwPPa5HL1hI1SJXdqDFBGDKzrID-AuNGuo/6ac4f6fa874d50297a84c7cb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Ut1s6Liq5YwPPa5HL1hI1SJXdqDFBGDKzrID-AuNGuo/6ac4f6fa874d50297a84c7cb.md",
+    "created_at": "2026-10-06 13:26:18 UTC",
+    "processed_at": "2026-10-06 13:26:18 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Razorpay+headquarters+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Ut1s6Liq5YwPPa5HL1hI1SJXdqDFBGDKzrID-AuNGuo/6ac4f6fa874d50297a84c7cb.html",
+    "prettify_html_file": "https://serpapi.com/searches/Ut1s6Liq5YwPPa5HL1hI1SJXdqDFBGDKzrID-AuNGuo/6ac4f6fa874d50297a84c7cb.prettify",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Razorpay headquarters India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Razorpay headquarters India"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Razorpay - Payment Gateway & Payment Solutions for India",
+      "place_id": "ChIJX4xQl0wUrjsRnzU1I1AzwIk",
+      "data_id": "0x3bae144c97508c5f:0x89c033502335359f",
+      "data_cid": "9925989998005663135",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae144c97508c5f%3A0x89c033502335359f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae144c97508c5f%3A0x89c033502335359f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.938955199999999,
+        "longitude": 77.60953359999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX4xQl0wUrjsRnzU1I1AzwIk",
+      "provider_id": "/g/11cjj11fg7",
+      "rating": 3.3,
+      "reviews": 2068,
+      "type": "Software company",
+      "types": [
+        "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
+      ],
+      "address": "SJR Cyber Laskar, Hosur Rd, Adugodi, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Wed",
+      "hours": "Closed · Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM"
+      },
+      "website": "https://razorpay.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"What truly sets Razorpay apart is their remarkable customer support.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNUB7kUudZd7RkBXIODXBZCvXRC1qByeS-NvwYUckawx6HtZmJqAHpDLjgr-MEO78I4xSr7flV8XAh4iWAyAkQM9fVMFDTNvbbO-0MDwMq-0qUpkXiPorkGqg6-NVgo5srVnix4PQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Jhu-T3icHcRJDoIwAADAF1VqRFETDwVcY8ENrNy0YsECpYuAT_QJ_sbEOcz3kxlT66llFdmgx4RgRfrSqaKiMmllelSUFlNXrQHVFvKauiiDyHV49Lond-fAXbIOfeImXkMOXl-67_QIgqa9RJRf2260Mkm5kWhV-9snUwDPQ2e8trujch5FPCYos_MzeiO-x5NHjBf-KWhutxBA7LdYAiijmpN8JxRfSjYCQczEUKu4yjt7t5-1fQghyP5TUP0AML1FzQ"
+    },
+    {
+      "position": 2,
+      "title": "Razorpay (Arena Office)",
+      "place_id": "ChIJF61ZYXEVrjsR2ZWCiSTULII",
+      "data_id": "0x3bae15716159ad17:0x822cd424898295d9",
+      "data_cid": "9380105377296848345",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15716159ad17%3A0x822cd424898295d9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15716159ad17%3A0x822cd424898295d9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9372847,
+        "longitude": 77.6099462
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF61ZYXEVrjsR2ZWCiSTULII",
+      "provider_id": "/g/11sryn8817",
+      "rating": 4,
+      "reviews": 67,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "3rd, 4th, 5th and 6th Floor, Kothari Arena 24, Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "website": "http://www.razorpay.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Razorpay is used by businesses to accept, process, and disburse payments.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMsdpzjB11NT3-zA-FawBz0COJMV8XEXCwV306qmrHDrNTDPylC9CXEFve29yRR5OH8ffjtBgpcA3Qy6Y2hNF-uwY2QQhM6HXcUef9OJ9Eku7I60AW8-xdoYJErl192aRc5frJWHWKZblrZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/emNrQHicHcTBboIwAADQL6oUiIwu8QAVgiyAEBXwxmqh0UJZW2Twkzvvb0x8h_f_x7Qe1adhcGZvOiE6TidFJRGDpoPeENEbnWyUAkQZHn6OvE_UbVzvvmmmJxusHgib2V8hzuLk4lZBheeLDZ2fXkZ7mZ72x4VjhKsgfFILLUWxzSK3be_a70bi2fni1BZLQzDNtZXnLHGiipxpi7IYBY_p4-BAr3TB703UcSC5iaymINtWxmVUfl2_ubzuZhNCCNh7AoYXMK1FtQ"
+    },
+    {
+      "position": 3,
+      "title": "Razorpay POS",
+      "place_id": "ChIJ-2-E9o0UrjsRdqxoou6Op2Y",
+      "data_id": "0x3bae148df6846ffb:0x66a78eeea268ac76",
+      "data_cid": "7397038068557458550",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae148df6846ffb%3A0x66a78eeea268ac76&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae148df6846ffb%3A0x66a78eeea268ac76&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9149756,
+        "longitude": 77.6324472
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-2-E9o0UrjsRdqxoou6Op2Y",
+      "provider_id": "/g/12jlm_g71",
+      "rating": 3.7,
+      "reviews": 266,
+      "type": "Software company",
+      "types": [
+        "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
+      ],
+      "address": "No. L374, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9:30 AM Wed",
+      "hours": "Closed · Opens 9:30 AM Wed",
+      "operating_hours": {
+        "tuesday": "9:30 AM–6:30 PM",
+        "wednesday": "9:30 AM–6:30 PM",
+        "thursday": "9:30 AM–6:30 PM",
+        "friday": "9:30 AM–6:30 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9:30 AM–6:30 PM"
+      },
+      "phone": "+91 1800 212 212 212",
+      "website": "https://razorpay.com/pos",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPdfSrT2Zt_MacOjNanHTtb4ZDuyB0kOycc36ekhZP75SGKZ8uuPXrNpeqkk9Jpc_vttTe7uHsJE-Nh9IERlpR6jrQRr2c9wDOg3X4-bymhdkAFNjUZRVkDHPcTDPKkzfVPxIRE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tq2BtXicHcTbboIwGADgJyqgOJElu3CDCZpBV9GY3hj8LTSUQ9eDDl_QZ_BtTPwuvsedGyP1u-u23HfqYahbZjVTMPSG9caBoXNrVWqNQLvLr4tsO3yutqqYUnP8KSFvsrJPCnOa0ciOn57IRwB_zgSnOHjbrjZ0YS0-qEyyPyHCtYTjxZiCBTbR6xhlPExj0koyb9QvUVMIr1Fe-4cZOo0dP4vld9bsKNmLKMFQRHgjbtUe_6ck_rhOPM9D_DWg_gkk5UYq"
+    }
+  ]
 }

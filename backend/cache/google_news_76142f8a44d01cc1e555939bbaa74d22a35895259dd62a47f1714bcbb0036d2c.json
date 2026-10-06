@@ -1,0 +1,190 @@
+{
+  "search_metadata": {
+    "id": "6ac4f6987d1a13c5edbbadde",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sim2Z91LqqE2oUYKzsOnRIGklO0iZ8zStOUFcEpr_zI/6ac4f6987d1a13c5edbbadde.json",
+    "markdown_endpoint": "https://serpapi.com/searches/sim2Z91LqqE2oUYKzsOnRIGklO0iZ8zStOUFcEpr_zI/6ac4f6987d1a13c5edbbadde.md",
+    "created_at": "2026-10-06 13:24:40 UTC",
+    "processed_at": "2026-10-06 13:24:40 UTC",
+    "google_news_url": "https://news.google.com/search?q=CRED+layoffs+confirmed+severance+details&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/sim2Z91LqqE2oUYKzsOnRIGklO0iZ8zStOUFcEpr_zI/6ac4f6987d1a13c5edbbadde.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "CRED layoffs confirmed severance details"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Intuit slashes staff, signs deals with Anthropic and Open AI",
+      "source": {
+        "name": "hcamag.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hcamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hcamag.com/us/specialization/transformation/intuit-slashes-staff-signs-deals-with-anthropic-and-open-ai/576021",
+      "thumbnail": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/035/0356_639149086088886303.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViSE50UjFWYVNITTBjbU5xVFJDdEF4akxCU2dLTWdZVjQ0aElTUVE",
+      "date": "05/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-20T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Meta layoffs confirmed: 8,000 jobs slashed, 6,000 roles frozen – reason behind the move, timeline and seve",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shreya Biswas"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/international/us/meta-layoffs-confirmed-8000-jobs-slashed-6000-roles-frozen-reason-behind-the-move-timeline-and-severance-details-explained/articleshow/130476777.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130477284,width-1200,height-900,resizemode-4,imgsize-26928/meta-layoffs-confirmed-8000-jobs-slashed-6000-roles-frozen-reason-behind-the-move-timeline-and-severance-details-explained.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRM0ppZUVOeWEwODRYMnA0VFJEZ0F4aUFCU2dLTWdhZGtaSXJ1UVk",
+      "date": "04/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-24T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Full text of the email Oracle sent to 30,000 laid-off employees at 6 am",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/full-text-of-the-email-oracle-sent-to-30-000-laid-off-employees-at-6-am-13876386.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/06/20240619140639_Oracle.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OMnRSUjJsWWVWcFRSbWxqVFJDZkF4ampCU2dLTWdZQkU0ekdFUXM",
+      "date": "04/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-01T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Oracle layoffs affected US employees severance package and benefits explained after global job cuts: US la",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gandharv Walia"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/international/us/oracle-layoffs-affected-us-employees-severance-package-and-benefits-explained-after-global-job-cuts-us-labour-laws-and-severance-rules/articleshow/130064117.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130064587,width-1200,height-900,resizemode-4,imgsize-61708/oracle-layoffs-affected-us-employees-severance-package-and-benefits-during-global-workforce-reduction.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUJRMnB6TFRCdlYzYzNjR3RtVFJEZ0F4aUFCU2dLTWd1Qm9ZNEl1ZVkwVEdvbVhR",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "85 jobs cut at Thurston Co. credit union, company confirms. Here’s what we know",
+      "source": {
+        "name": "The Olympian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theolympian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rolf Boone"
+        ]
+      },
+      "link": "https://www.theolympian.com/news/local/article315269784.html",
+      "thumbnail": "https://www.theolympian.com/public/latest-news/7een1e/picture312444869/alternates/LANDSCAPE_1200/OLY_PeakCreditUnionsignage.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVa0pXTmw4eWRqRmhia0pmVFJDZkF4ampCU2dLTWdZUk5aRExHUWs",
+      "date": "04/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-01T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "‘Ruthless’ Howard Stern ‘threw loyal staffers out like trash’ with ‘horrible’ severance deal and strict NDA",
+      "source": {
+        "name": "the-sun.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.the-sun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jessica Finn"
+        ]
+      },
+      "link": "https://www.the-sun.com/entertainment/16719488/howard-stern-staff-layoffs-nda-severance-ruthless/",
+      "thumbnail": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/07/howard-stern-guest-today-thursday-722362980_a1cf80.jpg?w=960",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxXVmhDVUcxT1IzVmFSbXBpVFJEUkF4aVVCU2dLTWdhcFpaYk5KUWc",
+      "date": "07/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-21T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "MSUFCU Dismisses One-Fifth of IT Department",
+      "source": {
+        "name": "East Lansing Info",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eastlansinginfo.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dustin Petty"
+        ]
+      },
+      "link": "https://eastlansinginfo.news/msufcu-dismisses-one-fifth-of-it-department/",
+      "thumbnail": "https://eastlansinginfo.news/wp-content/uploads/2025/06/20230721__MSUFCU-Grand-Opening-008.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURYMlkwZHpKd2FFSmFRMlI0VFJEN0F4amNCQ2dLTWdNQmd3NA",
+      "date": "06/10/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-10T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "MSU Federal Credit Union Cuts 24 IT Positions In Streamlining Effort",
+      "source": {
+        "name": "CU Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cutoday.info&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ray Birch"
+        ]
+      },
+      "link": "https://www.cutoday.info/THE-feature/MSU-Federal-Credit-Union-Cuts-24-IT-Positions-In-Streamlining-Effort",
+      "thumbnail": "https://www.cutoday.info/master/var/ezdemo_site/storage/images/media/images/msu-fcu-2/1869405-1-eng-US/msu-fcu-2_galleryfull.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjWE5mWW5seFlVZFZlVWhGVFJEU0FSaUNCaWdLTWdZQmdJWUR3d1E",
+      "date": "06/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-11T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

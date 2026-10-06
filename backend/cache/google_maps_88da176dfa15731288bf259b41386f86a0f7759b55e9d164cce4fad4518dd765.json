@@ -1,0 +1,211 @@
+{
+  "search_metadata": {
+    "id": "6ac4f72c95e950cceab0dc85",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YEF6uQp_zMHM3Uir28oHkuyi4t4RZr1eJ9hyzJudqPc/6ac4f72c95e950cceab0dc85.json",
+    "markdown_endpoint": "https://serpapi.com/searches/YEF6uQp_zMHM3Uir28oHkuyi4t4RZr1eJ9hyzJudqPc/6ac4f72c95e950cceab0dc85.md",
+    "created_at": "2026-10-06 13:27:08 UTC",
+    "processed_at": "2026-10-06 13:27:08 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/AcmeCorp+headquarters+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/YEF6uQp_zMHM3Uir28oHkuyi4t4RZr1eJ9hyzJudqPc/6ac4f72c95e950cceab0dc85.html",
+    "prettify_html_file": "https://serpapi.com/searches/YEF6uQp_zMHM3Uir28oHkuyi4t4RZr1eJ9hyzJudqPc/6ac4f72c95e950cceab0dc85.prettify",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "AcmeCorp headquarters India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "AcmeCorp headquarters India"
+  },
+  "place_results": {
+    "title": "Acme Group",
+    "place_id": "ChIJvxaMuygVrjsRYLqOJtkLI9c",
+    "data_id": "0x3bae1528bb8c16bf:0xd7230bd9268eba60",
+    "data_cid": "15502247369622076000",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1528bb8c16bf%3A0xd7230bd9268eba60&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1528bb8c16bf%3A0xd7230bd9268eba60&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 12.930763899999999,
+      "longitude": 77.5643346
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvxaMuygVrjsRYLqOJtkLI9c",
+    "provider_id": "/g/11fll2g7t3",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39vVPaqpe07b_mUJ1celCw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=30.845675&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yJGGJXicHc07EsIgFEDR3dAJZDQfnWEs7KxstM28kCcwQ8IzIOhu3Ja78dPc8tz3y6ZEcSdETAtiyg4LuQf6uCLgJgTjEchFrsMkciWSvU_DDM7vCebgRrXe5ssJboSyHfrpfKw0-kNheui1dzgnFREWbbkpX3EJIzcUWVFdw-wvTyhqLXm3qZu2ZuSStkqy_-Uasqqk_AB6HDmZ",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 0
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 0
+      },
+      {
+        "stars": 4,
+        "amount": 0
+      },
+      {
+        "stars": 5,
+        "amount": 1
+      }
+    ],
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": [
+      "Corporate office"
+    ],
+    "type_ids": [
+      "corporate_office"
+    ],
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "address": "Om Narasimha Krupa Dhanush Nilayam, 247, Thyagaraja Nagar, Basavanagudi, Bengaluru, Karnataka 560070, India",
+    "country": "India",
+    "plus_code": "WHJ7+8P Bengaluru, Karnataka, India",
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39vVPaqpe07b_mUJ1celCw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=30.845675&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/MCK-xnicHc1LDsIgEADQ27AT6M-2JsSFO1dudNtQHAsJlFFG0Ot4K29j4rvA-34sEaadEIkeAJQdFHQv8GmDmi8xLh40usRNDCJXguwzzKt2fo96je6qmjFfTvqOIPt5CudjZcAfCjPzZLyDlVTQmKaUOWlDzgNfMLGi6rplVtXjwN66qEbyoe22fcfQkbFKsv9zi1lVUv4A8vQ6MA"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=39vVPaqpe07b_mUJ1celCw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=30.845675&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/MCK-xnicHc1LDsIgEADQ27AT6M-2JsSFO1dudNtQHAsJlFFG0Ot4K29j4rvA-34sEaadEIkeAJQdFHQv8GmDmi8xLh40usRNDCJXguwzzKt2fo96je6qmjFfTvqOIPt5CudjZcAfCjPzZLyDlVTQmKaUOWlDzgNfMLGi6rplVtXjwN66qEbyoe22fcfQkbFKsv9zi1lVUv4A8vQ6MA"
+      }
+    ],
+    "user_reviews": {
+      "most_relevant": [
+        {
+          "username": "NISCHITH GAIKWAD",
+          "rating": 5,
+          "contributor_id": "112573208519804332744",
+          "user_review_count": 4,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLgUBKxR6BEhvWD_kapDN425oIug_Sv5Vh5Yek8xVO-MpDGQq0=s120-c-rp-mo-br100",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSeHBPdE1BEAE!2m1!1s0x0:0xd7230bd9268eba60!3m1!1s2@1:CIHM0ogKEICAgIDRxpOtMA%7C%7C?hl=en-US",
+          "date": "3 years ago",
+          "date_iso8601": "2023-04-24T04:43:08+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Acme Marketing",
+            "data_id": "0x0:0xdea86b2188901d93",
+            "data_cid": "16044191464276630931",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdea86b2188901d93&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xdea86b2188901d93&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.963610099999999,
+              "longitude": 77.5278184
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xdea86b2188901d93%218m2%213d12.963610099999999%214d77.5278184&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4,
+            "reviews": 2,
+            "thumbnail": "https://www.google.com/maps/vt/data=xE5T101oRF0a0Jc_KmxlFHRhjjWvcPy7F-wbdX1pFxdSXqf1xzp0YX4BUMNTFZ44jDZUecBa7YrsBCIvtehM6iJRYQe1FCbrNmT8OblzBiFkdpQaAhmHV8fgSv__UXr8XOoudS-vzm8KlqwvCcscDOsZo7XSB-wG"
+          },
+          {
+            "position": 2,
+            "title": "acme chemtech",
+            "data_id": "0x0:0xcf2174ae4b3e009c",
+            "data_cid": "14925338932018020508",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xcf2174ae4b3e009c&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xcf2174ae4b3e009c&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9778332,
+              "longitude": 77.6267476
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xcf2174ae4b3e009c%218m2%213d12.9778332%214d77.6267476&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 0,
+            "reviews": 0,
+            "thumbnail": "https://www.google.com/maps/vt/data=PsiB7ENsi8Af4vPTCrICREDjRfvjzj3d5F12SuYOU9r8SECJwulr5YgdwoxnBMuhjYTefFqClYIubWVQa9u6S1zoYqFEPvLx7XitAsAnf4ByFXoD8A_KDJ4Oqs0zNZ8-X0qi5XuIRcLKsu6MioSz74IaBIDi_qQx",
+            "type": [
+              "Corporate office"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "AMC ENTERPRISES",
+            "data_id": "0x0:0x571cd8d9409732c8",
+            "data_cid": "6277130408250782408",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x571cd8d9409732c8&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x571cd8d9409732c8&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9197554,
+              "longitude": 77.6069097
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x571cd8d9409732c8%218m2%213d12.9197554%214d77.6069097&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 0,
+            "reviews": 0,
+            "thumbnail": "https://www.google.com/maps/vt/data=Y4o6eelCNM3FEfXMq8YpGDPkBwvlDA7BkWyRZDjvS85sMcSYCL08p8lfIhP_HpDPYiMQpZ9Ni1Um_uUzaXxstqsdejmSXWvTu0bWxwNcTQphycTbVLIoyxTWH6DXlm8aTsefUU2Azd4LnabBupnjR_mJChFMnbRW",
+            "type": [
+              "Corporate office"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Acme Constructions",
+            "data_id": "0x0:0x851e258a1b26971d",
+            "data_cid": "9592145531436963613",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x851e258a1b26971d&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x851e258a1b26971d&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9165289,
+              "longitude": 77.62788119999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x851e258a1b26971d%218m2%213d12.9165289%214d77.62788119999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.9,
+            "reviews": 10,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QnR4ZHO8c8GLgccvzaFFCdBnC8KY2SYjQiOJLLhADzDyyJiQSBOeeXvwfb493Iwy5ZWio7v3KNsYbpcwFu7eFl91pFaT-KwwNat9rS8egrJ4TbQ-Q_IRJgmlsW4BuqYM9dPEPrww=w156-h156-n-k-no",
+            "type": [
+              "Construction company"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "ACME Enterprises 2",
+            "data_id": "0x0:0xd7a794ec32337b2f",
+            "data_cid": "15539552781440613167",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xd7a794ec32337b2f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xd7a794ec32337b2f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9908301,
+              "longitude": 77.51083299999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xd7a794ec32337b2f%218m2%213d12.9908301%214d77.51083299999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 5,
+            "thumbnail": "https://www.google.com/maps/vt/data=xV1t9gTcu8VUsflGQ24HJ1NjwTv1NSUnrLCAtr-nsPVS89AtyzlbIb08trAXtKILBiIRHREHT8MEbi0LMyj9AtpE70ItbtIART1qa7hFxSxPlzDDJPx8hjmzRE04ucrRpkNuMbUQosjuMJnwCsuJE3PPuiW3TwNn",
+            "type": [
+              "Warehouse"
+            ]
+          }
+        ]
+      }
+    ],
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OiwKKiImQWNtZSBHcm91cCBCZW5nYWx1cnUsIEthcm5hdGFrYSwgSW5kaWEoAg&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COiwKKiImQWNtZSBHcm91cCBCZW5nYWx1cnUsIEthcm5hdGFrYSwgSW5kaWEoAg&q=local+guide+program"
+  }
+}

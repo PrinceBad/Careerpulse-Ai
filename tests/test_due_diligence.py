@@ -70,4 +70,69 @@ def test_computed_verification_integrity():
     assert is_v is True
     assert conf >= 0.90
     assert "entity_match" in method
+    assert "tier1_publisher" in method
     assert "recency_verified" in method
+
+def test_economic_times_domain_credibility_boost():
+    # Real ET domain economictimes.indiatimes.com gets tier1_publisher boost
+    is_v, method, conf_et = due_diligence_engine.compute_verification(
+        company_name="CRED",
+        source_title="CRED financial metrics update",
+        snippet="CRED reports growth in member payments.",
+        source_url="https://economictimes.indiatimes.com/tech/startups/cred-revenue",
+        is_recent=True
+    )
+    assert "tier1_publisher" in method
+    assert conf_et == 1.0
+
+    # Unknown random blog does NOT get tier1_publisher boost
+    is_v2, method2, conf_unknown = due_diligence_engine.compute_verification(
+        company_name="CRED",
+        source_title="CRED financial metrics update",
+        snippet="CRED reports growth in member payments.",
+        source_url="https://randomtechblog123.com/cred-revenue",
+        is_recent=True
+    )
+    assert "tier1_publisher" not in method2
+    assert conf_unknown == 0.80
+
+def test_dynamic_investigation_trace(monkeypatch):
+    # 1. Layoff fixture: primary news detects restructuring/layoffs
+    def mock_layoff_news(query):
+        if "layoffs confirmed" in query:
+            return {
+                "search_metadata": {"id": "corrob_123"},
+                "news_results": [
+                    {"title": "Company confirms layoff of 400 staff", "snippet": "severance packages offered to impacted employees", "date": "1 week ago", "link": "https://economictimes.indiatimes.com/tech"},
+                    {"title": "Second report: Major cuts and severance across units", "snippet": "layoff confirmed by internal memo", "date": "2 weeks ago", "link": "https://moneycontrol.com/news"}
+                ]
+            }
+        return {
+            "search_metadata": {"id": "primary_123"},
+            "news_results": [
+                {"title": "Company initiates major layoff and restructuring", "snippet": "Over 500 job cuts announced today amid market shift.", "date": "3 days ago", "link": "https://economictimes.indiatimes.com/news"}
+            ]
+        }
+
+    monkeypatch.setattr("backend.app.services.due_diligence.serpapi_client.search_news", mock_layoff_news)
+    report_layoff = due_diligence_engine.generate_report("AcmeCorp")
+    trace_actions_layoff = [step.action for step in report_layoff.investigation_trace]
+    assert any("Autonomous Corroboration" in a for a in trace_actions_layoff)
+    assert report_layoff.risks.layoffs_detected is True
+    assert report_layoff.risks.corroborated is True
+
+    # 2. Clean fixture: primary news detects only hiring/funding growth
+    def mock_clean_news(query):
+        return {
+            "search_metadata": {"id": "clean_123"},
+            "news_results": [
+                {"title": "AcmeCorp raises Series D funding", "snippet": "Company hiring 100 new engineers to scale platform.", "date": "1 week ago", "link": "https://economictimes.indiatimes.com/news"}
+            ]
+        }
+
+    monkeypatch.setattr("backend.app.services.due_diligence.serpapi_client.search_news", mock_clean_news)
+    report_clean = due_diligence_engine.generate_report("AcmeCorp")
+    trace_actions_clean = [step.action for step in report_clean.investigation_trace]
+    assert any("Health Clearance" in a for a in trace_actions_clean)
+    assert not any("Autonomous Corroboration" in a for a in trace_actions_clean)
+    assert report_clean.risks.layoffs_detected is False

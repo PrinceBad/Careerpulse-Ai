@@ -1,0 +1,184 @@
+{
+  "search_metadata": {
+    "id": "6ac4f69d2ddc43b8bcda7d5c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mMgoMcrYR1tO7HcSLHy9JiPT45Lbon0MT_OawvAW5Yw/6ac4f69d2ddc43b8bcda7d5c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mMgoMcrYR1tO7HcSLHy9JiPT45Lbon0MT_OawvAW5Yw/6ac4f69d2ddc43b8bcda7d5c.md",
+    "created_at": "2026-10-06 13:24:45 UTC",
+    "processed_at": "2026-10-06 13:24:45 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/CRED+headquarters+Bengaluru/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/mMgoMcrYR1tO7HcSLHy9JiPT45Lbon0MT_OawvAW5Yw/6ac4f69d2ddc43b8bcda7d5c.html",
+    "prettify_html_file": "https://serpapi.com/searches/mMgoMcrYR1tO7HcSLHy9JiPT45Lbon0MT_OawvAW5Yw/6ac4f69d2ddc43b8bcda7d5c.prettify",
+    "total_time_taken": 1.56
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "CRED headquarters Bengaluru",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "CRED headquarters Bengaluru"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "CRED ONE - HQ",
+      "place_id": "ChIJD8kbGwAXrjsRPf7_Nkr1VHM",
+      "data_id": "0x3bae17001b1bc90f:0x7354f54a36fffe3d",
+      "data_cid": "8310536911504539197",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17001b1bc90f%3A0x7354f54a36fffe3d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17001b1bc90f%3A0x7354f54a36fffe3d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.987357,
+        "longitude": 77.647414
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD8kbGwAXrjsRPf7_Nkr1VHM",
+      "provider_id": "/g/11z534tv8t",
+      "rating": 4.7,
+      "reviews": 18,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "XJPX+Q2J, East West Metro Corridor, Old Baiyyappanahalli, Maruthi Sevanagar, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Wed",
+      "hours": "Closed · Opens 9 AM Wed",
+      "operating_hours": {
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM"
+      },
+      "website": "http://www.cred.club/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking garage",
+            "Free parking lot",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": false
+      },
+      "user_review": "\"Excellent service and very supportive staff at Credone office.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6o_SGyqXh6zUFbcD5EV8zOsRo6Edh8-lJpb8m_ZB7nAAyN1b4l8voaVkaGwA1inksveKo9I7Cn1CrXHKpd4oBI83k37_3d3PAvnWnE2GBYW11eX7EZ-ik3doVCGyGBbhjlPMWbu9yu2jv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/i5yyKHicHcTbToMwAADQL-qg64TOxIcWsc55WTQC7oXQS-jW0iIFFvaTPvs3Jp6H8_ujx7EPt1FkNVq13rdWTUENwrtRuXElfBe1QxMCECEihJruWSa-_mDLd6WT6-cDF_c3eYGvb-HdJ7nUGNinnuOuPtLUEbK8Qr6xePZNYRp2IfDkTJjV3m93aeZgNlSP-15uPN1hZFBaI4kOZHaly9eMfpUQqirNj-BkkPRFxhZGuT7bw0vJp-0yrc_z3QXGcQz0_wK4P5LnRtI"
+    },
+    {
+      "position": 2,
+      "title": "CRED aero",
+      "place_id": "ChIJmQYcNbAXrjsRxSPDJuFwSXU",
+      "data_id": "0x3bae17b0351c0699:0x754970e126c323c5",
+      "data_cid": "8451410288057721797",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17b0351c0699%3A0x754970e126c323c5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17b0351c0699%3A0x754970e126c323c5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.970125999999999,
+        "longitude": 77.64108089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmQYcNbAXrjsRxSPDJuFwSXU",
+      "provider_id": "/g/11qmbf14vx",
+      "rating": 3.8,
+      "reviews": 277,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "770, 12th A Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "open_state": "Closed · Opens 10 AM Wed",
+      "hours": "Closed · Opens 10 AM Wed",
+      "operating_hours": {
+        "tuesday": "10 AM–5 PM",
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM"
+      },
+      "website": "http://www.cred.club/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"The team is hospitable and the office facilities are top notch.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLftttWRSVgeIErd2amrENVNk5BLh-qa3nnu3tBQ4SJ6Ln1Q9c2zkcmfDraCuxExCXF_v8MZksM11Um0C50oanpmDW6nQUcOMEJVhEk59NKsPAPAvHhSP6fJu2kxqAtU09B_pEHNZw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OAtUjHicHcRRboIwGADgEyEFBpElPhSsUQQGI6DxxTQVaFLbYvujxBvuCLvNkn0P3-8PB5jsp-veebAatR7v_Wx7w7SCXsGKaemOhlrrMOtinAiZDwBw-m66sT8Qc_OpNKTsShEmOXceNFBqDiCpP5osypVXx8x_CyaHraHpvJAlPe-uz3VxEbbwvFaiNESaqkluT5GqW_ZVkKzjRIRxebQVrvBzz5sqGrLZF8sDQ4vi5DqRfXl5bV4eQsjh_zNH_QElEUVE"
+    },
+    {
+      "position": 3,
+      "title": "CRED PRO FINTECH PVT LTD",
+      "place_id": "ChIJUX7Kzb4XrjsRPof4a-1k6aI",
+      "data_id": "0x3bae17becdca7e51:0xa2e964ed6bf8873e",
+      "data_cid": "11739024874599384894",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17becdca7e51%3A0xa2e964ed6bf8873e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17becdca7e51%3A0xa2e964ed6bf8873e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.984183999999999,
+        "longitude": 77.6401339
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUX7Kzb4XrjsRPof4a-1k6aI",
+      "provider_id": "/g/11h8k9q20n",
+      "rating": 3,
+      "reviews": 6,
+      "unclaimed_listing": true,
+      "address": "NO 7/3 KVD TOWERS , 2RD FLOOR Swamy Vivekananda Rd, opposite 100 feet road, Old Madras Rd, Binnamangala, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdUmNSHTsZaXc7CsNlau2KdcASJSpQk7pxXH4ZixmV2b1gIrWOvcxlSdsNwn0Qu3iv9nKw5XF9tfan_fBggRL3s4KOc7ocMqGXwk5mnS0DnY7jUgUOFhTO_-yRvyZhSik3iftIo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FFVXTXicHcRbjoIwFADQFSFVMEST-UCNLxSiFUV-DF6gRWjLcMvDFboGdzPJnI_z_XCta5ybZsWtEVOKVVmLWQNK6kzqEShhsiZBNABN112U4pCGwqfbC8ZJBM4S_SppJ14KLt3T-lQ69RBt7bgYxHXyHLNdcws6GCqaot9LcmqtoptJr59G65nOE_nIF4ydDxbaXgCOguPvJurLqZCUrOTdeYUsDNb8EjyM97l7x5wWpVXkeqd--jEhxOD_gyH_ABMIRqs"
+    }
+  ]
+}

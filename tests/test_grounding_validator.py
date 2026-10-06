@@ -80,3 +80,15 @@ def test_simulated_hallucination_demonstrator(sample_citations):
     assert res["is_valid"] is False
     assert res["count_rejected"] >= 2
     assert "[cit-99]" not in res["cleaned_result"]
+
+def test_grounding_preserves_candidate_own_facts(sample_citations):
+    candidate_profile = "Engineered high throughput API services handling 10k requests/second using FastAPI."
+    # Candidate bullet with a metric (10k requests/day) describing candidate achievements
+    text = "Built an API serving 10k requests/day with sub-50ms latency. Scaled payment services with Python [cit-01]."
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, candidate_profile_text=candidate_profile
+    )
+    assert is_valid is True
+    assert len(violations) == 0
+    assert "10k requests/day" in cleaned
+    assert "[cit-01]" in cleaned

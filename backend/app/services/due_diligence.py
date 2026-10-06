@@ -57,8 +57,24 @@ class DueDiligenceEngine:
 
         return True, f"Standard recency: {date_str}"
 
-    @staticmethod
+    CREDIBLE_DOMAINS = [
+        "economictimes.indiatimes.com",
+        "timesofindia.indiatimes.com",
+        "livemint.com",
+        "moneycontrol.com",
+        "inc42.com",
+        "yourstory.com",
+        "reuters.com",
+        "bloomberg.com",
+        "techcrunch.com",
+        "glassdoor.co.in",
+        "ambitionbox.com",
+        "business-standard.com"
+    ]
+
+    @classmethod
     def compute_verification(
+        cls,
         company_name: str, 
         source_title: str, 
         snippet: str, 
@@ -66,7 +82,9 @@ class DueDiligenceEngine:
         is_recent: bool
     ) -> Tuple[bool, str, float]:
         """
-        Calculates verification status and confidence score without guessing.
+        Calculates verification status and heuristic confidence score without guessing.
+        Explicitly checks entity presence, domain validity, credible tier-1 publishers
+        (e.g. economictimes.indiatimes.com), and recency.
         """
         corpus = f"{source_title} {snippet}".lower()
         has_entity = company_name.lower() in corpus
@@ -76,18 +94,25 @@ class DueDiligenceEngine:
         method_parts = []
 
         if has_entity:
-            confidence += 0.50
+            confidence += 0.40
             method_parts.append("entity_match")
         if has_valid_url:
-            confidence += 0.25
+            confidence += 0.20
             method_parts.append("domain_validated")
+            
+        # Credibility check for recognized publishers (correct economictimes.indiatimes.com)
+        clean_url = source_url.lower()
+        if any(dom in clean_url for dom in cls.CREDIBLE_DOMAINS):
+            confidence += 0.20
+            method_parts.append("tier1_publisher")
+
         if is_recent:
-            confidence += 0.25
+            confidence += 0.20
             method_parts.append("recency_verified")
 
         is_verified = has_entity and has_valid_url
         method_str = "+".join(method_parts) if method_parts else "unverified_source"
-        return is_verified, method_str, round(confidence, 2)
+        return is_verified, method_str, round(min(confidence, 1.0), 2)
 
     def generate_report(
         self,

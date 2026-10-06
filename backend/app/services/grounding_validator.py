@@ -31,10 +31,12 @@ class GroundingValidator:
     def validate_and_clean_text(
         cls, 
         text: str, 
-        valid_citations: List[Citation]
+        valid_citations: List[Citation],
+        candidate_profile_text: Optional[str] = None
     ) -> Tuple[bool, str, List[str], List[str]]:
         """
         Validates text against a list of valid citations with support checks.
+        Distinguishes candidate's own background metrics from employer company claims.
         Returns:
             (is_valid: bool, cleaned_text: str, violations: List[str], rejected_sentences: List[str])
         """
@@ -62,16 +64,38 @@ class GroundingValidator:
             # Strip citation tags to evaluate factual claims purely on sentence text
             sentence_text = re.sub(cls.CITATION_REGEX, "", sentence).strip()
 
-            # Check 2: Detect uncited factual claims
+            # Check 2: Detect uncited factual claims about the company vs candidate experience
             has_factual_claim = any(
                 re.search(pattern, sentence_text, re.IGNORECASE) 
                 for pattern in cls.FACTUAL_INDICATORS
             )
 
             if has_factual_claim and not found_citations:
-                violations.append(f"Rejected ungrounded factual claim lacking citation: '{sentence}'")
-                rejected_sentences.append(sentence)
-                continue
+                is_candidate_fact = False
+                is_company_claim = any(
+                    term in sentence_text.lower() 
+                    for term in ["layoff", "laid off", "job cuts", "downsizing", "raised", "funding", "revenue", "valuation", "series"]
+                )
+                if not is_company_claim:
+                    candidate_action_verbs = any(
+                        verb in sentence_text.lower() 
+                        for verb in [
+                            "built", "architected", "engineered", "designed", "scaled", 
+                            "led", "developed", "implemented", "reduced", "increased", 
+                            "improved", "serving", "handling", "optimized", "managed"
+                        ]
+                    )
+                    if candidate_action_verbs:
+                        is_candidate_fact = True
+                    elif candidate_profile_text:
+                        sentence_nums = re.findall(r"\b\d+k?\b|\b\d+%", sentence_text, re.IGNORECASE)
+                        if any(n.lower() in candidate_profile_text.lower() for n in sentence_nums):
+                            is_candidate_fact = True
+
+                if not is_candidate_fact:
+                    violations.append(f"Rejected ungrounded factual claim lacking citation: '{sentence}'")
+                    rejected_sentences.append(sentence)
+                    continue
 
             # Check 3: Support verification (Does the cited source actually support the claim?)
             if found_citations and has_factual_claim:

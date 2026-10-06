@@ -1,0 +1,100 @@
+{
+  "search_metadata": {
+    "id": "6ac4f69309a51a2ea2512215",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/K77vQiETnSzNAZ0oY6prDWAEVg_qqrT2DvnBQfiN-3c/6ac4f69309a51a2ea2512215.json",
+    "markdown_endpoint": "https://serpapi.com/searches/K77vQiETnSzNAZ0oY6prDWAEVg_qqrT2DvnBQfiN-3c/6ac4f69309a51a2ea2512215.md",
+    "created_at": "2026-10-06 13:24:35 UTC",
+    "processed_at": "2026-10-06 13:24:35 UTC",
+    "google_news_url": "https://news.google.com/search?q=Swiggy+layoffs+confirmed+severance+details&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/K77vQiETnSzNAZ0oY6prDWAEVg_qqrT2DvnBQfiN-3c/6ac4f69309a51a2ea2512215.html",
+    "total_time_taken": 1.36
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Swiggy layoffs confirmed severance details"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Oracle layoffs affected US employees severance package and benefits explained after global job cuts: US la",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gandharv Walia"
+        ]
+      },
+      "link": "https://m.economictimes.com/news/international/us/oracle-layoffs-affected-us-employees-severance-package-and-benefits-explained-after-global-job-cuts-us-labour-laws-and-severance-rules/articleshow/130064117.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-130064587,width-1200,height-900,resizemode-4,imgsize-61708/oracle-layoffs-affected-us-employees-severance-package-and-benefits-during-global-workforce-reduction.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUJRMnB6TFRCdlYzYzNjR3RtVFJEZ0F4aUFCU2dLTWd1Qm9ZNEl1ZVkwVEdvbVhR",
+      "date": "04/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-06T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Swiggy to fire 400 employees in the fresh round of layoffs: Story in 5 points",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankita Garg"
+        ]
+      },
+      "link": "https://www.indiatoday.in/technology/news/story/swiggy-fires-400-employees-in-the-fresh-round-of-layoffs-story-in-5-points-2493902-2024-01-26",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/as-per-media-reports--swiggy-is-contemplating-a-stock-market-debut-in-2024-and-is-expected-to-raise-040423855-16x9_0.jpg?VersionId=IjFnGhFIbFqSPCfnQVEOdfpI7nCaezAU&size=1200:675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBjbFpDVlVOUU5UWk1OWEJ2VFJDZkF4ampCU2dLTWdhbEJJcVBrUWs",
+      "date": "01/26/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-26T08:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

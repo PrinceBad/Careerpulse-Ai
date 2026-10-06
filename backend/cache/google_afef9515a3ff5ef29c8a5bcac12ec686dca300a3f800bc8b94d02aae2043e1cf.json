@@ -1,16 +1,330 @@
 {
+  "search_metadata": {
+    "id": "6ac4f68997c19fc975a5f28b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gT9LeuxfAjst65PMr34WZHfhR3TjzLaOnSAIPr_5NeY/6ac4f68997c19fc975a5f28b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gT9LeuxfAjst65PMr34WZHfhR3TjzLaOnSAIPr_5NeY/6ac4f68997c19fc975a5f28b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/gT9LeuxfAjst65PMr34WZHfhR3TjzLaOnSAIPr_5NeY/6ac4f68997c19fc975a5f28b.json_with_pixel_position",
+    "created_at": "2026-10-06 13:24:25 UTC",
+    "processed_at": "2026-10-06 13:24:25 UTC",
+    "google_url": "https://www.google.com/search?q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&oq=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/gT9LeuxfAjst65PMr34WZHfhR3TjzLaOnSAIPr_5NeY/6ac4f68997c19fc975a5f28b.html",
+    "total_time_taken": 0.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Razorpay employee reviews glassdoor ambitionbox interview",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Razorpay employee reviews glassdoor ambitionbox interview",
+    "total_results": 6590000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is Razorpay a good company to work for?",
+      "type": "ai_overview",
+      "page_token": "rSSXvnicHdDbboIwAADQ7Gd8nOBt0cQsQUFEW0eh15eFywSlLXXWobztX_ZV-5olO59wvn_kSTe_T7a21lwXw2HXdc9V21by47lo1TC7PnQxLDIp86xoFrOXmft6LJb-zfdWl60XY2PIGjlJY2cAE4M3vEM9ygo1vyfU7jPHeACbQKzjB3eRD_E8THt04UoCSs2J9VWf0IgIGjGQBrvct6AIjSCh2QJWqpLgCXdqfaB2m7tkBHU8hWl1Zw6cJJLfc-xbTOo9oPVDrCMn2TgT2EhGNJ9yFlGQxjZ3xAqErQNpfQU92tMzbIGCKdAE89H0FuvSRWthBZENDMpgz4T2a2GEigLOCCa-3KVj7qZqHpdM1AS73uYUeSiEjwMVOHbnLVfiiqk7Fg0Y03PZH7B9S0cySfrghDTUg2PxtRwP_jeX70dlF-azrf4A4eWC-A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rSSXvnicHdDbboIwAADQ7Gd8nOBt0cQsQUFEW0eh15eFywSlLXXWobztX_ZV-5olO59wvn_kSTe_T7a21lwXw2HXdc9V21by47lo1TC7PnQxLDIp86xoFrOXmft6LJb-zfdWl60XY2PIGjlJY2cAE4M3vEM9ygo1vyfU7jPHeACbQKzjB3eRD_E8THt04UoCSs2J9VWf0IgIGjGQBrvct6AIjSCh2QJWqpLgCXdqfaB2m7tkBHU8hWl1Zw6cJJLfc-xbTOo9oPVDrCMn2TgT2EhGNJ9yFlGQxjZ3xAqErQNpfQU92tMzbIGCKdAE89H0FuvSRWthBZENDMpgz4T2a2GEigLOCCa-3KVj7qZqHpdM1AS73uYUeSiEjwMVOHbnLVfiiqk7Fg0Y03PZH7B9S0cySfrghDTUg2PxtRwP_jeX70dlF-azrf4A4eWC-A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJJcyBSYXpvcnBheSBhIGdvb2QgY29tcGFueSB0byB3b3JrIGZvcj8iLCJsayI6IkdpWnBjeUJ5WVhwdmNuQmhlU0JoSUdkdmIyUWdZMjl0Y0dGdWVTQjBieUIzYjNKcklHWnZjZyIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJJcyBSYXpvcnBheSBhIGdvb2QgY29tcGFueSB0byB3b3JrIGZvcj8iLCJsayI6IkdpWnBjeUJ5WVhwdmNuQmhlU0JoSUdkdmIyUWdZMjl0Y0dGdWVTQjBieUIzYjNKcklHWnZjZyIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9"
+    },
+    {
+      "question": "What is the Razorpay interview process like?",
+      "type": "ai_overview",
+      "page_token": "epR0rXicHdDdbpswGIBh7WZ62GBIshIpmuRi52cLEwbb4JPJsUlI_BmchY62Z7uXXdWuZtVu4NWj9_cfuPTu76exG8dwX81m0zQ9nofhDO2jGfxM3996MzMa4KiNWy0_L9GXk1mTF4Kfbztc8BBExqIysYUR1GkXdHuFDScwHgkVuVtsFBKxkbt37sW25YBVtDjYnr6KK-6MTG_CA3w0fA4kaeUu_iZoqSOWVFs6F_E0b2mzYD2fM7QbTQQnW4vbEWzDRbpsnND5O1MHfkcso5cK5Uy782sRQyxkkMo_LWTmRktYZh0KeksTG9m43IAvoxE3dThUZN8UPUDRh4Fn4sVCikmngvJ72tSCCwJfq6RBlU8LW6tOcIQ3lz1m2_ztu1Sl9ohL-TQdXZrn0HHjwTX1HnQmrh9OJZ8RfjiZX-vk4f_N9Y-TH1fh53D-B68IgeM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=epR0rXicHdDdbpswGIBh7WZ62GBIshIpmuRi52cLEwbb4JPJsUlI_BmchY62Z7uXXdWuZtVu4NWj9_cfuPTu76exG8dwX81m0zQ9nofhDO2jGfxM3996MzMa4KiNWy0_L9GXk1mTF4Kfbztc8BBExqIysYUR1GkXdHuFDScwHgkVuVtsFBKxkbt37sW25YBVtDjYnr6KK-6MTG_CA3w0fA4kaeUu_iZoqSOWVFs6F_E0b2mzYD2fM7QbTQQnW4vbEWzDRbpsnND5O1MHfkcso5cK5Uy782sRQyxkkMo_LWTmRktYZh0KeksTG9m43IAvoxE3dThUZN8UPUDRh4Fn4sVCikmngvJ72tSCCwJfq6RBlU8LW6tOcIQ3lz1m2_ztu1Sl9ohL-TQdXZrn0HHjwTX1HnQmrh9OJZ8RfjiZX-vk4f_N9Y-TH1fh53D-B68IgeM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBSYXpvcnBheSBpbnRlcnZpZXcgcHJvY2VzcyBsaWtlPyIsImxrIjoiR2hweVlYcHZjbkJoZVNCcGJuUmxjblpwWlhjZ2NISnZZMlZ6Y3ciLCJicyI6ImM0WFB2UXJDVUF5R1lWd3pPY3JCSVNwb0I2ZmVRQmNSQ2s0Nk9JYzJ0b2YtcE9RY1d1clZXMEZxRWRUOTRjMFh1TUF1ZG5pbXUyaERQUkptSWlrbVVqVlU5LWdGTzlFQ2I2SlJHSml0ZGFqX0taeGdmODNKNDhCOXp1LTZyVDFyYTduRFJpVmg1N0MwQlVmaDBoajlhdUFJd2JUbVBLbTNkWWFPU3RKaGh4OFBSS0V4aTdIMEFTR0c5VUY0OG14bVczNk5WcWt3bDJyWXNqR3I5S24waDVyUEhnIiwiaWQiOiJmY19pZmJFYXVUVElKT3Y1Tm9QdXZhVU1BXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBSYXpvcnBheSBpbnRlcnZpZXcgcHJvY2VzcyBsaWtlPyIsImxrIjoiR2hweVlYcHZjbkJoZVNCcGJuUmxjblpwWlhjZ2NISnZZMlZ6Y3ciLCJicyI6ImM0WFB2UXJDVUF5R1lWd3pPY3JCSVNwb0I2ZmVRQmNSQ2s0Nk9JYzJ0b2YtcE9RY1d1clZXMEZxRWRUOTRjMFh1TUF1ZG5pbXUyaERQUkptSWlrbVVqVlU5LWdGTzlFQ2I2SlJHSml0ZGFqX0taeGdmODNKNDhCOXp1LTZyVDFyYTduRFJpVmg1N0MwQlVmaDBoajlhdUFJd2JUbVBLbTNkWWFPU3RKaGh4OFBSS0V4aTdIMEFTR0c5VUY0OG14bVczNk5WcWt3bDJyWXNqR3I5S24waDVyUEhnIiwiaWQiOiJmY19pZmJFYXVUVElKT3Y1Tm9QdXZhVU1BXzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the starting salary at Razorpay?",
+      "type": "ai_overview",
+      "page_token": "Yx_2E3icHdBfbpswHABg7TJ9bGySdCJSVImCaZPGjD_-GfxSASYxrU3cwiDkbXfZqXaaRb3Bp-_PX912H_9-DGoYbL9ZLKZpuj-dzyfd3Ndnsyj7uasXdal1VdYfm4efD_jxWG-D34H39Pnixcxa8BOUgtsCob0k4onN2DAH74Wj54rUk7gerim8zE2uGUU9zsy6zbBeQZigMpQrDq4tEKxf2W4VswBFRHPJaC4yoGmoLrkDpAkEy9jgl-EFZaDGKmTT4b1YJkQbqRO_dOie5jAKo39JIEMd4Dl-Fx3rqHrl9isK-wvz5WfDSQFc6XJJCHDrpy3ClYZrxAYiUaKqZzpG3PUCJawwO1LkwCDQ-2xZ3NxuLHOhgGEvbHde8kzniN-UXK3jzDM3S3xIsWgIqAS5o3RkVhrLC666u2M9bpd335vbt6MZNvbrfPoPqviB7w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yx_2E3icHdBfbpswHABg7TJ9bGySdCJSVImCaZPGjD_-GfxSASYxrU3cwiDkbXfZqXaaRb3Bp-_PX912H_9-DGoYbL9ZLKZpuj-dzyfd3Ndnsyj7uasXdal1VdYfm4efD_jxWG-D34H39Pnixcxa8BOUgtsCob0k4onN2DAH74Wj54rUk7gerim8zE2uGUU9zsy6zbBeQZigMpQrDq4tEKxf2W4VswBFRHPJaC4yoGmoLrkDpAkEy9jgl-EFZaDGKmTT4b1YJkQbqRO_dOie5jAKo39JIEMd4Dl-Fx3rqHrl9isK-wvz5WfDSQFc6XJJCHDrpy3ClYZrxAYiUaKqZzpG3PUCJawwO1LkwCDQ-2xZ3NxuLHOhgGEvbHde8kzniN-UXK3jzDM3S3xIsWgIqAS5o3RkVhrLC666u2M9bpd335vbt6MZNvbrfPoPqviB7w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFydGluZyBzYWxhcnkgYXQgUmF6b3JwYXk/IiwibGsiOiJHaGh5WVhwdmNuQmhlU0J6ZEdGeWRHbHVaeUJ6WVd4aGNuayIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzdGFydGluZyBzYWxhcnkgYXQgUmF6b3JwYXk%2FIiwibGsiOiJHaGh5WVhwdmNuQmhlU0J6ZEdGeWRHbHVaeUJ6WVd4aGNuayIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9"
+    },
+    {
+      "question": "Does Razorpay give work from home?",
+      "type": "ai_overview",
+      "page_token": "TrmyPXicHdBfToMwHADgeJk9DjriDEsWE1zLqMKkwA_oi4Hyb1BG51CEN-_iqTyNid8Rvu8feb50v3djM47qttO0aZrW9TDUslyLodey23wRmsikzDPR7bYPW_RYiT3-wNbT1bH8SCk4MD2QkAW2O4ZLakRHOpxAkrwluFhAlUlhl9i7eiGhZQJDpiPC8FeVgYkCTGm-QbiE2nCRWfmt53g2oUUMLJp1JDYyZN0Yu6gIATMvjxsj6JylbMnBTyAuZbFxMcUQ8S2QYcwwgpg0FnSqCXEjXaReowu8-CCZj1glEpKCbs6FwaSQFLOF34NtntLWk7zz4lQn1O0KhhuueE9JmkAEWD6HRorC3vSLhDcQIcs-U4sdvfkU88BPrI-woxPE7ALgLNATzgx-LhMFviHnXFK2qsTn3lj9b-7fqn7cqfeh_gMXoIFC",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TrmyPXicHdBfToMwHADgeJk9DjriDEsWE1zLqMKkwA_oi4Hyb1BG51CEN-_iqTyNid8Rvu8feb50v3djM47qttO0aZrW9TDUslyLodey23wRmsikzDPR7bYPW_RYiT3-wNbT1bH8SCk4MD2QkAW2O4ZLakRHOpxAkrwluFhAlUlhl9i7eiGhZQJDpiPC8FeVgYkCTGm-QbiE2nCRWfmt53g2oUUMLJp1JDYyZN0Yu6gIATMvjxsj6JylbMnBTyAuZbFxMcUQ8S2QYcwwgpg0FnSqCXEjXaReowu8-CCZj1glEpKCbs6FwaSQFLOF34NtntLWk7zz4lQn1O0KhhuueE9JmkAEWD6HRorC3vSLhDcQIcs-U4sdvfkU88BPrI-woxPE7ALgLNATzgx-LhMFviHnXFK2qsTn3lj9b-7fqn7cqfeh_gMXoIFC",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJEb2VzIFJhem9ycGF5IGdpdmUgd29yayBmcm9tIGhvbWU/IiwibGsiOiJHaUZrYjJWeklISmhlbTl5Y0dGNUlHZHBkbVVnZDI5eWF5Qm1jbTl0SUdodmJXVSIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWFYWjJRbXBNVGxoNU1YWllZekpwY0UwNFgwOHpVSE52ZEVZME1XRlpTMWd5V1d4eVVuWnFiV2cxVEZwYVFYZzNlbEpHTjFoeFpFUnFSRGQwWjNKRVdsVkZZamg2V0VOeWJHTTJkSGRZVmtoNWVXNWpSMkZDVGpkSmR4SVdhV1ppUldGMVZGUkpTazkyTlU1dlVIVjJZVlZOUVJvaVFVUnpjamxtVWxsQ01tMHhXVGxSTkZoMldrcFJOMGgwV1VaTk5YVkJhakI2WnciLCJmY3YiOiIzIiwiZWkiOiJpZmJFYXVUVElKT3Y1Tm9QdXZhVU1BIiwicWMiOiJDamx5WVhwdmNuQmhlU0JsYlhCc2IzbGxaU0J5WlhacFpYZHpJR2RzWVhOelpHOXZjaUJoYldKcGRHbHZibUp2ZUNCcGJuUmxjblpwWlhjUUFIMUFHemNfIiwicXVlc3Rpb24iOiJEb2VzIFJhem9ycGF5IGdpdmUgd29yayBmcm9tIGhvbWU%2FIiwibGsiOiJHaUZrYjJWeklISmhlbTl5Y0dGNUlHZHBkbVVnZDI5eWF5Qm1jbTl0SUdodmJXVSIsImJzIjoiYzRYUHZRckNVQXlHWVZ3ek9jckJJU3BvQjZmZVFCY1JDazQ2T0ljMnRvZi1wT1FjV3VyVlcwRnFFZFQ5NGMwWHVNQXVkbmltdTJoRFBSSm1JaWttVWpWVTktZ0ZPOUVDYjZKUkdKaXRkYWpfS1p4Z2Y4M0o0OEI5enUtNnJUMXJhN25EUmlWaDU3QzBCVWZoMGhqOWF1QUl3YlRtUEttM2RZYU9TdEpoaHg4UFJLRXhpN0gwQVNHRzlVRjQ4bXhtVzM2TlZxa3dsMnJZc2pHcjlLbjBoNXJQSGciLCJpZCI6ImZjX2lmYkVhdVRUSUpPdjVOb1B1dmFVTUFfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "8Jy8N3iczZXdkqI4FMcfYJ9jueluAdFp7SpqKsSg8RtHtz9uKAQMKBAbUNS7eZd9n73fp9mAHwPtx_bMxdamSgMk5-Tk5Pzy__6n5waLv3_7y4njZfTE80mSlAilxLNLJvV5I9oGJj-jXhSazteIrkLTdi3ZdELq25zjyXbAEU92A267liXOjGSBs13ZnU2RsRqPcXuwrvbpcLU2Jj3AZd5kfWpE9pwttplHvM6zv8XvUoO9lKKSHehNpTSuP5epum7HICmVhbJUGvCGz-aA_7QRDF5Z106f0dVZCgDwM94Qc6HgvCNFybqcNWHDStphLXtXb3jLzJBGsghY0zfzXYOZNclxzuKqdWGkuXeg4axHzBziz2woF0wh2FvG18ZIwUOW9uLQxaYo-UEMIOmBIQbOZWOW-8LyLFeN_XcT4FqrorDz0G7EDjoEDN4Acva2t9pEadqntdWILYN4i7ACFvhpyDqRd03HzB7CKK1rOK4LVK2EXanz4oXv1S_bTWtYe1n7zeXM15o9jTenbJ5HDcu2dEcXvmbvYlmsCnXpsXafMWVGJ6iiPFRNf6qPamZdfaSlbkkRjzjB_IHkt5R-nVzao5JWKzqW3HnDF1IDIS24OExgh9GDABbhgWorTdsJdPawIWBVLIIjQgSc43Tw9sNphtNxzZF2si6EiZHi5izyu2t93A7zfb57MthbQla6e8-H0kTg4_UAkZIydgogyQ-mlwlkUCt7GN4reL_RXq6UBdQ-u43SVDjM9PS639bh9TWfvjQH7NZgcbYBVhAeq-xagsfVWXiHDDGcPvKAL7KYZpjtVrt-Rd5qk0_NQkduPmCQxwc1vOFb79Ha-N7D-A28Oka5XiNuiMcQXMaF-tOfEyHz_8bUUaLSCegWU_AzTDGJIhck6uBv7_QkUe2DRF1nSs2YOkhU6ugoUa0ziTpnapFnqqllwyN6RaJ-lil8g6mT44tMqZeYIteZyiQqz5TT0woShS9K1A-mfkWiJr8qURli9r4r6tVqTq7qFkKtod8I3MWovQENXXnYbp6xKsy2I_HfdWvmx0--YXn3ums9KeV2vLXudfaBPtkW9y6PjB0Nl8b2zvaXHt3a9l1or107ie6IZ0SRRWl4Z_hTN3ZpMKWbOzeI7TCdwPleSGXBqAzXg_q6L427fs03AtyV-rsWHtposfN8Md51--JM1KS3Wos6lcHEe_AlpdYbLd3tS8V46DhKdQLiags53Zm2wLuk_K1n07icDF7cB-dN2AnWInkdYuGb7s430hg2154q6eGyg8R6r9O1oLdqj9W5R3TptRP8AbK4Irnhi33qiYkDTM4PTZkVS4WAvgaeCTtryCoJsuNnlGswYb8vrBSUMqsiLjIN3Y7Wcq1sVisz4ctjVahVRVPgfBJvl3Jd4KIglMV_AOzgWkY",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8Jy8N3iczZXdkqI4FMcfYJ9jueluAdFp7SpqKsSg8RtHtz9uKAQMKBAbUNS7eZd9n73fp9mAHwPtx_bMxdamSgMk5-Tk5Pzy__6n5waLv3_7y4njZfTE80mSlAilxLNLJvV5I9oGJj-jXhSazteIrkLTdi3ZdELq25zjyXbAEU92A267liXOjGSBs13ZnU2RsRqPcXuwrvbpcLU2Jj3AZd5kfWpE9pwttplHvM6zv8XvUoO9lKKSHehNpTSuP5epum7HICmVhbJUGvCGz-aA_7QRDF5Z106f0dVZCgDwM94Qc6HgvCNFybqcNWHDStphLXtXb3jLzJBGsghY0zfzXYOZNclxzuKqdWGkuXeg4axHzBziz2woF0wh2FvG18ZIwUOW9uLQxaYo-UEMIOmBIQbOZWOW-8LyLFeN_XcT4FqrorDz0G7EDjoEDN4Acva2t9pEadqntdWILYN4i7ACFvhpyDqRd03HzB7CKK1rOK4LVK2EXanz4oXv1S_bTWtYe1n7zeXM15o9jTenbJ5HDcu2dEcXvmbvYlmsCnXpsXafMWVGJ6iiPFRNf6qPamZdfaSlbkkRjzjB_IHkt5R-nVzao5JWKzqW3HnDF1IDIS24OExgh9GDABbhgWorTdsJdPawIWBVLIIjQgSc43Tw9sNphtNxzZF2si6EiZHi5izyu2t93A7zfb57MthbQla6e8-H0kTg4_UAkZIydgogyQ-mlwlkUCt7GN4reL_RXq6UBdQ-u43SVDjM9PS639bh9TWfvjQH7NZgcbYBVhAeq-xagsfVWXiHDDGcPvKAL7KYZpjtVrt-Rd5qk0_NQkduPmCQxwc1vOFb79Ha-N7D-A28Oka5XiNuiMcQXMaF-tOfEyHz_8bUUaLSCegWU_AzTDGJIhck6uBv7_QkUe2DRF1nSs2YOkhU6ugoUa0ziTpnapFnqqllwyN6RaJ-lil8g6mT44tMqZeYIteZyiQqz5TT0woShS9K1A-mfkWiJr8qURli9r4r6tVqTq7qFkKtod8I3MWovQENXXnYbp6xKsy2I_HfdWvmx0--YXn3ums9KeV2vLXudfaBPtkW9y6PjB0Nl8b2zvaXHt3a9l1or107ie6IZ0SRRWl4Z_hTN3ZpMKWbOzeI7TCdwPleSGXBqAzXg_q6L427fs03AtyV-rsWHtposfN8Md51--JM1KS3Wos6lcHEe_AlpdYbLd3tS8V46DhKdQLiags53Zm2wLuk_K1n07icDF7cB-dN2AnWInkdYuGb7s430hg2154q6eGyg8R6r9O1oLdqj9W5R3TptRP8AbK4Irnhi33qiYkDTM4PTZkVS4WAvgaeCTtryCoJsuNnlGswYb8vrBSUMqsiLjIN3Y7Wcq1sVisz4ctjVahVRVPgfBJvl3Jd4KIglMV_AOzgWkY"
+  },
   "organic_results": [
     {
       "position": 1,
-      "title": "Working at Razorpay employee reviews glassdoor ambitionbox interview - Employee Reviews & Ratings",
-      "link": "https://www.glassdoor.co.in/Reviews/company-reviews.htm",
-      "snippet": "Rating: 4.3/5 - 1,840 reviews. Employees praise strong engineering culture, smart peers, competitive pay, and high ownership. Common critique: fast-paced deadlines and occasional sprint crunch."
+      "title": "Razorpay - Best Payment Solution for Online Payments India",
+      "link": "https://razorpay.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVXgGWCo99oK19hrASRFJPFIoIu7OEbgB4j4JJnwgjTXi8YpSNTsKMG1q4w7-lfs3z9BTq02QJpnx7LBgc4FpR3agYWmbcAlwC0UD3&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://razorpay.com",
+      "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACwBwCdASogACAAPtEutFooIagoGAEAGglsALsoycYehPbAXZ3vNCNBCAcoZoGZlf6zLa1u003hEa9zbz67GzvrZlc2sCs4AP7-wg0wjrFJ2q6JZBHywqBgCWIQ8PnUjqGLZi3vycmn7eKKg0sND1m3CCRQaNBF9cXZVWCxwZXd_pIScEX1xkAppc_QYNUTQ8IRoqAjZ_qlpwXh13nlCEwr63Aarc-w-Bc35EmcyLDNofCHMMp5i3PK6ze3PgycSYm5nQaxvG80Q6MQfCN-set_KZ7cKhR-sO-RFgxPyByeR7TnbdKhDXRc80TzhvhP60iz56FXV3NFb9OAmz4XuqOlZXyVSrmIFhjXeac-2zlDgRGh42k-6qja-YQgL5Hv-CjdBc2_qOhGUVUJ9bdNtvnhElra6otKvD7hfswgAAA.webp",
+      "snippet": "The all in one finance platform you've been looking for · Accept Payments · Make Payouts · Start Business Banking · Automate Payroll · Build AI Native · Get Credit & ...",
+      "snippet_highlighted_words": [
+        "Payroll"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Careers",
+            "link": "https://razorpay.com/careers/",
+            "snippet": "The ordinary is safe. Predictable. Comfortable. Razorpay was ..."
+          },
+          {
+            "title": "Login",
+            "link": "https://accounts.razorpay.com/",
+            "snippet": "Log in or sign up to your Razorpay account. Manage online ..."
+          },
+          {
+            "title": "Dashboard",
+            "link": "https://dashboard.razorpay.com/",
+            "snippet": "Log in or sign up to your Razorpay account. Manage online ..."
+          },
+          {
+            "title": "Privacy Policy",
+            "link": "https://razorpay.com/privacy-policy/",
+            "snippet": "Online Payments India: Start Accepting Payments Instantly ..."
+          },
+          {
+            "title": "Best Payment Gateway in India",
+            "link": "https://razorpay.com/payment-gateway/",
+            "snippet": "Accept online payments with Razorpay Payment Gateway ..."
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The all in one finance platform you've been looking for · Accept Payments · Make Payouts · Start Business Banking · Automate Payroll · Build AI Native · Get Credit & ...",
+          "source_info_link": "https://razorpay.com/",
+          "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACwBwCdASogACAAPtEutFooIagoGAEAGglsALsoycYehPbAXZ3vNCNBCAcoZoGZlf6zLa1u003hEa9zbz67GzvrZlc2sCs4AP7-wg0wjrFJ2q6JZBHywqBgCWIQ8PnUjqGLZi3vycmn7eKKg0sND1m3CCRQaNBF9cXZVWCxwZXd_pIScEX1xkAppc_QYNUTQ8IRoqAjZ_qlpwXh13nlCEwr63Aarc-w-Bc35EmcyLDNofCHMMp5i3PK6ze3PgycSYm5nQaxvG80Q6MQfCN-set_KZ7cKhR-sO-RFgxPyByeR7TnbdKhDXRc80TzhvhP60iz56FXV3NFb9OAmz4XuqOlZXyVSrmIFhjXeac-2zlDgRGh42k-6qja-YQgL5Hv-CjdBc2_qOhGUVUJ9bdNtvnhElra6otKvD7hfswgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWWGdHV0NvOTlvSzE5aHJBU1JGSlBGSW9JdTdPRWJnQjRqNEpKbndnalRYaThZcFNOVHNLTUcxcTR3Ny1sZnMzejlCVHEwMlFKcG54N0xCZ2M0RnBSM2FnWVdtYmNBbHdDMFVEMxIICgASABoCCAAaggQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDcAwgAEAAYACAAKikKCHJhem9ycGF5FcAldkAaCXJhem9yIHBheRoNaXY7cDtyYXpvcnBheTJ6L2dvdG8_dXJsPUNBRVNVQUhyT3pBVlhnR1dDbzk5b0sxOWhyQVNSRkpQRklvSXU3T0ViZ0I0ajRKSm53Z2pUWGk4WXBTTlRzS01HMXE0dzctbGZzM3o5QlRxMDJRSnBueDdMQmdjNEZwUjNhZ1lXbWJjQWx3QzBVRDM6QTxiPlJhem9ycGF5PC9iPiAtIEJlc3QgUGF5bWVudCBTb2x1dGlvbiBmb3IgT25saW5lIFBheW1lbnRzIEluZGlhQucBVGhlIGFsbCBpbiBvbmUgZmluYW5jZSBwbGF0Zm9ybSB5b3UmIzM5O3ZlIGJlZW4gbG9va2luZyBmb3IgJm1pZGRvdDsgQWNjZXB0IFBheW1lbnRzICZtaWRkb3Q7IE1ha2UgUGF5b3V0cyAmbWlkZG90OyBTdGFydCBCdXNpbmVzcyBCYW5raW5nICZtaWRkb3Q7IEF1dG9tYXRlIDxiPlBheXJvbGw8L2I-ICZtaWRkb3Q7IEJ1aWxkIEFJIE5hdGl2ZSAmbWlkZG90OyBHZXQgQ3JlZGl0ICZhbXA7Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWWGdHV0NvOTlvSzE5aHJBU1JGSlBGSW9JdTdPRWJnQjRqNEpKbndnalRYaThZcFNOVHNLTUcxcTR3Ny1sZnMzejlCVHEwMlFKcG54N0xCZ2M0RnBSM2FnWVdtYmNBbHdDMFVEMxIICgASABoCCAAaggQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDcAwgAEAAYACAAKikKCHJhem9ycGF5FcAldkAaCXJhem9yIHBheRoNaXY7cDtyYXpvcnBheTJ6L2dvdG8_dXJsPUNBRVNVQUhyT3pBVlhnR1dDbzk5b0sxOWhyQVNSRkpQRklvSXU3T0ViZ0I0ajRKSm53Z2pUWGk4WXBTTlRzS01HMXE0dzctbGZzM3o5QlRxMDJRSnBueDdMQmdjNEZwUjNhZ1lXbWJjQWx3QzBVRDM6QTxiPlJhem9ycGF5PC9iPiAtIEJlc3QgUGF5bWVudCBTb2x1dGlvbiBmb3IgT25saW5lIFBheW1lbnRzIEluZGlhQucBVGhlIGFsbCBpbiBvbmUgZmluYW5jZSBwbGF0Zm9ybSB5b3UmIzM5O3ZlIGJlZW4gbG9va2luZyBmb3IgJm1pZGRvdDsgQWNjZXB0IFBheW1lbnRzICZtaWRkb3Q7IE1ha2UgUGF5b3V0cyAmbWlkZG90OyBTdGFydCBCdXNpbmVzcyBCYW5raW5nICZtaWRkb3Q7IEF1dG9tYXRlIDxiPlBheXJvbGw8L2I-ICZtaWRkb3Q7IEJ1aWxkIEFJIE5hdGl2ZSAmbWlkZG90OyBHZXQgQ3JlZGl0ICZhbXA7Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Razorpay"
     },
     {
       "position": 2,
-      "title": "Razorpay employee reviews glassdoor ambitionbox interview Engineering Interview Questions & Experience",
-      "link": "https://leetcode.com/discuss/interview-experience",
-      "snippet": "Interview Process: 4 rounds. 1 DSA round (trees, graphs), 1 High Level System Design (caching, rate limiters, DB sharding), 1 Python core deep dive, and 1 Culture/Values fit."
+      "title": "Razorpay",
+      "link": "https://in.linkedin.com/company/razorpay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVw1LC4aHoF2ehtCBBswMipziPt6-3I7p8wglmb2W9Q_ip2TNYUzqNVnpMAPdJNQE13MfB8DZQSQPCNk_2dhb2JpHlCc8KIkDdE-JwX2-h5AYLBDPp0H_-sLxeHZHwHw&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECCgQAQ&uoh=1",
+      "displayed_link": "13.1L+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "We are a bunch of spirited, ambitious and fun folks. trust and high-performance culture. Razorpay Offers Lowest Fees, Dedicated Support, Developer Friendly ...",
+      "snippet_highlighted_words": [
+        "Razorpay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We are a bunch of spirited, ambitious and fun folks. trust and high-performance culture. Razorpay Offers Lowest Fees, Dedicated Support, Developer Friendly ...",
+          "source_info_link": "https://in.linkedin.com/company/razorpay",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVncxTEM0YUhvRjJlaHRDQkJzd01pcHppUHQ2LTNJN3A4d2dsbWIyVzlRX2lwMlROWVV6cU5WbnBNQVBkSk5RRTEzTWZCOERaUVNRUENOa18yZGhiMkpwSGxDYzhLSWtEZEUtSndYMi1oNUFZTEJEUHAwSF8tc0x4ZUhaSHdIdxIEGgIIABq6AxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJQDCAAQABgAIAAqKQoIcmF6b3JwYXkVrIK5QBoJcmF6b3IgcGF5Gg1pdjtwO3Jhem9ycGF5MpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVncxTEM0YUhvRjJlaHRDQkJzd01pcHppUHQ2LTNJN3A4d2dsbWIyVzlRX2lwMlROWVV6cU5WbnBNQVBkSk5RRTEzTWZCOERaUVNRUENOa18yZGhiMkpwSGxDYzhLSWtEZEUtSndYMi1oNUFZTEJEUHAwSF8tc0x4ZUhaSHdIdzoaPGI-UmF6b3JwYXk8L2I-IC0gTGlua2VkSW5CqwFXZSBhcmUgYSBidW5jaCBvZiBzcGlyaXRlZCwgYW1iaXRpb3VzIGFuZCBmdW4gZm9sa3MuIHRydXN0IGFuZCBoaWdoLXBlcmZvcm1hbmNlIGN1bHR1cmUuIDxiPlJhem9ycGF5PC9iPiBPZmZlcnMgTG93ZXN0IEZlZXMsIERlZGljYXRlZCBTdXBwb3J0LCBEZXZlbG9wZXIgRnJpZW5kbHkmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVncxTEM0YUhvRjJlaHRDQkJzd01pcHppUHQ2LTNJN3A4d2dsbWIyVzlRX2lwMlROWVV6cU5WbnBNQVBkSk5RRTEzTWZCOERaUVNRUENOa18yZGhiMkpwSGxDYzhLSWtEZEUtSndYMi1oNUFZTEJEUHAwSF8tc0x4ZUhaSHdIdxIEGgIIABq6AxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJQDCAAQABgAIAAqKQoIcmF6b3JwYXkVrIK5QBoJcmF6b3IgcGF5Gg1pdjtwO3Jhem9ycGF5MpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVncxTEM0YUhvRjJlaHRDQkJzd01pcHppUHQ2LTNJN3A4d2dsbWIyVzlRX2lwMlROWVV6cU5WbnBNQVBkSk5RRTEzTWZCOERaUVNRUENOa18yZGhiMkpwSGxDYzhLSWtEZEUtSndYMi1oNUFZTEJEUHAwSF8tc0x4ZUhaSHdIdzoaPGI-UmF6b3JwYXk8L2I-IC0gTGlua2VkSW5CqwFXZSBhcmUgYSBidW5jaCBvZiBzcGlyaXRlZCwgYW1iaXRpb3VzIGFuZCBmdW4gZm9sa3MuIHRydXN0IGFuZCBoaWdoLXBlcmZvcm1hbmNlIGN1bHR1cmUuIDxiPlJhem9ycGF5PC9iPiBPZmZlcnMgTG93ZXN0IEZlZXMsIERlZGljYXRlZCBTdXBwb3J0LCBEZXZlbG9wZXIgRnJpZW5kbHkmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "LinkedIn · Razorpay"
+    },
+    {
+      "position": 3,
+      "title": "Razorpay",
+      "link": "https://x.com/Razorpay?lang=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVoY-31YoCXFt0qpzIWdv0a-dDiNjVwGH-HDjTB3yM7Y6d3sxjPJ8rHdpVrXgljEhSatocXW0fY5zAyvibQ66ShVwJKiENWnLfJaVG4jdjA4MZM5-u&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECCcQAQ&uoh=1",
+      "displayed_link": "32.1K+ followers",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+      "snippet": "Here's what your customers will experience: Choose Apple Pay → review the payment → confirm with Face ID, Touch ID or a device passcode; giving them a more ...",
+      "about_this_result": {
+        "source": {
+          "description": "Here's what your customers will experience: Choose Apple Pay → review the payment → confirm with Face ID, Touch ID or a device passcode; giving them a more ...",
+          "source_info_link": "https://x.com/Razorpay?lang=en",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVm9ZLTMxWW9DWEZ0MHFweklXZHYwYS1kRGlOalZ3R0gtSERqVEIzeU03WTZkM3N4alBKOHJIZHBWclhnbGpFaFNhdG9jWFcwZlk1ekF5dmliUTY2U2hWd0pLaUVOV25MZkphVkc0amRqQTRNWk01LXUSBBoCCAAapgMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCAAwgAEAAYACAAKikKCHJhem9ycGF5FbnrzkAaCXJhem9yIHBheRoNaXY7cDtyYXpvcnBheTKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZvWS0zMVlvQ1hGdDBxcHpJV2R2MGEtZERpTmpWd0dILUhEalRCM3lNN1k2ZDNzeGpQSjhySGRwVnJYZ2xqRWhTYXRvY1hXMGZZNXpBeXZpYlE2NlNoVndKS2lFTlduTGZKYVZHNGpkakE0TVpNNS11OhM8Yj5SYXpvcnBheTwvYj4gLSBYQqwBSGVyZSYjMzk7cyB3aGF0IHlvdXIgY3VzdG9tZXJzIHdpbGwgZXhwZXJpZW5jZTogQ2hvb3NlIEFwcGxlIFBheSDihpIgcmV2aWV3IHRoZSBwYXltZW50IOKGkiBjb25maXJtIHdpdGggRmFjZSBJRCwgVG91Y2ggSUQgb3IgYSBkZXZpY2UgcGFzc2NvZGU7IGdpdmluZyB0aGVtIGEgbW9yZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVm9ZLTMxWW9DWEZ0MHFweklXZHYwYS1kRGlOalZ3R0gtSERqVEIzeU03WTZkM3N4alBKOHJIZHBWclhnbGpFaFNhdG9jWFcwZlk1ekF5dmliUTY2U2hWd0pLaUVOV25MZkphVkc0amRqQTRNWk01LXUSBBoCCAAapgMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCAAwgAEAAYACAAKikKCHJhem9ycGF5FbnrzkAaCXJhem9yIHBheRoNaXY7cDtyYXpvcnBheTKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZvWS0zMVlvQ1hGdDBxcHpJV2R2MGEtZERpTmpWd0dILUhEalRCM3lNN1k2ZDNzeGpQSjhySGRwVnJYZ2xqRWhTYXRvY1hXMGZZNXpBeXZpYlE2NlNoVndKS2lFTlduTGZKYVZHNGpkakE0TVpNNS11OhM8Yj5SYXpvcnBheTwvYj4gLSBYQqwBSGVyZSYjMzk7cyB3aGF0IHlvdXIgY3VzdG9tZXJzIHdpbGwgZXhwZXJpZW5jZTogQ2hvb3NlIEFwcGxlIFBheSDihpIgcmV2aWV3IHRoZSBwYXltZW50IOKGkiBjb25maXJtIHdpdGggRmFjZSBJRCwgVG91Y2ggSUQgb3IgYSBkZXZpY2UgcGFzc2NvZGU7IGdpdmluZyB0aGVtIGEgbW9yZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "X · Razorpay",
+      "read_more_link": "https://x.com/Razorpay?lang=en#:~:text=Here's%20what%20your%20customers%20will,or%20waiting%20for%20an%20OTP."
+    },
+    {
+      "position": 4,
+      "title": "Razorpay Payments for Business - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.razorpay.payments.app&hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.razorpay.payments.app%26hl%3Den&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECEgQAQ",
+      "displayed_link": "https://play.google.com › store › apps › details › id=com...",
+      "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+      "date": "6 days ago",
+      "snippet": "The onboarding experience is extremely frustrating. I had to log in multiple times just to complete the verification process, The biggest issue ...",
+      "about_this_result": {
+        "source": {
+          "description": "The onboarding experience is extremely frustrating. I had to log in multiple times just to complete the verification process, The biggest issue ...",
+          "source_info_link": "https://play.google.com/store/apps/details?id=com.razorpay.payments.app&hl=en",
+          "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnJhem9ycGF5LnBheW1lbnRzLmFwcCZobD1lbhIEGgIIABqCAxICCAAaACICCAEqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2gIIABAAGAAgACopCghyYXpvcnBheRVYIKFAGglyYXpvciBwYXkaDWl2O3A7cmF6b3JwYXkyTWh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20ucmF6b3JwYXkucGF5bWVudHMuYXBwJmhsPWVuOjs8Yj5SYXpvcnBheTwvYj4gUGF5bWVudHMgZm9yIEJ1c2luZXNzIC0gQXBwcyBvbiBHb29nbGUgUGxheUKYAVRoZSBvbmJvYXJkaW5nIGV4cGVyaWVuY2UgaXMgZXh0cmVtZWx5IGZydXN0cmF0aW5nLiBJIGhhZCB0byBsb2cgaW4gbXVsdGlwbGUgdGltZXMganVzdCB0byBjb21wbGV0ZSB0aGUgdmVyaWZpY2F0aW9uIHByb2Nlc3MsIFRoZSBiaWdnZXN0IGlzc3VlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnJhem9ycGF5LnBheW1lbnRzLmFwcCZobD1lbhIEGgIIABqCAxICCAAaACICCAEqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2gIIABAAGAAgACopCghyYXpvcnBheRVYIKFAGglyYXpvciBwYXkaDWl2O3A7cmF6b3JwYXkyTWh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20ucmF6b3JwYXkucGF5bWVudHMuYXBwJmhsPWVuOjs8Yj5SYXpvcnBheTwvYj4gUGF5bWVudHMgZm9yIEJ1c2luZXNzIC0gQXBwcyBvbiBHb29nbGUgUGxheUKYAVRoZSBvbmJvYXJkaW5nIGV4cGVyaWVuY2UgaXMgZXh0cmVtZWx5IGZydXN0cmF0aW5nLiBJIGhhZCB0byBsb2cgaW4gbXVsdGlwbGUgdGltZXMganVzdCB0byBjb21wbGV0ZSB0aGUgdmVyaWZpY2F0aW9uIHByb2Nlc3MsIFRoZSBiaWdnZXN0IGlzc3VlJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Google Play"
+    },
+    {
+      "position": 5,
+      "title": "My Personal Experience with Razorpay, PayU, and ...",
+      "link": "https://medium.com/@chaitanya99j/my-personal-experience-with-razorpay-payu-and-ccavenue-as-a-full-stack-developer-heres-what-i-c6fd7a47e7f4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFSu73N6mtKDqzzN3haNHYgftXnHnaGONAEh2Mo4JU0qBCa33InuhOhJ67JkO2C7JHSGjFWISFOfHvv93BxEnzoTbvC8T3MgwkgKw4ZDaGyaxqOBPazDytM6FirhjpYd5Ql1KWFvtHpnerZsC-xwPyNv0OOvvVT5gjHqzSzEqN8nGcrdsqOnFA57I5NTA8XXdJTUdUcEvsmN_E1xxsp7ns0Wf2I5_UUzCHZvRFSzxTebPZPVNfSMf4wKxKSP2zcjdOkA0&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECEsQAQ&uoh=1",
+      "displayed_link": "2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp",
+      "snippet": "The Best Razorpay stands out as the best option when it comes to ease of implementation. The documentation is well-organized and easy to ...",
+      "snippet_highlighted_words": [
+        "Razorpay"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Best Razorpay stands out as the best option when it comes to ease of implementation. The documentation is well-organized and easy to ...",
+          "source_info_link": "https://medium.com/@chaitanya99j/my-personal-experience-with-razorpay-payu-and-ccavenue-as-a-full-stack-developer-heres-what-i-c6fd7a47e7f4",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTdTczTjZtdEtEcXp6TjNoYU5IWWdmdFhuSG5hR09OQUVoMk1vNEpVMHFCQ2EzM0ludWhPaEo2N0prTzJDN0pIU0dqRldJU0ZPZkh2djkzQnhFbnpvVGJ2QzhUM01nd2tnS3c0WkRhR3lheHFPQlBhekR5dE02RmlyaGpwWWQ1UWwxS1dGdnRIcG5lclpzQy14d1B5TnYwT092dlZUNWdqSHF6U3pFcU44bkdjcmRzcU9uRkE1N0k1TlRBOFhYZEpUVWRVY0V2c21OX0UxeHhzcDduczBXZjJJNV9VVXpDSFp2UkZTenhUZWJQWlBWTmZTTWY0d0t4S1NQMnpjamRPa0EwEgQaAggAGtQEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLAECAAQABgAIAAqKQoIcmF6b3JwYXkV5eKGQBoJcmF6b3IgcGF5Gg1pdjtwO3Jhem9ycGF5MpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTdTczTjZtdEtEcXp6TjNoYU5IWWdmdFhuSG5hR09OQUVoMk1vNEpVMHFCQ2EzM0ludWhPaEo2N0prTzJDN0pIU0dqRldJU0ZPZkh2djkzQnhFbnpvVGJ2QzhUM01nd2tnS3c0WkRhR3lheHFPQlBhekR5dE02RmlyaGpwWWQ1UWwxS1dGdnRIcG5lclpzQy14d1B5TnYwT092dlZUNWdqSHF6U3pFcU44bkdjcmRzcU9uRkE1N0k1TlRBOFhYZEpUVWRVY0V2c21OX0UxeHhzcDduczBXZjJJNV9VVXpDSFp2UkZTenhUZWJQWlBWTmZTTWY0d0t4S1NQMnpjamRPa0EwOkNNeSBQZXJzb25hbCBFeHBlcmllbmNlIHdpdGggPGI-UmF6b3JwYXk8L2I-LCBQYXlVLCBhbmQgLi4uIC0gTWVkaXVtQpgBVGhlIEJlc3QgPGI-UmF6b3JwYXk8L2I-IHN0YW5kcyBvdXQgYXMgdGhlIGJlc3Qgb3B0aW9uIHdoZW4gaXQgY29tZXMgdG8gZWFzZSBvZiBpbXBsZW1lbnRhdGlvbi4gVGhlIGRvY3VtZW50YXRpb24gaXMgd2VsbC1vcmdhbml6ZWQgYW5kIGVhc3kgdG8mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTdTczTjZtdEtEcXp6TjNoYU5IWWdmdFhuSG5hR09OQUVoMk1vNEpVMHFCQ2EzM0ludWhPaEo2N0prTzJDN0pIU0dqRldJU0ZPZkh2djkzQnhFbnpvVGJ2QzhUM01nd2tnS3c0WkRhR3lheHFPQlBhekR5dE02RmlyaGpwWWQ1UWwxS1dGdnRIcG5lclpzQy14d1B5TnYwT092dlZUNWdqSHF6U3pFcU44bkdjcmRzcU9uRkE1N0k1TlRBOFhYZEpUVWRVY0V2c21OX0UxeHhzcDduczBXZjJJNV9VVXpDSFp2UkZTenhUZWJQWlBWTmZTTWY0d0t4S1NQMnpjamRPa0EwEgQaAggAGtQEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLAECAAQABgAIAAqKQoIcmF6b3JwYXkV5eKGQBoJcmF6b3IgcGF5Gg1pdjtwO3Jhem9ycGF5MpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZTdTczTjZtdEtEcXp6TjNoYU5IWWdmdFhuSG5hR09OQUVoMk1vNEpVMHFCQ2EzM0ludWhPaEo2N0prTzJDN0pIU0dqRldJU0ZPZkh2djkzQnhFbnpvVGJ2QzhUM01nd2tnS3c0WkRhR3lheHFPQlBhekR5dE02RmlyaGpwWWQ1UWwxS1dGdnRIcG5lclpzQy14d1B5TnYwT092dlZUNWdqSHF6U3pFcU44bkdjcmRzcU9uRkE1N0k1TlRBOFhYZEpUVWRVY0V2c21OX0UxeHhzcDduczBXZjJJNV9VVXpDSFp2UkZTenhUZWJQWlBWTmZTTWY0d0t4S1NQMnpjamRPa0EwOkNNeSBQZXJzb25hbCBFeHBlcmllbmNlIHdpdGggPGI-UmF6b3JwYXk8L2I-LCBQYXlVLCBhbmQgLi4uIC0gTWVkaXVtQpgBVGhlIEJlc3QgPGI-UmF6b3JwYXk8L2I-IHN0YW5kcyBvdXQgYXMgdGhlIGJlc3Qgb3B0aW9uIHdoZW4gaXQgY29tZXMgdG8gZWFzZSBvZiBpbXBsZW1lbnRhdGlvbi4gVGhlIGRvY3VtZW50YXRpb24gaXMgd2VsbC1vcmdhbml6ZWQgYW5kIGVhc3kgdG8mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Medium · Chaitanya Joshi"
+    },
+    {
+      "position": 6,
+      "title": "Tactics for driving service adoption from Razorpay",
+      "link": "https://getdx.com/podcast/driving-service-adoption-razorpay/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVuCc9yxcrm2CwcwXsfDG7FyVUDRG3OEqJQofj_3ki4bW3YxNsWH2Wo_lqISbZJ7evskkWWdqoLOL5Hs-jFsvp144yDoGS2E7lJZLbvTVFs-0kNMIB3PHOcGxxeO6TumdlE6D0WZNKtfjo5eaqc6jN-mFc&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://getdx.com › podcast › driving-service-adoption-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA5UlEQVR4AcSQIQzCMBBFv081YqlrUotCkcxbNAqFx8_N4-cm8XoOL3BTuNmqmYp-7mhgQIDguGT5WV_uXXvgl_oXTPolTqW_6YfOFs65-bodyA6mkOC4taiuMB1wLdOSG2AlwgqwY9bGZuat4oaDAwJPALqslcYz2UsTehEjxgWwyzNDqYdil5Q5dccaWIZnqAZHjjwCOPIF6qFE9Gr4AHdAIfFW26k0Rb67UJgDNZvDA5yesgXKOMD0E7QuL0HVOKm6TDd4X1-Q2JMxh8KV897nxVeFXUe9uDE66jIyIhsqOOiSJgCP8GS_e-KkDgAAAABJRU5ErkJggg.png",
+      "snippet": "Varun Achar explains how Razorpay's Platform organization drives service adoption.",
+      "snippet_highlighted_words": [
+        "Razorpay's"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Varun Achar explains how Razorpay's Platform organization drives service adoption.",
+          "source_info_link": "https://getdx.com/podcast/driving-service-adoption-razorpay/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA5UlEQVR4AcSQIQzCMBBFv081YqlrUotCkcxbNAqFx8_N4-cm8XoOL3BTuNmqmYp-7mhgQIDguGT5WV_uXXvgl_oXTPolTqW_6YfOFs65-bodyA6mkOC4taiuMB1wLdOSG2AlwgqwY9bGZuat4oaDAwJPALqslcYz2UsTehEjxgWwyzNDqYdil5Q5dccaWIZnqAZHjjwCOPIF6qFE9Gr4AHdAIfFW26k0Rb67UJgDNZvDA5yesgXKOMD0E7QuL0HVOKm6TDd4X1-Q2JMxh8KV897nxVeFXUe9uDE66jIyIhsqOOiSJgCP8GS_e-KkDgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnVDYzl5eGNybTJDd2N3WHNmREc3RnlWVURSRzNPRXFKUW9mal8za2k0YlczWXhOc1dIMldvX2xxSVNiWko3ZXZza2tXV2Rxb0xPTDVIcy1qRnN2cDE0NHlEb0dTMkU3bEpaTGJ2VFZGcy0wa05NSUIzUEhPY0d4eGVPNlR1bWRsRTZEMFdaTkt0ZmpvNWVhcWM2ak4tbUZjEgQaAggAGqkDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgwMIABAAGAAgACopCghyYXpvcnBheRUMpoRAGglyYXpvciBwYXkaDWl2O3A7cmF6b3JwYXkyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWdUNjOXl4Y3JtMkN3Y3dYc2ZERzdGeVZVRFJHM09FcUpRb2ZqXzNraTRiVzNZeE5zV0gyV29fbHFJU2JaSjdldnNra1dXZHFvTE9MNUhzLWpGc3ZwMTQ0eURvR1MyRTdsSlpMYnZUVkZzLTBrTk1JQjNQSE9jR3h4ZU82VHVtZGxFNkQwV1pOS3Rmam81ZWFxYzZqTi1tRmM6PlRhY3RpY3MgZm9yIGRyaXZpbmcgc2VydmljZSBhZG9wdGlvbiBmcm9tIDxiPlJhem9ycGF5PC9iPiAtIERYQl1WYXJ1biBBY2hhciBleHBsYWlucyBob3cgPGI-UmF6b3JwYXkmIzM5O3M8L2I-IFBsYXRmb3JtIG9yZ2FuaXphdGlvbiBkcml2ZXMgc2VydmljZSBhZG9wdGlvbi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnVDYzl5eGNybTJDd2N3WHNmREc3RnlWVURSRzNPRXFKUW9mal8za2k0YlczWXhOc1dIMldvX2xxSVNiWko3ZXZza2tXV2Rxb0xPTDVIcy1qRnN2cDE0NHlEb0dTMkU3bEpaTGJ2VFZGcy0wa05NSUIzUEhPY0d4eGVPNlR1bWRsRTZEMFdaTkt0ZmpvNWVhcWM2ak4tbUZjEgQaAggAGqkDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgwMIABAAGAAgACopCghyYXpvcnBheRUMpoRAGglyYXpvciBwYXkaDWl2O3A7cmF6b3JwYXkyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWdUNjOXl4Y3JtMkN3Y3dYc2ZERzdGeVZVRFJHM09FcUpRb2ZqXzNraTRiVzNZeE5zV0gyV29fbHFJU2JaSjdldnNra1dXZHFvTE9MNUhzLWpGc3ZwMTQ0eURvR1MyRTdsSlpMYnZUVkZzLTBrTk1JQjNQSE9jR3h4ZU82VHVtZGxFNkQwV1pOS3Rmam81ZWFxYzZqTi1tRmM6PlRhY3RpY3MgZm9yIGRyaXZpbmcgc2VydmljZSBhZG9wdGlvbiBmcm9tIDxiPlJhem9ycGF5PC9iPiAtIERYQl1WYXJ1biBBY2hhciBleHBsYWlucyBob3cgPGI-UmF6b3JwYXkmIzM5O3M8L2I-IFBsYXRmb3JtIG9yZ2FuaXphdGlvbiBkcml2ZXMgc2VydmljZSBhZG9wdGlvbi4iAhABSABYAGgA",
+      "source": "DX: Developer Intelligence Platform"
     }
-  ]
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Razorpay Payment",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+Payment&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+Payment"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay Software Private Limited",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+Software+Private+Limited&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+Software+Private+Limited"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay Payment Gateway",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+Payment+Gateway&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+Payment+Gateway"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay payment status",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+payment+status&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+payment+status"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay docs",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+docs&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+docs"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay test mode",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+test+mode&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+test+mode"
+    },
+    {
+      "block_position": 1,
+      "query": "Razorpay sign up",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=Razorpay+sign+up&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+sign+up"
+    },
+    {
+      "block_position": 1,
+      "query": "About Razorpay",
+      "link": "https://www.google.com/search?sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&q=About+Razorpay&sa=X&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=About+Razorpay"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&ei=ifbEauTTIJOv5NoPuvaUMA&start=10&sa=N&sstk=AS6-VmJPxujQoEO0x7EAcvkYStQRzj-aEupboASQ_1VI0lJvA3mEYxOMMsojG6CdVpRWZqUoQAnj_zumiKFAo4lOYn0PGZimrHNt1w&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ8NMDegQINxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&ei=ifbEauTTIJOv5NoPuvaUMA&start=10&sa=N&sstk=AS6-VmJPxujQoEO0x7EAcvkYStQRzj-aEupboASQ_1VI0lJvA3mEYxOMMsojG6CdVpRWZqUoQAnj_zumiKFAo4lOYn0PGZimrHNt1w&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ8tMDegQINxAE",
+      "3": "https://www.google.com/search?q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&ei=ifbEauTTIJOv5NoPuvaUMA&start=20&sa=N&sstk=AS6-VmJPxujQoEO0x7EAcvkYStQRzj-aEupboASQ_1VI0lJvA3mEYxOMMsojG6CdVpRWZqUoQAnj_zumiKFAo4lOYn0PGZimrHNt1w&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ8tMDegQINxAG",
+      "4": "https://www.google.com/search?q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=82c54f06750851c0&hl=en&gl=in&sxsrf=APpeQntFAH0ibJ3umq-jPBoC2rHdBKEtlw:1791293065542&ei=ifbEauTTIJOv5NoPuvaUMA&start=30&sa=N&sstk=AS6-VmJPxujQoEO0x7EAcvkYStQRzj-aEupboASQ_1VI0lJvA3mEYxOMMsojG6CdVpRWZqUoQAnj_zumiKFAo4lOYn0PGZimrHNt1w&ved=2ahUKEwikvPDWvqWXAxWTF1kFHTo7BQYQ8tMDegQINxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Razorpay+employee+reviews+glassdoor+ambitionbox+interview&start=30"
+    }
+  }
 }

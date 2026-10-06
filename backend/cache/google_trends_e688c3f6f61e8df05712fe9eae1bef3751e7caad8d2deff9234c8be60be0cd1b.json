@@ -1,19 +1,19 @@
 {
   "search_metadata": {
-    "id": "6ac4f68eee2318fc70c3f676",
+    "id": "6ac4f69bf6d5eed400dbd7ba",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/lmn-Ppsp0jFlRZjAi3tf2lBHDluuVlmtAjyQDDHKcXo/6ac4f68eee2318fc70c3f676.json",
-    "markdown_endpoint": "https://serpapi.com/searches/lmn-Ppsp0jFlRZjAi3tf2lBHDluuVlmtAjyQDDHKcXo/6ac4f68eee2318fc70c3f676.md",
-    "created_at": "2026-10-06 13:24:30 UTC",
-    "processed_at": "2026-10-06 13:24:30 UTC",
-    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22FastAPI%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
-    "raw_html_file": "https://serpapi.com/searches/lmn-Ppsp0jFlRZjAi3tf2lBHDluuVlmtAjyQDDHKcXo/6ac4f68eee2318fc70c3f676.html",
-    "prettify_html_file": "https://serpapi.com/searches/lmn-Ppsp0jFlRZjAi3tf2lBHDluuVlmtAjyQDDHKcXo/6ac4f68eee2318fc70c3f676.prettify",
-    "total_time_taken": 1.59
+    "json_endpoint": "https://serpapi.com/searches/yTi8PCqlb96VwjUe30x8Adxqs2MHnGD-DiRd95QF_bo/6ac4f69bf6d5eed400dbd7ba.json",
+    "markdown_endpoint": "https://serpapi.com/searches/yTi8PCqlb96VwjUe30x8Adxqs2MHnGD-DiRd95QF_bo/6ac4f69bf6d5eed400dbd7ba.md",
+    "created_at": "2026-10-06 13:24:43 UTC",
+    "processed_at": "2026-10-06 13:24:43 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Python%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/yTi8PCqlb96VwjUe30x8Adxqs2MHnGD-DiRd95QF_bo/6ac4f69bf6d5eed400dbd7ba.html",
+    "prettify_html_file": "https://serpapi.com/searches/yTi8PCqlb96VwjUe30x8Adxqs2MHnGD-DiRd95QF_bo/6ac4f69bf6d5eed400dbd7ba.prettify",
+    "total_time_taken": 1.17
   },
   "search_parameters": {
     "engine": "google_trends",
-    "q": "FastAPI",
+    "q": "Python",
     "hl": "en",
     "geo": "IN",
     "date": "today 12-m",
@@ -27,10 +27,10 @@
         "timestamp": "1759622400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "57",
-            "extracted_value": 57
+            "value": "82",
+            "extracted_value": 82
           }
         ]
       },
@@ -39,10 +39,10 @@
         "timestamp": "1760227200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "59",
-            "extracted_value": 59
+            "value": "79",
+            "extracted_value": 79
           }
         ]
       },
@@ -51,10 +51,10 @@
         "timestamp": "1760832000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "51",
-            "extracted_value": 51
+            "value": "59",
+            "extracted_value": 59
           }
         ]
       },
@@ -63,10 +63,10 @@
         "timestamp": "1761436800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "76",
-            "extracted_value": 76
+            "value": "84",
+            "extracted_value": 84
           }
         ]
       },
@@ -75,10 +75,10 @@
         "timestamp": "1762041600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "98",
-            "extracted_value": 98
+            "value": "88",
+            "extracted_value": 88
           }
         ]
       },
@@ -87,10 +87,10 @@
         "timestamp": "1762646400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "100",
-            "extracted_value": 100
+            "value": "87",
+            "extracted_value": 87
           }
         ]
       },
@@ -99,7 +99,7 @@
         "timestamp": "1763251200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
             "value": "89",
             "extracted_value": 89
@@ -111,10 +111,10 @@
         "timestamp": "1763856000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "85",
-            "extracted_value": 85
+            "value": "88",
+            "extracted_value": 88
           }
         ]
       },
@@ -123,10 +123,10 @@
         "timestamp": "1764460800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "94",
-            "extracted_value": 94
+            "value": "92",
+            "extracted_value": 92
           }
         ]
       },
@@ -135,10 +135,10 @@
         "timestamp": "1765065600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "95",
-            "extracted_value": 95
+            "value": "92",
+            "extracted_value": 92
           }
         ]
       },
@@ -147,10 +147,10 @@
         "timestamp": "1765670400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "91",
-            "extracted_value": 91
+            "value": "87",
+            "extracted_value": 87
           }
         ]
       },
@@ -159,10 +159,10 @@
         "timestamp": "1766275200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "79",
-            "extracted_value": 79
+            "value": "71",
+            "extracted_value": 71
           }
         ]
       },
@@ -171,10 +171,10 @@
         "timestamp": "1766880000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "70",
-            "extracted_value": 70
+            "value": "68",
+            "extracted_value": 68
           }
         ]
       },
@@ -183,10 +183,10 @@
         "timestamp": "1767484800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "81",
-            "extracted_value": 81
+            "value": "83",
+            "extracted_value": 83
           }
         ]
       },
@@ -195,10 +195,10 @@
         "timestamp": "1768089600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "71",
-            "extracted_value": 71
+            "value": "69",
+            "extracted_value": 69
           }
         ]
       },
@@ -207,10 +207,10 @@
         "timestamp": "1768694400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "74",
-            "extracted_value": 74
+            "value": "86",
+            "extracted_value": 86
           }
         ]
       },
@@ -219,10 +219,10 @@
         "timestamp": "1769299200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "73",
-            "extracted_value": 73
+            "value": "87",
+            "extracted_value": 87
           }
         ]
       },
@@ -231,10 +231,10 @@
         "timestamp": "1769904000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "62",
-            "extracted_value": 62
+            "value": "85",
+            "extracted_value": 85
           }
         ]
       },
@@ -243,10 +243,10 @@
         "timestamp": "1770508800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "83",
-            "extracted_value": 83
+            "value": "100",
+            "extracted_value": 100
           }
         ]
       },
@@ -255,10 +255,10 @@
         "timestamp": "1771113600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "74",
-            "extracted_value": 74
+            "value": "88",
+            "extracted_value": 88
           }
         ]
       },
@@ -267,10 +267,10 @@
         "timestamp": "1771718400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "81",
-            "extracted_value": 81
+            "value": "80",
+            "extracted_value": 80
           }
         ]
       },
@@ -279,10 +279,10 @@
         "timestamp": "1772323200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "79",
-            "extracted_value": 79
+            "value": "69",
+            "extracted_value": 69
           }
         ]
       },
@@ -291,10 +291,10 @@
         "timestamp": "1772928000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "80",
-            "extracted_value": 80
+            "value": "76",
+            "extracted_value": 76
           }
         ]
       },
@@ -303,10 +303,10 @@
         "timestamp": "1773532800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "72",
-            "extracted_value": 72
+            "value": "75",
+            "extracted_value": 75
           }
         ]
       },
@@ -315,10 +315,10 @@
         "timestamp": "1774137600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "84",
-            "extracted_value": 84
+            "value": "76",
+            "extracted_value": 76
           }
         ]
       },
@@ -327,10 +327,10 @@
         "timestamp": "1774742400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "83",
-            "extracted_value": 83
+            "value": "67",
+            "extracted_value": 67
           }
         ]
       },
@@ -339,10 +339,10 @@
         "timestamp": "1775347200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "81",
-            "extracted_value": 81
+            "value": "69",
+            "extracted_value": 69
           }
         ]
       },
@@ -351,10 +351,10 @@
         "timestamp": "1775952000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "76",
-            "extracted_value": 76
+            "value": "64",
+            "extracted_value": 64
           }
         ]
       },
@@ -363,10 +363,10 @@
         "timestamp": "1776556800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "73",
-            "extracted_value": 73
+            "value": "64",
+            "extracted_value": 64
           }
         ]
       },
@@ -375,10 +375,10 @@
         "timestamp": "1777161600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "65",
-            "extracted_value": 65
+            "value": "60",
+            "extracted_value": 60
           }
         ]
       },
@@ -387,10 +387,10 @@
         "timestamp": "1777766400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "72",
-            "extracted_value": 72
+            "value": "62",
+            "extracted_value": 62
           }
         ]
       },
@@ -399,10 +399,10 @@
         "timestamp": "1778371200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "72",
-            "extracted_value": 72
+            "value": "60",
+            "extracted_value": 60
           }
         ]
       },
@@ -411,10 +411,10 @@
         "timestamp": "1778976000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "64",
-            "extracted_value": 64
+            "value": "58",
+            "extracted_value": 58
           }
         ]
       },
@@ -423,10 +423,10 @@
         "timestamp": "1779580800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "69",
-            "extracted_value": 69
+            "value": "57",
+            "extracted_value": 57
           }
         ]
       },
@@ -435,10 +435,10 @@
         "timestamp": "1780185600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "80",
-            "extracted_value": 80
+            "value": "65",
+            "extracted_value": 65
           }
         ]
       },
@@ -447,10 +447,10 @@
         "timestamp": "1780790400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "80",
-            "extracted_value": 80
+            "value": "67",
+            "extracted_value": 67
           }
         ]
       },
@@ -459,10 +459,10 @@
         "timestamp": "1781395200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "72",
-            "extracted_value": 72
+            "value": "67",
+            "extracted_value": 67
           }
         ]
       },
@@ -471,10 +471,10 @@
         "timestamp": "1782000000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "79",
-            "extracted_value": 79
+            "value": "65",
+            "extracted_value": 65
           }
         ]
       },
@@ -483,10 +483,10 @@
         "timestamp": "1782604800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "91",
-            "extracted_value": 91
+            "value": "64",
+            "extracted_value": 64
           }
         ]
       },
@@ -495,10 +495,10 @@
         "timestamp": "1783209600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "79",
-            "extracted_value": 79
+            "value": "70",
+            "extracted_value": 70
           }
         ]
       },
@@ -507,10 +507,10 @@
         "timestamp": "1783814400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "64",
-            "extracted_value": 64
+            "value": "73",
+            "extracted_value": 73
           }
         ]
       },
@@ -519,10 +519,10 @@
         "timestamp": "1784419200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "65",
-            "extracted_value": 65
+            "value": "78",
+            "extracted_value": 78
           }
         ]
       },
@@ -531,10 +531,10 @@
         "timestamp": "1785024000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "63",
-            "extracted_value": 63
+            "value": "83",
+            "extracted_value": 83
           }
         ]
       },
@@ -543,10 +543,10 @@
         "timestamp": "1785628800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "70",
-            "extracted_value": 70
+            "value": "79",
+            "extracted_value": 79
           }
         ]
       },
@@ -555,10 +555,10 @@
         "timestamp": "1786233600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "61",
-            "extracted_value": 61
+            "value": "72",
+            "extracted_value": 72
           }
         ]
       },
@@ -567,10 +567,10 @@
         "timestamp": "1786838400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "58",
-            "extracted_value": 58
+            "value": "77",
+            "extracted_value": 77
           }
         ]
       },
@@ -579,10 +579,10 @@
         "timestamp": "1787443200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "63",
-            "extracted_value": 63
+            "value": "62",
+            "extracted_value": 62
           }
         ]
       },
@@ -591,10 +591,10 @@
         "timestamp": "1788048000",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "77",
-            "extracted_value": 77
+            "value": "75",
+            "extracted_value": 75
           }
         ]
       },
@@ -603,10 +603,10 @@
         "timestamp": "1788652800",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "62",
-            "extracted_value": 62
+            "value": "71",
+            "extracted_value": 71
           }
         ]
       },
@@ -615,10 +615,10 @@
         "timestamp": "1789257600",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "67",
-            "extracted_value": 67
+            "value": "66",
+            "extracted_value": 66
           }
         ]
       },
@@ -627,10 +627,10 @@
         "timestamp": "1789862400",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "57",
-            "extracted_value": 57
+            "value": "61",
+            "extracted_value": 61
           }
         ]
       },
@@ -639,10 +639,10 @@
         "timestamp": "1790467200",
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "52",
-            "extracted_value": 52
+            "value": "56",
+            "extracted_value": 56
           }
         ]
       },
@@ -652,10 +652,10 @@
         "partial_data": true,
         "values": [
           {
-            "query": "FastAPI",
+            "query": "Python",
             "query_index": 0,
-            "value": "54",
-            "extracted_value": 54
+            "value": "68",
+            "extracted_value": 68
           }
         ]
       }
