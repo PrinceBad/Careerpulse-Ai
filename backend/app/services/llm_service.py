@@ -7,6 +7,8 @@ from ..config import settings
 from ..models.schemas import Citation, GroundedOutreachPack
 from .grounding_validator import grounding_validator
 
+from .resume_parser import resume_parser
+
 logger = logging.getLogger(__name__)
 
 class LLMService:
@@ -15,6 +17,7 @@ class LLMService:
     def __init__(self):
         self.provider = settings.LLM_PROVIDER.lower()
         self.gemini_key = settings.GEMINI_API_KEY
+        self.gemini_model = settings.GEMINI_MODEL
         self.openai_key = settings.OPENAI_API_KEY
 
     def generate_grounded_outreach(
@@ -75,7 +78,17 @@ class LLMService:
 
         final_cited_ids = sorted(list(set(verified_letter_ids + verified_bullet_ids)))
         used_citations = [c for c in citations if c.id in final_cited_ids]
-        prov = "mock" if any(c.provenance == "mock" for c in citations) else ("cached" if any(c.provenance == "cached" for c in citations) else "live")
+        
+        if not citations:
+            prov = "unavailable"
+        elif any(c.provenance == "unavailable" for c in citations):
+            prov = "unavailable"
+        elif any(c.provenance == "mock" for c in citations):
+            prov = "mock"
+        elif any(c.provenance == "cached" for c in citations):
+            prov = "cached"
+        else:
+            prov = "live"
 
         pack.cover_letter = clean_letter
         pack.tailored_resume_bullets = clean_bullets
@@ -95,7 +108,11 @@ class LLMService:
         citations: List[Citation], 
         evidence_text: str
     ) -> GroundedOutreachPack:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.gemini_key}"
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{self.gemini_model}:generateContent"
+        headers = {
+            "x-goog-api-key": self.gemini_key,
+            "Content-Type": "application/json"
+        }
         prompt = f"""
 You are an expert career intelligence strategist.
 Write a personalized, evidence-backed outreach email and 3 tailored resume bullet points for a candidate applying to {company_name} for the position of {role_title}.
@@ -118,7 +135,7 @@ Return ONLY valid JSON in this exact structure:
 }}
 """
         payload = {"contents": [{"parts": [{"text": prompt}]}]}
-        res = requests.post(url, json=payload, timeout=20)
+        res = requests.post(url, headers=headers, json=payload, timeout=20)
         if res.status_code == 200:
             data = res.json()
             raw_text = data["candidates"][0]["content"]["parts"][0]["text"]
@@ -194,66 +211,91 @@ Respond with pure JSON:
     ) -> GroundedOutreachPack:
         """
         Deterministic, offline-safe generator that builds verified outreach
-        referencing exact citations in citations list.
+        referencing exact citations and extracted candidate skills without inventing metrics.
         """
         cited_ids = []
         positive_news = [c for c in citations if c.engine == "google_news" and c.signal_type == "positive"]
         reviews = [c for c in citations if c.engine == "google"]
         trends = [c for c in citations if c.engine == "google_trends"]
 
-        # Select top news citation for hook
+        # 1. Quote actual verified citations to prevent citation laundering
         hook_quote = ""
-        if positive_news:
-            lead_cit = positive_news[0]
+        lead_cit = positive_news[0] if positive_news else (citations[0] if citations else None)
+        if lead_cit:
             cited_ids.append(lead_cit.id)
-            hook_quote = f"Following recent reports on {company_name}'s technical expansion [{lead_cit.id}], I was particularly drawn to your engineering priorities."
-        elif citations:
-            lead_cit = citations[0]
-            cited_ids.append(lead_cit.id)
-            hook_quote = f"With {company_name} actively scaling its engineering organization [{lead_cit.id}], I wanted to connect regarding the {role_title} position."
+            hook_quote = f"Recent news coverage highlights: “{lead_cit.source_title}” [{lead_cit.id}]."
 
         culture_hook = ""
-        if reviews:
-            rev_cit = reviews[0]
+        rev_cit = reviews[0] if reviews else None
+        if rev_cit:
             cited_ids.append(rev_cit.id)
-            culture_hook = f"Your engineering team's focus on high ownership and collaborative architecture [{rev_cit.id}] directly aligns with my day-to-day principles."
+            culture_hook = f"Public employee reviews note: “{rev_cit.source_title}” [{rev_cit.id}]."
 
         trend_hook = ""
-        if trends:
-            trend_cit = trends[0]
+        trend_cit = trends[0] if trends else None
+        if trend_cit:
             cited_ids.append(trend_cit.id)
-            trend_hook = f"Given the accelerating demand for high-performance Python and async architectures in 2026 [{trend_cit.id}], I can bring immediate impact to your services."
+            trend_hook = f"Industry search trends indicate: “{trend_cit.snippet}” [{trend_cit.id}]."
 
-        subject_line = f"Application: {role_title} | Proven Python & Scalable Backend Experience - {company_name}"
-
-        cover_letter = f"""Hi {company_name} Hiring Team,
-
-I am writing to express my strong interest in the {role_title} opening. 
-
-{hook_quote}
-
-Over the past several years, I have architected and deployed high-throughput backend services using Python, FastAPI, and distributed systems. {culture_hook} {trend_hook}
-
-I would welcome the opportunity to discuss how my hands-on background in scalable API design and automated intelligence pipelines can contribute to {company_name}'s roadmaps.
-
-Thank you for your time and consideration.
-
-Best regards,
-Candidate (via CareerPulse AI)
-"""
-
-        if cited_ids:
-            tailored_bullets = [
-                f"Engineered resilient API microservices with Python and FastAPI, aligned with {company_name}'s verified architecture standards [{cited_ids[0]}].",
-                f"Implemented distributed caching and telemetry to maintain sub-50ms latency under high load [{cited_ids[1] if len(cited_ids) > 1 else cited_ids[0]}].",
-                f"Designed automated event-driven workers that improved data throughput and system reliability."
-            ]
+        # 2. Extract real candidate skills instead of inventing years or throughput metrics
+        extracted_skills = resume_parser.extract_skills(candidate_profile)
+        if extracted_skills:
+            primary_skill = extracted_skills[0]
+            secondary_skill = extracted_skills[1] if len(extracted_skills) > 1 else extracted_skills[0]
+            skills_str = ", ".join(extracted_skills[:4])
+            candidate_sentence = f"In my technical background, I have developed software systems with a focus on {skills_str}."
         else:
-            tailored_bullets = [
-                f"Engineered resilient API microservices with Python and FastAPI, prioritizing high scalability and reliability.",
-                f"Implemented distributed caching and telemetry to maintain sub-50ms latency under high load.",
-                f"Designed automated event-driven workers that improved data throughput and system reliability."
-            ]
+            primary_skill = "Python"
+            secondary_skill = "software architecture"
+            candidate_sentence = "In my technical background, I have developed software services and modular backend applications."
+
+        subject_line = f"Application: {role_title} | {company_name}"
+
+        cover_letter_parts = [
+            f"Dear {company_name} Hiring Team,",
+            f"I am writing to express my strong interest in the {role_title} opening.",
+        ]
+        if hook_quote:
+            cover_letter_parts.append(hook_quote)
+        
+        body_parts = [candidate_sentence]
+        if culture_hook:
+            body_parts.append(culture_hook)
+        if trend_hook:
+            body_parts.append(trend_hook)
+        cover_letter_parts.append(" ".join(body_parts))
+
+        cover_letter_parts.append(
+            f"I would welcome the opportunity to discuss how my engineering background aligns with {company_name}'s technical roadmap."
+        )
+        cover_letter_parts.append("Thank you for considering my application.")
+        cover_letter_parts.append("Sincerely,\nCandidate (via CareerPulse AI)")
+
+        cover_letter = "\n\n".join(cover_letter_parts)
+
+        # 3. Bullets referencing actual skills and verified citations
+        tailored_bullets = []
+        if lead_cit:
+            tailored_bullets.append(
+                f"Engineered modular services utilizing {primary_skill}, aligning with technical priorities highlighted in recent coverage [{lead_cit.id}]."
+            )
+        else:
+            tailored_bullets.append(
+                f"Engineered modular backend services and APIs utilizing {primary_skill}."
+            )
+
+        if rev_cit:
+            tailored_bullets.append(
+                f"Implemented software workflows with {secondary_skill}, consistent with operational practices reflected in employee reviews [{rev_cit.id}]."
+            )
+        else:
+            tailored_bullets.append(
+                f"Implemented software workflows and application architecture with {secondary_skill}."
+            )
+
+        tailored_bullets.append(
+            f"Applied engineering practices across {extracted_skills[2] if len(extracted_skills) > 2 else 'distributed software'} to build reliable, maintainable code."
+        )
 
         used_citations = [c for c in citations if c.id in cited_ids]
 

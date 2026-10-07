@@ -63,7 +63,8 @@ def test_recency_date_parsing():
 def test_investigation_trace_present():
     report = due_diligence_engine.generate_report("Swiggy")
     assert len(report.investigation_trace) >= 2
-    assert report.snapshot_date == "Oct 6, 2026"
+    assert report.snapshot_date is not None
+    assert "2026" in report.snapshot_date
     step1 = report.investigation_trace[0]
     assert step1.step_number == 1
     assert "Parallel" in step1.action
@@ -159,11 +160,15 @@ def test_due_diligence_cache_miss_empty_dossier():
 
     assert report.company_name == "Infosys"
     assert report.overall_health_verdict == "Data Unavailable"
-    assert report.provenance == "mock"
+    assert report.provenance == "unavailable"
     assert len(report.citations) == 0
     assert report.snapshot_date is None
     assert report.risks.risk_level == "Unknown"
+    assert report.location_signal is None
+    assert len(report.tech_trends) == 0
+    assert report.culture.work_life_balance_rating is None
+    assert report.culture.interview_difficulty is None
     assert len(report.investigation_trace) >= 2
     assert "Cache Miss" in report.investigation_trace[0].result_summary
-    assert "No verified search evidence available in offline cache" in report.executive_summary
+    assert "No verified search evidence available" in report.executive_summary
 

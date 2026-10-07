@@ -9,6 +9,7 @@ def test_api_health():
     data = res.json()
     assert data["status"] == "healthy"
     assert "cached_queries_count" in data
+    assert "cache_snapshot_date" in data
 
 def test_job_search_endpoint():
     payload = {
@@ -22,6 +23,18 @@ def test_job_search_endpoint():
     assert data["total_found"] > 0
     assert len(data["jobs"]) > 0
     assert "match_score" in data["jobs"][0]
+
+def test_job_search_uncached_returns_empty_and_unavailable():
+    payload = {
+        "query": "NonExistentCompanyXYZ Engineer 999",
+        "location": "Nowhere"
+    }
+    res = client.post("/api/jobs/search", json=payload)
+    assert res.status_code == 200
+    data = res.json()
+    assert data["total_found"] == 0
+    assert len(data["jobs"]) == 0
+    assert data["provenance"] == "unavailable"
 
 def test_due_diligence_endpoint():
     payload = {

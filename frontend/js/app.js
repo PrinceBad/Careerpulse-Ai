@@ -208,6 +208,17 @@ function setupEventListeners() {
   });
 }
 
+function safeUrl(url) {
+  if (!url) return '#';
+  try {
+    const parsed = new URL(url, window.location.origin);
+    if (parsed.protocol === 'http:' || parsed.protocol === 'https:') {
+      return url;
+    }
+  } catch (e) {}
+  return '#';
+}
+
 function updateProvenanceBadge(prov, snapshotDate) {
   const p = prov || 'cached';
   if (p === 'live') {
@@ -218,7 +229,7 @@ function updateProvenanceBadge(prov, snapshotDate) {
       dossierProvenanceBadge.textContent = '🔴 Live SerpApi Verified';
     }
   } else if (p === 'cached') {
-    const capturedText = snapshotDate ? ` (captured ${snapshotDate})` : ' (captured Oct 6, 2026)';
+    const capturedText = snapshotDate ? ` (captured ${snapshotDate})` : '';
     const labelText = `Cached real SerpApi response${capturedText}`;
     dataSourceBadge.className = 'data-source-badge badge-cached';
     dataSourceLabel.textContent = labelText;
@@ -226,12 +237,19 @@ function updateProvenanceBadge(prov, snapshotDate) {
       dossierProvenanceBadge.className = 'provenance-badge badge-cached';
       dossierProvenanceBadge.textContent = `🟢 ${labelText}`;
     }
-  } else {
+  } else if (p === 'unavailable') {
     dataSourceBadge.className = 'data-source-badge badge-mock';
-    dataSourceLabel.textContent = 'Demo Mock Data';
+    dataSourceLabel.textContent = '⚪ No data: offline cache miss';
     if (dossierProvenanceBadge) {
       dossierProvenanceBadge.className = 'provenance-badge badge-mock';
-      dossierProvenanceBadge.textContent = '🟡 Demo Mock Data';
+      dossierProvenanceBadge.textContent = '⚪ No data: offline cache miss';
+    }
+  } else {
+    dataSourceBadge.className = 'data-source-badge badge-mock';
+    dataSourceLabel.textContent = 'Offline Mode';
+    if (dossierProvenanceBadge) {
+      dossierProvenanceBadge.className = 'provenance-badge badge-mock';
+      dossierProvenanceBadge.textContent = 'Offline Mode';
     }
   }
 }
@@ -279,11 +297,12 @@ async function runJobScan() {
     if (state.currentJobs.length > 0) {
       selectJob(state.currentJobs[0]);
     } else {
-      // If no jobs found (cache miss without live API), still load due diligence for typed company
+      // If no jobs found (cache miss without live API), load due diligence for typed company
+      state.selectedJob = null;
       const comp = targetCompany || "Target Company";
       targetCompanyTitle.textContent = comp;
-      targetRoleTitle.textContent = role;
-      loadDueDiligence(comp, role);
+      targetRoleTitle.textContent = role || "Software Engineer";
+      loadDueDiligence(comp, role || "Software Engineer");
     }
   } catch (err) {
     console.error("Error scanning jobs:", err);
@@ -358,13 +377,25 @@ function selectJob(job) {
   loadDueDiligence(job.company_name, job.title);
 }
 
+let currentDueDiligenceController = null;
+let currentDueDiligenceReqId = 0;
+
 async function loadDueDiligence(companyName, roleTitle) {
+  if (currentDueDiligenceController) {
+    currentDueDiligenceController.abort();
+  }
+  const controller = new AbortController();
+  currentDueDiligenceController = controller;
+  const reqId = ++currentDueDiligenceReqId;
+
   executiveSummaryText.textContent = `Running 5-engine SerpApi investigative scan for ${companyName}...`;
 
   try {
+    const timeoutId = setTimeout(() => controller.abort(), 15000);
     const res = await fetch('/api/company/due-diligence', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
       body: JSON.stringify({
         company_name: companyName,
         role_title: roleTitle,
@@ -372,30 +403,37 @@ async function loadDueDiligence(companyName, roleTitle) {
         tech_stack: ["FastAPI", "Python", "PostgreSQL"]
       })
     });
+    clearTimeout(timeoutId);
+
+    if (reqId !== currentDueDiligenceReqId) {
+      return; // Ignore stale response
+    }
 
     const report = await res.json();
     state.currentReport = report;
     renderDueDiligence(report);
     generateOutreach();
   } catch (err) {
+    if (err.name === 'AbortError') return;
+    if (reqId !== currentDueDiligenceReqId) return;
     console.error("Error loading due diligence:", err);
     executiveSummaryText.textContent = `Notice: Error executing due diligence scan for ${companyName}. Set SERPAPI_API_KEY in .env for live multi-engine queries.`;
   }
 }
 
 function renderDueDiligence(report) {
-  // Update Live vs Cached vs Mock Data badge honestly
+  // Update Live vs Cached vs Unavailable provenance badge honestly
   const prov = report.provenance || (report.is_mock ? 'mock' : 'cached');
   updateProvenanceBadge(prov, report.snapshot_date);
 
-  // Show clear cache-miss notice banner if in offline mock fallback
+  // Show clear cache-miss notice banner if in offline cache miss
   if (cacheMissNotice) {
-    if (prov === 'mock') {
+    if (prov === 'unavailable' || prov === 'mock') {
       cacheMissNotice.classList.remove('hidden');
       if (cacheMissNoticeText) {
         cacheMissNoticeText.innerHTML = `
-          <strong>Offline Demonstration Notice (Cache Miss):</strong>
-          No pre-warmed SerpApi cache exists for "<strong>${escapeHtml(report.company_name)}</strong>". Operating in offline demonstration mock fallback. Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> to dispatch live multi-engine investigations.
+          <strong>Offline Mode Notice:</strong>
+          No pre-warmed SerpApi cache exists for "<strong>${escapeHtml(report.company_name)}</strong>". Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> to dispatch live multi-engine investigations.
         `;
       }
     } else {
@@ -466,24 +504,37 @@ function renderDueDiligence(report) {
   } else {
     cultureScoreBadge.textContent = "No Rating Found";
   }
-  culturePros.textContent = (report.culture.top_positives || []).join(', ');
-  cultureCons.textContent = (report.culture.top_complaints || []).join(', ');
+  culturePros.textContent = (report.culture.top_positives || []).length > 0 
+    ? report.culture.top_positives.join(', ')
+    : "No verified positive culture highlights in search snippets";
+  cultureCons.textContent = (report.culture.top_complaints || []).length > 0
+    ? report.culture.top_complaints.join(', ')
+    : "No recurring negative complaints identified in search snippets";
   renderCitationChips(cultureCitations, report.culture.evidence_citation_ids, report.citations);
 
-  // 3. Trends Card
+  // 3. Trends Card (Reset if missing to prevent stale company trends)
   if (report.tech_trends && report.tech_trends.length > 0) {
     const t = report.tech_trends[0];
     trendsVerdictBadge.textContent = t.growth_verdict.toUpperCase();
     trendsVerdictBadge.className = t.growth_verdict === 'Surging' ? 'badge-trend-surging' : 'badge-score';
     trendsSummaryText.textContent = t.trend_description;
     renderCitationChips(trendsCitations, [t.citation_id], report.citations);
+  } else {
+    trendsVerdictBadge.textContent = 'NO DATA';
+    trendsVerdictBadge.className = 'badge-score';
+    trendsSummaryText.textContent = `No search trend signals available for ${escapeHtml(report.company_name)}.`;
+    trendsCitations.innerHTML = '';
   }
 
-  // 4. Maps Card
-  if (report.location_signal) {
-    mapsRatingBadge.textContent = `${report.location_signal.rating || 4.5} ★`;
-    mapsAddressText.textContent = report.location_signal.address || "Verified Technology Campus";
+  // 4. Maps Card (Reset if missing to prevent stale office location)
+  if (report.location_signal && report.location_signal.address) {
+    mapsRatingBadge.textContent = report.location_signal.rating ? `${report.location_signal.rating} ★` : 'Unrated';
+    mapsAddressText.textContent = report.location_signal.address;
     renderCitationChips(mapsCitations, [report.location_signal.citation_id], report.citations);
+  } else {
+    mapsRatingBadge.textContent = 'Not found';
+    mapsAddressText.textContent = `No physical campus or address found for ${escapeHtml(report.company_name)}.`;
+    mapsCitations.innerHTML = '';
   }
 
   // 5. Evidence Vault List
@@ -500,15 +551,17 @@ function renderDueDiligence(report) {
     report.citations.forEach(c => {
       const item = document.createElement('div');
       item.className = 'vault-item';
+      const safeLink = safeUrl(c.source_url);
+      const isAnchorValid = safeLink !== '#';
       item.innerHTML = `
         <div class="vault-item-left">
-          <span class="citation-chip" onclick="showCitationModal('${c.id}')">[${c.id}]</span>
-          <span class="engine-tag engine-${c.engine.replace('google_', '')}">${c.engine}</span>
+          <button type="button" class="citation-chip" onclick="showCitationModal('${escapeHtml(c.id)}')">[${escapeHtml(c.id)}]</button>
+          <span class="engine-tag engine-${escapeHtml(c.engine).replace('google_', '')}">${escapeHtml(c.engine)}</span>
           <strong>${escapeHtml(c.source_title)}</strong>
-          <span class="verified-tag ${c.verified ? 'tag-verified' : 'tag-unverified'}">${c.verified ? `✓ Verified (${Math.round((c.verification_confidence || 0.9) * 100)}%)` : '⚠ Unverified'}</span>
+          <span class="verified-tag ${c.verified ? 'tag-verified' : 'tag-unverified'}">${c.verified ? `✓ Verified (${Math.round((c.verification_confidence ?? 0) * 100)}%)` : '⚠ Unverified'}</span>
         </div>
         <div>
-          <a href="${c.source_url}" target="_blank" rel="noopener noreferrer">Inspect Source ↗</a>
+          ${isAnchorValid ? `<a href="${safeLink}" target="_blank" rel="noopener noreferrer">Inspect Source ↗</a>` : '<span class="text-muted">No external link</span>'}
         </div>
       `;
       citationsVaultList.appendChild(item);
@@ -520,12 +573,12 @@ function renderCitationChips(container, citIds, allCitations) {
   container.innerHTML = '';
   (citIds || []).forEach(cid => {
     if (!cid) return;
-    const c = allCitations.find(item => item.id === cid);
+    const c = (allCitations || []).find(item => item.id === cid);
     if (c) {
       const chip = document.createElement('button');
       chip.type = 'button';
       chip.className = 'citation-chip';
-      chip.innerHTML = `<span>[${c.id}]</span> <small>${c.engine.replace('google_', '')}</small>`;
+      chip.innerHTML = `<span>[${escapeHtml(c.id)}]</span> <small>${escapeHtml(c.engine).replace('google_', '')}</small>`;
       chip.onclick = () => showCitationModal(c.id);
       container.appendChild(chip);
     }
@@ -549,7 +602,7 @@ window.showCitationModal = function(citationId) {
   
   if (modalCitVerified) {
     if (c.verified) {
-      modalCitVerified.textContent = `✓ VERIFIED (${Math.round((c.verification_confidence || 0.9) * 100)}%)`;
+      modalCitVerified.textContent = `✓ VERIFIED (${Math.round((c.verification_confidence ?? 0) * 100)}%)`;
       modalCitVerified.className = 'verified-tag tag-verified';
     } else {
       modalCitVerified.textContent = '⚠ UNVERIFIED';
@@ -563,34 +616,66 @@ window.showCitationModal = function(citationId) {
 
   const modalCitConfidence = document.getElementById('modalCitConfidence');
   if (modalCitConfidence) {
-    modalCitConfidence.textContent = `${Math.round((c.verification_confidence || 0.8) * 100)}% (Heuristic Confidence Score)`;
+    modalCitConfidence.textContent = `${Math.round((c.verification_confidence ?? 0) * 100)}% (Heuristic Confidence Score)`;
   }
   
-  modalCitUrl.href = c.source_url;
+  const safeLink = safeUrl(c.source_url);
+  modalCitUrl.href = safeLink;
   modalCitUrl.textContent = c.source_url;
 
   citationModal.classList.remove('hidden');
 };
 
+let currentOutreachController = null;
+let currentOutreachReqId = 0;
+
 async function generateOutreach() {
-  if (!state.currentReport || !state.selectedJob) return;
+  if (!state.currentReport) return;
+  const comp = state.selectedJob ? state.selectedJob.company_name : state.currentReport.company_name;
+  const role = state.selectedJob ? state.selectedJob.title : (state.currentReport.target_role || "Software Engineer");
+  const jobDesc = state.selectedJob ? state.selectedJob.description : null;
+
+  if (state.currentReport.overall_health_verdict === 'Data Unavailable') {
+    outreachSubject.textContent = `Application: ${role} | ${comp}`;
+    outreachEmail.innerHTML = `
+      <div class="empty-jobs-card">
+        <p>No verified search evidence is available in offline mode for <strong>${escapeHtml(comp)}</strong>. Application packs require verified citations or an active <code>SERPAPI_API_KEY</code>.</p>
+      </div>
+    `;
+    outreachBullets.innerHTML = '';
+    return;
+  }
+
+  if (currentOutreachController) {
+    currentOutreachController.abort();
+  }
+  const controller = new AbortController();
+  currentOutreachController = controller;
+  const reqId = ++currentOutreachReqId;
 
   outreachSubject.textContent = "Synthesizing evidence-grounded application pack...";
   outreachEmail.innerHTML = "Linking citations and building anti-hallucination hooks...";
   outreachBullets.innerHTML = "";
 
   try {
+    const timeoutId = setTimeout(() => controller.abort(), 15000);
     const res = await fetch('/api/outreach/generate', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
+      signal: controller.signal,
       body: JSON.stringify({
-        company_name: state.selectedJob.company_name,
-        role_title: state.selectedJob.title,
-        job_description: state.selectedJob.description,
+        company_name: comp,
+        role_title: role,
+        job_description: jobDesc,
         candidate_profile_text: resumeInput.value.trim(),
         due_diligence_report: state.currentReport
       })
     });
+    clearTimeout(timeoutId);
+
+    if (reqId !== currentOutreachReqId) {
+      return;
+    }
 
     const data = await res.json();
     state.currentOutreach = data;
@@ -600,7 +685,7 @@ async function generateOutreach() {
     // Parse bracketed citations into clickable chips
     let formattedEmail = escapeHtml(data.cover_letter);
     formattedEmail = formattedEmail.replace(/\[(cit-\d+)\]/g, (match, p1) => {
-      return `<span class="citation-chip" onclick="showCitationModal('${p1}')">[${p1}]</span>`;
+      return `<button type="button" class="citation-chip" onclick="showCitationModal('${p1}')">[${p1}]</button>`;
     });
     outreachEmail.innerHTML = formattedEmail;
 
@@ -610,13 +695,15 @@ async function generateOutreach() {
       const li = document.createElement('li');
       let formattedB = escapeHtml(b);
       formattedB = formattedB.replace(/\[(cit-\d+)\]/g, (match, p1) => {
-        return `<span class="citation-chip" onclick="showCitationModal('${p1}')">[${p1}]</span>`;
+        return `<button type="button" class="citation-chip" onclick="showCitationModal('${p1}')">[${p1}]</button>`;
       });
       li.innerHTML = formattedB;
       outreachBullets.appendChild(li);
     });
 
   } catch (err) {
+    if (err.name === 'AbortError') return;
+    if (reqId !== currentOutreachReqId) return;
     console.error("Error generating outreach:", err);
     outreachSubject.textContent = "Error generating outreach pack.";
   }

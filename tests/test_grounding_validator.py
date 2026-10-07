@@ -8,9 +8,9 @@ def sample_citations():
         Citation(
             id="cit-01",
             engine="google_news",
-            source_title="Razorpay raises Series F",
+            source_title="Razorpay raises Series F for scaled payment services",
             source_url="https://example.com/news",
-            snippet="Razorpay raised $375M at $7.5B valuation.",
+            snippet="Razorpay raised $375M at $7.5B valuation to scale payment systems and infrastructure with Python microservices.",
             signal_type="positive",
             verified=True,
             verification_method="entity_match+domain_validated",
@@ -20,9 +20,9 @@ def sample_citations():
         Citation(
             id="cit-02",
             engine="google",
-            source_title="Glassdoor reviews",
+            source_title="Glassdoor reviews and ratings",
             source_url="https://example.com/reviews",
-            snippet="Rated 4.3 out of 5 by engineers.",
+            snippet="The engineering culture is rated 4.3 out of 5 by software engineers.",
             signal_type="positive",
             verified=True,
             verification_method="review_snippet_match",
@@ -83,7 +83,7 @@ def test_simulated_hallucination_demonstrator(sample_citations):
 
 def test_grounding_preserves_candidate_own_facts(sample_citations):
     # Candidate bullet with matching metric and unit (10k requests/second) describing candidate achievements
-    candidate_profile = "Engineered high throughput API services handling 10k requests/second using FastAPI."
+    candidate_profile = "Engineered high throughput API services handling 10k requests/second with sub-50ms latency using FastAPI."
     text = "Built an API serving 10k requests/second with sub-50ms latency. Scaled payment services with Python [cit-01]."
     is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
         text, sample_citations, candidate_profile_text=candidate_profile
@@ -145,7 +145,7 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
     text = "Built an API serving 10k requests/day with sub-50ms latency. Scaled payment services with Python [cit-01]."
 
     # Subcase A: Exact quantity AND unit match (10k requests/day in resume) -> survives
-    resume_matching = "Engineered high throughput API services handling 10k requests/day using FastAPI."
+    resume_matching = "Engineered high throughput API services handling 10k requests/day with sub-50ms latency using FastAPI."
     is_valid_a, cleaned_a, violations_a, rejected_a = grounding_validator.validate_and_clean_text(
         text, sample_citations, candidate_profile_text=resume_matching
     )
@@ -181,3 +181,47 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
     )
     assert is_valid_d is False
     assert "10k requests/day" not in cleaned_d
+
+def test_adversarial_guard_cases_suite(sample_citations):
+    """
+    Evaluates grounding validator against 26 labeled adversarial test cases
+    covering default-deny on companies, unit mismatches, unverified claims,
+    and valid applications.
+    """
+    import json
+    from pathlib import Path
+
+    cases_file = Path(__file__).parent / "data" / "guard_cases.json"
+    with open(cases_file, "r", encoding="utf-8") as f:
+        cases = json.load(f)
+
+    assert len(cases) >= 20
+
+    passed_count = 0
+    stripped_count = 0
+
+    for c in cases:
+        case_id = c["id"]
+        sentence = c["sentence"]
+        target_company = c.get("target_company")
+        resume = c.get("resume")
+        expected_pass = c["expected_pass"]
+
+        is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+            sentence,
+            sample_citations,
+            candidate_profile_text=resume,
+            target_company=target_company
+        )
+
+        if expected_pass:
+            assert is_valid is True, f"Expected {case_id} ('{sentence}') to pass, but violations: {violations}"
+            assert len(rejected) == 0, f"Expected {case_id} to have no rejected sentences"
+            passed_count += 1
+        else:
+            assert is_valid is False, f"Expected {case_id} ('{sentence}') to be rejected, but it passed: '{cleaned}'"
+            assert len(rejected) >= 1, f"Expected {case_id} to have rejected sentence"
+            stripped_count += 1
+
+    assert passed_count >= 10
+    assert stripped_count >= 10

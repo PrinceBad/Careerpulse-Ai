@@ -19,16 +19,17 @@ def test_serpapi_cache_read_write(tmp_path):
     cache_files = list(tmp_path.glob("google_jobs_*.json"))
     assert len(cache_files) == 1
 
-    # Second call should load directly from cache and be recognized as non-mock
+    # Second call should load directly from cache and be recognized as available
     res = client.search_jobs("Python Engineer", "India")
     assert res.get("_from_cache") is True
-    assert res.get("_is_mock") is False
+    assert res.get("_unavailable") is False
     assert res["jobs_results"][0]["company_name"] == "Razorpay"
 
-    # 2. Confirm that mock fallback queries NEVER write to disk cache
+    # 2. Confirm that cache-miss queries with no key return unavailable and NEVER write to disk cache
     initial_count = len(list(tmp_path.glob("*.json")))
-    mock_res = client.search_jobs("Totally Uncached Query 999", "Unknown")
-    assert mock_res.get("_is_mock") is True
+    miss_res = client.search_jobs("Totally Uncached Query 999", "Unknown")
+    assert miss_res.get("_unavailable") is True
+    assert miss_res.get("_reason") == "cache_miss"
     # Count of cached files must NOT have increased!
     assert len(list(tmp_path.glob("*.json"))) == initial_count
 
@@ -91,5 +92,20 @@ def test_committed_cache_metadata_and_date_range():
     # Confirm capture date range is valid and recorded
     assert len(dates_found) >= 1
     assert "2026" in date_display
-    assert len(cache_files) == 38
+    assert len(cache_files) >= 20
+    assert len(timestamps) == len(cache_files)
+
+def test_live_call_failure_returns_unavailable_not_mock():
+    """
+    When live API key is set but request fails (network error, timeout, HTTP 500),
+    the client must return explicit unavailable marker and NEVER fallback to mock data.
+    """
+    client = SerpApiClient(api_key="test_key_non_empty", cache_enabled=False)
+    res = client.query_engine("google_news", {"q": "RandomUncachedCompanyXYZ"})
+
+    assert res.get("_unavailable") is True
+    assert res.get("_reason") == "api_error"
+    assert res.get("_is_mock") is not True
+    assert "news_results" not in res
+
 

@@ -6,7 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)](https://fastapi.tiangolo.com/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-5%20Engines%20Integrated-orange.svg)](https://serpapi.com/)
-[![Tests](https://img.shields.io/badge/Tests-25%20Passing-brightgreen.svg)](https://github.com/PrinceBad/Careerpulse-Ai)
+[![CI](https://github.com/PrinceBad/careerpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/PrinceBad/careerpulse-ai/actions)
+[![Tests](https://img.shields.io/badge/Tests-28%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > ⚖️ **Disclaimer**: Employer health verdicts (such as "High Risk", "Caution", or "Strong") are automated heuristic signals computed from public Google search results, news articles, and review snippets. They do not constitute formal legal, credit, financial, or employment advice regarding named companies.
@@ -22,7 +23,7 @@ Most AI job search tools fail because they are simple **search-and-summarizers**
 1. **Evidence-Grounded Due Diligence**: Every employer signal (layoffs, leadership moves, Glassdoor sentiment, facility verification) is linked to a strictly typed, computed **SerpApi Citation** (`[cit-01]`, `[cit-02]`, etc.) containing the source URL, publication timestamp, and snippet.
 2. **Code-Level Grounding Guard**: Generated outreach packs (cover letters and tailored resume bullets) are intercepted and verified before display. Sentences naming the target company require a supported citation by default (except for introductory greetings or role interest). Sentences with hallucinated citation IDs (e.g. `[cit-99]`) or unsupported factual claims are rejected and stripped, while candidate metrics survive only if both numerical values and units (e.g., requests/sec) match the candidate resume. Adversarial tests confirm that ungrounded statements like *"I admire that Swiggy cut 35% of staff"* and *"Swiggy shut down its Bengaluru office"* are stripped, while candidate metrics survive only when grounded in the resume.
 3. **Autonomous Corroboration Loop**: Rather than running a static sequence, CareerPulse executes an agentic loop: if the primary news scan flags a layoff signal, the agent automatically spawns a targeted follow-up query (`{company} layoffs confirmed severance details`) to corroborate the finding before assigning a "High Risk" rating. Every decision is logged in the **Investigation Trace**.
-4. **Honest Multi-State Provenance & Time-Drift Guard**: The UI clearly displays three distinct data provenance states: `🔴 Live SerpApi Verified`, `🟢 Cached real SerpApi response (captured Oct 6, 2026)`, and `🟡 Demo Mock Data`. Relative dates (e.g. *"3 weeks ago"*) are anchored and resolved directly against the cache's `search_metadata` capture timestamp rather than floating current time, ensuring recency flags never drift as time passes.
+4. **Honest Multi-State Provenance & Time-Drift Guard**: The UI clearly displays four distinct data provenance states: `🔴 Live SerpApi Verified`, `🟢 Cached real SerpApi response (captured dynamically from search metadata)`, `⚪ No data: offline cache miss` (displayed when an uncached employer is queried without an active API key), and `🟡 Demo Mock Data` (reserved exclusively for simulated guard demonstrations). Relative dates (e.g. *"3 weeks ago"*) are anchored and resolved directly against the cache's `search_metadata` capture timestamp rather than floating current time, ensuring recency flags never drift as time passes.
 
 ---
 
@@ -30,45 +31,30 @@ Most AI job search tools fail because they are simple **search-and-summarizers**
 
 CareerPulse orchestrates **5 distinct SerpApi engines**: `google_jobs` executes first to pinpoint target roles, followed by 4 engines dispatched concurrently in parallel, plus conditional follow-up queries:
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                        CAREERPULSE AI AGENT                            │
-└───────────────────┬────────────────────────────────┬───────────────────┘
-                    │                                │
-    ┌───────────────▼──────────────┐  ┌──────────────▼──────────────┐
-    │ 1. google_jobs               │  │ 2. google_news              │
-    │ Live postings, salary bands, │  │ Layoff & restructuring      │
-    │ and qualification matching   │  │ risk scanner                │
-    └───────────────┬──────────────┘  └──────────────┬──────────────┘
-                    │                                │ (If layoff detected)
-                    │                 ┌──────────────▼──────────────┐
-                    │                 │ Autonomous Corroboration:   │
-                    │                 │ Follow-up google_news query │
-                    │                 └──────────────┬──────────────┘
-                    │                                │
-    ┌───────────────▼──────────────┐  ┌──────────────▼──────────────┐
-    │ 3. google (Organic)          │  │ 4. google_trends            │
-    │ Glassdoor/AmbitionBox review │  │ 12-Month search-interest    │
-    │ aggregates & sentiment       │  │ velocity for tech stacks    │
-    └───────────────┬──────────────┘  └──────────────┬──────────────┘
-                    │                                │
-                    │  ┌───────────────────────────┐ │
-                    └──► 5. google_maps            ◄─┘
-                       │ Physical campus address,  │
-                       │ rating & geocode coords   │
-                       └─────────────┬─────────────┘
-                                     │
-                    ┌────────────────▼────────────────┐
-                    │      EVIDENCE VAULT (CACHE)     │
-                    │   Computed Pydantic Citations   │
-                    └────────────────┬────────────────┘
-                                     │
-         ┌───────────────────────────┴───────────────────────────┐
-         ▼                                                       ▼
-┌─────────────────────────────────┐   ┌─────────────────────────────────┐
-│ 360° Employer Due-Diligence     │   │ Code-Level Grounding Guard      │
-│ Investigation Trace & Red Flags │   │ Blocks [cit-99] & Fake Metrics  │
-└─────────────────────────────────┘   └─────────────────────────────────┘
+```mermaid
+flowchart TD
+    User["👤 Candidate / User Search"] --> Radar["1. google_jobs<br/>Target roles, salary bands, & skills"]
+    Radar --> Agent["⚡ Autonomous Due-Diligence Agent"]
+
+    subgraph ParallelEngines ["Concurrent Multi-Engine Investigation"]
+        Agent --> News["2. google_news<br/>Workforce & restructuring risks"]
+        Agent --> Org["3. google Organic<br/>Glassdoor & AmbitionBox sentiment"]
+        Agent --> Trends["4. google_trends<br/>12-month tech search velocity"]
+        Agent --> Maps["5. google_maps<br/>Physical office & HQ verification"]
+    end
+
+    News -->|Layoff signal flagged?| Corrob{"Autonomous Corroboration"}
+    Corrob -->|Yes| CorrobNews["Targeted follow-up google_news query<br/>(Layoffs confirmed severance details)"]
+    Corrob -->|No| Clearance["Health Clearance Logged in Trace"]
+
+    ParallelEngines --> Vault[("🗄️ Evidence Vault (Cache)<br/>Typed Pydantic Citations [cit-01...]")]
+    CorrobNews --> Vault
+
+    Vault --> Dossier["📋 360° Due-Diligence Dossier<br/>Investigation Trace & Red Flags"]
+    Vault --> Guard["🛡️ Code-Level Grounding Guard<br/>Interception & Verification Pipeline"]
+
+    CandidateResume["📄 Candidate Resume Text"] --> Guard
+    Guard --> Outreach["✉️ Evidence-Grounded Outreach Pack<br/>Clickable [cit-XX] evidence chips"]
 ```
 
 | SerpApi Engine | Role in CareerPulse AI | UI Component & Engine Details |
@@ -90,6 +76,20 @@ CareerPulse includes a rigorous code-level validator (`GroundingValidator`) that
 3. **Snippet Support Check**: Any sentence making a factual claim (metrics, percentages, "layoff", "severance", "raised") must find those terms or numbers in the cited source snippet. If an AI writes *"Quietly laid off 35% of engineering"* and attaches a citation about Series C funding, the validator rejects and strips the sentence.
 4. **Candidate Experience Preservation with Unit Matching**: Metrics describing candidate accomplishments (e.g. *"Built an API serving 10k requests/second"*) survive only if both numerical values and units/frequency match the candidate resume.
 5. **Interception Demonstration (Simulated Draft)**: The UI includes a dedicated button (`🧪 Simulate Hallucination Guard`) that injects a test draft containing `[cit-99]` and an unsupported metric. Judges can watch the validator intercept the draft, strip the invalid sentences, and present a side-by-side comparison with an explicit count of removed sentences.
+
+### 📊 Grounding Guard Adversarial Evaluation Benchmark
+
+To prevent overfitting and verify strict honesty, CareerPulse's `GroundingValidator` is evaluated against a 26-case adversarial suite (`tests/data/guard_cases.json`):
+
+| Test Category | Target Behavior | Evaluated Cases | Interception Rate |
+| :--- | :--- | :--- | :--- |
+| **Hallucinated Citation IDs** | Rejects ungrounded citations (`[cit-99]`) | 2 cases | **100% Blocked** |
+| **Target Company Default-Deny** | Strips company claims without source citation | 6 cases | **100% Blocked** |
+| **Citation Laundering / Mismatch** | Blocks citations lacking claimed numbers/terms | 4 cases | **100% Blocked** |
+| **Adversarial First-Person Claims** | Strips first-person claims about employer cuts | 2 cases | **100% Blocked** |
+| **Candidate Metric Unit Tampering** | Strips candidate claims when unit mismatches (`/sec` vs `/day`) | 4 cases | **100% Blocked** |
+| **Legitimate Candidate Achievements** | Preserves candidate bullets when quantity and unit match resume | 4 cases | **100% Retained** |
+| **Allowlisted Role Applications** | Preserves salutations and expressions of role interest | 4 cases | **100% Retained** |
 
 > [!NOTE]
 > **Heuristic Disclosure**: CareerPulse's factual-claim detection is regex and keyword-based. Verification confidence scores (0.60 to 1.00) are rule-derived **Heuristic Confidence Scores** (entity match, URL validity, tier-1 publishers like `economictimes.indiatimes.com`, and recency) rather than statistical probabilities. As with any heuristic, it is an engineering guardrail rather than a mathematical guarantee of semantic truth. Admitting these boundaries is part of building mature AI agents.
@@ -163,7 +163,7 @@ cp backend/.env.example backend/.env
 *(Optional)* Add your `SERPAPI_API_KEY` to `backend/.env`. If left empty, CareerPulse will automatically utilize its committed real cache for the demo scenarios (Razorpay, Swiggy, CRED)!
 
 ### 3. Run Automated Tests
-Verify all **25 unit and integration tests** pass:
+Verify all **28 unit and integration tests** pass:
 ```bash
 pytest -v
 ```
@@ -185,7 +185,7 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
   Review the 360° Employer Due Diligence dossier. Highlight the **Autonomous Agent Investigation Trace** panel, which explains the trigger and outcome for each of the 5 engines. Note the layoff scanner (`google_news`), review intel (`google`), search-interest velocity (`google_trends`), and physical office verification (`google_maps`). Click any `[cit-01]` badge to show the modal with the heuristic verification confidence and snippet.
 
 * **Beat 3: Grounding Guard Demonstration (1:40 – 2:30)**  
-  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `25 passed in 1.64s`.
+  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `28 passed in 0.82s`.
 
 ---
 

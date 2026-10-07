@@ -29,6 +29,7 @@ class Settings(BaseSettings):
     # LLM Settings
     LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "mock")  # "mock", "gemini", "openai"
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
+    GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-1.5-flash")
     OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
 
 settings = Settings()

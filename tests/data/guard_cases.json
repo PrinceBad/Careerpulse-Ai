@@ -1,0 +1,236 @@
+[
+  {
+    "id": "case-01",
+    "sentence": "I am writing to express my strong interest in the Senior Backend Engineer role.",
+    "target_company": "Razorpay",
+    "resume": "Experienced Python Backend Engineer with FastAPI skills.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Allowlisted application interest without claims"
+  },
+  {
+    "id": "case-02",
+    "sentence": "Dear Razorpay Hiring Team,",
+    "target_company": "Razorpay",
+    "resume": "Experienced Python Backend Engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Allowlisted cover letter salutation"
+  },
+  {
+    "id": "case-03",
+    "sentence": "I admire that Swiggy cut 35% of staff.",
+    "target_company": "Swiggy",
+    "resume": "Handled 10k requests/second using FastAPI.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "First-person sentence asserting company workforce cut without citation"
+  },
+  {
+    "id": "case-04",
+    "sentence": "The company went through major downsizing and laid off 20% of staff.",
+    "target_company": "Razorpay",
+    "resume": "Backend developer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Generic company reference asserting layoff without citation"
+  },
+  {
+    "id": "case-05",
+    "sentence": "Your team laid off staff in the recent restructuring.",
+    "target_company": "Razorpay",
+    "resume": "Backend developer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Your team reference asserting layoff without citation"
+  },
+  {
+    "id": "case-06",
+    "sentence": "The company shut down its Bengaluru office.",
+    "target_company": "Razorpay",
+    "resume": "Backend developer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "The company reference asserting office shutdown without citation"
+  },
+  {
+    "id": "case-07",
+    "sentence": "Swiggy shut down its Bengaluru office.",
+    "target_company": "Swiggy",
+    "resume": "Backend developer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Named target company asserting office closure without citation"
+  },
+  {
+    "id": "case-08",
+    "sentence": "Built an API serving 10k requests/second with sub-50ms latency.",
+    "target_company": "Razorpay",
+    "resume": "Engineered high throughput API services handling 10k requests/second with sub-50ms latency.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Candidate metric matching resume quantity and unit"
+  },
+  {
+    "id": "case-09",
+    "sentence": "Built an API serving 10k requests/day.",
+    "target_company": "Razorpay",
+    "resume": "Engineered high throughput API services handling 10k requests/second using FastAPI.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Candidate metric unit mismatch (requests/day vs requests/second in resume)"
+  },
+  {
+    "id": "case-10",
+    "sentence": "Built an API serving 10k requests/day.",
+    "target_company": "Razorpay",
+    "resume": "Built an API serving 10k requests/second with sub-50ms latency. Deployed 5 deploys/day.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Unit /day exists elsewhere in resume but not tied within proximity to 10k"
+  },
+  {
+    "id": "case-11",
+    "sentence": "Engineered microservices handling 50k requests/second.",
+    "target_company": "Razorpay",
+    "resume": "Experienced Python developer with FastAPI.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Quantity 50k not present in resume"
+  },
+  {
+    "id": "case-12",
+    "sentence": "Architected microservices with Python and FastAPI.",
+    "target_company": "Razorpay",
+    "resume": "Experienced Python developer with FastAPI.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Candidate action statement without ungrounded numbers"
+  },
+  {
+    "id": "case-13",
+    "sentence": "Maintained sub-50ms latency under high load.",
+    "target_company": "Razorpay",
+    "resume": "Built an API with sub-50ms latency under peak load.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Latency metric 50ms confirmed in resume"
+  },
+  {
+    "id": "case-14",
+    "sentence": "Maintained sub-50ms latency under high load.",
+    "target_company": "Razorpay",
+    "resume": "Built backend API microservices with Python.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Latency metric 50ms not in resume"
+  },
+  {
+    "id": "case-15",
+    "sentence": "Over the past 8 years, I have built backend systems.",
+    "target_company": "Razorpay",
+    "resume": "Python engineer with 3 years of experience.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Duration 8 years contradicts resume"
+  },
+  {
+    "id": "case-16",
+    "sentence": "Over the past 5 years, I have built backend systems.",
+    "target_company": "Razorpay",
+    "resume": "Software engineer with 5 years experience building distributed systems.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Duration 5 years verified in resume"
+  },
+  {
+    "id": "case-17",
+    "sentence": "Recent reports show Razorpay raised $375M in series F funding [cit-01].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Cited company fact with verified numbers and token overlap"
+  },
+  {
+    "id": "case-18",
+    "sentence": "Razorpay opened an office in Singapore [cit-99].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Hallucinated citation ID [cit-99]"
+  },
+  {
+    "id": "case-19",
+    "sentence": "The company recently confirmed a 40% layoff across operations [cit-01].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Unsupported fact (funding citation does not support 40% layoff)"
+  },
+  {
+    "id": "case-20",
+    "sentence": "Your team's focus on high ownership and cross-functional leadership [cit-01].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Citation laundering: citation cit-01 shares fewer than 2 content words"
+  },
+  {
+    "id": "case-21",
+    "sentence": "Recent public reporting highlights: “Razorpay raises Series F” [cit-01].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Legitimate citation quote with authentic token overlap"
+  },
+  {
+    "id": "case-22",
+    "sentence": "Thank you for considering my application.",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Allowlisted application courtesy"
+  },
+  {
+    "id": "case-23",
+    "sentence": "I look forward to discussing the role further.",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Allowlisted application next steps"
+  },
+  {
+    "id": "case-24",
+    "sentence": "Your organization announced record revenue of $500M.",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-01"],
+    "expected_pass": false,
+    "description": "Uncited financial claim referencing your organization"
+  },
+  {
+    "id": "case-25",
+    "sentence": "Designed automated workers that improved data throughput.",
+    "target_company": "Razorpay",
+    "resume": "Python engineer with background in background queues and workers.",
+    "citations": ["cit-01"],
+    "expected_pass": true,
+    "description": "Candidate engineering capability without uncited metrics"
+  },
+  {
+    "id": "case-26",
+    "sentence": "The engineering culture is rated 4.3 out of 5 [cit-02].",
+    "target_company": "Razorpay",
+    "resume": "Python engineer.",
+    "citations": ["cit-02"],
+    "expected_pass": true,
+    "description": "Valid review citation matching rating 4.3"
+  }
+]

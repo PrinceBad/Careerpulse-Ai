@@ -13,7 +13,7 @@ class Citation(BaseModel):
     verified: bool = Field(..., description="Computed verification: True if company entity and domain verified")
     verification_method: str = Field(..., description="Specific heuristic or check applied to verify citation")
     verification_confidence: float = Field(..., ge=0.0, le=1.0, description="Algorithmic confidence score")
-    provenance: Literal["live", "cached", "mock"] = Field(default="cached")
+    provenance: Literal["live", "cached", "mock", "unavailable"] = Field(default="cached")
 
 class InvestigationStep(BaseModel):
     """A trace step taken by the autonomous agent during investigation."""
@@ -54,8 +54,9 @@ class JobSearchResponse(BaseModel):
     location: str
     total_found: int
     jobs: List[JobListing]
-    provenance: Literal["live", "cached", "mock"] = "cached"
+    provenance: Literal["live", "cached", "mock", "unavailable"] = "cached"
     snapshot_date: Optional[str] = None
+    error_reason: Optional[str] = None
 
 class CompanyRiskSignals(BaseModel):
     risk_level: Literal["Low", "Medium", "High", "Unknown"]
@@ -107,7 +108,7 @@ class DueDiligenceReport(BaseModel):
     
     # Consolidated Evidence Vault
     citations: List[Citation]
-    provenance: Literal["live", "cached", "mock"] = "cached"
+    provenance: Literal["live", "cached", "mock", "unavailable"] = "cached"
     snapshot_date: Optional[str] = None
 
 class DueDiligenceRequest(BaseModel):
@@ -124,7 +125,7 @@ class GroundedOutreachPack(BaseModel):
     tailored_resume_bullets: List[str]
     cited_evidence_ids: List[str]
     citations_used: List[Citation] = Field(default_factory=list)
-    provenance: Literal["live", "cached", "mock"] = "cached"
+    provenance: Literal["live", "cached", "mock", "unavailable"] = "cached"
     validation_status: str = "strictly_verified"
     blocked_claims: List[str] = Field(default_factory=list)
 

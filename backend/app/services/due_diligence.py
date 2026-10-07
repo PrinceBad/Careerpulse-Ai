@@ -34,6 +34,50 @@ class DueDiligenceEngine:
         "funding", "valuation", "series", "profit", "expansion", "growth"
     ]
 
+    @classmethod
+    def get_global_cache_date_range(cls) -> Optional[str]:
+        """Calculates snapshot date or date range across all cached files on disk."""
+        import json
+        from ..config import settings
+        cache_dir = settings.CACHE_DIR
+        if not cache_dir.exists():
+            return None
+        dts = []
+        for f in cache_dir.glob("*.json"):
+            try:
+                with open(f, "r", encoding="utf-8") as fp:
+                    meta = json.load(fp).get("search_metadata", {})
+                    ts = meta.get("created_at") or meta.get("processed_at")
+                    if ts:
+                        dts.append(cls.parse_ref_datetime(ts))
+            except Exception:
+                continue
+        if not dts:
+            return None
+        min_dt = min(dts)
+        max_dt = max(dts)
+        if min_dt.date() == max_dt.date():
+            return f"{min_dt.strftime('%b')} {min_dt.day}, {min_dt.year}"
+        return f"{min_dt.strftime('%b')} {min_dt.day}, {min_dt.year} - {max_dt.strftime('%b')} {max_dt.day}, {max_dt.year}"
+
+    @classmethod
+    def format_date_range_from_responses(cls, responses: List[Dict[str, Any]]) -> Optional[str]:
+        """Formats snapshot date or range across responses actually queried."""
+        dts = []
+        for r in responses:
+            if isinstance(r, dict) and "search_metadata" in r:
+                meta = r["search_metadata"]
+                ts = meta.get("created_at") or meta.get("processed_at")
+                if ts:
+                    dts.append(cls.parse_ref_datetime(ts))
+        if not dts:
+            return None
+        min_dt = min(dts)
+        max_dt = max(dts)
+        if min_dt.date() == max_dt.date():
+            return f"{min_dt.strftime('%b')} {min_dt.day}, {min_dt.year}"
+        return f"{min_dt.strftime('%b')} {min_dt.day}, {min_dt.year} - {max_dt.strftime('%b')} {max_dt.day}, {max_dt.year}"
+
     @staticmethod
     def parse_ref_datetime(ref_str: Optional[str]) -> datetime:
         """Parses reference timestamp from SerpApi search_metadata."""
@@ -206,63 +250,47 @@ class DueDiligenceEngine:
             raw_maps = future_maps.result()
 
         # Determine overall provenance
-        is_mock_any = any([
-            raw_news.get("_is_mock", False),
-            raw_web.get("_is_mock", False),
-            raw_trends.get("_is_mock", False),
-            raw_maps.get("_is_mock", False)
-        ])
-        is_cached_any = any([
-            raw_news.get("_from_cache", False),
-            raw_web.get("_from_cache", False),
-            raw_trends.get("_from_cache", False),
-            raw_maps.get("_from_cache", False)
-        ])
-        overall_prov = "mock" if is_mock_any else ("cached" if is_cached_any else "live")
+        is_unavailable_news = raw_news.get("_unavailable", False)
+        is_unavailable_web = raw_web.get("_unavailable", False)
 
-        # Determine overall provenance & cache capture timestamp
-        cache_created_at = None
-        for raw_resp in [raw_news, raw_web, raw_trends, raw_maps]:
-            if isinstance(raw_resp, dict) and "search_metadata" in raw_resp:
-                meta = raw_resp["search_metadata"]
-                cache_created_at = meta.get("created_at") or meta.get("processed_at")
-                if cache_created_at:
-                    break
+        if is_unavailable_news and is_unavailable_web:
+            reason = raw_news.get("_reason") or raw_web.get("_reason") or "cache_miss"
+            detail = raw_news.get("_detail") or raw_web.get("_detail") or ""
 
-        snapshot_date_str = None
-        if cache_created_at:
-            ref_dt = self.parse_ref_datetime(cache_created_at)
-            snapshot_date_str = f"{ref_dt.strftime('%b')} {ref_dt.day}, {ref_dt.year}"
-        elif overall_prov == "cached":
-            snapshot_date_str = "Oct 6, 2026"
+            if reason == "cache_miss":
+                empty_trace = [
+                    InvestigationStep(
+                        step_number=1,
+                        action="Offline Cache Lookup",
+                        reason=f"Queried disk cache for pre-warmed multi-engine responses for '{company_name}'",
+                        engine="cache",
+                        result_summary=f"Cache Miss: No pre-cached SerpApi responses on disk for '{company_name}'"
+                    ),
+                    InvestigationStep(
+                        step_number=2,
+                        action="Live API Key Check",
+                        reason="Assessed environment configuration for live multi-engine query dispatch",
+                        engine="serpapi",
+                        result_summary="SERPAPI_API_KEY not configured in backend/.env. Live search queries are paused in offline mode."
+                    )
+                ]
+            else:
+                empty_trace = [
+                    InvestigationStep(
+                        step_number=1,
+                        action="Live API Query Failed",
+                        reason=f"Dispatched live SerpApi query for '{company_name}'",
+                        engine="serpapi",
+                        result_summary=f"SerpApi request failed for '{company_name}': {detail or 'API error'}"
+                    )
+                ]
 
-        if overall_prov == "mock":
-            # HONEST CACHE-MISS PATH:
-            # If no cached responses exist on disk and no live SerpApi key is provided,
-            # never fabricate or hallucinate mock search citations or health verdicts for real companies.
-            # Return an empty "no evidence available" dossier with an informative summary and trace.
-            empty_trace = [
-                InvestigationStep(
-                    step_number=1,
-                    action="Offline Cache Lookup",
-                    reason=f"Queried disk cache for pre-warmed multi-engine responses for '{company_name}'",
-                    engine="cache",
-                    result_summary=f"Cache Miss: No pre-cached SerpApi responses on disk for '{company_name}'"
-                ),
-                InvestigationStep(
-                    step_number=2,
-                    action="Live API Key Check",
-                    reason="Assessed environment configuration for live multi-engine query dispatch",
-                    engine="serpapi",
-                    result_summary="SERPAPI_API_KEY not configured in backend/.env. Live search queries are paused in offline mode."
-                )
-            ]
             empty_risks = CompanyRiskSignals(
                 risk_level="Unknown",
                 layoffs_detected=False,
                 executive_turnover=False,
                 litigation_or_controversy=False,
-                risk_summary=f"No risk evidence available in offline cache for '{company_name}'.",
+                risk_summary=f"No risk evidence available for '{company_name}'.",
                 corroborated=False,
                 evidence_citation_ids=[]
             )
@@ -289,9 +317,36 @@ class DueDiligenceEngine:
                 location_signal=None,
                 investigation_trace=empty_trace,
                 citations=[],
-                provenance="mock",
+                provenance="unavailable",
                 snapshot_date=None
             )
+
+        is_mock_any = any([
+            raw_news.get("_is_mock", False),
+            raw_web.get("_is_mock", False),
+            raw_trends.get("_is_mock", False),
+            raw_maps.get("_is_mock", False)
+        ])
+        is_cached_any = any([
+            raw_news.get("_from_cache", False),
+            raw_web.get("_from_cache", False),
+            raw_trends.get("_from_cache", False),
+            raw_maps.get("_from_cache", False)
+        ])
+        overall_prov = "mock" if is_mock_any else ("cached" if is_cached_any else "live")
+
+        snapshot_date_str = self.format_date_range_from_responses([raw_news, raw_web, raw_trends, raw_maps])
+        if not snapshot_date_str and overall_prov == "cached":
+            snapshot_date_str = self.get_global_cache_date_range()
+
+        cache_created_at = None
+        for r in [raw_news, raw_web, raw_trends, raw_maps]:
+            if isinstance(r, dict) and "search_metadata" in r:
+                cache_created_at = r["search_metadata"].get("created_at") or r["search_metadata"].get("processed_at")
+                if cache_created_at:
+                    break
+        if not cache_created_at and snapshot_date_str:
+            cache_created_at = snapshot_date_str
 
         # -------------------------------------------------------------
         # Parse News Results
@@ -420,10 +475,15 @@ class DueDiligenceEngine:
                 except ValueError:
                     pass
 
-            if any(w in snippet.lower() for w in ["work-life", "deadline", "pressure", "crunch", "hours"]):
-                top_complaints.append("High sprint velocity & periodic crunch")
-            if any(w in snippet.lower() for w in ["culture", "autonomy", "peers", "learning", "growth", "pay", "salary"]):
-                top_positives.append("Strong peer group & engineering ownership")
+            for kw in ["work-life", "deadline", "pressure", "crunch", "hours"]:
+                if kw in snippet.lower():
+                    top_complaints.append(f"Snippet note on {kw}: “{snippet[:90].strip()}...”")
+                    break
+
+            for kw in ["culture", "autonomy", "peers", "learning", "growth", "pay", "salary"]:
+                if kw in snippet.lower():
+                    top_positives.append(f"Snippet note on {kw}: “{snippet[:90].strip()}...”")
+                    break
 
             is_verified, method, conf = self.compute_verification(
                 company_name, title, snippet, item.get("link", ""), True
@@ -447,59 +507,60 @@ class DueDiligenceEngine:
 
         # Honest sentiment reporting: None if no rating found
         avg_rating = round(sum(extracted_ratings) / len(extracted_ratings), 1) if extracted_ratings else None
-        if not top_positives:
-            top_positives = ["No specific positive culture sentiment extracted from snippet"]
-        if not top_complaints:
-            top_complaints = ["No recurring negative complaints identified in snippet"]
 
         # -------------------------------------------------------------
         # Parse Trends Results
         # -------------------------------------------------------------
         timeline = raw_trends.get("interest_over_time", {}).get("timeline_data", [])
         trend_signals: List[SkillTrendSignal] = []
-        if timeline:
-            recent_val = timeline[-1].get("values", [{}])[0].get("extracted_value", 85)
-            first_val = timeline[0].get("values", [{}])[0].get("extracted_value", 70)
+        if timeline and len(timeline) >= 2:
+            first_val = timeline[0].get("values", [{}])[0].get("extracted_value")
+            recent_val = timeline[-1].get("values", [{}])[0].get("extracted_value")
 
-            if recent_val > first_val * 1.15:
-                growth_verdict = "Surging"
-                growth_desc = f"{target_tech} relative search interest expanded {int(((recent_val - first_val)/first_val)*100)}% over the past 12 months."
-            elif recent_val < first_val * 0.85:
-                growth_verdict = "Declining"
-                growth_desc = f"{target_tech} search-interest velocity moderated over the past 12 months."
-            else:
-                growth_verdict = "Stable"
-                growth_desc = f"{target_tech} maintains steady baseline search interest."
+            if first_val is not None and recent_val is not None:
+                first_f = float(first_val)
+                recent_f = float(recent_val)
+                pct = int(((recent_f - first_f) / first_f) * 100) if first_f > 0 else 0
 
-            cit_id = f"cit-{cit_counter:02d}"
-            cit_counter += 1
-            citations.append(Citation(
-                id=cit_id,
-                engine="google_trends",
-                source_title=f"Google Trends 12-Month Index: {target_tech}",
-                source_url=f"https://trends.google.com/trends/explore?geo=IN&q={target_tech}",
-                snippet=growth_desc,
-                signal_type="positive" if growth_verdict == "Surging" else "neutral",
-                verified=True,
-                verification_method="timeseries_relative_interest_slope",
-                verification_confidence=0.95,
-                provenance=overall_prov
-            ))
-            trend_signals.append(SkillTrendSignal(
-                skill_or_topic=target_tech,
-                growth_verdict=growth_verdict,
-                relative_interest_score=recent_val,
-                trend_description=growth_desc,
-                citation_id=cit_id
-            ))
+                if recent_f > first_f * 1.15:
+                    growth_verdict = "Surging"
+                    growth_desc = f"{target_tech} relative search interest expanded {pct}% over the past 12 months."
+                elif recent_f < first_f * 0.85:
+                    growth_verdict = "Declining"
+                    growth_desc = f"{target_tech} search-interest velocity moderated over the past 12 months."
+                else:
+                    growth_verdict = "Stable"
+                    growth_desc = f"{target_tech} maintains steady baseline search interest."
+
+                cit_id = f"cit-{cit_counter:02d}"
+                cit_counter += 1
+                citations.append(Citation(
+                    id=cit_id,
+                    engine="google_trends",
+                    source_title=f"Google Trends 12-Month Index: {target_tech}",
+                    source_url=f"https://trends.google.com/trends/explore?geo=IN&q={target_tech}",
+                    snippet=growth_desc,
+                    signal_type="positive" if growth_verdict == "Surging" else "neutral",
+                    verified=True,
+                    verification_method="timeseries_relative_interest_slope",
+                    verification_confidence=0.95,
+                    provenance=overall_prov
+                ))
+                trend_signals.append(SkillTrendSignal(
+                    skill_or_topic=target_tech,
+                    growth_verdict=growth_verdict,
+                    relative_interest_score=int(recent_f),
+                    trend_description=growth_desc,
+                    citation_id=cit_id
+                ))
 
         # -------------------------------------------------------------
-        # Parse Maps Results (Physical Address & Ratings Only - No False Transit Claims)
+        # Parse Maps Results (Physical Address & Ratings Only - No False Claims)
         # -------------------------------------------------------------
         place = raw_maps.get("place_results", {})
         location_signal = None
-        if place:
-            address = place.get("address", f"Office Campus, {location}")
+        if place and place.get("address"):
+            address = place.get("address")
             maps_rating = place.get("rating")
             cit_id = f"cit-{cit_counter:02d}"
             cit_counter += 1
@@ -508,7 +569,7 @@ class DueDiligenceEngine:
                 engine="google_maps",
                 source_title=f"{place.get('title', company_name)} (Google Maps)",
                 source_url=place.get("link", "https://maps.google.com"),
-                snippet=f"Verified Office Address: {address}. Facility Rating: {maps_rating or 'Unrated'}.",
+                snippet=f"Verified Office Address: {address}." + (f" Facility Rating: {maps_rating}." if maps_rating else ""),
                 signal_type="neutral",
                 verified=True,
                 verification_method="geocoding_address_match",
@@ -519,7 +580,7 @@ class DueDiligenceEngine:
                 address=address,
                 rating=maps_rating,
                 review_count=place.get("reviews"),
-                campus_note="Physical corporate facility verified via Google Maps geocoding.",
+                campus_note="Physical corporate facility verified via Google Maps.",
                 maps_url=place.get("link"),
                 citation_id=cit_id
             )
@@ -558,8 +619,8 @@ class DueDiligenceEngine:
 
         culture = CompanyCultureSignals(
             sentiment_rating=avg_rating,
-            work_life_balance_rating=round(avg_rating - 0.4, 1) if avg_rating else None,
-            interview_difficulty="Medium-Hard",
+            work_life_balance_rating=None,
+            interview_difficulty=None,
             top_positives=top_positives,
             top_complaints=top_complaints,
             evidence_citation_ids=culture_cit_ids

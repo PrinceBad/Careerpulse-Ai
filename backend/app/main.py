@@ -30,7 +30,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -42,6 +42,7 @@ app.add_middleware(
 @app.get("/api/health")
 def health_check():
     cache_count = len(list(settings.CACHE_DIR.glob("*.json"))) if settings.CACHE_DIR.exists() else 0
+    cache_snapshot_date = due_diligence_engine.get_global_cache_date_range()
     return {
         "status": "healthy",
         "app": settings.APP_NAME,
@@ -49,6 +50,7 @@ def health_check():
         "serpapi_key_configured": bool(settings.SERPAPI_API_KEY),
         "cache_enabled": settings.SERPAPI_CACHE_ENABLED,
         "cached_queries_count": cache_count,
+        "cache_snapshot_date": cache_snapshot_date,
         "llm_provider": settings.LLM_PROVIDER
     }
 
@@ -81,12 +83,23 @@ async def parse_resume(
 def search_jobs(request: JobSearchRequest):
     """Searches real-time jobs via SerpApi google_jobs and calculates skill match scores."""
     raw = serpapi_client.search_jobs(query=request.query, location=request.location or "India")
-    job_results = raw.get("jobs_results", [])
     
+    if raw.get("_unavailable"):
+        reason = raw.get("_reason", "cache_miss")
+        return JobSearchResponse(
+            query=request.query,
+            location=request.location or "India",
+            total_found=0,
+            jobs=[],
+            provenance="unavailable",
+            snapshot_date=None,
+            error_reason=raw.get("_detail") or ("No cached jobs data in offline mode." if reason == "cache_miss" else "SerpApi search error.")
+        )
+
+    job_results = raw.get("jobs_results", [])
     parsed_jobs: List[JobListing] = []
     for item in job_results:
         desc = item.get("description", "")
-        # Compute match score based on candidate profile if provided
         score, matching, missing = resume_parser.calculate_match(
             request.candidate_profile_text or "", 
             desc
@@ -115,14 +128,9 @@ def search_jobs(request: JobSearchRequest):
     # Sort jobs by match_score descending
     parsed_jobs.sort(key=lambda j: j.match_score, reverse=True)
     prov = "mock" if raw.get("_is_mock") else ("cached" if raw.get("_from_cache") else "live")
-    snapshot_date = None
-    if isinstance(raw, dict) and "search_metadata" in raw:
-        meta_ts = raw["search_metadata"].get("created_at") or raw["search_metadata"].get("processed_at")
-        if meta_ts:
-            dt = due_diligence_engine.parse_ref_datetime(meta_ts)
-            snapshot_date = f"{dt.strftime('%b')} {dt.day}, {dt.year}"
-    elif prov == "cached":
-        snapshot_date = "Oct 6, 2026"
+    snapshot_date = due_diligence_engine.format_date_range_from_responses([raw])
+    if not snapshot_date and prov == "cached":
+        snapshot_date = due_diligence_engine.get_global_cache_date_range()
 
     return JobSearchResponse(
         query=request.query,
