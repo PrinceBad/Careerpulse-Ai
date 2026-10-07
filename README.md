@@ -7,7 +7,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)](https://fastapi.tiangolo.com/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-5%20Engines%20Integrated-orange.svg)](https://serpapi.com/)
 [![CI](https://github.com/PrinceBad/careerpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/PrinceBad/careerpulse-ai/actions)
-[![Tests](https://img.shields.io/badge/Tests-28%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
+[![Tests](https://img.shields.io/badge/Tests-31%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > ⚖️ **Disclaimer**: Employer health verdicts (such as "High Risk", "Caution", or "Strong") are automated heuristic signals computed from public Google search results, news articles, and review snippets. They do not constitute formal legal, credit, financial, or employment advice regarding named companies.
@@ -51,10 +51,13 @@ flowchart TD
     CorrobNews --> Vault
 
     Vault --> Dossier["📋 360° Due-Diligence Dossier<br/>Investigation Trace & Red Flags"]
-    Vault --> Guard["🛡️ Code-Level Grounding Guard<br/>Interception & Verification Pipeline"]
+    Dossier --> TraceUI["🔎 Autonomous Investigation Trace UI<br/>Step-by-step query reasoning"]
 
+    Vault --> Guard["🛡️ Code-Level Grounding Guard<br/>Interception & Verification Pipeline"]
     CandidateResume["📄 Candidate Resume Text"] --> Guard
+
     Guard --> Outreach["✉️ Evidence-Grounded Outreach Pack<br/>Clickable [cit-XX] evidence chips"]
+    Guard --> GuardUI["🧪 Interactive Interception Modal<br/>Side-by-side stripped claim diff"]
 ```
 
 | SerpApi Engine | Role in CareerPulse AI | UI Component & Engine Details |
@@ -125,6 +128,29 @@ python scripts/warm_cache.py --all
 
 ---
 
+## 🌐 Verified API Endpoints
+
+All backend routes follow clean, RESTful contracts implemented in FastAPI:
+
+| Endpoint | Method | Input / Payload | Key Responsibilities |
+| :--- | :--- | :--- | :--- |
+| `/api/health` | `GET` | None | Reports system status, dynamic cache snapshot date range, and cached file counts. |
+| `/api/resume/parse` | `POST` | Multipart PDF/TXT (max 5MB) or raw text | Extracts verified technical skills and taxonomy tokens. Capped at 5MB / 100k chars. |
+| `/api/jobs/search` | `POST` | `JobSearchRequest` (query, location, resume) | Queries `google_jobs`, computes mathematical 0–100% skill overlap, and sorts descending. |
+| `/api/company/due-diligence` | `POST` | `DueDiligenceRequest` (company, role, stack) | Dispatches 4 parallel SerpApi engines + autonomous corroboration loop. |
+| `/api/outreach/generate` | `POST` | `OutreachRequest` (company, role, citations) | Generates cover letter and bullets with code-level grounding interceptor. |
+| `/api/guard/simulate-hallucination` | `POST` | `DueDiligenceReport` (citations) | Injects synthetic adversarial claims (`[cit-99]`) to demonstrate interception. |
+
+---
+
+## 🔒 Data Privacy & Upload Limits
+
+* **Upload Limits**: Supports PDF (`.pdf`) and plain text (`.txt`) files up to **5MB**. Raw text payloads are limited to 100,000 characters to prevent memory exhaustion.
+* **Resume Privacy Guarantee**: Candidate resume text is processed locally in-memory for skill token extraction. Resume content is only forwarded to Gemini or OpenAI if the user explicitly configures an `LLM_PROVIDER` in `backend/.env`.
+* **Zero Resume Leakage to Search Queries**: Candidate resume text is **never** sent in SerpApi search queries. Search queries are synthesized strictly from public role titles, company names, location parameters, and technology stack keywords.
+
+---
+
 ## 📋 Prior Work Disclosure
 
 CareerPulse AI was designed and built from scratch for the **SerpApi India Hackathon 2026**. Earlier personal hobby prototypes for keyword-based resume scanning served as initial inspiration, but all scraping code was discarded. All FastAPI microservice endpoints, GroundingValidator guardrails, multi-engine SerpApi client, autonomous corroboration agent loop, and Vanilla CSS/JS frontend interface were developed specifically for this hackathon submission.
@@ -163,9 +189,11 @@ cp backend/.env.example backend/.env
 *(Optional)* Add your `SERPAPI_API_KEY` to `backend/.env`. If left empty, CareerPulse will automatically utilize its committed real cache for the demo scenarios (Razorpay, Swiggy, CRED)!
 
 ### 3. Run Automated Tests
-Verify all **28 unit and integration tests** pass:
+Verify all **31 unit and integration tests** pass:
 ```bash
 pytest -v
+# Or directly via Python module:
+python -m pytest -v
 ```
 
 ### 4. Start the Application
@@ -179,13 +207,13 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 ## 🎬 3-Beat Demo Walkthrough (~2:30 Target)
 
 * **Beat 1: The Problem & Opportunity Radar (0:00 – 0:45)**  
-  Click **Razorpay** in the 1-Click Demo Scenarios. Show the Real-Time Opportunity Radar fetching live positions via `google_jobs`, with real-time candidate skill overlap scoring (`94% Fit`). Point out the honest provenance indicator: `🟢 Cached Real SerpApi Response`.
+  Click **Razorpay** in the 1-Click Demo Scenarios. Show the Real-Time Opportunity Radar fetching live positions via `google_jobs`, with real-time candidate skill overlap scoring (`94% Skill Overlap`). Point out the honest provenance indicator: `🟢 Cached Real SerpApi Response`.
 
 * **Beat 2: 360° Due Diligence & Autonomous Investigation Trace (0:45 – 1:40)**  
   Review the 360° Employer Due Diligence dossier. Highlight the **Autonomous Agent Investigation Trace** panel, which explains the trigger and outcome for each of the 5 engines. Note the layoff scanner (`google_news`), review intel (`google`), search-interest velocity (`google_trends`), and physical office verification (`google_maps`). Click any `[cit-01]` badge to show the modal with the heuristic verification confidence and snippet.
 
 * **Beat 3: Grounding Guard Demonstration (1:40 – 2:30)**  
-  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `28 passed in 0.82s`.
+  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `31 passed in 1.05s`.
 
 ---
 
@@ -196,3 +224,4 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 * **Official Partner Community**: **PyDelhi** (Eligible for ₹10,000 PyDelhi community award + ₹3 Lakh+ overall prize pool)
 * **Lead Developer**: Prince Badsiwal ([GitHub: @PrinceBad](https://github.com/PrinceBad))
 * **License**: MIT
+

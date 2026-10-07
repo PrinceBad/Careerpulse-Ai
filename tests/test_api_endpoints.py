@@ -67,7 +67,39 @@ def test_outreach_endpoint():
     assert "cover_letter" in data
     assert len(data["cited_evidence_ids"]) > 0
 
+def test_job_search_mismatched_resume_scores_zero():
+    payload = {
+        "query": "Senior Python Backend Engineer",
+        "location": "Bengaluru, India",
+        "candidate_profile_text": "Experienced Kindergarten Teacher, Culinary Chef, Oil Painting Specialist."
+    }
+    res = client.post("/api/jobs/search", json=payload)
+    assert res.status_code == 200
+    data = res.json()
+    assert len(data["jobs"]) > 0
+    # Every job must report 0% skill overlap for a completely disjoint skill set
+    assert data["jobs"][0]["match_score"] == 0
+    assert len(data["jobs"][0]["matching_skills"]) == 0
+
+def test_resume_upload_size_limit():
+    large_payload = b"A" * (6 * 1024 * 1024)  # 6MB
+    res = client.post(
+        "/api/resume/parse",
+        files={"file": ("large_resume.txt", large_payload, "text/plain")}
+    )
+    assert res.status_code == 400
+    assert "exceeds the 5MB limit" in res.json()["detail"]
+
+def test_resume_upload_unsupported_format():
+    res = client.post(
+        "/api/resume/parse",
+        files={"file": ("malicious.exe", b"MZ...", "application/octet-stream")}
+    )
+    assert res.status_code == 400
+    assert "Unsupported file format" in res.json()["detail"]
+
 def test_serve_frontend_root():
     res = client.get("/")
     assert res.status_code == 200
     assert "CareerPulse" in res.text
+

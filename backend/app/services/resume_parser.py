@@ -53,30 +53,31 @@ class ResumeParser:
     @classmethod
     def calculate_match(cls, candidate_text: str, job_description: str) -> Tuple[int, List[str], List[str]]:
         """
-        Calculates a match score (0-100), matching skills, and missing skills.
+        Calculates a real skill overlap score (0-100), matching skills, and missing skills.
+        Ensures ungrounded or mismatched profiles score 0% rather than an inflated baseline.
         """
         if not candidate_text:
-            return 75, ["Python", "FastAPI"], ["Distributed Systems"]
+            job_skills = set(s.lower() for s in cls.extract_skills(job_description))
+            return 0, [], [s.title() if len(s) > 3 else s.upper() for s in sorted(list(job_skills))]
 
         candidate_skills = set(s.lower() for s in cls.extract_skills(candidate_text))
         job_skills = set(s.lower() for s in cls.extract_skills(job_description))
 
         if not job_skills:
-            # If job didn't match explicit keywords, assign baseline fit
-            return 80, [s.title() for s in list(candidate_skills)[:4]], []
+            return 0, [], []
 
         matching = candidate_skills.intersection(job_skills)
         missing = job_skills.difference(candidate_skills)
 
-        # Calculate percentage match
-        match_ratio = len(matching) / len(job_skills) if job_skills else 1.0
-        # Scale to 60-98 range for realistic distribution
-        score = int(60 + (match_ratio * 38))
-        score = min(98, max(50, score))
+        # Real mathematical skill overlap percentage
+        match_ratio = len(matching) / len(job_skills) if job_skills else 0.0
+        score = int(round(match_ratio * 100))
+        score = min(100, max(0, score))
 
-        formatted_matching = [s.title() for s in matching]
-        formatted_missing = [s.title() for s in missing]
+        formatted_matching = [s.title() if len(s) > 3 else s.upper() for s in sorted(list(matching))]
+        formatted_missing = [s.title() if len(s) > 3 else s.upper() for s in sorted(list(missing))]
 
         return score, formatted_matching, formatted_missing
 
 resume_parser = ResumeParser()
+

@@ -327,7 +327,7 @@ function renderJobs(jobs, targetCompany = "", role = "") {
     return;
   }
 
-  jobsStats.textContent = `Found ${jobs.length} matching positions (${jobs.length ? jobs[0].match_score : 0}% Top Match)`;
+  jobsStats.textContent = `Found ${jobs.length} matching positions (${jobs.length ? jobs[0].match_score : 0}% Skill Overlap)`;
   jobsList.innerHTML = '';
 
   jobs.forEach((job, index) => {
@@ -347,7 +347,7 @@ function renderJobs(jobs, targetCompany = "", role = "") {
         </div>
         <div class="match-meter">
           <span class="match-score-badge">${job.match_score}%</span>
-          <span class="match-score-label">Skill Fit</span>
+          <span class="match-score-label">Skill Overlap</span>
         </div>
       </div>
       <div class="job-meta-row">

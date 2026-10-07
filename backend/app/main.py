@@ -60,17 +60,38 @@ async def parse_resume(
     raw_text: Optional[str] = Form(None)
 ):
     """Extracts technical skills and competencies from resume file or pasted text."""
+    MAX_FILE_SIZE = 5 * 1024 * 1024   # 5MB cap
+    MAX_TEXT_LENGTH = 100_000         # 100,000 characters cap
+
     content = ""
     if file and file.filename:
+        filename_lower = file.filename.lower()
+        if not (filename_lower.endswith(".pdf") or filename_lower.endswith(".txt")):
+            raise HTTPException(
+                status_code=400,
+                detail="Unsupported file format. Only PDF (.pdf) and plain text (.txt) files up to 5MB are accepted."
+            )
         file_bytes = await file.read()
-        if file.filename.lower().endswith(".pdf"):
+        if len(file_bytes) > MAX_FILE_SIZE:
+            raise HTTPException(
+                status_code=400,
+                detail="File size exceeds the 5MB limit. Please upload a smaller resume."
+            )
+        if filename_lower.endswith(".pdf"):
             content = resume_parser.extract_text_from_pdf(file_bytes)
+            if content.startswith("Error extracting text from PDF:"):
+                raise HTTPException(status_code=400, detail="Corrupted or unreadable PDF file.")
         else:
             content = file_bytes.decode("utf-8", errors="ignore")
     elif raw_text:
+        if len(raw_text) > MAX_TEXT_LENGTH:
+            raise HTTPException(
+                status_code=400,
+                detail="Pasted resume text exceeds the 100,000 character limit."
+            )
         content = raw_text
     else:
-        raise HTTPException(status_code=400, detail="Provide either a file upload or raw_text")
+        raise HTTPException(status_code=400, detail="Provide either a file upload (.pdf, .txt) or raw_text")
 
     skills = resume_parser.extract_skills(content)
     return {
