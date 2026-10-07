@@ -55,9 +55,10 @@ class JobSearchResponse(BaseModel):
     total_found: int
     jobs: List[JobListing]
     provenance: Literal["live", "cached", "mock"] = "cached"
+    snapshot_date: Optional[str] = None
 
 class CompanyRiskSignals(BaseModel):
-    risk_level: Literal["Low", "Medium", "High"]
+    risk_level: Literal["Low", "Medium", "High", "Unknown"]
     layoffs_detected: bool = False
     executive_turnover: bool = False
     litigation_or_controversy: bool = False
@@ -92,7 +93,7 @@ class DueDiligenceReport(BaseModel):
     """Comprehensive evidence dossier for a target employer."""
     company_name: str
     target_role: Optional[str] = None
-    overall_health_verdict: Literal["Strong", "Caution", "High Risk"]
+    overall_health_verdict: Literal["Strong", "Caution", "High Risk", "Data Unavailable"]
     executive_summary: str
     
     # Specific signal categories
@@ -107,6 +108,7 @@ class DueDiligenceReport(BaseModel):
     # Consolidated Evidence Vault
     citations: List[Citation]
     provenance: Literal["live", "cached", "mock"] = "cached"
+    snapshot_date: Optional[str] = None
 
 class DueDiligenceRequest(BaseModel):
     company_name: str

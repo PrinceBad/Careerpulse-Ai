@@ -23,6 +23,31 @@ class GroundingValidator:
         r"\b(?:layoff|laid off|job cuts|downsizing|headcount reduction)\b", # Layoff terms
         r"\b(?:raised|series [a-e]|funding round|valuation)\b",            # Funding terms
         r"\b(?:rated|rating of)\s*\d+(?:\.\d+)?\b",                        # Review ratings
+        r"\b\d+(?:k|m|b)?\+?\s*(?:requests|reqs|users|queries|rps|tps|events|qps|dau|mau)(?:/[a-z]+)?\b", # Throughput & scale
+        r"\b\d+k\b",                                                      # Shorthand thousands (e.g. 10k)
+        r"\b(?:cut|cuts)\b.*\b(?:staff|employees|jobs|workforce|roles)\b",  # Workforce cuts
+        r"\bcut\s+\d+%",                                                  # e.g. cut 35%
+    ]
+
+    # Allowlist for target company mentions that do NOT require citations:
+    # Strictly limited to cover letter greetings, role interest, and application courtesy.
+    ALLOWLIST_APPLICATION_PATTERNS = [
+        r"^(?:dear|to the|hello|hi)\s+.*hiring\s+team",
+        r"^(?:dear|hello|hi)\s+[A-Za-z0-9_.\s]+,?",
+        r"\b(?:apply|applying|application|candidate for)\b.*(?:\brole\b|\bposition\b|\bopportunity\b|\bteam\b|\bopening\b)",
+        r"\b(?:express\s+(?:my\s+)?(?:strong\s+)?interest in)\b.*(?:\brole\b|\bposition\b|\bopportunity\b|\bteam\b|\bopening\b)",
+        r"\b(?:excited|enthusiastic|thrilled|eager|delighted)\s+to\s+(?:apply|join|contribute\s+to)\b",
+        r"\b(?:aligns?\s+with|contribute\s+to)\s+.*(?:mission|vision|goals?|journey|roadmaps?)\b",
+        r"\bthank\s+you\s+for\s+(?:considering|reviewing|your\s+time)\b",
+        r"\blook\s+forward\s+to\s+(?:discussing|speaking|hearing)\b",
+    ]
+
+    DISALLOWED_COMPANY_FACT_TERMS = [
+        "layoff", "laid off", "job cuts", "downsizing", "headcount", "staff", "employees",
+        "cut", "cuts", "slashed", "severance", "shut down", "closed", "office", "offices",
+        "branch", "revenue", "profit", "loss", "turnover", "valuation", "series", "raised",
+        "funding", "restructuring", "fired", "stepped down", "resigned", "lawsuit", "investigation",
+        "announced", "expanded", "pivot", "acquired"
     ]
 
     CITATION_REGEX = r"\[(cit-\d+)\]"
@@ -32,11 +57,16 @@ class GroundingValidator:
         cls, 
         text: str, 
         valid_citations: List[Citation],
-        candidate_profile_text: Optional[str] = None
+        candidate_profile_text: Optional[str] = None,
+        target_company: Optional[str] = None
     ) -> Tuple[bool, str, List[str], List[str]]:
         """
         Validates text against a list of valid citations with support checks.
-        Distinguishes candidate's own background metrics from employer company claims.
+        Enforces:
+        1. Default-deny on target company: Any sentence naming target_company requires a citation
+           unless it strictly matches an application greeting or role interest pattern.
+        2. Candidate metrics: Candidate achievements survive only if numbers and units match resume.
+        3. Support check: Cited sources must contain claimed facts.
         Returns:
             (is_valid: bool, cleaned_text: str, violations: List[str], rejected_sentences: List[str])
         """
@@ -46,8 +76,8 @@ class GroundingValidator:
         rejected_sentences: List[str] = []
         clean_sentences: List[str] = []
 
-        # Split into individual sentences
-        raw_sentences = re.split(r"(?<=[.!?])\s+", text.strip())
+        # Split into individual sentences and paragraphs
+        raw_sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+|\n+", text.strip()) if s.strip()]
 
         for sentence in raw_sentences:
             if not sentence.strip():
@@ -64,7 +94,25 @@ class GroundingValidator:
             # Strip citation tags to evaluate factual claims purely on sentence text
             sentence_text = re.sub(cls.CITATION_REGEX, "", sentence).strip()
 
-            # Check 2: Detect uncited factual claims about the company vs candidate experience
+            # Check 2: Default-Deny on Target Company Mentions without Citation
+            if target_company and re.search(r"\b" + re.escape(target_company.strip()) + r"\b", sentence_text, re.IGNORECASE):
+                if not found_citations:
+                    s_lower = sentence_text.lower()
+                    has_disallowed_fact = any(term in s_lower for term in cls.DISALLOWED_COMPANY_FACT_TERMS)
+                    has_cut_or_num = any(re.search(pat, sentence_text, re.IGNORECASE) for pat in [r"\bcut\b", r"\bshut\s+down\b", r"\d+%"])
+                    is_allowlisted = (
+                        any(re.search(pat, sentence_text, re.IGNORECASE) for pat in cls.ALLOWLIST_APPLICATION_PATTERNS)
+                        and not has_disallowed_fact
+                        and not has_cut_or_num
+                    )
+                    if not is_allowlisted:
+                        violations.append(
+                            f"Rejected ungrounded statement naming target company '{target_company}' without citation: '{sentence}'"
+                        )
+                        rejected_sentences.append(sentence)
+                        continue
+
+            # Check 3: Detect uncited factual claims about company vs candidate experience
             has_factual_claim = any(
                 re.search(pattern, sentence_text, re.IGNORECASE) 
                 for pattern in cls.FACTUAL_INDICATORS
@@ -72,25 +120,64 @@ class GroundingValidator:
 
             if has_factual_claim and not found_citations:
                 is_candidate_fact = False
-                is_company_claim = any(
-                    term in sentence_text.lower() 
-                    for term in ["layoff", "laid off", "job cuts", "downsizing", "raised", "funding", "revenue", "valuation", "series"]
+                
+                # Check candidate action verbs
+                candidate_action_verbs = any(
+                    re.search(r"\b" + verb + r"\b", sentence_text, re.IGNORECASE)
+                    for verb in [
+                        "built", "architected", "engineered", "designed", "scaled", 
+                        "led", "developed", "implemented", "reduced", "increased", 
+                        "improved", "serving", "handling", "optimized", "managed",
+                        "spearheaded", "created"
+                    ]
                 )
-                if not is_company_claim:
-                    candidate_action_verbs = any(
-                        verb in sentence_text.lower() 
-                        for verb in [
-                            "built", "architected", "engineered", "designed", "scaled", 
-                            "led", "developed", "implemented", "reduced", "increased", 
-                            "improved", "serving", "handling", "optimized", "managed"
-                        ]
-                    )
-                    if candidate_action_verbs:
+
+                # Compound rate metrics: number + unit/frequency (e.g. 10k requests/day, 10k/day, 50 rps)
+                rate_pattern = r"\b(\d+(?:\.\d+)?[kmb%]?)\s*(?:([a-zA-Z]+)\s*(?:/|per)\s*([a-zA-Z]+)|(?:/|per)\s*([a-zA-Z]+))\b"
+                rate_matches = re.findall(rate_pattern, sentence_text, re.IGNORECASE)
+
+                # Scale metrics: numbers with k, m, b, % (e.g. 10k, 35%)
+                scale_metrics = re.findall(r"\b\d+(?:\.\d+)?[kmb%]\b", sentence_text, re.IGNORECASE)
+
+                if candidate_action_verbs and candidate_profile_text:
+                    profile_lower = candidate_profile_text.lower()
+                    metrics_ok = True
+
+                    # Verify rate metrics match quantity AND denominator unit in resume
+                    for qty, noun, denom1, denom2 in rate_matches:
+                        denom = (denom1 or denom2).lower()
+                        if qty.lower() not in profile_lower:
+                            metrics_ok = False
+                            break
+
+                        compatible_denoms = [denom]
+                        if denom in ["s", "sec", "second", "seconds"]:
+                            compatible_denoms = ["/s", "sec", "second", "rps"]
+                        elif denom in ["day", "days", "daily"]:
+                            compatible_denoms = ["/day", "day", "daily"]
+                        elif denom in ["min", "minute", "minutes"]:
+                            compatible_denoms = ["/min", "minute", "min"]
+                        elif denom in ["hr", "hour", "hours"]:
+                            compatible_denoms = ["/hr", "hour", "hr"]
+                        elif denom in ["month", "months", "monthly"]:
+                            compatible_denoms = ["/month", "month", "monthly"]
+
+                        if not any(cd in profile_lower for cd in compatible_denoms):
+                            metrics_ok = False
+                            break
+
+                    # Verify scale metrics exist in resume
+                    if metrics_ok:
+                        for sm in scale_metrics:
+                            if sm.lower() not in profile_lower:
+                                metrics_ok = False
+                                break
+
+                    if metrics_ok:
                         is_candidate_fact = True
-                    elif candidate_profile_text:
-                        sentence_nums = re.findall(r"\b\d+k?\b|\b\d+%", sentence_text, re.IGNORECASE)
-                        if any(n.lower() in candidate_profile_text.lower() for n in sentence_nums):
-                            is_candidate_fact = True
+                elif candidate_action_verbs and not rate_matches and not scale_metrics:
+                    # Action statement without numbers/metrics
+                    is_candidate_fact = True
 
                 if not is_candidate_fact:
                     violations.append(f"Rejected ungrounded factual claim lacking citation: '{sentence}'")

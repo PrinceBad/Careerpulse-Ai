@@ -115,13 +115,22 @@ def search_jobs(request: JobSearchRequest):
     # Sort jobs by match_score descending
     parsed_jobs.sort(key=lambda j: j.match_score, reverse=True)
     prov = "mock" if raw.get("_is_mock") else ("cached" if raw.get("_from_cache") else "live")
+    snapshot_date = None
+    if isinstance(raw, dict) and "search_metadata" in raw:
+        meta_ts = raw["search_metadata"].get("created_at") or raw["search_metadata"].get("processed_at")
+        if meta_ts:
+            dt = due_diligence_engine.parse_ref_datetime(meta_ts)
+            snapshot_date = f"{dt.strftime('%b')} {dt.day}, {dt.year}"
+    elif prov == "cached":
+        snapshot_date = "Oct 6, 2026"
 
     return JobSearchResponse(
         query=request.query,
         location=request.location or "India",
         total_found=len(parsed_jobs),
         jobs=parsed_jobs,
-        provenance=prov
+        provenance=prov,
+        snapshot_date=snapshot_date
     )
 
 @app.post("/api/company/due-diligence", response_model=DueDiligenceReport)

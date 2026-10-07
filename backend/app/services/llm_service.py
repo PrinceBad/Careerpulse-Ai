@@ -54,14 +54,14 @@ class LLMService:
 
         # 4. Strict Code-Level Grounding Validation & Sanitization
         is_valid_letter, clean_letter, letter_violations, _ = grounding_validator.validate_and_clean_text(
-            pack.cover_letter, citations, candidate_profile_text=candidate_profile
+            pack.cover_letter, citations, candidate_profile_text=candidate_profile, target_company=company_name
         )
         clean_bullets = []
         all_violations = list(letter_violations)
 
         for bullet in pack.tailored_resume_bullets:
             is_valid_b, clean_b, b_violations, _ = grounding_validator.validate_and_clean_text(
-                bullet, citations, candidate_profile_text=candidate_profile
+                bullet, citations, candidate_profile_text=candidate_profile, target_company=company_name
             )
             if clean_b:
                 clean_bullets.append(clean_b)
@@ -242,11 +242,18 @@ Best regards,
 Candidate (via CareerPulse AI)
 """
 
-        tailored_bullets = [
-            f"Engineered resilient API microservices with Python and FastAPI, aligned with {company_name}'s verified architecture standards [{cited_ids[0] if cited_ids else 'cit-01'}].",
-            f"Implemented distributed caching and telemetry to maintain sub-50ms latency under high load, directly addressing system design requirements identified in reviews [{cited_ids[1] if len(cited_ids) > 1 else 'cit-01'}].",
-            f"Designed automated event-driven workers that improved data throughput by 40% while cutting infrastructure costs."
-        ]
+        if cited_ids:
+            tailored_bullets = [
+                f"Engineered resilient API microservices with Python and FastAPI, aligned with {company_name}'s verified architecture standards [{cited_ids[0]}].",
+                f"Implemented distributed caching and telemetry to maintain sub-50ms latency under high load [{cited_ids[1] if len(cited_ids) > 1 else cited_ids[0]}].",
+                f"Designed automated event-driven workers that improved data throughput and system reliability."
+            ]
+        else:
+            tailored_bullets = [
+                f"Engineered resilient API microservices with Python and FastAPI, prioritizing high scalability and reliability.",
+                f"Implemented distributed caching and telemetry to maintain sub-50ms latency under high load.",
+                f"Designed automated event-driven workers that improved data throughput and system reliability."
+            ]
 
         used_citations = [c for c in citations if c.id in cited_ids]
 

@@ -31,6 +31,7 @@ const SCENARIOS = {
 
 // DOM Elements
 const jobSearchForm = document.getElementById('jobSearchForm');
+const companyInput = document.getElementById('companyInput');
 const roleInput = document.getElementById('roleInput');
 const locationInput = document.getElementById('locationInput');
 const resumeInput = document.getElementById('resumeInput');
@@ -44,8 +45,11 @@ const dataSourceLabel = document.getElementById('dataSourceLabel');
 const companyHealthBadge = document.getElementById('companyHealthBadge');
 const targetCompanyTitle = document.getElementById('targetCompanyTitle');
 const targetRoleTitle = document.getElementById('targetRoleTitle');
+const dossierProvenanceBadge = document.getElementById('dossierProvenanceBadge');
 const executiveSummaryText = document.getElementById('executiveSummaryText');
 const btnRefreshDiligence = document.getElementById('btnRefreshDiligence');
+const cacheMissNotice = document.getElementById('cacheMissNotice');
+const cacheMissNoticeText = document.getElementById('cacheMissNoticeText');
 const investigationTraceTimeline = document.getElementById('investigationTraceTimeline');
 
 // Intel Cards Elements
@@ -120,9 +124,9 @@ function setupEventListeners() {
 
   // Re-scan diligence
   btnRefreshDiligence.addEventListener('click', () => {
-    if (state.selectedJob) {
-      loadDueDiligence(state.selectedJob.company_name, state.selectedJob.title);
-    }
+    const comp = state.selectedJob ? state.selectedJob.company_name : (companyInput ? companyInput.value.trim() : "Razorpay");
+    const role = state.selectedJob ? state.selectedJob.title : roleInput.value.trim();
+    loadDueDiligence(comp, role);
   });
 
   // Generate outreach
@@ -204,10 +208,39 @@ function setupEventListeners() {
   });
 }
 
+function updateProvenanceBadge(prov, snapshotDate) {
+  const p = prov || 'cached';
+  if (p === 'live') {
+    dataSourceBadge.className = 'data-source-badge badge-live';
+    dataSourceLabel.textContent = 'Live SerpApi Verified';
+    if (dossierProvenanceBadge) {
+      dossierProvenanceBadge.className = 'provenance-badge badge-live';
+      dossierProvenanceBadge.textContent = '🔴 Live SerpApi Verified';
+    }
+  } else if (p === 'cached') {
+    const capturedText = snapshotDate ? ` (captured ${snapshotDate})` : ' (captured Oct 6, 2026)';
+    const labelText = `Cached real SerpApi response${capturedText}`;
+    dataSourceBadge.className = 'data-source-badge badge-cached';
+    dataSourceLabel.textContent = labelText;
+    if (dossierProvenanceBadge) {
+      dossierProvenanceBadge.className = 'provenance-badge badge-cached';
+      dossierProvenanceBadge.textContent = `🟢 ${labelText}`;
+    }
+  } else {
+    dataSourceBadge.className = 'data-source-badge badge-mock';
+    dataSourceLabel.textContent = 'Demo Mock Data';
+    if (dossierProvenanceBadge) {
+      dossierProvenanceBadge.className = 'provenance-badge badge-mock';
+      dossierProvenanceBadge.textContent = '🟡 Demo Mock Data';
+    }
+  }
+}
+
 function loadScenario(key) {
   state.activeScenario = key;
   const s = SCENARIOS[key];
   if (s) {
+    if (companyInput) companyInput.value = s.company;
     roleInput.value = s.role;
     locationInput.value = s.location;
     resumeInput.value = s.skills;
@@ -215,7 +248,11 @@ function loadScenario(key) {
 }
 
 async function runJobScan() {
-  const query = roleInput.value.trim();
+  const targetCompany = companyInput ? companyInput.value.trim() : "";
+  const role = roleInput.value.trim();
+  const query = targetCompany && !role.toLowerCase().includes(targetCompany.toLowerCase())
+    ? `${targetCompany} ${role}`
+    : role;
   const location = locationInput.value.trim();
   const candidate_text = resumeInput.value.trim();
 
@@ -235,11 +272,18 @@ async function runJobScan() {
 
     const data = await res.json();
     state.currentJobs = data.jobs || [];
-    renderJobs(state.currentJobs);
+    updateProvenanceBadge(data.provenance, data.snapshot_date);
+    renderJobs(state.currentJobs, targetCompany, role);
 
-    // Select first job automatically
+    // Select first job automatically if found
     if (state.currentJobs.length > 0) {
       selectJob(state.currentJobs[0]);
+    } else {
+      // If no jobs found (cache miss without live API), still load due diligence for typed company
+      const comp = targetCompany || "Target Company";
+      targetCompanyTitle.textContent = comp;
+      targetRoleTitle.textContent = role;
+      loadDueDiligence(comp, role);
     }
   } catch (err) {
     console.error("Error scanning jobs:", err);
@@ -247,7 +291,23 @@ async function runJobScan() {
   }
 }
 
-function renderJobs(jobs) {
+function renderJobs(jobs, targetCompany = "", role = "") {
+  if (!jobs || jobs.length === 0) {
+    const queryLabel = targetCompany ? `${targetCompany} (${role || 'Role'})` : (role || 'Role');
+    jobsStats.textContent = `0 matching positions found (Offline Mode / Cache Miss)`;
+    jobsList.innerHTML = `
+      <div class="empty-jobs-card">
+        <div class="empty-icon">📡</div>
+        <h4>No Cached Postings for "${escapeHtml(queryLabel)}"</h4>
+        <p>This query has no pre-warmed disk cache. In offline mode without a <code>SERPAPI_API_KEY</code>, new live queries cannot be dispatched.</p>
+        <div class="empty-hint">
+          💡 <strong>Options:</strong> Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> for live queries, or select a 1-Click Scenario above (Razorpay, Swiggy, CRED).
+        </div>
+      </div>
+    `;
+    return;
+  }
+
   jobsStats.textContent = `Found ${jobs.length} matching positions (${jobs.length ? jobs[0].match_score : 0}% Top Match)`;
   jobsList.innerHTML = '';
 
@@ -319,22 +379,28 @@ async function loadDueDiligence(companyName, roleTitle) {
     generateOutreach();
   } catch (err) {
     console.error("Error loading due diligence:", err);
-    executiveSummaryText.textContent = "Error executing due diligence scan.";
+    executiveSummaryText.textContent = `Notice: Error executing due diligence scan for ${companyName}. Set SERPAPI_API_KEY in .env for live multi-engine queries.`;
   }
 }
 
 function renderDueDiligence(report) {
   // Update Live vs Cached vs Mock Data badge honestly
   const prov = report.provenance || (report.is_mock ? 'mock' : 'cached');
-  if (prov === 'live') {
-    dataSourceBadge.className = 'data-source-badge badge-live';
-    dataSourceLabel.textContent = 'Live SerpApi Verified';
-  } else if (prov === 'cached') {
-    dataSourceBadge.className = 'data-source-badge badge-cached';
-    dataSourceLabel.textContent = 'Cached Real SerpApi Response';
-  } else {
-    dataSourceBadge.className = 'data-source-badge badge-mock';
-    dataSourceLabel.textContent = 'Demo Mock Data';
+  updateProvenanceBadge(prov, report.snapshot_date);
+
+  // Show clear cache-miss notice banner if in offline mock fallback
+  if (cacheMissNotice) {
+    if (prov === 'mock') {
+      cacheMissNotice.classList.remove('hidden');
+      if (cacheMissNoticeText) {
+        cacheMissNoticeText.innerHTML = `
+          <strong>Offline Demonstration Notice (Cache Miss):</strong>
+          No pre-warmed SerpApi cache exists for "<strong>${escapeHtml(report.company_name)}</strong>". Operating in offline demonstration mock fallback. Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> to dispatch live multi-engine investigations.
+        `;
+      }
+    } else {
+      cacheMissNotice.classList.add('hidden');
+    }
   }
 
   // Verdict badge
@@ -345,6 +411,9 @@ function renderDueDiligence(report) {
   } else if (report.overall_health_verdict === 'Caution') {
     companyHealthBadge.classList.add('verdict-caution');
     companyHealthBadge.textContent = 'Caution Advised';
+  } else if (report.overall_health_verdict === 'Data Unavailable') {
+    companyHealthBadge.classList.add('verdict-nodata');
+    companyHealthBadge.textContent = 'Data Unavailable (Offline Cache Miss)';
   } else {
     companyHealthBadge.classList.add('verdict-highrisk');
     companyHealthBadge.textContent = 'High Risk';
@@ -375,8 +444,19 @@ function renderDueDiligence(report) {
   }
 
   // 1. Risks Card
-  riskLevelBadge.className = report.risks.risk_level === 'Low' ? 'badge-risk-low' : 'badge-risk-high';
-  riskLevelBadge.textContent = `${report.risks.risk_level.toUpperCase()} RISK`;
+  if (report.risks.risk_level === 'Unknown') {
+    riskLevelBadge.className = 'badge-risk-unknown';
+    riskLevelBadge.textContent = 'DATA UNAVAILABLE';
+  } else if (report.risks.risk_level === 'Low') {
+    riskLevelBadge.className = 'badge-risk-low';
+    riskLevelBadge.textContent = 'LOW RISK';
+  } else if (report.risks.risk_level === 'Medium') {
+    riskLevelBadge.className = 'badge-risk-medium';
+    riskLevelBadge.textContent = 'MEDIUM RISK';
+  } else {
+    riskLevelBadge.className = 'badge-risk-high';
+    riskLevelBadge.textContent = 'HIGH RISK';
+  }
   riskSummaryText.textContent = report.risks.risk_summary;
   renderCitationChips(riskCitations, report.risks.evidence_citation_ids, report.citations);
 
@@ -407,24 +487,33 @@ function renderDueDiligence(report) {
   }
 
   // 5. Evidence Vault List
-  citationCountBadge.textContent = `${report.citations.length} Verified Sources Loaded`;
-  citationsVaultList.innerHTML = '';
-  report.citations.forEach(c => {
-    const item = document.createElement('div');
-    item.className = 'vault-item';
-    item.innerHTML = `
-      <div class="vault-item-left">
-        <span class="citation-chip" onclick="showCitationModal('${c.id}')">[${c.id}]</span>
-        <span class="engine-tag engine-${c.engine.replace('google_', '')}">${c.engine}</span>
-        <strong>${escapeHtml(c.source_title)}</strong>
-        <span class="verified-tag ${c.verified ? 'tag-verified' : 'tag-unverified'}">${c.verified ? `✓ Verified (${Math.round((c.verification_confidence || 0.9) * 100)}%)` : '⚠ Unverified'}</span>
-      </div>
-      <div>
-        <a href="${c.source_url}" target="_blank" rel="noopener noreferrer">Inspect Source ↗</a>
+  if (!report.citations || report.citations.length === 0) {
+    citationCountBadge.textContent = "0 Sources (Offline Cache Miss)";
+    citationsVaultList.innerHTML = `
+      <div class="empty-vault-card">
+        <p>No verified search evidence found in offline disk cache for <strong>${escapeHtml(report.company_name)}</strong>. Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> to dispatch live multi-engine investigations across Google News, Web, Trends, and Maps.</p>
       </div>
     `;
-    citationsVaultList.appendChild(item);
-  });
+  } else {
+    citationCountBadge.textContent = `${report.citations.length} Verified Sources Loaded`;
+    citationsVaultList.innerHTML = '';
+    report.citations.forEach(c => {
+      const item = document.createElement('div');
+      item.className = 'vault-item';
+      item.innerHTML = `
+        <div class="vault-item-left">
+          <span class="citation-chip" onclick="showCitationModal('${c.id}')">[${c.id}]</span>
+          <span class="engine-tag engine-${c.engine.replace('google_', '')}">${c.engine}</span>
+          <strong>${escapeHtml(c.source_title)}</strong>
+          <span class="verified-tag ${c.verified ? 'tag-verified' : 'tag-unverified'}">${c.verified ? `✓ Verified (${Math.round((c.verification_confidence || 0.9) * 100)}%)` : '⚠ Unverified'}</span>
+        </div>
+        <div>
+          <a href="${c.source_url}" target="_blank" rel="noopener noreferrer">Inspect Source ↗</a>
+        </div>
+      `;
+      citationsVaultList.appendChild(item);
+    });
+  }
 }
 
 function renderCitationChips(container, citIds, allCitations) {

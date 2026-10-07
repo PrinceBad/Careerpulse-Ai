@@ -35,8 +35,17 @@ def test_due_diligence_report_generation():
         assert cid in valid_ids
 
 def test_recency_date_parsing():
-    is_recent, note = due_diligence_engine.parse_and_check_recency("3 weeks ago")
+    # Resolves relative dates against cache timestamp (Oct 6, 2026) to prevent time drift
+    ref_ts = "2026-10-06 13:24:25 UTC"
+    is_recent, note = due_diligence_engine.parse_and_check_recency("3 weeks ago", reference_timestamp=ref_ts)
     assert is_recent is True
+    assert "Sep 15, 2026" in note
+
+    is_recent, note = due_diligence_engine.parse_and_check_recency("4 months ago", reference_timestamp=ref_ts)
+    assert is_recent is True
+
+    is_recent, note = due_diligence_engine.parse_and_check_recency("2 years ago", reference_timestamp=ref_ts)
+    assert is_recent is False
 
     is_recent, note = due_diligence_engine.parse_and_check_recency("Mar 3, 2025")
     assert is_recent is True
@@ -54,6 +63,7 @@ def test_recency_date_parsing():
 def test_investigation_trace_present():
     report = due_diligence_engine.generate_report("Swiggy")
     assert len(report.investigation_trace) >= 2
+    assert report.snapshot_date == "Oct 6, 2026"
     step1 = report.investigation_trace[0]
     assert step1.step_number == 1
     assert "Parallel" in step1.action
@@ -136,3 +146,24 @@ def test_dynamic_investigation_trace(monkeypatch):
     assert any("Health Clearance" in a for a in trace_actions_clean)
     assert not any("Autonomous Corroboration" in a for a in trace_actions_clean)
     assert report_clean.risks.layoffs_detected is False
+
+def test_due_diligence_cache_miss_empty_dossier():
+    # Cache-miss behavior for real company names:
+    # When querying an uncached company with no API key, return honest empty dossier (no invented citations/verdicts)
+    from backend.app.services.serpapi_client import SerpApiClient
+    from backend.app.services.due_diligence import DueDiligenceEngine
+
+    offline_client = SerpApiClient(api_key="", cache_enabled=True)
+    engine = DueDiligenceEngine(client=offline_client)
+    report = engine.generate_report("Infosys")
+
+    assert report.company_name == "Infosys"
+    assert report.overall_health_verdict == "Data Unavailable"
+    assert report.provenance == "mock"
+    assert len(report.citations) == 0
+    assert report.snapshot_date is None
+    assert report.risks.risk_level == "Unknown"
+    assert len(report.investigation_trace) >= 2
+    assert "Cache Miss" in report.investigation_trace[0].result_summary
+    assert "No verified search evidence available in offline cache" in report.executive_summary
+

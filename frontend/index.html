@@ -26,9 +26,9 @@
           <span class="status-dot"></span>
           <span class="status-label">SerpApi Resilient Cache Active</span>
         </div>
-        <div id="dataSourceBadge" class="data-source-badge badge-mock">
+        <div id="dataSourceBadge" class="data-source-badge badge-cached">
           <span class="data-source-dot"></span>
-          <span id="dataSourceLabel">Demo Mock Data</span>
+          <span id="dataSourceLabel">Cached real SerpApi response (captured Oct 6, 2026)</span>
         </div>
         <div class="community-tag">
           <span class="pydelhi-pill">🐍 PyDelhi 2026 Edition</span>
@@ -68,6 +68,11 @@
 
         <!-- Search Controls -->
         <form id="jobSearchForm" class="search-form">
+          <div class="form-group">
+            <label for="companyInput" class="input-label">Target Company</label>
+            <input type="text" id="companyInput" class="form-input" value="Razorpay" placeholder="e.g. Razorpay, Swiggy, CRED, or custom..." required>
+          </div>
+
           <div class="form-group">
             <label for="roleInput" class="input-label">Target Role / Keywords</label>
             <input type="text" id="roleInput" class="form-input" value="Senior Python Backend Engineer" required>
@@ -130,6 +135,19 @@
           <div id="companyHealthBadge" class="verdict-badge verdict-strong">Strong Profile</div>
         </div>
 
+        <!-- Disclaimer Banner -->
+        <div class="disclaimer-banner">
+          ⚖️ <strong>Disclaimer:</strong> Verdicts like "High Risk", "Caution", or "Strong" are automated heuristics derived from public search results and news snippets, not definitive financial or legal assessments of named companies.
+        </div>
+
+        <!-- Cache Miss Offline Notice Banner -->
+        <div id="cacheMissNotice" class="cache-miss-banner hidden">
+          <span class="cache-miss-icon">⚠️</span>
+          <div id="cacheMissNoticeText">
+            <strong>Offline Notice:</strong> No pre-warmed cache exists for this query. Set <code>SERPAPI_API_KEY</code> in <code>.env</code> for live multi-engine queries.
+          </div>
+        </div>
+
         <!-- Target Company Bar -->
         <div class="dossier-target-bar">
           <div>
@@ -137,7 +155,7 @@
             <span id="targetRoleTitle" class="target-role-badge">Senior Python Backend Engineer</span>
           </div>
           <div class="dossier-actions">
-            <span id="dossierProvenanceBadge" class="provenance-badge badge-cached">🟢 Cached Real SerpApi Response</span>
+            <span id="dossierProvenanceBadge" class="provenance-badge badge-cached">🟢 Cached real SerpApi response (captured Oct 6, 2026)</span>
             <button id="btnRefreshDiligence" class="btn btn-secondary btn-sm">
               <span>🔄 Re-scan Evidence</span>
             </button>
@@ -326,6 +344,7 @@
     <div class="footer-container">
       <p>CareerPulse AI · Built for <strong>SerpApi India Hackathon 2026</strong> · Community Submission: <strong>PyDelhi</strong></p>
       <p class="footer-sub">Multi-Engine Search: Google Jobs, News, Organic, Trends, Maps · Local Disk Caching Enabled</p>
+      <p class="footer-disclaimer">⚖️ <strong>Disclaimer:</strong> Verdicts like "High Risk", "Caution", or "Strong" are automated heuristics derived from public search results and news snippets, not definitive financial or legal assessments of named companies.</p>
     </div>
   </footer>
 

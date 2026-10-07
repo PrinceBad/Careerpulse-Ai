@@ -1377,3 +1377,114 @@ body {
   margin-bottom: 12px;
 }
 
+/* Disclaimer and Cache-Miss Alert Styles */
+.disclaimer-banner {
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+  font-size: 12px;
+  color: #fbbf24;
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+
+.cache-miss-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  margin-bottom: 18px;
+  font-size: 13px;
+  color: #93c5fd;
+  line-height: 1.5;
+}
+
+.cache-miss-banner.hidden {
+  display: none;
+}
+
+.cache-miss-icon {
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.empty-jobs-card {
+  grid-column: 1 / -1;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-md);
+  padding: 28px 20px;
+  text-align: center;
+}
+
+.empty-jobs-card .empty-icon {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.empty-jobs-card h4 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #e2e8f0;
+  margin-bottom: 8px;
+}
+
+.empty-jobs-card p {
+  font-size: 13px;
+  color: #94a3b8;
+  max-width: 500px;
+  margin: 0 auto 14px;
+  line-height: 1.5;
+}
+
+.empty-jobs-card .empty-hint {
+  font-size: 12px;
+  color: #a5b4fc;
+  background: rgba(99, 102, 241, 0.1);
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  display: inline-block;
+  margin-bottom: 14px;
+}
+
+.footer-disclaimer {
+  font-size: 11px;
+  color: #64748b;
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+.verdict-nodata {
+  background: rgba(148, 163, 184, 0.15);
+  color: #94a3b8;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+}
+
+.badge-risk-unknown {
+  background: rgba(148, 163, 184, 0.15);
+  color: #94a3b8;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+}
+
+.empty-vault-card {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-md);
+  padding: 24px 18px;
+  text-align: center;
+  color: #94a3b8;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+
+
