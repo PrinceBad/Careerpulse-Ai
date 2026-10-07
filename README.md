@@ -7,7 +7,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)](https://fastapi.tiangolo.com/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-5%20Engines%20Integrated-orange.svg)](https://serpapi.com/)
 [![CI](https://github.com/PrinceBad/careerpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/PrinceBad/careerpulse-ai/actions)
-[![Tests](https://img.shields.io/badge/Tests-31%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
+[![Tests](https://img.shields.io/badge/Tests-35%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > ⚖️ **Disclaimer**: Employer health verdicts (such as "High Risk", "Caution", or "Strong") are automated heuristic signals computed from public Google search results, news articles, and review snippets. They do not constitute formal legal, credit, financial, or employment advice regarding named companies.
@@ -188,8 +188,16 @@ cp backend/.env.example backend/.env
 ```
 *(Optional)* Add your `SERPAPI_API_KEY` to `backend/.env`. If left empty, CareerPulse will automatically utilize its committed real cache for the demo scenarios (Razorpay, Swiggy, CRED)!
 
+### 💳 SerpApi Free Tier Credit Budget
+* **Zero Credits for Demo Scenarios**: Evaluators can run the full 360° due-diligence audit and opportunity radar for **Razorpay**, **Swiggy**, and **CRED** entirely offline against committed real caches (0 API credits consumed).
+* **Live Query Budget for Uncached Companies**: SerpApi provides 250 free monthly searches on signup. Each complete company investigation dispatches:
+  * 1 search for Opportunity Radar (`google_jobs`)
+  * 4 parallel searches for Due Diligence (`google_news`, `google`, `google_trends`, `google_maps`)
+  * 1 optional follow-up search if workforce reduction is detected (`google_news` corroboration loop)
+  * **Total consumption**: Exactly **4 to 6 searches per target company**. A single free tier account powers 40–50 exhaustive company investigations.
+
 ### 3. Run Automated Tests
-Verify all **31 unit and integration tests** pass:
+Verify all **35 unit and integration tests** pass:
 ```bash
 pytest -v
 # Or directly via Python module:
@@ -213,7 +221,7 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
   Review the 360° Employer Due Diligence dossier. Highlight the **Autonomous Agent Investigation Trace** panel, which explains the trigger and outcome for each of the 5 engines. Note the layoff scanner (`google_news`), review intel (`google`), search-interest velocity (`google_trends`), and physical office verification (`google_maps`). Click any `[cit-01]` badge to show the modal with the heuristic verification confidence and snippet.
 
 * **Beat 3: Grounding Guard Demonstration (1:40 – 2:30)**  
-  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `31 passed in 1.05s`.
+  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `35 passed in 0.95s`.
 
 ---
 
@@ -221,7 +229,7 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 
 * **Track**: AI Agents
 * **Event**: SerpApi India Hackathon 2026
-* **Official Partner Community**: **PyDelhi** (Eligible for ₹10,000 PyDelhi community award + ₹3 Lakh+ overall prize pool)
+* **Partner Community Track**: PyDelhi
 * **Lead Developer**: Prince Badsiwal ([GitHub: @PrinceBad](https://github.com/PrinceBad))
 * **License**: MIT
 

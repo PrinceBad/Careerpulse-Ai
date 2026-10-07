@@ -110,6 +110,7 @@ class DueDiligenceReport(BaseModel):
     citations: List[Citation]
     provenance: Literal["live", "cached", "mock", "unavailable"] = "cached"
     snapshot_date: Optional[str] = None
+    unavailable_engines: List[str] = Field(default_factory=list)
 
 class DueDiligenceRequest(BaseModel):
     company_name: str

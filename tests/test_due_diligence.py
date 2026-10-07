@@ -41,6 +41,22 @@ def test_recency_date_parsing():
     assert is_recent is True
     assert "Sep 15, 2026" in note
 
+    is_recent, note = due_diligence_engine.parse_and_check_recency("today", reference_timestamp=ref_ts)
+    assert is_recent is True
+    assert "Oct 6, 2026" in note
+
+    is_recent, note = due_diligence_engine.parse_and_check_recency("yesterday", reference_timestamp=ref_ts)
+    assert is_recent is True
+    assert "Oct 5, 2026" in note
+
+    is_recent, note = due_diligence_engine.parse_and_check_recency(None)
+    assert is_recent is False
+    assert "unstated" in note.lower()
+
+    is_recent, note = due_diligence_engine.parse_and_check_recency("invalid_garbage_timestamp_xyz")
+    assert is_recent is False
+    assert "unverified" in note.lower()
+
     is_recent, note = due_diligence_engine.parse_and_check_recency("4 months ago", reference_timestamp=ref_ts)
     assert is_recent is True
 
@@ -59,6 +75,41 @@ def test_recency_date_parsing():
 
     is_recent, note = due_diligence_engine.parse_and_check_recency("3 years ago")
     assert is_recent is False
+
+def test_individual_engine_failures_and_empty_results_never_yield_strong(monkeypatch):
+    from backend.app.services.serpapi_client import SerpApiClient
+    from backend.app.services.due_diligence import DueDiligenceEngine
+
+    # 1. News failing alone while web/maps/trends succeed
+    mock_client_news_fail = SerpApiClient(api_key="", cache_enabled=True)
+    monkeypatch.setattr(mock_client_news_fail, "search_news", lambda q: {"_unavailable": True, "_reason": "api_error"})
+    engine_news_fail = DueDiligenceEngine(client=mock_client_news_fail)
+    report_nf = engine_news_fail.generate_report("Razorpay")
+    # Must NEVER be "Strong" when news failed
+    assert report_nf.overall_health_verdict != "Strong"
+    assert report_nf.overall_health_verdict == "Data Unavailable"
+    assert report_nf.risks.risk_level == "Unknown"
+    assert "google_news" in report_nf.unavailable_engines
+
+    # 2. Web reviews failing alone
+    mock_client_web_fail = SerpApiClient(api_key="", cache_enabled=True)
+    monkeypatch.setattr(mock_client_web_fail, "search_web", lambda q, n=4: {"_unavailable": True, "_reason": "api_error"})
+    engine_web_fail = DueDiligenceEngine(client=mock_client_web_fail)
+    report_wf = engine_web_fail.generate_report("Razorpay")
+    assert "google" in report_wf.unavailable_engines
+
+    # 3. All engines succeeding with completely empty results
+    mock_empty_client = SerpApiClient(api_key="", cache_enabled=False)
+    monkeypatch.setattr(mock_empty_client, "search_news", lambda q: {"news_results": []})
+    monkeypatch.setattr(mock_empty_client, "search_web", lambda q, n=4: {"organic_results": []})
+    monkeypatch.setattr(mock_empty_client, "search_trends", lambda k: {"interest_over_time": {"timeline_data": []}})
+    monkeypatch.setattr(mock_empty_client, "search_maps", lambda q: {"place_results": {}})
+    engine_empty = DueDiligenceEngine(client=mock_empty_client)
+    report_empty = engine_empty.generate_report("EmptyCorp")
+    # With zero positive evidence and empty news, must NEVER be "Strong"
+    assert report_empty.overall_health_verdict != "Strong"
+    assert report_empty.overall_health_verdict == "Data Unavailable"
+    assert report_empty.risks.risk_level == "Unknown"
 
 def test_investigation_trace_present():
     report = due_diligence_engine.generate_report("Swiggy")

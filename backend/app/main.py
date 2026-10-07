@@ -186,7 +186,10 @@ def generate_grounded_outreach(request: OutreachRequest):
 def simulate_hallucination_endpoint(request: DueDiligenceReport):
     """Demonstrates Beat 3: Injects an ungrounded claim and fake citation to prove guard interception."""
     from .services.grounding_validator import grounding_validator
-    return grounding_validator.simulate_hallucination_test(request.citations)
+    return grounding_validator.simulate_hallucination_test(
+        request.citations,
+        target_company=request.company_name or "Razorpay"
+    )
 
 # -------------------------------------------------------------
 # Frontend Static Mount

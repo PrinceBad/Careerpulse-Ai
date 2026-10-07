@@ -1,6 +1,6 @@
 PRINCE BADSIWAL
 Senior Python Backend & AI Engineer
-Bengaluru / Delhi, India | kingofdozen420@gmail.com | github.com/PrinceBad
+Bengaluru / Delhi, India | candidate.demo@example.com | github.com/PrinceBad
 
 PROFESSIONAL SUMMARY:
 Experienced Software Engineer specializing in scalable Python backend services, asynchronous API architectures, and applied AI systems. Proven expertise in FastAPI, PostgreSQL, Redis, distributed task queues, and real-time data pipelines. Strong background in system design, automation, and full-stack integration.

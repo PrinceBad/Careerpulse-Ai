@@ -43,6 +43,7 @@ class GroundingValidator:
         r"\b\d+(?:\.\d+)?\s*(?:ms|milliseconds?|s|seconds?)\b",           # Latency metrics (e.g. 50ms)
         r"\b\d+(?:\.\d+)?x\b",                                            # Performance multipliers (e.g. 2x, 10x)
         r"\b\d+\+?\s*(?:years?|yrs)\b",                                   # Experience duration (e.g. 5 years)
+        r"\b(?:shut\s+down|closed)\b.*\b(?:office|offices|campus|branch)\b", # Office closures / shutdowns
     ]
 
     # Allowlist for target company mentions that do NOT require citations:
@@ -95,15 +96,36 @@ class GroundingValidator:
         """
         Validates text against a list of valid citations with support checks.
         Enforces:
-        1. Default-deny on target company: Any sentence naming target_company or referencing
-           'the company' / 'your team' / 'your organization' requires a citation unless it strictly
-           matches an application greeting or role interest pattern.
-        2. Candidate metrics: Candidate achievements survive only if numbers and units match resume
+        1. Target company is required (fails closed if missing/empty).
+        2. Default-deny on target company: Any sentence naming target_company or its variants
+           (e.g. Swiggy's, Swiggy Limited) requires a citation unless it strictly matches an
+           application greeting or role interest pattern.
+        3. Candidate metrics: Candidate achievements survive only if numbers and units match resume
            with unit tied to quantity within proximity.
-        3. Support check: Cited sources must contain claimed facts and at least 2 non-stopword content words overlap.
+        4. Support check: Cited sources must contain claimed facts and at least 2 non-stopword content words overlap.
         Returns:
             (is_valid: bool, cleaned_text: str, violations: List[str], rejected_sentences: List[str])
         """
+        if not target_company or not str(target_company).strip():
+            # Fail closed: target_company is strictly required
+            return False, "", ["Validation failed: target_company parameter is required for grounding verification (fail-closed guard)."], [text]
+
+        target_clean = str(target_company).strip()
+        # Extract core company name by removing common corporate legal suffixes
+        company_core = re.sub(
+            r"\s+(?:limited|ltd\.?|inc\.?|corporation|corp\.?|private|pvt\.?|llc|holdings)\b",
+            "",
+            target_clean,
+            flags=re.IGNORECASE
+        ).strip()
+        names_to_match = [re.escape(target_clean)]
+        if company_core and company_core.lower() != target_clean.lower():
+            names_to_match.append(re.escape(company_core))
+
+        names_regex = "|".join(names_to_match)
+        # Matches target company name, possessives ("Swiggy's"), and company suffix variants ("Swiggy Limited")
+        company_ref_pattern = rf"\b(?:{names_regex})(?:'s|’s)?(?:\s+(?:limited|ltd\.?|inc\.?|corporation|corp\.?|pvt\.?|private))?\b"
+
         citations_by_id: Dict[str, Citation] = {c.id: c for c in valid_citations}
         valid_ids: Set[str] = set(citations_by_id.keys())
         violations: List[str] = []
@@ -128,9 +150,8 @@ class GroundingValidator:
             # Strip citation tags to evaluate factual claims purely on sentence text
             sentence_text = re.sub(cls.CITATION_REGEX, "", sentence).strip()
 
-            # Check 2: Default-Deny on Target Company or General Company Mentions without Citation
-            company_ref_pattern = rf"\b(?:{re.escape(target_company.strip())}|the company|your company|your team|your organization)\b" if target_company else None
-            is_company_ref = bool(company_ref_pattern and re.search(company_ref_pattern, sentence_text, re.IGNORECASE))
+            # Check 2: Default-Deny on Target Company Mentions without Citation
+            is_company_ref = bool(re.search(company_ref_pattern, sentence_text, re.IGNORECASE))
 
             if is_company_ref:
                 if not found_citations:
@@ -144,7 +165,7 @@ class GroundingValidator:
                     )
                     if not is_allowlisted:
                         violations.append(
-                            f"Rejected ungrounded statement referencing company '{target_company or 'company'}' without citation: '{sentence}'"
+                            f"Rejected ungrounded statement referencing target company '{target_clean}' without citation: '{sentence}'"
                         )
                         rejected_sentences.append(sentence)
                         continue
@@ -265,15 +286,17 @@ class GroundingValidator:
                     ev_content_words = {w for w in ev_words if w not in cls.STOPWORDS and w not in company_tokens}
 
                     overlap = sent_content_words & ev_content_words
-                    has_overlap = len(overlap) >= 2
-
                     numbers_matched = [n for n in numbers_in_sentence if n.lower() in evidence_corpus]
                     terms_matched = [t for t in sensitive_terms if t in evidence_corpus]
 
                     if numbers_in_sentence or sensitive_terms:
                         fact_supported = (bool(numbers_matched) or not numbers_in_sentence) and (bool(terms_matched) or not sensitive_terms)
+                        min_overlap = 1 if (numbers_matched or terms_matched) else 2
                     else:
                         fact_supported = True
+                        min_overlap = 2
+
+                    has_overlap = len(overlap) >= min_overlap
 
                     if has_overlap and fact_supported:
                         is_supported = True
@@ -281,7 +304,7 @@ class GroundingValidator:
                     else:
                         reasons = []
                         if not has_overlap:
-                            reasons.append(f"insufficient content overlap ({len(overlap)} matching words, minimum 2 required)")
+                            reasons.append(f"insufficient content overlap ({len(overlap)} matching words, minimum {min_overlap} required)")
                         if not fact_supported:
                             reasons.append(f"unsupported figures/terms ({numbers_in_sentence or sensitive_terms})")
                         unsupported_reasons.append(f"Source [{cid}] mismatch: {', '.join(reasons)}")
@@ -304,7 +327,7 @@ class GroundingValidator:
         return sorted(list(set(re.findall(cls.CITATION_REGEX, text))))
 
     @classmethod
-    def simulate_hallucination_test(cls, valid_citations: List[Citation]) -> Dict:
+    def simulate_hallucination_test(cls, valid_citations: List[Citation], target_company: str = "Razorpay") -> Dict:
         """
         Creates a demonstration test draft with intentional hallucinations:
         1. An unsupported factual claim (claiming 35% layoff against a funding citation).
@@ -321,7 +344,9 @@ class GroundingValidator:
             f"I have extensive experience developing backend services and systems."
         )
 
-        is_valid, cleaned, violations, rejected = cls.validate_and_clean_text(draft, valid_citations)
+        is_valid, cleaned, violations, rejected = cls.validate_and_clean_text(
+            draft, valid_citations, target_company=target_company
+        )
         return {
             "original_draft": draft,
             "cleaned_result": cleaned,

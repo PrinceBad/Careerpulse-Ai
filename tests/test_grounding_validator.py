@@ -33,7 +33,9 @@ def sample_citations():
 
 def test_grounding_accepts_valid_citations(sample_citations):
     text = "Razorpay raised $375M in their latest round [cit-01]. The engineering culture is rated 4.3 out of 5 [cit-02]."
-    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(text, sample_citations)
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company="Razorpay"
+    )
     
     assert is_valid is True
     assert len(violations) == 0
@@ -44,7 +46,9 @@ def test_grounding_accepts_valid_citations(sample_citations):
 def test_grounding_rejects_hallucinated_citation_id(sample_citations):
     # cit-99 is fake and not in sample_citations
     text = "Razorpay opened an office in Singapore [cit-99]. The engineering culture is strong [cit-02]."
-    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(text, sample_citations)
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company="Razorpay"
+    )
     
     assert is_valid is False
     assert len(violations) >= 1
@@ -56,7 +60,9 @@ def test_grounding_rejects_hallucinated_citation_id(sample_citations):
 def test_grounding_rejects_uncited_factual_claims(sample_citations):
     # Text with ungrounded layoff claim lacking citation
     text = "The company went through major downsizing and laid off 20% of staff. We are passionate about high scale systems [cit-01]."
-    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(text, sample_citations)
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company="Razorpay"
+    )
     
     assert is_valid is False
     assert len(violations) >= 1
@@ -68,7 +74,9 @@ def test_grounding_rejects_uncited_factual_claims(sample_citations):
 def test_grounding_rejects_unsupported_citation(sample_citations):
     # cit-01 discusses $375M funding, NOT layoffs or 40% staff cuts
     text = "The company recently confirmed a 40% layoff across operations [cit-01]."
-    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(text, sample_citations)
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company="Razorpay"
+    )
 
     assert is_valid is False
     assert len(violations) >= 1
@@ -76,7 +84,7 @@ def test_grounding_rejects_unsupported_citation(sample_citations):
     assert "[cit-01]" not in cleaned
 
 def test_simulated_hallucination_demonstrator(sample_citations):
-    res = grounding_validator.simulate_hallucination_test(sample_citations)
+    res = grounding_validator.simulate_hallucination_test(sample_citations, target_company="Razorpay")
     assert res["is_valid"] is False
     assert res["count_rejected"] >= 2
     assert "[cit-99]" not in res["cleaned_result"]
@@ -86,12 +94,64 @@ def test_grounding_preserves_candidate_own_facts(sample_citations):
     candidate_profile = "Engineered high throughput API services handling 10k requests/second with sub-50ms latency using FastAPI."
     text = "Built an API serving 10k requests/second with sub-50ms latency. Scaled payment services with Python [cit-01]."
     is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
-        text, sample_citations, candidate_profile_text=candidate_profile
+        text, sample_citations, candidate_profile_text=candidate_profile, target_company="Razorpay"
     )
     assert is_valid is True
     assert len(violations) == 0
     assert "10k requests/second" in cleaned
     assert "[cit-01]" in cleaned
+
+def test_guard_fails_closed_when_target_company_missing(sample_citations):
+    text = "Scaled payment services with Python [cit-01]."
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company=None
+    )
+    assert is_valid is False
+    assert any("target_company parameter is required" in v for v in violations)
+
+    is_valid_empty, _, violations_empty, _ = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company=""
+    )
+    assert is_valid_empty is False
+    assert any("target_company parameter is required" in v for v in violations_empty)
+
+def test_guard_intercepts_target_company_possessive_and_suffix_variants(sample_citations):
+    # 1. Possessive variant: "Swiggy's culture is exceptional"
+    text_pos = "Swiggy's culture is exceptional. Scaled payment services with Python [cit-01]."
+    is_valid_pos, cleaned_pos, violations_pos, rejected_pos = grounding_validator.validate_and_clean_text(
+        text_pos, sample_citations, target_company="Swiggy"
+    )
+    assert is_valid_pos is False
+    assert any("Swiggy's culture is exceptional" in r for r in rejected_pos)
+    assert "Swiggy's culture" not in cleaned_pos
+
+    # 2. Suffix variant: "Swiggy Limited is expanding rapidly"
+    text_suf = "Swiggy Limited is expanding rapidly. Scaled payment services with Python [cit-01]."
+    is_valid_suf, cleaned_suf, violations_suf, rejected_suf = grounding_validator.validate_and_clean_text(
+        text_suf, sample_citations, target_company="Swiggy"
+    )
+    assert is_valid_suf is False
+    assert any("Swiggy Limited is expanding" in r for r in rejected_suf)
+    assert "Swiggy Limited" not in cleaned_suf
+
+    # 3. Base when target_company is given with suffix: "Swiggy Limited"
+    text_base = "Swiggy is expanding rapidly. Scaled payment services with Python [cit-01]."
+    is_valid_b, cleaned_b, violations_b, rejected_b = grounding_validator.validate_and_clean_text(
+        text_base, sample_citations, target_company="Swiggy Limited"
+    )
+    assert is_valid_b is False
+    assert any("Swiggy is expanding" in r for r in rejected_b)
+    assert "Swiggy is expanding" not in cleaned_b
+
+def test_guard_preserves_normal_cover_letter_team_boilerplate(sample_citations):
+    # Normal team pronouns without company assertions must not be stripped
+    text = "I am excited to join your team and contribute to engineering goals. Scaled payment services with Python [cit-01]."
+    is_valid, cleaned, violations, rejected = grounding_validator.validate_and_clean_text(
+        text, sample_citations, target_company="Swiggy"
+    )
+    assert is_valid is True
+    assert len(violations) == 0
+    assert "excited to join your team" in cleaned
 
 def test_adversarial_first_person_company_cut_stripped(sample_citations):
     # Adversarial test: First-person email sentences about company cuts start with verbs / 'I admire'
@@ -147,7 +207,7 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
     # Subcase A: Exact quantity AND unit match (10k requests/day in resume) -> survives
     resume_matching = "Engineered high throughput API services handling 10k requests/day with sub-50ms latency using FastAPI."
     is_valid_a, cleaned_a, violations_a, rejected_a = grounding_validator.validate_and_clean_text(
-        text, sample_citations, candidate_profile_text=resume_matching
+        text, sample_citations, candidate_profile_text=resume_matching, target_company="Razorpay"
     )
     assert is_valid_a is True
     assert len(violations_a) == 0
@@ -156,7 +216,7 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
     # Subcase B: Unit mismatch: resume says 10k requests/second, claim says 10k requests/day -> stripped!
     resume_unit_mismatch = "Engineered high throughput API services handling 10k requests/second using FastAPI."
     is_valid_b, cleaned_b, violations_b, rejected_b = grounding_validator.validate_and_clean_text(
-        text, sample_citations, candidate_profile_text=resume_unit_mismatch
+        text, sample_citations, candidate_profile_text=resume_unit_mismatch, target_company="Razorpay"
     )
     assert is_valid_b is False
     assert len(violations_b) >= 1
@@ -167,7 +227,7 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
     # Subcase C: 10k is NOT in resume at all -> stripped
     resume_without_10k = "Experienced software engineer who built microservices using Python."
     is_valid_c, cleaned_c, violations_c, rejected_c = grounding_validator.validate_and_clean_text(
-        text, sample_citations, candidate_profile_text=resume_without_10k
+        text, sample_citations, candidate_profile_text=resume_without_10k, target_company="Razorpay"
     )
     assert is_valid_c is False
     assert len(violations_c) >= 1
@@ -177,7 +237,7 @@ def test_adversarial_candidate_metric_grounding_resume_check(sample_citations):
 
     # Subcase D: No resume text provided -> stripped
     is_valid_d, cleaned_d, violations_d, rejected_d = grounding_validator.validate_and_clean_text(
-        text, sample_citations, candidate_profile_text=None
+        text, sample_citations, candidate_profile_text=None, target_company="Razorpay"
     )
     assert is_valid_d is False
     assert "10k requests/day" not in cleaned_d

@@ -426,7 +426,7 @@ function renderDueDiligence(report) {
   const prov = report.provenance || (report.is_mock ? 'mock' : 'cached');
   updateProvenanceBadge(prov, report.snapshot_date);
 
-  // Show clear cache-miss notice banner if in offline cache miss
+  // Show clear cache-miss notice banner if in offline cache miss or partial degradation
   if (cacheMissNotice) {
     if (prov === 'unavailable' || prov === 'mock') {
       cacheMissNotice.classList.remove('hidden');
@@ -434,6 +434,13 @@ function renderDueDiligence(report) {
         cacheMissNoticeText.innerHTML = `
           <strong>Offline Mode Notice:</strong>
           No pre-warmed SerpApi cache exists for "<strong>${escapeHtml(report.company_name)}</strong>". Set <code>SERPAPI_API_KEY</code> in <code>backend/.env</code> to dispatch live multi-engine investigations.
+        `;
+      }
+    } else if (report.unavailable_engines && report.unavailable_engines.length > 0) {
+      cacheMissNotice.classList.remove('hidden');
+      if (cacheMissNoticeText) {
+        cacheMissNoticeText.innerHTML = `
+          <strong>Notice:</strong> Partial engine degradation. Unavailable: <code>${report.unavailable_engines.map(escapeHtml).join(', ')}</code>. Evidence synthesized from available engines.
         `;
       }
     } else {

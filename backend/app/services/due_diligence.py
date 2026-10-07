@@ -106,11 +106,20 @@ class DueDiligenceEngine:
         Returns: (is_recent: bool, parsed_note: str) where is_recent indicates <= 18 months (548 days).
         """
         if not date_str:
-            return True, "Date unstated (treated as recent)"
+            return False, "Date unstated / unknown"
         d = str(date_str).lower().strip()
         ref_dt = cls.parse_ref_datetime(reference_timestamp)
 
-        # 1. Parse relative dates (e.g. '3 weeks ago', '1 month ago', '2 years ago', '28 days ago')
+        # 1. Parse immediate relative dates ('today', 'yesterday', 'just now')
+        if d in ("today", "just now", "hours ago", "hour ago", "mins ago", "minutes ago"):
+            date_display = f"{ref_dt.strftime('%b')} {ref_dt.day}, {ref_dt.year}"
+            return True, f"Recent date: {date_str} (resolved against cache capture as {date_display})"
+        if d == "yesterday":
+            resolved_dt = ref_dt - timedelta(days=1)
+            date_display = f"{resolved_dt.strftime('%b')} {resolved_dt.day}, {resolved_dt.year}"
+            return True, f"Recent date: {date_str} (resolved against cache capture as {date_display})"
+
+        # 2. Parse relative dates (e.g. '3 weeks ago', '1 month ago', '2 years ago', '28 days ago')
         rel_match = re.search(r"(\d+|a|an)\s+(minute|hour|day|week|month|year)s?\s+ago", d)
         if rel_match:
             qty_str, unit = rel_match.group(1), rel_match.group(2)
@@ -134,7 +143,7 @@ class DueDiligenceEngine:
             date_display = f"{resolved_dt.strftime('%b')} {resolved_dt.day}, {resolved_dt.year}"
             return is_recent, f"{status_desc} relative date: {date_str} (resolved against cache capture as {date_display})"
 
-        # 2. Parse calendar years (relative to cache capture in 2026)
+        # 3. Parse calendar years (relative to cache capture in 2026)
         yr_match = re.search(r"\b(20\d\d)\b", d)
         if yr_match:
             yr = int(yr_match.group(1))
@@ -145,7 +154,12 @@ class DueDiligenceEngine:
             else:
                 return False, f"Historical archive (>18 months): {date_str}"
 
-        return True, f"Standard recency: {date_str}"
+        # 4. Parse month mentions (e.g. "Mar 14", "October 2026")
+        has_month = any(m in d for m in ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])
+        if has_month:
+            return True, f"Verified calendar date: {date_str}"
+
+        return False, f"Date unverified / unknown: {date_str}"
 
     CREDIBLE_DOMAINS = [
         "economictimes.indiatimes.com",
@@ -249,11 +263,20 @@ class DueDiligenceEngine:
             raw_trends = future_trends.result()
             raw_maps = future_maps.result()
 
-        # Determine overall provenance
+        # Determine engine availability
+        engine_map = {
+            "google_news": raw_news,
+            "google": raw_web,
+            "google_trends": raw_trends,
+            "google_maps": raw_maps
+        }
+        unavailable_engines = [eng for eng, res in engine_map.items() if res.get("_unavailable", False)]
+
         is_unavailable_news = raw_news.get("_unavailable", False)
         is_unavailable_web = raw_web.get("_unavailable", False)
 
-        if is_unavailable_news and is_unavailable_web:
+        # If all 4 engines are unavailable (complete cache miss or complete failure):
+        if len(unavailable_engines) == len(engine_map) or (is_unavailable_news and is_unavailable_web and len(unavailable_engines) >= 3):
             reason = raw_news.get("_reason") or raw_web.get("_reason") or "cache_miss"
             detail = raw_news.get("_detail") or raw_web.get("_detail") or ""
 
@@ -318,8 +341,18 @@ class DueDiligenceEngine:
                 investigation_trace=empty_trace,
                 citations=[],
                 provenance="unavailable",
-                snapshot_date=None
+                snapshot_date=None,
+                unavailable_engines=unavailable_engines
             )
+
+        if unavailable_engines:
+            trace.append(InvestigationStep(
+                step_number=len(trace) + 1,
+                action="Partial Engine Degradation",
+                reason=f"SerpApi responses unavailable for: {', '.join(unavailable_engines)}",
+                engine=", ".join(unavailable_engines),
+                result_summary="Proceeded with evidence synthesis from available engines."
+            ))
 
         is_mock_any = any([
             raw_news.get("_is_mock", False),
@@ -596,15 +629,23 @@ class DueDiligenceEngine:
             overall_verdict = "Caution"
             risk_level = "Medium"
             risk_summary = f"Uncorroborated restructuring or layoff signal detected in recent coverage."
-        else:
+        elif is_unavailable_news or len(news_items) == 0:
+            overall_verdict = "Data Unavailable"
+            risk_level = "Unknown"
+            risk_summary = f"Insufficient public news coverage found for '{company_name}' to assess workforce stability."
+        elif positive_count > 0:
             overall_verdict = "Strong"
             risk_level = "Low"
-            risk_summary = f"No active workforce reductions or material distress signals detected in recent news."
+            risk_summary = f"No active workforce reductions detected; positive growth and expansion signals verified."
+        else:
+            overall_verdict = "Caution"
+            risk_level = "Low"
+            risk_summary = f"Neutral public coverage detected without explicit growth or distress signals."
 
         exec_summary = (
             f"{company_name} presents an overall '{overall_verdict}' employer profile based on 5-engine search verification. "
             f"Review ratings: {f'{avg_rating}/5.0' if avg_rating else 'No rating found in search snippets'}. "
-            f"{'Caution advised regarding verified organizational shifts.' if overall_verdict != 'Strong' else 'Strong growth indicators and verified physical campus.'}"
+            f"{'Caution advised regarding verified organizational shifts.' if overall_verdict not in ('Strong', 'Data Unavailable') else ('Strong growth indicators and verified physical campus.' if overall_verdict == 'Strong' else 'Limited public search signals available in offline cache.')}"
         )
 
         risks = CompanyRiskSignals(
@@ -638,7 +679,8 @@ class DueDiligenceEngine:
             investigation_trace=trace,
             citations=citations,
             provenance=overall_prov,
-            snapshot_date=snapshot_date_str
+            snapshot_date=snapshot_date_str,
+            unavailable_engines=unavailable_engines
         )
 
 due_diligence_engine = DueDiligenceEngine()
