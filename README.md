@@ -157,6 +157,15 @@ CareerPulse AI was designed and built from scratch for the **SerpApi India Hacka
 
 ---
 
+## 🤖 AI Tools & Assistance Disclosure
+
+In accordance with hackathon disclosure guidelines:
+* **Google Antigravity (Coding Agent)**: Used as an autonomous AI pair-programming assistant for project scaffolding, implementing FastAPI endpoints, developing the deterministic regex algorithms in `GroundingValidator`, writing comprehensive Pytest suites (35 unit/integration tests), and refactoring heuristic scoring logic.
+* **Google Gemini 1.5 Flash**: Configured as an optional runtime LLM component (`llm_service.py`) for synthesizing natural-language outreach drafts and resume bullets. All Gemini-generated outputs are strictly intercepted, validated, and sanitized offline by the deterministic `GroundingValidator` before reaching the user.
+*(Note: Core deterministic heuristics, cache validation, scoring logic, and test runners like Pytest are standard software libraries, not AI generation tools).*
+
+---
+
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
