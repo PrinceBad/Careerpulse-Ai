@@ -1,29 +1,28 @@
 # ⚡ CareerPulse AI
 
-> **Autonomous Investigative Career Intelligence & Evidence-Backed Due-Diligence Agent**  
+> **Evidence-Backed Career Intelligence & Employer Due-Diligence Pipeline**  
 > Powered by SerpApi Multi-Engine Search · Built for the **SerpApi India Hackathon 2026** (Official **PyDelhi** Community Submission)
 
-[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.14-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12%20%7C%203.14-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green.svg)](https://fastapi.tiangolo.com/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-5%20Engines%20Integrated-orange.svg)](https://serpapi.com/)
 [![CI](https://github.com/PrinceBad/careerpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/PrinceBad/careerpulse-ai/actions)
-[![Tests](https://img.shields.io/badge/Tests-35%20Passing-brightgreen.svg)](https://github.com/PrinceBad/careerpulse-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 > ⚖️ **Disclaimer**: Employer health verdicts (such as "High Risk", "Caution", or "Strong") are automated heuristic signals computed from public Google search results, news articles, and review snippets. They do not constitute formal legal, credit, financial, or employment advice regarding named companies.
 
 ---
 
-## 💡 The Problem & The "Winning Angle"
+## 💡 Problem & System Architecture
 
-Most AI job search tools fail because they are simple **search-and-summarizers**: they query a job board, feed text to an LLM, and hallucinate company details or churn out generic, ungrounded cover letters.
+Most AI job search tools are simple **search-and-summarizers**: they query a job board, feed text to an LLM, and risk hallucinating company health or generating ungrounded outreach letters.
 
-**CareerPulse AI** transforms this into an **Autonomous Investigative Verification Agent**:
+**CareerPulse AI** transforms this into an evidence-backed verification pipeline with an autonomous corroboration step:
 
 1. **Evidence-Grounded Due Diligence**: Every employer signal (layoffs, leadership moves, Glassdoor sentiment, facility verification) is linked to a strictly typed, computed **SerpApi Citation** (`[cit-01]`, `[cit-02]`, etc.) containing the source URL, publication timestamp, and snippet.
-2. **Code-Level Grounding Guard**: Generated outreach packs (cover letters and tailored resume bullets) are intercepted and verified before display. Sentences naming the target company require a supported citation by default (except for introductory greetings or role interest). Sentences with hallucinated citation IDs (e.g. `[cit-99]`) or unsupported factual claims are rejected and stripped, while candidate metrics survive only if both numerical values and units (e.g., requests/sec) match the candidate resume. Adversarial tests confirm that ungrounded statements like *"I admire that Swiggy cut 35% of staff"* and *"Swiggy shut down its Bengaluru office"* are stripped, while candidate metrics survive only when grounded in the resume.
-3. **Autonomous Corroboration Loop**: Rather than running a static sequence, CareerPulse executes an agentic loop: if the primary news scan flags a layoff signal, the agent automatically spawns a targeted follow-up query (`{company} layoffs confirmed severance details`) to corroborate the finding before assigning a "High Risk" rating. Every decision is logged in the **Investigation Trace**.
-4. **Honest Multi-State Provenance & Time-Drift Guard**: The UI clearly displays four distinct data provenance states: `🔴 Live SerpApi Verified`, `🟢 Cached real SerpApi response (captured dynamically from search metadata)`, `⚪ No data: offline cache miss` (displayed when an uncached employer is queried without an active API key), and `🟡 Demo Mock Data` (reserved exclusively for simulated guard demonstrations). Relative dates (e.g. *"3 weeks ago"*) are anchored and resolved directly against the cache's `search_metadata` capture timestamp rather than floating current time, ensuring recency flags never drift as time passes.
+2. **Code-Level Grounding Guard**: Generated outreach packs (cover letters and tailored resume bullets) are intercepted and verified before display. Sentences naming the target company require a supported citation by default (except for allowlisted greetings or role interest). Sentences with hallucinated citation IDs (e.g. `[cit-99]`) or unsupported factual claims are rejected and stripped, while candidate metrics survive only if both numerical values and units (e.g., requests/sec) match the candidate resume.
+3. **Autonomous Corroboration Loop**: Rather than running only a static sequence, CareerPulse executes a targeted agentic check: if the primary news scan flags a potential layoff signal, the pipeline automatically spawns a targeted follow-up query (`{company} layoffs confirmed severance details`) to corroborate the finding before assigning a "High Risk" rating. Every decision is logged in the **Investigation Trace**.
+4. **Honest Multi-State Provenance & Time-Drift Guard**: The UI clearly displays four distinct data provenance states: `🔴 Live SerpApi Verified`, `🟢 Cached real SerpApi response (captured dynamically from search metadata)`, `⚪ No data: offline cache miss` (displayed when an uncached employer is queried without an active API key), and `🟡 Demo Mock Data` (reserved exclusively for simulated guard demonstrations). Relative dates (e.g. *"3 weeks ago"*) are anchored and resolved directly against the cache's `search_metadata` capture timestamp rather than floating current time, ensuring recency flags do not drift.
 
 ---
 
@@ -34,7 +33,7 @@ CareerPulse orchestrates **5 distinct SerpApi engines**: `google_jobs` executes 
 ```mermaid
 flowchart TD
     User["👤 Candidate / User Search"] --> Radar["1. google_jobs<br/>Target roles, salary bands, & skills"]
-    Radar --> Agent["⚡ Autonomous Due-Diligence Agent"]
+    Radar --> Agent["⚡ Due-Diligence Pipeline"]
 
     subgraph ParallelEngines ["Concurrent Multi-Engine Investigation"]
         Agent --> News["2. google_news<br/>Workforce & restructuring risks"]
@@ -47,7 +46,7 @@ flowchart TD
     Corrob -->|Yes| CorrobNews["Targeted follow-up google_news query<br/>(Layoffs confirmed severance details)"]
     Corrob -->|No| Clearance["Health Clearance Logged in Trace"]
 
-    ParallelEngines --> Vault[("🗄️ Evidence Vault (Cache)<br/>Typed Pydantic Citations [cit-01...]")]
+    ParallelEngines --> Vault[("🗄️ Evidence Vault (Cache)<br/>Typed Pydantic Citations cit-01...")]
     CorrobNews --> Vault
 
     Vault --> Dossier["📋 360° Due-Diligence Dossier<br/>Investigation Trace & Red Flags"]
@@ -56,7 +55,7 @@ flowchart TD
     Vault --> Guard["🛡️ Code-Level Grounding Guard<br/>Interception & Verification Pipeline"]
     CandidateResume["📄 Candidate Resume Text"] --> Guard
 
-    Guard --> Outreach["✉️ Evidence-Grounded Outreach Pack<br/>Clickable [cit-XX] evidence chips"]
+    Guard --> Outreach["✉️ Evidence-Grounded Outreach Pack<br/>Clickable cit-XX evidence chips"]
     Guard --> GuardUI["🧪 Interactive Interception Modal<br/>Side-by-side stripped claim diff"]
 ```
 
@@ -72,30 +71,30 @@ flowchart TD
 
 ## 🛡️ Grounding Guard & Heuristic Limits
 
-CareerPulse includes a rigorous code-level validator (`GroundingValidator`) that verifies outreach drafts before presenting them to the candidate:
+CareerPulse includes a code-level validator (`GroundingValidator`) that verifies outreach drafts before presenting them to the candidate:
 
 1. **Citation Existence**: Every `[cit-xx]` reference must map to a real citation in the evidence vault. Fabricated IDs (like `[cit-99]`) trigger immediate rejection.
-2. **Default-Deny for Target Employer**: Any sentence naming the target employer without a citation is rejected by default, preventing ungrounded business claims (e.g. *"Swiggy shut down its Bengaluru office"* or *"I admire that Swiggy cut staff"*). Only strictly allowlisted application greetings and role interest statements are permitted without citation.
+2. **Default-Deny for Target Employer**: Any sentence naming the target employer without a citation is rejected by default, preventing ungrounded business claims (e.g. *"Swiggy shut down its Bengaluru office"* or *"I admire that Swiggy cut staff"*). Only allowlisted application greetings and role interest statements are permitted without citation.
 3. **Snippet Support Check**: Any sentence making a factual claim (metrics, percentages, "layoff", "severance", "raised") must find those terms or numbers in the cited source snippet. If an AI writes *"Quietly laid off 35% of engineering"* and attaches a citation about Series C funding, the validator rejects and strips the sentence.
-4. **Candidate Experience Preservation with Unit Matching**: Metrics describing candidate accomplishments (e.g. *"Built an API serving 10k requests/second"*) survive only if both numerical values and units/frequency match the candidate resume.
-5. **Interception Demonstration (Simulated Draft)**: The UI includes a dedicated button (`🧪 Simulate Hallucination Guard`) that injects a test draft containing `[cit-99]` and an unsupported metric. Judges can watch the validator intercept the draft, strip the invalid sentences, and present a side-by-side comparison with an explicit count of removed sentences.
+4. **Candidate Experience Preservation with Unit Matching**: Metrics describing candidate accomplishments (e.g. *"Built an API serving 10k requests/second"*) survive only if both numerical values and units/frequency match the candidate resume within token proximity.
+5. **Interception Demonstration (Simulated Draft)**: The UI includes a dedicated button (`🧪 Simulate Hallucination Guard`) that injects a test draft containing `[cit-99]` and an unsupported metric. Evaluators can watch the validator intercept the draft, strip the invalid sentences, and present a side-by-side comparison with an explicit count of removed sentences.
 
-### 📊 Grounding Guard Adversarial Evaluation Benchmark
+### 📊 Grounding Guard Regression Evaluation (26 Test Cases)
 
-To prevent overfitting and verify strict honesty, CareerPulse's `GroundingValidator` is evaluated against a 26-case adversarial suite (`tests/data/guard_cases.json`):
+To verify boundary rules and prevent regressions, CareerPulse's `GroundingValidator` is evaluated against 26 regression test cases (`tests/data/guard_cases.json`) authored alongside the guard to target specific failure modes:
 
-| Test Category | Target Behavior | Evaluated Cases | Interception Rate |
+| Test Category | Target Behavior | Evaluated Cases | Regression Status |
 | :--- | :--- | :--- | :--- |
-| **Hallucinated Citation IDs** | Rejects ungrounded citations (`[cit-99]`) | 2 cases | **100% Blocked** |
-| **Target Company Default-Deny** | Strips company claims without source citation | 6 cases | **100% Blocked** |
-| **Citation Laundering / Mismatch** | Blocks citations lacking claimed numbers/terms | 4 cases | **100% Blocked** |
-| **Adversarial First-Person Claims** | Strips first-person claims about employer cuts | 2 cases | **100% Blocked** |
-| **Candidate Metric Unit Tampering** | Strips candidate claims when unit mismatches (`/sec` vs `/day`) | 4 cases | **100% Blocked** |
-| **Legitimate Candidate Achievements** | Preserves candidate bullets when quantity and unit match resume | 4 cases | **100% Retained** |
-| **Allowlisted Role Applications** | Preserves salutations and expressions of role interest | 4 cases | **100% Retained** |
+| **Hallucinated Citation IDs** | Rejects ungrounded citations (`[cit-99]`) | 2 cases | **2 / 2 Blocked (Pass)** |
+| **Target Company Default-Deny** | Strips company claims without source citation | 6 cases | **6 / 6 Blocked (Pass)** |
+| **Citation Laundering / Mismatch** | Blocks citations lacking claimed numbers/terms | 4 cases | **4 / 4 Blocked (Pass)** |
+| **Adversarial First-Person Claims** | Strips first-person claims about employer cuts | 2 cases | **2 / 2 Blocked (Pass)** |
+| **Candidate Metric Unit Tampering** | Strips candidate claims when unit mismatches (`/sec` vs `/day`) | 4 cases | **4 / 4 Blocked (Pass)** |
+| **Legitimate Candidate Achievements** | Preserves candidate bullets when quantity and unit match resume | 4 cases | **4 / 4 Retained (Pass)** |
+| **Allowlisted Role Applications** | Preserves salutations and expressions of role interest | 4 cases | **4 / 4 Retained (Pass)** |
 
 > [!NOTE]
-> **Heuristic Disclosure**: CareerPulse's factual-claim detection is regex and keyword-based. Verification confidence scores (0.60 to 1.00) are rule-derived **Heuristic Confidence Scores** (entity match, URL validity, tier-1 publishers like `economictimes.indiatimes.com`, and recency) rather than statistical probabilities. As with any heuristic, it is an engineering guardrail rather than a mathematical guarantee of semantic truth. Admitting these boundaries is part of building mature AI agents.
+> **Heuristic Disclosure**: CareerPulse's factual-claim detection is regex and keyword-based. Verification confidence scores (0.60 to 1.00) are rule-derived **Heuristic Confidence Scores** (entity match, URL validity, tier-1 publishers like `economictimes.indiatimes.com`, and recency) rather than statistical probabilities. As with any heuristic, it is an engineering guardrail rather than a mathematical guarantee of semantic truth.
 
 ---
 
@@ -103,8 +102,9 @@ To prevent overfitting and verify strict honesty, CareerPulse's `GroundingValida
 
 * **Key-Agnostic Cache Keys**: Cache keys are SHA-256 hashes generated from the query parameters with `api_key` explicitly excluded. A judge cloning this repository can run against the pre-warmed cache without providing an API key.
 * **Committed Genuine Cache**: 38 real JSON responses with verified `search_metadata` across all 5 engines and corroboration queries are committed for **Razorpay**, **Swiggy**, and **CRED**, captured on **Oct 6, 2026**.
-* **Zero Secret Leakage**: All responses saved to `backend/cache/` are scrubbed of any `api_key` values prior to writing to disk. The `.env` file is strictly ignored in `.gitignore`, and only `.env.example` is tracked.
+* **Zero Secret Leakage**: All responses saved to `backend/cache/` are scrubbed of any `api_key` values prior to writing to disk (`_sanitize_data`). The `.env` file is strictly ignored in `.gitignore`, and only `.env.example` is tracked.
 * **Honest Cache-Miss Dossier**: For cached companies, zero API credits are consumed. If a user queries an uncached company without setting a `SERPAPI_API_KEY`, CareerPulse returns an honest "Data Unavailable" dossier with empty citations rather than fabricating simulated evidence about a real company. Setting a `SERPAPI_API_KEY` in `backend/.env` dispatches live multi-engine investigations across Google News, Organic Web, Google Trends, and Google Maps.
+* **Offline Verification**: All cached files contain authentic SerpApi `search_metadata` and can be validated at any time using `python scripts/warm_cache.py --verify-only` or via unit tests.
 
 ### 🗄️ Cache Warming & Verification Utility (`scripts/warm_cache.py`)
 
@@ -114,17 +114,12 @@ A single consolidated script handles offline warming, selective company queries,
 # Verify existing disk cache integrity (checks search_metadata without API requests)
 python scripts/warm_cache.py --verify-only
 
-# Warm all 5 engines for a specific target employer
+# Warm all 5 engines for a specific target employer (requires SERPAPI_API_KEY)
 python scripts/warm_cache.py --company Zomato
 
-# Warm all default demo scenarios & jobs
+# Warm all default demo scenarios & jobs (requires SERPAPI_API_KEY)
 python scripts/warm_cache.py --all
 ```
-
-### 🗄️ Cache Architecture & Evaluator Reproducibility
-* **Committed Snapshot Data**: 38 genuine JSON responses captured on Oct 6, 2026 across all 5 engines and corroboration queries are committed for **Razorpay**, **Swiggy**, and **CRED**. This guarantees evaluators can run deterministic, comprehensive due diligence audits offline without needing an API key or consuming API credits.
-* **API Key Scrubbing**: API keys are excluded from cache key calculation and scrubbed from all stored JSON files before writing to disk (`_sanitize_data`), preventing credential exposure.
-* **Offline Verification**: All cached files contain authentic SerpApi `search_metadata` and can be validated at any time using `python scripts/warm_cache.py --verify-only` or via unit tests.
 
 ---
 
@@ -169,7 +164,7 @@ In accordance with hackathon disclosure guidelines:
 ## 🚀 Quick Start Guide
 
 ### Prerequisites
-* Python 3.11, 3.12, or 3.14
+* Python 3.12 (tested in GitHub Actions CI) or Python 3.14 (tested locally on Windows)
 * Git
 
 ### 1. Clone & Set Up Environment
@@ -190,12 +185,16 @@ source .venv/bin/activate
 pip install -r backend/requirements.txt
 ```
 
-### 2. Configure Environment Variables
-Copy `.env.example` to `backend/.env`:
+### 2. Configure Environment Variables (Optional for Demo Cache)
+*(Optional)* If querying live, uncached employers, copy `.env.example` to `backend/.env` and add your `SERPAPI_API_KEY`:
 ```bash
+# Linux / macOS / Git Bash:
 cp backend/.env.example backend/.env
+
+# Windows Command Prompt:
+copy backend\.env.example backend\.env
 ```
-*(Optional)* Add your `SERPAPI_API_KEY` to `backend/.env`. If left empty, CareerPulse will automatically utilize its committed real cache for the demo scenarios (Razorpay, Swiggy, CRED)!
+> **Note**: This step is entirely optional for evaluators! If left empty or omitted, CareerPulse automatically runs against its committed real cache for the demo scenarios (Razorpay, Swiggy, CRED) without consuming any credits.
 
 ### 💳 SerpApi Free Tier Credit Budget
 * **Zero Credits for Demo Scenarios**: Evaluators can run the full 360° due-diligence audit and opportunity radar for **Razorpay**, **Swiggy**, and **CRED** entirely offline against committed real caches (0 API credits consumed).
@@ -203,7 +202,7 @@ cp backend/.env.example backend/.env
   * 1 search for Opportunity Radar (`google_jobs`)
   * 4 parallel searches for Due Diligence (`google_news`, `google`, `google_trends`, `google_maps`)
   * 1 optional follow-up search if workforce reduction is detected (`google_news` corroboration loop)
-  * **Total consumption**: Exactly **4 to 6 searches per target company**. A single free tier account powers 40–50 exhaustive company investigations.
+  * **Total consumption**: **5 to 6 searches per target company** (or 4 to 5 for due diligence alone if opportunity radar is skipped). A single free tier account powers 40–50 full company investigations.
 
 ### 3. Run Automated Tests
 Verify all **35 unit and integration tests** pass:
@@ -231,6 +230,16 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 
 * **Beat 3: Grounding Guard Demonstration (1:40 – 2:30)**  
   Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `35 passed in 0.95s`.
+
+---
+
+## ⚠️ Known Limitations
+
+1. **Entity Disambiguation**: Queries for companies whose names are common English dictionary words or shared by multiple entities may surface mixed search snippets without deep disambiguation.
+2. **Snippet-Derived Review Ratings**: Employer ratings and sentiment are extracted from Google search result snippets via regex (`\d\.\d out of 5`) rather than scraping review platforms directly. If search snippets omit a numerical rating, the system explicitly reports "No rating found in search snippets".
+3. **Heuristic Recency Anchoring**: Recency detection relies on date strings and relative expressions extracted directly from search snippets rather than deep publication metadata.
+4. **Language Scope**: Currently configured and tested for English-language search queries and snippets (`hl=en`, `gl=in`).
+5. **Bounded Agent Branching**: The autonomous loop currently implements a single conditional branch for workforce reduction verification; broader multi-hop reasoning across arbitrary corporate events is not yet implemented.
 
 ---
 
