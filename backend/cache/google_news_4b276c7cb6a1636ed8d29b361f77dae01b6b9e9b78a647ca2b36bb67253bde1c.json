@@ -1,0 +1,1526 @@
+{
+  "search_metadata": {
+    "id": "6ac89f6fc2bb998b57d2fa0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tSzZnIGHPDA2AJk8vblrpTjigvH5kMHw5t5nFmVrnQw/6ac89f6fc2bb998b57d2fa0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/tSzZnIGHPDA2AJk8vblrpTjigvH5kMHw5t5nFmVrnQw/6ac89f6fc2bb998b57d2fa0d.md",
+    "created_at": "2026-10-09 08:01:51 UTC",
+    "processed_at": "2026-10-09 08:01:51 UTC",
+    "google_news_url": "https://news.google.com/search?q=Microsoft+news+hiring+OR+funding+OR+revenue+OR+restructuring+OR+layoffs+OR+%27laid+off%27&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/tSzZnIGHPDA2AJk8vblrpTjigvH5kMHw5t5nFmVrnQw/6ac89f6fc2bb998b57d2fa0d.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Microsoft news hiring OR funding OR revenue OR restructuring OR layoffs OR 'laid off'"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kali Hays"
+        ]
+      },
+      "link": "https://www.bbc.com/news/articles/ck5yngl2y4gpo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/d7e9/live/ec86f2b0-c346-11f1-9a39-31b474234113.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVphVzVKTVhocmIwMTRNa0o1VFJDT0FoamdBeWdLTWdB",
+      "date": "10/08/2026, 09:37 PM, +0000 UTC",
+      "iso_date": "2026-10-08T21:37:35Z"
+    },
+    {
+      "position": 2,
+      "title": "“One and a Half Foreign Workers for Every American Laid Off”: Vance Takes On Microsoft",
+      "source": {
+        "name": "PGurus",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pgurus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pgurus.com/one-and-a-half-foreign-workers-for-every-american-laid-off-vance-takes-on-microsoft/",
+      "thumbnail": "https://www.pgurus.com/wp-content/uploads/2026/10/H-1B-Work-Authorization-Article-Graphic.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxhblppTVV4NGRrTlJSVlpuVFJDZkF4ampCU2dLTWdhQklaYU9rUW8",
+      "date": "10/09/2026, 04:19 AM, +0000 UTC",
+      "iso_date": "2026-10-09T04:19:31Z"
+    },
+    {
+      "position": 3,
+      "title": "\"Indentured Servants\": Vance On Microsoft Hiring Foreign Workers Under H-1B",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aastha Ahuja"
+        ]
+      },
+      "link": "https://www.ndtv.com/world-news/us-vice-president-jd-vance-on-microsoft-hiring-foreign-workers-under-h-1b-indentured-servants-perm-programme-12159524",
+      "thumbnail": "https://c.ndtvimg.com/2026-08/espo05o_jd-vance-afp_625x300_07_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSbTl0YTFsZk5VdHZRMGR6VFJDZkF4ampCU2dLTWdhQlU1UlJLUWM",
+      "date": "10/09/2026, 03:13 AM, +0000 UTC",
+      "iso_date": "2026-10-09T03:13:04Z"
+    },
+    {
+      "position": 4,
+      "title": "US suspends Microsoft from Green Card sponsorship programme; company responds: Microsoft only files H-1B",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-suspends-microsoft-from-green-card-sponsorship-programme-company-responds-microsoft-only-files-h-1b-petitions-for-those-who-/articleshow/134799105.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134799136,width-1280,height-720,imgsize-87340,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9iMmRmWW1SWlEzSkdVbmx6VFJDZkF4ampCU2dLTWdhQm80Nm5QUVk",
+      "date": "10/08/2026, 06:44 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:44:00Z"
+    },
+    {
+      "position": 5,
+      "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+      "source": {
+        "name": "Al Jazeera",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aljazeera.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims",
+      "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac7c50523788-1791476997.jpg?resize=1920%2C1440",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZkamxXTFV4d2VXZHVRUzFDVFJEZ0F4aUFCU2dLTWdhQk1ack1HQW8",
+      "date": "10/08/2026, 06:40 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:40:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Trump's H-1B Crackdown: Microsoft, TCS & Infosys Targeted Over Foreign Worker Hiring |Firstpost Live",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/web-show/firstpost-live/trumps-h-1b-crackdown-microsoft-tcs-infosys-targeted-over-foreign-worker-hiring-firstpost-live-vd2208783/",
+      "thumbnail": "https://media.nw18.com/media-assets/wbx6pq/10-2026/09-2026/vfc0PjDvO0-0910TRUMP-IT-CRACKDOWNVODjpg-gztKuOIVKW.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJXVGhwZFhkSVMyODRSbTlRVFJDZkF4ampCU2dLTWdrQllJUlpwS2pJS2dJ",
+      "date": "10/09/2026, 06:57 AM, +0000 UTC",
+      "iso_date": "2026-10-09T06:57:39Z"
+    },
+    {
+      "position": 7,
+      "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Steve Holland",
+          "Akash Sriram"
+        ]
+      },
+      "link": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/N2H5BXKEZJO73F6QETOMDYE3GI.jpg?auth=01877147c7e18ed925042390561ce71975d4adb2a664091b989be83ae6e35b8d&height=1920&width=1920&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJPSGxhY1ZWZmRreHBVVk55VFJDcUJCaXFCQ2dLTWdB",
+      "date": "10/08/2026, 02:38 PM, +0000 UTC",
+      "iso_date": "2026-10-08T14:38:00Z"
+    },
+    {
+      "position": 8,
+      "title": "US suspends Microsoft, Infosys, TCS, Wipro, HCL, others from green card programme",
+      "source": {
+        "name": "The Assam Tribune",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://assamtribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://assamtribune.com/international/us-suspends-microsoft-infosys-tcs-wipro-hcl-others-from-green-card-programme-1619775",
+      "thumbnail": "https://assamtribune.com/h-upload/2025/07/21/1500x900_1730491-microsoftrfqejmt.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBhMnBSWlhKUWNYY3hTWEpwVFJDdEF4akxCU2dLTWdB",
+      "date": "10/09/2026, 06:59 AM, +0000 UTC",
+      "iso_date": "2026-10-09T06:59:35Z"
+    },
+    {
+      "position": 9,
+      "title": "Microsoft defends H-1B hiring after Vance’s crackdown, says 80% of visa filings were for existing...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/world/microsoft-defends-h-1b-hiring-after-vance-s-crackdown-says-80-of-visa-filings-were-for-existing-employees-article-14048108.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260730203109_462034984.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRZMjFFYkc5WmFWWkRNMHBWVFJERUF4aW1CU2dLTWdrbFVJNTNvT2hqa0FF",
+      "date": "10/08/2026, 08:47 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:47:19Z"
+    },
+    {
+      "position": 10,
+      "title": "US Freezes Green Card Route for Microsoft, Infosys, Tata; Vance Says Visa Fraud",
+      "source": {
+        "name": "TheWire.in",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.thewire.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.thewire.in/article/business/us-freezes-green-card-route-for-microsoft-infosys-tata-vance-says-visa-fraud",
+      "thumbnail": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhMTYyYzkyYjAtYzMzYy0xMWYxLTk3ZDItNzEzMjA1NmJlMmNlLmpwZw==",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFTVVJsUlhJd2VYRkpNblZNVFJERUF4aW5CU2dLTWdZTkpwQklIZ2c",
+      "date": "10/08/2026, 05:17 PM, +0000 UTC",
+      "iso_date": "2026-10-08T17:17:01Z"
+    },
+    {
+      "position": 11,
+      "title": "US suspends Microsoft from green card programme; JD Vance targets H-1B hires",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/world/story/us-suspends-microsoft-from-green-card-programme-vance-alleges-h-1b-workers-replaced-us-staff-3012733-2026-10-08",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/microsoft-082440464-16x9_0.jpg?VersionId=IyHI6BwVRM56c0._FGiLvirR9v_Qu_8g&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5NME55VFdoR1YyeFVZMlJKVFJDZkF4ampCU2dLTWdaRk1vejFuQWs",
+      "date": "10/08/2026, 02:54 PM, +0000 UTC",
+      "iso_date": "2026-10-08T14:54:40Z"
+    },
+    {
+      "position": 12,
+      "title": "Microsoft, Infosys, Tata, Wipro, Cognizant, HCL and Capgemini hit by US H-1B, Green Card crackdown",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "aniruddha DHAR"
+        ]
+      },
+      "link": "https://indianexpress.com/article/world/us-news/us-suspends-microsoft-h1b-green-card-programme-vance-fraud-10912971/",
+      "thumbnail": "https://images.indianexpress.com/2026/10/vance-microft.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhjMHhUY1VGR1FXMUJWMk5NVFJDZkF4ampCU2dLTWdZSk5wWW1vZ2c",
+      "date": "10/08/2026, 03:21 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:21:47Z"
+    },
+    {
+      "position": 13,
+      "title": "White House orders Microsoft to halt hiring from abroad",
+      "source": {
+        "name": "Baltic News Network",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bnn-news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bnn-news.com/world/white-house-orders-microsoft-to-halt-hiring-from-abroad-2kbrzgf",
+      "thumbnail": "https://bnn-news.com/_next/image?url=https%3A%2F%2Fmedia.bnn.lv%2F55023781816_a9e4d794a5_k-1-1200x675.jpg&w=1600&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhUa3hJTFVaS2RtUldjalZJVFJDZkF4ampCU2dLTWdhZFJaYk5IUWs",
+      "date": "10/09/2026, 06:25 AM, +0000 UTC",
+      "iso_date": "2026-10-09T06:25:44Z"
+    },
+    {
+      "position": 14,
+      "title": "'These were not to hire new people': Trump admin suspends green cards to Microsoft",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Seung Min Kim",
+          "Barbara Ortutay",
+          "Rebecca Santana"
+        ]
+      },
+      "link": "https://fortune.com/2026/10/08/trump-admin-green-card-microsoft-domestic-workers/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26281553191074-e1791489557990.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJaemg1WVc5WVFrSm5aWGx2VFJERUF4aW1CU2dLTWdZQk1wcnRHQW8",
+      "date": "10/08/2026, 08:09 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:09:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Trump administration suspends Microsoft from green card programme, alleges visa fraud",
+      "source": {
+        "name": "Telangana Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://telanganatoday.com/trump-administration-suspends-microsoft-from-green-card-programme-alleges-visa-fraud",
+      "thumbnail": "https://media.telanganatoday.com/wp-content/uploads/2026/10/Trump-administration-suspends-Microsoft-from-green-card-programme-alleges-visa-fraud.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWZXVGxuTjAxbmJsZFRiMDVpVFJDb0F4alVCU2dLTWdNQlFBQQ",
+      "date": "10/08/2026, 04:40 PM, +0000 UTC",
+      "iso_date": "2026-10-08T16:40:09Z"
+    },
+    {
+      "position": 16,
+      "title": "US Bars Tech Giants from Hiring Foreign Workers via Green Card Programs",
+      "source": {
+        "name": "CXOToday.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cxotoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cxotoday.com/big-tech/us-bars-tech-giants-from-hiring-foreign-workers-via-green-card-programs/",
+      "thumbnail": "https://cxotoday.com/wp-content/uploads/2026/10/xSJPR.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJZekF5UW5NeVowbGtOVXQwVFJER0F4aWtCU2dLTWdtQklJaXVrZXFvcndF",
+      "date": "10/09/2026, 03:14 AM, +0000 UTC",
+      "iso_date": "2026-10-09T03:14:43Z"
+    },
+    {
+      "position": 17,
+      "title": "OpenAI's Revenue Question Hits Microsoft and Oracle",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/gurufocus:51af75a3f094b:0-openai-s-revenue-question-hits-microsoft-and-oracle/",
+      "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+      "date": "10/08/2026, 08:54 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:54:17Z"
+    },
+    {
+      "position": 18,
+      "title": "US suspends Microsoft, major IT firms from green card programme",
+      "source": {
+        "name": "South China Morning Post",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3370230/us-suspends-microsoft-major-it-firms-green-card-programme",
+      "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2026/10/09/31839d4b-069a-41d2-aba5-95633bf89973_6c0c382f.jpg?itok=fJxKN3Ua&v=1791492495",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdVMFJhTmtGcVlWTjVOVXRRVFJDUUF4aThCU2dLTWdB",
+      "date": "10/08/2026, 03:50 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:50:26Z"
+    },
+    {
+      "position": 19,
+      "title": "US bars Microsoft, Infosys, TCS & Wipro from Green Card programme: What it means for Indians",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/explainers/us-microsoft-infosys-tcs-wipro-it-firms-perm-green-card-indians-impact-analysis-14051568.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/10/green1-2026-10-3168c955089b7b9f65f50488959f21cf.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSamxLU2xCUFVYWlBTVVJEVFJDZkF4ampCU2dLTWdheEE0aFF0UU0",
+      "date": "10/09/2026, 03:43 AM, +0000 UTC",
+      "iso_date": "2026-10-09T03:43:41Z"
+    },
+    {
+      "position": 20,
+      "title": "US visa chaos: Tata, Wipro among IT firms suspended from PERM scheme; what it means",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vivek Dubey"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/business/international-business/us-visa-chaos-tata-wipro-among-it-firms-suspended-from-perm-scheme-what-it-means/articleshow/134793893.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134793929,width-1280,height-720,imgsize-91024,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdUVVZvUW5kMWRVZGxkRzFuVFJDZkF4ampCU2dLTWdhdEZJaVBGUW8",
+      "date": "10/08/2026, 02:57 PM, +0000 UTC",
+      "iso_date": "2026-10-08T14:57:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Infosys, TCS, Wipro, Microsoft Among IT Giants Suspended From US Employment-Linked Green Card Programme",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Noor Ul"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/world/infosys-tcs-wipro-among-it-giants-suspended-from-us-labour-certification-programme-12157882",
+      "thumbnail": "https://c.ndtvimg.com/2026-10/utam8lh8_secretary_625x300_08_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVNblpJVW1Gb2JVODRjV2xuVFJDZkF4ampCU2dLTWdB",
+      "date": "10/08/2026, 03:05 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:05:01Z"
+    },
+    {
+      "position": 22,
+      "title": "Microsoft responds to White House immigration crackdown as Trump honors Nadella",
+      "source": {
+        "name": "GeekWire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geekwire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.geekwire.com/2026/microsoft-responds-to-trump-administration-accusation-that-it-abuses-foreign-worker-programs/",
+      "thumbnail": "https://cdn.geekwire.com/wp-content/uploads/2026/10/trump-nadella-1260x763.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUpjbXBzY0Vjd2RURm1SaTEzVFJDdkF4aklCU2dLTWdB",
+      "date": "10/08/2026, 05:48 PM, +0000 UTC",
+      "iso_date": "2026-10-08T17:48:31Z"
+    },
+    {
+      "position": 23,
+      "title": "Microsoft suspended from green card program over H-1B visa abuse",
+      "source": {
+        "name": "Quartz",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Colleen Cabili"
+        ]
+      },
+      "link": "https://qz.com/microsoft-suspended-green-card-program-h1b-visa-100826",
+      "thumbnail": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/President%20Donald%20Trump%20outside%20WH-1920x1280.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlazVHU21kdGEyNW5VMUYwVFJERUF4aW1CU2dLTWdhZEo1d3FGZ28",
+      "date": "10/08/2026, 08:24 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:24:41Z"
+    },
+    {
+      "position": 24,
+      "title": "Microsoft suspended from green card program by Trump administration",
+      "source": {
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nick Pasion"
+        ]
+      },
+      "link": "https://www.bizjournals.com/seattle/news/2026/10/08/microsoft-adobe-suspended-green-card-h-1b-visas.html",
+      "thumbnail": "https://media.bizj.us/view/img/13073407/microsoft-redmond-campus-core-oct-2025-aerial-01*900xx4000-2247-0-137.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNabFpxY0ZVMFNrRTROME5zVFJDZkF4ampCU2dLTWdZQlFJWUhIZ1E",
+      "date": "10/08/2026, 07:32 PM, +0000 UTC",
+      "iso_date": "2026-10-08T19:32:00Z"
+    },
+    {
+      "position": 25,
+      "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rebecca Santana",
+          "Seung Min Kim"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/politics/watch-vance-says-microsoft-is-being-suspended-from-green-card-program-for-h-1b-visa-workers",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T142744Z_2096195882_RC22ZNA56OTE_RTRMADP_3_USA-VANCE-1024x683.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlhSFZIY0drMWVGTlNiUzB4VFJERUF4aW1CU2dLTWdrQlFKYmlKV2tWTEFJ",
+      "date": "10/08/2026, 03:54 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:54:08Z"
+    },
+    {
+      "position": 26,
+      "title": "Trump officials block Microsoft’s access to program for employee green cards",
+      "source": {
+        "name": "The Washington Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lauren Kaori Gurley",
+          "Ted Hesson"
+        ]
+      },
+      "link": "https://www.washingtonpost.com/immigration/2026/10/08/trump-officials-block-microsofts-access-program-employee-green-cards/",
+      "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GWHLSITGFII6PFFLLMPQ75CZ34.jpg&w=1440&impolicy=high_res",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5TMVJJUjJOeU1rbHNjWFZGVFJDZkF4ampCU2dLTWdZQlFKWkdwQWc",
+      "date": "10/09/2026, 12:29 AM, +0000 UTC",
+      "iso_date": "2026-10-09T00:29:03Z"
+    },
+    {
+      "position": 27,
+      "title": "US suspends Microsoft, Infosys, TCS, Wipro, Cognizant from green card programme over alleged H-1B abuse",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/world/us-suspends-microsoft-infosys-tcs-wipro-cognizant-from-green-card-programme-over-alleged-h-1b-abuse-article-14048005.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/01/20260127163409_h1bvisanewpic.png?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXWFV6ZEhJMVJVOTBkVzV2VFJERUFSamVBaWdLTWdhTjg0UnEwUU0",
+      "date": "10/08/2026, 03:09 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:09:58Z"
+    },
+    {
+      "position": 28,
+      "title": "US Visa Chaos: Tata, Wipro, Infosys among IT firms suspended from US green card programme in major H-1B crackdown",
+      "source": {
+        "name": "Education Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.educationtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.educationtimes.com/news/us-visa-chaos-tata-wipro-infosys-among-it-firms-suspended-from-us-green-card-programme-in-major-h-1b-crackdown/articleshow/134798821.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134798852,width-1280,height-720,resizemode-4/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZaM1pKWTNGelNtWXdSRlJOVFJDb0FSaXNBaWdCTWdZSklKSUVrd28",
+      "date": "10/08/2026, 06:27 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:27:00Z"
+    },
+    {
+      "position": 29,
+      "title": "The Trump administration is suspending Microsoft from a green card program, alleging fraud",
+      "source": {
+        "name": "NBC News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nbcnews.com/politics/trump-administration/microsoft-suspended-green-cards-h-1b-visa-j-1-visa-vance-rcna602314",
+      "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-09/260914-jd-vance-mn-1600-c57d71.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhZVGxaT1RsMGQxaHNja1pqVFJERUF4aW1CU2dLTWdhWk1vaHdGUW8",
+      "date": "10/08/2026, 05:46 PM, +0000 UTC",
+      "iso_date": "2026-10-08T17:46:09Z"
+    },
+    {
+      "position": 30,
+      "title": "U.S. Will Suspend Green Cards For Microsoft Workers On H1-B Visas, Vance Says",
+      "source": {
+        "name": "Forbes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Conor Murray"
+        ]
+      },
+      "link": "https://www.forbes.com/sites/conormurray/2026/10/08/trump-administration-will-suspend-microsoft-from-permanent-residency-program-vance-says/",
+      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6ac7b80cc4416306246a5abd/Vance/0x0.jpg?crop=3470,1951,x0,y54,safe&height=399&width=711&fit=bounds",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdZMjB6TW1wTVZYVmFhbk5ZVFJDUEF4akdCU2dLTWdrZE1ZNHFHaW91a0FF",
+      "date": "10/08/2026, 03:47 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:47:04Z"
+    },
+    {
+      "position": 31,
+      "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+      "source": {
+        "name": "The New York Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Erica L. Green"
+        ]
+      },
+      "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-fraud--mwcv/08dc-fraud--mwcv-articleLarge.jpg?quality=75&auto=avif&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBiMkpXV2taemNWcDZjR2s0VFJDUUF4allCQ2dLTWdtQk1KaVRJQ25CYVFJ",
+      "date": "10/08/2026, 03:54 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:54:08Z"
+    },
+    {
+      "position": 32,
+      "title": "Vance suspends Microsoft from green card program over H-1B",
+      "source": {
+        "name": "Seattle Red",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://seattlered.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Rantz"
+        ]
+      },
+      "link": "https://seattlered.com/economy/vance-microsoft-green-card-program-h-1b-suspension/4120564",
+      "thumbnail": "https://seattlered.com/wp-content/uploads/2026/10/microsoft.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUSFIwUjFweVNHOXZNSGMyVFJDZkF4ampCU2dLTWdhWmxvZ3JOZ1k",
+      "date": "10/08/2026, 04:20 PM, +0000 UTC",
+      "iso_date": "2026-10-08T16:20:04Z"
+    },
+    {
+      "position": 33,
+      "title": "Microsoft pushes back on Vance’s H-1B visa claims",
+      "source": {
+        "name": "The Seattle Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Halverson"
+        ]
+      },
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-pushes-back-on-vances-h-1b-visa-claims/",
+      "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2026/10/10082026_satya-nadella-today_104055.jpg?d=780x520",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhV296WTBOMmIyRjJhR2hUVFJERUF4aW1CU2dLTWdhQlJvNExJZ2s",
+      "date": "10/08/2026, 06:20 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:20:04Z"
+    },
+    {
+      "position": 34,
+      "title": "Trump ad­min­is­tration suspends Microsoft from green card program, alleging visa fraud",
+      "source": {
+        "name": "Spectrum News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://spectrumlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Susan Carpenter"
+        ]
+      },
+      "link": "https://spectrumlocalnews.com/us/snplus/politics/2026/10/08/microsoft-h-1b-visa-fraud-white-house-fraud-task-force",
+      "thumbnail": "https://s7d2.scene7.com/is/image/TWCNews/Vance_Microsoft_visa_fraud",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVNMk41TFVWSFJFRmxZemcyVFJDZkF4ampCU2dLTWdB",
+      "date": "10/08/2026, 04:58 PM, +0000 UTC",
+      "iso_date": "2026-10-08T16:58:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Vance suspends Microsoft from a green card program to crack down on alleged fraud",
+      "source": {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://abcnews.com/Politics/vance-suspends-microsoft-green-card-program-crack-alleged/story?id=137100899",
+      "thumbnail": "https://s.abcnews.com/images/US/vance-1-gty-gmh-261008_1791477644775_hpMain_16x9_1600.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZiV2RqWkVsQ1JYazVhakJuVFJDZkF4ampCU2dLTWdB",
+      "date": "10/08/2026, 09:38 PM, +0000 UTC",
+      "iso_date": "2026-10-08T21:38:29Z"
+    },
+    {
+      "position": 36,
+      "title": "King Charles hears man’s Microsoft layoff story as ex-Apple CEO stands behind them | Trending",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Trisha Sengupta"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/trending/king-charles-hears-man-s-microsoft-layoff-story-as-ex-apple-ceo-stands-behind-them-101791427106337.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/10/08/1600x900/logo/King_Charles_Microsoft_Layoff_Tim_Cook_Viral_Video_1791427494077_RLUG_1791427494295_aE7v_d25d171d-5957-45be-b446-a425d98f4ff8_H5KT.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFORkZFT0RaQ2JISktVMEpvVFJDZkF4ampCU2dLTWdrWkFaQ1dnT3hTS2dJ",
+      "date": "10/08/2026, 02:45 AM, +0000 UTC",
+      "iso_date": "2026-10-08T02:45:30Z"
+    },
+    {
+      "position": 37,
+      "title": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud",
+      "source": {
+        "name": "The Straits Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.straitstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.straitstimes.com/world/united-states/us-freezes-microsoft-adobe-infosys-green-card-applications-over-alleged-fraud",
+      "thumbnail": "https://cassette.sphdigital.com.sg/image/straitstimes/9f36a5634b7facc4e11ee4ce3120ce6c1e174e9d7fd8f15bb9ac5f85e7f39fe9",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRPVTlJY0djMFoyc3daVUZGVFJERUF4aW1CU2dLTWdB",
+      "date": "10/08/2026, 07:51 PM, +0000 UTC",
+      "iso_date": "2026-10-08T19:51:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms",
+      "source": {
+        "name": "Axios",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Josephine J. Walker"
+        ]
+      },
+      "link": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
+      "thumbnail": "https://images.axios.com/6ihAq06_uDW3DMwc2Aro1TbfInY=/0x72:4105x2381/1920x1080/2026/10/08/1791471658703.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9iMHhSYVdkNlRYVnVYMmgxVFJDZkF4ampCU2dLTWdZQkFKaXNrUW8",
+      "date": "10/09/2026, 12:32 AM, +0000 UTC",
+      "iso_date": "2026-10-09T00:32:16Z"
+    },
+    {
+      "position": 39,
+      "title": "Tech layoffs 2026: Tracking all the job losses across Xbox, Apple, Oracle, Uber, TikTok, Meta and others",
+      "source": {
+        "name": "Yahoo Tech",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://tech.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katie Teague"
+        ]
+      },
+      "link": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-2026-tracking-all-the-job-losses-across-xbox-apple-oracle-uber-tiktok-meta-and-others-144545528.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/c35b85c53d1ee9243401ae29548d6cdaebebeaf2147cd791629f76a8d645625d/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2F5bdc3580-fcaf-11f0-be7f-dc84e88e88bd",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTa3MwYjJwTFdVTTRSelJoVFJERUF4aW1CU2dLTWdhZFk1cHJxUWc",
+      "date": "10/06/2026, 12:36 PM, +0000 UTC",
+      "iso_date": "2026-10-06T12:36:54Z"
+    },
+    {
+      "position": 40,
+      "title": "Microsoft rebuts White House claim it replaced thousands of US workers with foreign hires",
+      "source": {
+        "name": "Cybernews",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cybernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stefanie Schappert"
+        ]
+      },
+      "link": "https://cybernews.com/news/white-house-microsoft-green-card-program-ban/",
+      "thumbnail": "https://media.cybernews.com/images/featured-big/2025/10/H-1B.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhaREJyUVVaemFIRnhORUpWVFJDYkF4anJCU2dLTWdZQkFaQTBNUWc",
+      "date": "10/09/2026, 05:04 AM, +0000 UTC",
+      "iso_date": "2026-10-09T05:04:57Z"
+    },
+    {
+      "position": 41,
+      "title": "Vance says the US is suspending permanent visa residency program for Microsoft",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Nicoll",
+          "Pranav Dixit"
+        ]
+      },
+      "link": "https://www.businessinsider.com/vance-us-suspending-permanent-visa-residency-program-microsoft-adobe-2026-10",
+      "thumbnail": "https://i.insider.com/6ac7bfef42403ad8039a4a74?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWM1JyWkUxdk5qSjRjWGhRVFJERUF4aW1CU2dLTWdZQlVKS0NLQWM",
+      "date": "10/08/2026, 08:23 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:23:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Microsoft being suspended from program to apply for green cards for H-1B visa workers, Vance says",
+      "source": {
+        "name": "NBC Bay Area",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcbayarea.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rebecca Santana"
+        ]
+      },
+      "link": "https://www.nbcbayarea.com/news/national-international/microsoft-suspended-program-apply-green-cards-skilled-foreign-workers-jd-vance/4155102/",
+      "thumbnail": "https://media.nbcbayarea.com/2026/10/JD-Vance-Speaks-At-Midterm-Election-Rally-In-Harli-2297933629-Getty.jpg?quality=85&strip=all&crop=92px%2C238px%2C4416px%2C2483px&resize=1200%2C675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWVWhOVnpSU2NVSjRTRGRaVFJDZkF4ampCU2dLTWdhcE5ZN09uUWs",
+      "date": "10/08/2026, 03:33 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:33:24Z"
+    },
+    {
+      "position": 43,
+      "title": "Trump administration suspends Microsoft from visa program over fraud concerns",
+      "source": {
+        "name": "The Center Square",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecentersquare.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carleen Johnson"
+        ]
+      },
+      "link": "https://www.thecentersquare.com/national/article_f17771a0-090b-4b31-afe2-bad187282f87.html",
+      "thumbnail": "https://i.ytimg.com/vi/Ohgj5YnQBpw/maxresdefault.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFMWGx5VEZvd1N6bFlWV3gyVFJDZkF4ampCU2dLTWdB",
+      "date": "10/08/2026, 08:15 PM, +0000 UTC",
+      "iso_date": "2026-10-08T20:15:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Trump admin cuts off Microsoft from major visa program, accuses tech giant of fraud and abuse",
+      "source": {
+        "name": "New York Post",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Emily Goodin"
+        ]
+      },
+      "link": "https://nypost.com/2026/10/08/us-news/trump-admin-cuts-off-microsoft-from-major-visa-program-accuses-tech-giant-of-fraud-and-abuse/",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-vdfm0foj1-1791484663811.jpg?quality=75&strip=all&1791470313&w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlla1Y0UXpVNFl6TTFRblowVFJDM0FSaVRBaWdCTWdZQkVaN2lsZ28",
+      "date": "10/08/2026, 06:24 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:24:57Z"
+    },
+    {
+      "position": 45,
+      "title": "Trump admin bars Microsoft and other tech companies from seeking permanent residency for foreign workers",
+      "source": {
+        "name": "CNN",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adam Cancryn"
+        ]
+      },
+      "link": "https://www.cnn.com/2026/10/08/politics/vance-fraud-microsoft-immigrant",
+      "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272950752.jpg?c=original&q=w_860,c_fill",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjMHhoTWtsblpXaG5iMTlFVFJERUF4aW1CU2dLTWdhRkFZNzBBQXc",
+      "date": "10/08/2026, 03:47 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:47:28Z"
+    },
+    {
+      "position": 46,
+      "title": "Microsoft starts a new round of job cuts and the next phase of its Xbox 'reset.' Read the memo.",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Stewart"
+        ]
+      },
+      "link": "https://www.businessinsider.com/microsoft-starts-a-new-round-of-job-cuts-2026-9",
+      "thumbnail": "https://i.insider.com/6aa9979acc23a829a3b91d31?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlkWGRZYnpKeU9VNVVWbGhvVFJET0F4aVhCU2dLTWdhdEpaS3VsUW8",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "US suspends Microsoft, Adobe, other tech firms from green card programme",
+      "source": {
+        "name": "The Eastleigh Voice",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://eastleighvoice.co.ke&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rachael Mutabasi"
+        ]
+      },
+      "link": "https://eastleighvoice.co.ke/headlines/410143/us-suspends-microsoft-adobe-other-tech-firms-from-green-card-programme",
+      "thumbnail": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/10/eastleighvoice-co-ke-2026-october-09-090854.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNRbVZvY3pGeWFrVm1TM1owVFJDMkF4aTlCU2dLTWdZMUlvSlNyUVU",
+      "date": "10/09/2026, 06:12 AM, +0000 UTC",
+      "iso_date": "2026-10-09T06:12:53Z"
+    },
+    {
+      "position": 48,
+      "title": "Vance suspends Microsoft, others from foreign workers applying for green cards, alleges visa 'abuse'",
+      "source": {
+        "name": "Fox Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eric Mack"
+        ]
+      },
+      "link": "https://www.foxbusiness.com/politics/vance-suspends-microsoft-others-from-foreign-workers-applying-green-cards-accuses-company-visa-abuse",
+      "thumbnail": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/vance-visa-fraud.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURjbTFhYzJodlNFVTRWMko1VFJDZkF4ampCU2dLTWdB",
+      "date": "10/08/2026, 06:01 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:01:00Z"
+    },
+    {
+      "position": 49,
+      "title": "US suspending Microsoft from visa program: Vance",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.yahoo.com/news/politics/articles/us-suspending-microsoft-visa-program-161221855.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/37de3797e12516c460aeae74ee65bc3c66bc00f3dd0b1f1b076ce41d945a1a65/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd4cd4abd5f4add1d2095f4ccc4e182fc.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSemRKYzFwQlQwZHNWVGRvVFJERUF4aW1CU2dLTWdhQk1KeU5sUW8",
+      "date": "10/08/2026, 06:26 PM, +0000 UTC",
+      "iso_date": "2026-10-08T18:26:14Z"
+    },
+    {
+      "position": 50,
+      "title": "Microsoft responds to green card program suspension, Trump administration alleging fraud",
+      "source": {
+        "name": "KOMO",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://komonews.com/news/local/microsoft-redmond-washington-defends-hiring-as-trump-jd-vance-administration-probes-visa-practices-perm-h-1b-visa-program-perm-immigration-tech-bill-gates-indentured-servants",
+      "thumbnail": "https://komonews.com/resources/media2/16x9/1184/1174/81x25/80/078199f4-e0f8-4402-8712-13d7107a2ef6-PKGECONOMYLATEST.transfer_frame_2181.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVSamd5YXpGQlpXNXNPV3hxVFJDZkF4ampCU2dLTWdhTmc1YXR1UWM",
+      "date": "10/08/2026, 07:33 PM, +0000 UTC",
+      "iso_date": "2026-10-08T19:33:38Z"
+    },
+    {
+      "position": 51,
+      "title": "U.S. freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud",
+      "source": {
+        "name": "CTV News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ctvnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ctvnews.ca/world/article/us-suspending-permanent-residency-program-for-microsoft-vance-says/",
+      "thumbnail": "https://www.ctvnews.ca/resizer/v2/6C6LCHKB3VBMDILK7GYZHZR67M.jpg?smart=true&auth=efae9d2753ce1200159d847ca33188b6290fc36843b3af92fc20372163909cf0&width=1200&height=630",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdlSFZJZEZkWlZtRm1VbUZVVFJDUkF4ajhCU2dLTWdhaFpZYnNxUVk",
+      "date": "10/08/2026, 07:19 PM, +0000 UTC",
+      "iso_date": "2026-10-08T19:19:46Z"
+    },
+    {
+      "position": 52,
+      "title": "Trump admin freezes green card program for 8 tech companies",
+      "source": {
+        "name": "Politico",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Long"
+        ]
+      },
+      "link": "https://www.politico.com/news/2026/10/08/vance-microsoft-adobe-h-1-b-green-cards-01111603",
+      "thumbnail": "https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F84%2Ffa00b7b249e981941c39a9cbdb88%2Fgettyimages-2295320863.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBSMTk2Y0VrMGRqRklVV05yVFJDa0F4ajJCQ2dLTWdZQkVKaHVIUWs",
+      "date": "10/08/2026, 03:24 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:24:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Trump Administration Suspends Microsoft, Adobe From Green-Card Programme Over Alleged Visa Abuse",
+      "source": {
+        "name": "Sahara Reporters",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://saharareporters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://saharareporters.com/2026/10/08/trump-administration-suspends-microsoft-adobe-green-card-programme-over-alleged-visa",
+      "thumbnail": "https://saharareporters.com/sites/default/files/styles/focal_point_325x195/public/2026-10/1001259285.jpg?h=a6b73c3d&itok=3KzHK0oF",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRaa1ZwVVRGUmIxUm1MV3BhVFJDdUFSaWlBaWdCTWdB",
+      "date": "10/08/2026, 07:11 PM, +0000 UTC",
+      "iso_date": "2026-10-08T19:11:32Z"
+    },
+    {
+      "position": 54,
+      "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tom Warren"
+        ]
+      },
+      "link": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485118/STK048_XBOX2__C.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRVGhIYW5KMVNtcG9jM2xGVFJERUF4aW1CU2dLTWdhUlFvaXNMUVU",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "US suspends Microsoft and other tech firms from PERM as Vance calls out H-1B fraud",
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Brandon Evans"
+        ]
+      },
+      "link": "https://seekingalpha.com/news/4651418-us-suspends-microsoft-and-other-tech-firms-from-perm-as-vance-calls-out-h-1b-fraud",
+      "thumbnail": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2299229453/image_2299229453.jpg?io=getty-c-w630",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBORFV6TVZsRVdtbFpSREJCVFJDc0F4ajJCQ2dLTWdB",
+      "date": "10/08/2026, 03:44 PM, +0000 UTC",
+      "iso_date": "2026-10-08T15:44:47Z"
+    },
+    {
+      "position": 56,
+      "title": "Vance says Microsoft suspended from H-1B green card program over fraud allegations",
+      "source": {
+        "name": "Yahoo News Canada",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ca.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ca.news.yahoo.com/vance-says-microsoft-suspended-h-163206120.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d74e072028ddf268737a949e63ee3d70799ab461ff3052c7a9017efa2fd1feb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.canadianpress.com%2Fa45936de293873c8cbb51e4a718b7dc2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHdWbUo1YUhSV1NsaFZiWEV3VFJDZkF4ampCU2dLTWdzQlFacUFILWtsU2RxY29R",
+      "date": "10/08/2026, 04:32 PM, +0000 UTC",
+      "iso_date": "2026-10-08T16:32:06Z"
+    },
+    {
+      "position": 57,
+      "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Swati Gandhi"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Tech_giants_layoffs_uber_amazon_oracle_apple_1789204431741_c6f0d443-7229-4317-b4aa-6d2f6964cf86_1789204431973_8eebef21-707b-4bef-9cc3-917d701148d7_4a5a6e83-63d6-49c5-9c74-0e67dd5e3de4_3844cbb4-b554-4fbd-b54a-5e8cfc7d0158.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRWbW94TlROSFNYaHBOMkZIVFJDZkF4amlCU2dLTWdtQkVJaVZFT3V4OVFB",
+      "date": "09/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-12T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Green Card Update: Trump Admin Blocks Tech Companies From H-1B PERM Program",
+      "source": {
+        "name": "Newsweek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Gooding"
+        ]
+      },
+      "link": "https://www.newsweek.com/green-card-update-trump-admin-blocks-tech-companies-h1b-perm-program-microsoft-adobe-12541853",
+      "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2269268390.jpg?w=1600&h=900&q=88",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJTMDF0VDFJek5WaDVkMnhVVFJERUF4aW5CU2dLTWdtVklJYktGU3VTRVFF",
+      "date": "10/08/2026, 02:45 PM, +0000 UTC",
+      "iso_date": "2026-10-08T14:45:00Z"
+    },
+    {
+      "position": 59,
+      "title": "As Microsoft lays off 4,800 employees, HR head Amy Coleman's memo has a 'direct' line for all the employe",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-lays-off-4800-employees-hr-head-amy-colemans-memo-has-a-direct-line-for-all-the-employees-the-jobs-are-not-being-replaced-by-ai-but-/articleshow/132326446.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132326439,width-1280,height-720,imgsize-62402,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVRXa0pWYkZwb2JXSmhWSEI0VFJDZkF4ampCU2dLTWc0QkFJekNEdW9rTWFtaWtyNzJIQQ",
+      "date": "07/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-11T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "8,000 Applications, No Job: Ex-Google, Meta, Microsoft Workers Reveal The Harsh Reality After Layoffs",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Pandey"
+        ]
+      },
+      "link": "https://www.ndtv.com/offbeat/8-000-applications-no-job-ex-google-meta-microsoft-workers-reveal-the-harsh-reality-after-layoffs-11991697",
+      "thumbnail": "https://c.ndtvimg.com/2026-09/e64786lc_laid-off-by-google-meta-microsoft-intel-what-happened-after-they-lost-their-sixfigure-jobs_625x300_02_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNZelZwVUhoVGRrWXdWREZIVFJDZkF4ampCU2dLTWdZQllKYWlMQWc",
+      "date": "09/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-02T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Microsoft engineer says he was laid off because he was ‘young’, Reddit post sparks discussion",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/microsoft-engineer-says-he-was-laid-off-because-he-was-young-reddit-post-sparks-discussion-14013158.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260730092108_Microsoft-Corp-cloud-Azure.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSbUZ2VWxKSVJ5MDBaek5ZVFJDZkF4ampCU2dLTWdhTmw0YUhUZ00",
+      "date": "08/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-23T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Microsoft engineer claims he was laid off due to age",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samriddhi Srivastava"
+        ]
+      },
+      "link": "https://www.peoplematters.in/news/strategic-hr/microsoft-engineer-claims-he-was-laid-off-due-to-age-51624",
+      "thumbnail": "https://asset.peoplematters.in/images/97e529de-f508-490c-b32c-e39a58c1a326.png?w=800&auto=format,compress",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVVMGhoYms1NWFXNUhkRk5rVFJDZkF4ampCU2dLTWdhRlVvNW1LUWc",
+      "date": "08/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-23T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Microsoft layoffs: Here's what company is offering laid-off employees across US in severance",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-layoffs-heres-what-company-is-offering-laid-off-employees-across-us-in-severance/articleshow/132281346.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132281345,width-1280,height-720,imgsize-50378,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZORzVXUjJnek1IcHpNbXR4VFJDZkF4ampCU2dLTWdNTk1CWQ",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Microsoft plans another round of layoffs, may cut thousands of jobs across teams in ...",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-plans-another-round-of-layoffs-may-cut-thousands-of-jobs-across-teams-in-/articleshow/132106911.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132106901,width-1280,height-720,imgsize-62402,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVRXa0pWYkZwb2JXSmhWSEI0VFJDZkF4ampCU2dLTWc0QkFJekNEdW9rTWFtaWtyNzJIQQ",
+      "date": "07/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-03T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Microsoft lays off 4,800 as AI investments reshape business",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/world/microsoft-layoffs-4800-jobs-cut-xbox-commercial-ai-restructuring-10774405/",
+      "thumbnail": "https://images.indianexpress.com/2026/04/Microsoft-Reuters.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhaTFhTmtWSFRHMVJMWEZWVFJDZkF4ampCU2dLTWdZUkk2S0tsUW8",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Microsoft Cloud and AI strength fuels fourth quarter results",
+      "source": {
+        "name": "Microsoft Source",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.microsoft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.microsoft.com/source/2026/07/29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/",
+      "thumbnail": "https://news.microsoft.com/source/wp-content/themes/source-theme/assets/images/default-img--press-release.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1MV3hEWldNNVVFeElMVkJ2VFJDWUJCaThCQ2dLTWdZbHBaTE51UVk",
+      "date": "07/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-29T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Continuing Our Reset",
+      "source": {
+        "name": "XBOX Wire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://news.xbox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matt Booty"
+        ]
+      },
+      "link": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/",
+      "thumbnail": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUplV2RqUVcxbVkyeFJhazFmVFJDZkF4ampCU2dLTWdZcGhaQ3RzUVk",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Microsoft layoffs: Up to 5,500 jobs at risk as AI push sparks fresh H1-B debate",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/world/us/microsoft-layoffs-up-to-5500-jobs-at-risk-as-ai-push-sparks-fresh-h1-b-debate/articleshow/132118010.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132118805,width-1280,height-720,imgsize-189262,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJObGR0WmxOdlVGcDVVSEE1VFJDZkF4ampCU2dLTWdrQkFJZ1J0U1F1Q3dJ",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Microsoft cuts 4,800 jobs as it revamps Xbox in latest wave of mass layoffs",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theguardian.com/technology/2026/jul/06/microsoft-cuts-jobs-xbox-overhaul-mass-layoffs",
+      "thumbnail": "https://i.guim.co.uk/img/media/44da703597d9d43da6b30b7a9a6266dc516409ab/523_0_2811_2248/master/2811.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRNVGxYV0hSQmNrMVdiM1JqVFJEMEFoalJBeWdLTWdrUk1ZeklNYWMwVVFF",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Microsoft to cut 4,800 jobs, overhaul Xbox unit",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aditya Soni",
+          "Akash Sriram"
+        ]
+      },
+      "link": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/S7UYG3JMF5IXZGJJBLNZJ6TL4M.jpg?auth=0bc8dd4221434c0e5057a7d2b013acd6227d3bdd6f76e80ca808f7c09afddfee&height=628&width=1200&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtWMkZPTURJeVdYTXdPVE5aVFJDUUF4ai1CU2dLTWdZRjRZckdTQVE",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Microsoft layoffs hit hundreds in WA again, Xbox roles included",
+      "source": {
+        "name": "The Seattle Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.seattletimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Halverson"
+        ]
+      },
+      "link": "https://www.seattletimes.com/business/microsoft/microsofts-xbox-layoffs-hit-hundreds-in-wa-again/",
+      "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2026/09/09222026_Xbox-Layoffs_065342.jpg?d=780x496",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1MVFpHTW01dldHdFpNVUZ5VFJDNUF4aTNCU2dLTWdZSk1JQU93UUU",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "'This isn't about AI': Microsoft's Chief People Officer explains why company is cutting 4,800 jobs",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/companies/this-isn-t-about-ai-microsoft-s-chief-people-officer-explains-why-company-is-cutting-4-800-jobs-13967517.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260427140025_microsoftrtr4.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtjRVZOVjI0dGIzaDVha1JUVFJDZkF4ampCU2dLTWdhQlVvRkY0UUU",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "I am sole earner: Microsoft lays off employee in Hyderabad, saying you are too young",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankita Garg"
+        ]
+      },
+      "link": "https://www.indiatoday.in/technology/news/story/i-am-sole-earner-microsoft-lays-off-employee-in-hyderabad-saying-you-are-too-young-2977471-2026-08-22",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/microsoft--microsoft-layoffs--layoffs-225055713-16x9_0.png?VersionId=kWiobRriKcyItbCvhPNwUVJqMjppdHco&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBUMXAyUm1aSU5WOXNUbHBYVFJDZkF4ampCU2dLTWdZVkZZck5sUW8",
+      "date": "08/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-22T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Microsoft Layoffs: Xbox cuts 4,800 jobs and plans to spin off five gaming studios",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arshdeep Kaur"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/microsoft-cuts-4-800-jobs-as-xbox-unit-downsizes-and-plans-to-spin-off-four-gaming-studios-11783342793362.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/pexels-photo-28774616_1783342901030_1783342922036_1fae6ef0-4357-491d-9846-5e52fb737636.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9SM1pNUzJSTlptTnNWSFpEVFJDZkF4ampCU2dLTWdrQkFZanNIS21oTGdF",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Layoffs at US tech companies crossed 140,000 in the first six months of 2026; of these Amazon, Oracle, Me",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/layoffs-at-us-tech-companies-crossed-140000-in-the-first-six-months-of-2026-of-these-amazon-oracle-meta-and-microsoft-account-for-almost-50000/articleshow/132664142.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132664150,width-1280,height-720,imgsize-481232,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZlVE5FY1VKV01XdFpXR3hrVFJDZkF4ampCU2dLTWdZQkk0d3BJZ2c",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "Microsoft executive laid off after 25-year stint; colleague calls him ‘most talented’",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/microsoft-executive-laid-off-after-25-year-stint-colleague-calls-him-most-talented-13975456.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260629123112_459578658.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtjbnB6TmxCcFpYUmlOMWRrVFJDZkF4ampCU2dLTWdZUkU1WktFUXM",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "Tech layoffs 2026: More than 175,000 workers laid off as Apple, Microsoft, Oracle, Amazon, Meta, TikTok, U",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/global-trends/tech-layoffs-2026-more-than-175000-workers-laid-off-as-apple-microsoft-oracle-amazon-meta-tiktok-uber-linkedin-and-dozens-of-companies-cut-jobs-amid-ai-boom/articleshow/133511127.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133511524,width-1200,height-900,resizemode-4,imgsize-190788/tech-layoffs-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhTRmRQUlVabWFtMTZTWEowVFJEZ0F4aUFCU2dLTWdrQlVvb2xLV1Y2eUFJ",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "'My girlfriend still got laid off from Microsoft': Viral post lists 13 achievements and sparks tech...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/my-girlfriend-still-got-laid-off-from-microsoft-viral-post-lists-13-achievements-and-sparks-tech-industry-uncertainty-13970795.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260423160755_microsoftrtr3.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBPVEZwWm5reU5EZHFRa1JMVFJDZkF4ampCU2dLTWdhSlVwQ25xUWc",
+      "date": "07/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-10T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jordan Novet"
+        ]
+      },
+      "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/108176553-17533804702024-04-30t024519z_109344507_rc2pg7a2u6uc_rtrmadp_0_microsoft-indonesia.jpeg?v=1783017081&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpZbEpUWDFCNFEzQkhVRmRoVFJDZkF4ampCU2dLTWdZSllKYXVvUWc",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "\"I'm Glad I'm Getting Laid Off\": Microsoft Employee's Honest Post Goes Viral",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikhil Pandey"
+        ]
+      },
+      "link": "https://www.ndtv.com/offbeat/im-glad-im-getting-laid-off-microsoft-employees-honest-post-goes-viral-11711803",
+      "thumbnail": "https://c.ndtvimg.com/2026-07/kf9qts3s_microsoft-employees-honest-post-goes-viral_625x300_01_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=400,height=225&q=70",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUVFZwU3psaVJVMUhjelZUVFJEaEFSaVFBeWdLTWdZbFE1WlBJUWs",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "Microsoft warns of more changes after 4,800 layoffs amid broader restructuring",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-layoffs-xbox-ai-10774772/",
+      "thumbnail": "https://images.indianexpress.com/2026/07/Microsoft-Layoff.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRiVUoyWW5CS05rbDVNbFpYVFJDZkF4ampCU2dLTWdZSkFKTHZIQWc",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Microsoft is offering 9 months of salary for free to some laid-off employees",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankita Garg"
+        ]
+      },
+      "link": "https://www.indiatoday.in/technology/news/story/microsoft-offers-9-months-free-salary-to-some-laid-off-employees-2943183-2026-07-08",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/microsoft-layoffs-2026-074414618-16x9.png?VersionId=bfmq4haert2f54PN4rYN.zLDzUUOy4fO&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVRTF1T0ZwbU1IUTJWVFpWVFJDZkF4ampCU2dLTWdZQlVJd3dxQWM",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "Microsoft executive laid off weeks before career milestone: 'I made it just short of 25 years' | Hindustan Times",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bhavya Sukheja"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/trending/us/microsoft-executive-laid-off-weeks-before-career-milestone-i-made-it-just-short-of-25-years-101784200321472.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/07/16/1600x900/logo/MICROSOFT-LAYOFFS--0_1783448495738_1783448506324_ee46e61e-1726-4419-8739-2d8a150ae24a_1784202065244_a6b57735-793e-4145-90fe-d1d809dc0ad2.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1VV3cxZWtWbFdUWXpaWEJMVFJDZkF4ampCU2dLTWdZRnNZN21RQVU",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Microsoft to lay off under 2.5% of workforce in latest job cuts: Report",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/companies/microsoft-to-lay-off-under-2-5-of-workforce-in-latest-job-cuts-report-13962806.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251029202935_microsoftrtr2.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdUVVl4ZEZoRmEyZDFhbFIxVFJDZkF4ampCU2dLTWdrSmM0cW5ObWg3c1FF",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Xbox Continues \"Reset\" With Additional Layoffs And Restructuring",
+      "source": {
+        "name": "Deadline",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://deadline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dade Hayes"
+        ]
+      },
+      "link": "https://deadline.com/2026/09/xbox-layoffs-restructuring-microsoft-activision-1237110164/",
+      "thumbnail": "https://deadline.com/wp-content/uploads/2026/07/XBox.png?w=681&h=383&crop=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFXVnBhZEZZNFdYTnFhelJGVFJEX0FoaXBCU2dLTWdZcGhaQ3RzUVk",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Workers are entering the era of the forever layoff, where companies keep cutting small groups of employee",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/etimes/work-career/workers-are-entering-the-era-of-the-forever-layoff-where-companies-keep-cutting-small-groups-of-employees-even-while-hiring-for-ai-and-chasing-higher-productivity/articleshow/132383257.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132384143,width-1280,height-720,imgsize-130826,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUROVlpFY214S1gxSnpPV1JwVFJDZkF4ampCU2dLTWdZQk1ZeVVJQWs",
+      "date": "07/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-19T07:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "Microsoft layoffs: Company cuts 4800 jobs; HR head Amy Coleman tells employees the reason why: Our busine",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-layoffs-company-cuts-4800-jobs-hr-head-amy-coleman-tells-employees-the-reason-why-our-business-is-changing-because/articleshow/132217906.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132220498,width-1280,height-720,imgsize-789835,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdkVkZQUVZvelpHOU5kVlU0VFJDZkF4ampCU2dLTWdhQm80Nm5QUVk",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "Microsoft layoffs: Here's the severance package employees are getting after latest job cuts",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/microsoft-layoffs-heres-the-severance-package-employees-are-getting-after-latest-job-cuts/articleshow/132278272.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-132278272,width-1200,height-900,resizemode-4,imgsize-1112638/microsoft-layoffs-heres-the-severance-package-employees-are-getting-after-latest-job-cuts.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNhVWR2UmxGblExWlpVVEp6VFJEZ0F4aUFCU2dLTWdhQlZJYXBMUVk",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Microsoft layoffs: What severance package is being offered to US employees? All we know as company cuts 4,800 jobs | Hindustan Times",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Durva More"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/world-news/us-news/microsoft-layoffs-what-severance-package-is-being-offered-to-us-employees-all-we-know-as-company-cuts-4-800-jobs-101783518882669.html",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "After 37 Years At Microsoft, An Xbox Vice President's First LinkedIn Post Is His Layoff Announcement",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhinav Singh"
+        ]
+      },
+      "link": "https://www.ndtv.com/offbeat/after-37-years-at-microsoft-an-xbox-vice-presidents-first-linkedin-post-is-his-layoff-announcement-11745925",
+      "thumbnail": "https://c.ndtvimg.com/2026-07/b6tcn56g_as_625x300_08_July_26.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNWGcxTVZOUWRXOVBVbTluVFJDZkF4ampCU2dLTWdhdFpZek9xUVk",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Microsoft layoff: Employees offered up to 39 weeks' pay, stock vesting; here's who gets what",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sanchari Ghosh"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/microsoft-layoff-employees-offered-up-to-39-weeks-pay-stock-vesting-heres-who-gets-what-11783504960570.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/MICROSOFT-AI--0_1783508039972_1783508082105_3ca71d1e-bbc4-4e32-99ff-fd7241a3752f.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURSbmROVFdwNlVWSkVWamxwVFJDZkF4ampCU2dLTWdrQlVJQ0dLQ2dvdGdB",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Oracle Layoffs Today? 3,000 India Jobs At Risk As September 1 Deadline Looms; Microsoft Puts 500 On PIP",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vani Mehrotra"
+        ]
+      },
+      "link": "https://www.news18.com/india/oracle-layoffs-september-1-indians-jobs-cuts-oracle-3000-jobs-microsoft-pip-plan-ws-l-10303124.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-01-Sep-2026-08-32-AM-7865-2026-09-8b7a34e15e4e6cb528e3f9bb640af81a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNUa1pQZVVsa056SmFNMUpmVFJDZkF4ampCU2dLTWdZRndvenZ2QVU",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Microsoft’s AI gamble hits 4,800 jobs",
+      "source": {
+        "name": "HR Katha",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hrkatha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hrkatha.com/news/microsofts-ai-gamble-hits-4800-jobs/",
+      "thumbnail": "https://www.hrkatha.com/wp-content/uploads/2026/07/Microsoft_layoff.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljMjl2U1hGaU5rRTNhMmx4VFJERkF4aWxCU2dLTWdZQmM0aFRVUU0",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Microsoft layoffs: Kevin LaChapelle, the Xbox veteran who got laid off after 37 years says ‘I wish the te",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/microsoft-layoffs-meet-kevin-lachapelle-the-xbox-veteran-who-got-laid-off-after-37-years-i-wish-the-team-nothing-but-success/articleshow/132276881.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132276936,width-1280,height-720,imgsize-55610,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VREl0U205V2JtbEtZVU5MVFJDZkF4ampCU2dLTWdZcFpZYk9NUVU",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Microsoft layoffs: Here's what affected US employees will receive",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/brand-marketing/microsoft-layoffs-heres-what-affected-us-employees-will-receive-103509.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-08T113701.196-2026-07-f65f48579f354123b1eec7f67c769c02-1019x573.png?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVVRFJOYVZkSVpFVkdYMmM1VFJEOEFoaWpCU2dLTWdZSkFva28wUU0",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "'Glad I'm getting laid off': Microsoft employee's honest post about the relief from 'uncertainty' goes vi",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/glad-im-getting-laid-off-microsoft-employees-honest-post-about-the-relief-from-uncertainty-goes-viral/articleshow/132128973.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-132129050,width-1280,height-720,imgsize-95516,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZWRTU2VFd0ak9GaDNWRXhQVFJDZkF4ampCU2dLTWdZZGc0NXN0UVU",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "Microsoft Layoffs: Here's How Much Employees Will Receive In Severance",
+      "source": {
+        "name": "NDTV",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhinav Singh"
+        ]
+      },
+      "link": "https://www.ndtv.com/feature/microsoft-layoffs-heres-how-much-employees-will-receive-in-severance-11749713",
+      "thumbnail": "https://c.ndtvimg.com/2026-07/94ajaev8_microsoft_625x300_08_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXplVTFEYkhobFJYTnJkMVptVFJDZkF4ampCU2dLTWdNSll3NA",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "'I have everything figured out': Microsoft employee says manager's silence hinted at layoff, calls it...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/i-have-everything-figured-out-microsoft-employee-says-manager-s-silence-hinted-at-layoff-calls-it-a-relief-13962797.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260701015537_shdgfw74.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhXVzExYVVJeVRuWkhXVmcyVFJDZkF4ampCU2dLTWdhUnBaTHJ1UVk",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "Microsoft layoffs: All about the severance package offered to laid-off employees | Trending",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/trending/microsoft-layoffs-all-about-the-severance-package-offered-to-laid-off-employees-101783483099565.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/07/08/1600x900/logo/microsoft_1783483263440_1783483263620_f0cd7ac0-3b2c-4eb4-b459-7231f56a6d08.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpOV1pOYVdoSlRHY3liVVJtVFJDZkF4ampCU2dLTWdZRm9aREdPQVk",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "'World around is changing': Why Microsoft is laying off 4,800 people, overhauling Xbox | World News",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Poorva Joshi"
+        ]
+      },
+      "link": "https://www.hindustantimes.com/world-news/world-around-is-changing-why-microsoft-is-laying-off-4-800-people-xbox-overhaul-101783389703354.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/07/07/1600x900/logo/MICROSOFT-LAYOFFS--0_1783389756015_1783389767518_f7549136-cd2d-47f2-9209-8b57dab2a182.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNjRzlTYlVKUVRqQnBURmczVFJDZkF4ampCU2dLTWdZRnNZN212QVU",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

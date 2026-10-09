@@ -96,6 +96,9 @@ async def parse_resume(
     skills = resume_parser.extract_skills(content)
     return {
         "extracted_skills": skills,
+        "detected_role": resume_parser.detect_role(content),
+        "detected_location": resume_parser.detect_location(content),
+        "candidate_snippet": resume_parser.build_candidate_snippet(content),
         "character_count": len(content),
         "preview": content[:300] + ("..." if len(content) > 300 else "")
     }

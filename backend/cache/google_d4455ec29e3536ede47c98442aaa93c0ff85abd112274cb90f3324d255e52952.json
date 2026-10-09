@@ -1,0 +1,412 @@
+{
+  "search_metadata": {
+    "id": "6ac89f6f73ae60ede756f685",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5UbnrYTOA4CSA_ouLTrPAh2ioQG1eC01vu14ECjuO98/6ac89f6f73ae60ede756f685.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5UbnrYTOA4CSA_ouLTrPAh2ioQG1eC01vu14ECjuO98/6ac89f6f73ae60ede756f685.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/5UbnrYTOA4CSA_ouLTrPAh2ioQG1eC01vu14ECjuO98/6ac89f6f73ae60ede756f685.json_with_pixel_position",
+    "created_at": "2026-10-09 08:01:51 UTC",
+    "processed_at": "2026-10-09 08:01:51 UTC",
+    "google_url": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&oq=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5UbnrYTOA4CSA_ouLTrPAh2ioQG1eC01vu14ECjuO98/6ac89f6f73ae60ede756f685.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Microsoft employee reviews glassdoor ambitionbox interview",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Microsoft employee reviews glassdoor ambitionbox interview",
+    "total_results": 52,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ai_overview": {
+    "page_token": "Gsc5iHiczVXbcuI4EP2A_Y71S1LYXBIgVa4p2Ti-cBWBIeSFso0QBtsilokNb_sv-1Fb-zUjXyAmASYzD1srqpDVanW3uvvo_PW36_jrf__4ZxmGG_rA81EUlTAh2EUlm3i8SXe-zS-ISwN7-W3pisjnKNkGNnLmor0MiIc47IqOz-3exCpnU1HgkCPaxkw3X0f7x217fdcfD-qW2n4FCpeaE2eWSdGKeYtXlJ_x7G_9Z7XFFiVaQv5MlUoIOmFjtZHrT7BUESrVUp83PaYD_sOBFQDZP_taA-WKGpC-ZE7XAZAh0I8CKOcbRwkTwGSD_RQ9W-PLxrLosAJyrVm82reYTM3PXIk5CeQ4pqmmxIwk81Ni_YLXSyMzNj6urx6HZ6XZkfZhGZ1sXryJop6qSbAPNBZ_7uNDYRQgFyzhY74N0KoNFKDJOrkWODtAcMuDEhheU0vHWFLRMQ2dKQtT5-eYNbDAWwGbyrxjL-30I6BJX8ujpkC07mA7GY_UQb_6DFe9yAhiHwq-6ftlyNsW03OJOUfz2XImfEvX5Uq53rwX7u9uU0zZ9AgqWgTV05NZ1SeuZhBQ6pSk8gFOcjG3p1WT2GXPXExODuhp6s4N1pfn6ivJhbbPXaaau0ReKIq8ErK2zmU60LpAihRYbAH9ECH4DCflRCV3yCymlcU43cD5TQoW2cOivAeOi42jfb7O-qMA93NPoCXlZ9WD89NgmATr64L7kw5Ok6sP0yQzOOFa3pH28YCMgYcdHSinBUjTyN6rw2OE370nIy7qOmxzmUAMM6zLBsRTKQU8zrIny7krJXkTirFLl146zBxR_fzeT8fjl7SUA24-wKAIn8eGvRCieO_ck8kd1H0VD0K5VnfItAPPw4V41q-RkP3_wtSBomBOURcxNfwSpnRdOkdRSr6bxfpOUUlvyhjjC5jqZJg6UFTSOweK0j5T1CdMOSgLIcHUS0ZR6iWK-nVM4WuYgseUfMZU-zym1pcwlVJUEVNwq59Q1Amm3ikqx9TvUdTj71JUCjGUTad8tV3hi7z1WFHX3iaOerS6xhtEpuXnxnRnGMoY4p_y1sILHzxz7t7OnPmDVDHC3fx2xgTkAc25V7Hr2AGhZBHeIG_jkh1CNwF6c1BEb7BrUjonJLgxPcsJHeJbJL5x_BAFiQLnuQERBbPW2NOFMajXq52KshzZ0zquj01ns2dyTW4a5W1MIi1or5ClmmZcfo6EuTLp3r9Ullvf_L7t0-Ze8EfOAlRa0e5NWBltrT6QXs24O9Trfo-unlCfVoHrB164UXo1PB0alRdfaoV3MHKH--6C7nuLUbzsu5NoCtO4qGj5CnprRZa61zkvsEVW6RoGPQgmAJgMn8BgkGmz9mizucPmDpEA1KYAtpLe4KhtzhB9E82F1WiaqHzXqArNRlPgPBzuNiL7oH4gln8Ahopl7A",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gsc5iHiczVXbcuI4EP2A_Y71S1LYXBIgVa4p2Ti-cBWBIeSFso0QBtsilokNb_sv-1Fb-zUjXyAmASYzD1srqpDVanW3uvvo_PW36_jrf__4ZxmGG_rA81EUlTAh2EUlm3i8SXe-zS-ISwN7-W3pisjnKNkGNnLmor0MiIc47IqOz-3exCpnU1HgkCPaxkw3X0f7x217fdcfD-qW2n4FCpeaE2eWSdGKeYtXlJ_x7G_9Z7XFFiVaQv5MlUoIOmFjtZHrT7BUESrVUp83PaYD_sOBFQDZP_taA-WKGpC-ZE7XAZAh0I8CKOcbRwkTwGSD_RQ9W-PLxrLosAJyrVm82reYTM3PXIk5CeQ4pqmmxIwk81Ni_YLXSyMzNj6urx6HZ6XZkfZhGZ1sXryJop6qSbAPNBZ_7uNDYRQgFyzhY74N0KoNFKDJOrkWODtAcMuDEhheU0vHWFLRMQ2dKQtT5-eYNbDAWwGbyrxjL-30I6BJX8ujpkC07mA7GY_UQb_6DFe9yAhiHwq-6ftlyNsW03OJOUfz2XImfEvX5Uq53rwX7u9uU0zZ9AgqWgTV05NZ1SeuZhBQ6pSk8gFOcjG3p1WT2GXPXExODuhp6s4N1pfn6ivJhbbPXaaau0ReKIq8ErK2zmU60LpAihRYbAH9ECH4DCflRCV3yCymlcU43cD5TQoW2cOivAeOi42jfb7O-qMA93NPoCXlZ9WD89NgmATr64L7kw5Ok6sP0yQzOOFa3pH28YCMgYcdHSinBUjTyN6rw2OE370nIy7qOmxzmUAMM6zLBsRTKQU8zrIny7krJXkTirFLl146zBxR_fzeT8fjl7SUA24-wKAIn8eGvRCieO_ck8kd1H0VD0K5VnfItAPPw4V41q-RkP3_wtSBomBOURcxNfwSpnRdOkdRSr6bxfpOUUlvyhjjC5jqZJg6UFTSOweK0j5T1CdMOSgLIcHUS0ZR6iWK-nVM4WuYgseUfMZU-zym1pcwlVJUEVNwq59Q1Amm3ikqx9TvUdTj71JUCjGUTad8tV3hi7z1WFHX3iaOerS6xhtEpuXnxnRnGMoY4p_y1sILHzxz7t7OnPmDVDHC3fx2xgTkAc25V7Hr2AGhZBHeIG_jkh1CNwF6c1BEb7BrUjonJLgxPcsJHeJbJL5x_BAFiQLnuQERBbPW2NOFMajXq52KshzZ0zquj01ns2dyTW4a5W1MIi1or5ClmmZcfo6EuTLp3r9Ullvf_L7t0-Ze8EfOAlRa0e5NWBltrT6QXs24O9Trfo-unlCfVoHrB164UXo1PB0alRdfaoV3MHKH--6C7nuLUbzsu5NoCtO4qGj5CnprRZa61zkvsEVW6RoGPQgmAJgMn8BgkGmz9mizucPmDpEA1KYAtpLe4KhtzhB9E82F1WiaqHzXqArNRlPgPBzuNiL7oH4gln8Ahopl7A"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Microsoft Corporation Sales Specialist Interview Questions ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/sales-specialist",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFXPlG01LM73IYnoIPykwHHXTi9OdvQd-sXHPJXbJNQ6U23YZu1FPjH-2zynGaKMWxrRls7VJU1yvNaRKfjEG7NdD9w9CrRSYKH_OLqAcWD-9C3bR9Mr919sVnDypZATmKk2dwv_-FAoNO-NOX5LGQgE4TbR-7tYGgdODSiumA8HtvdLCxERFA0C-zftOreYskliQl360Eq0&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › sales-speci...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "30 Oct 2023",
+      "snippet": "Pro Tip by AmbitionBox: Keep your resume crisp and to the point. A recruiter looks at your resume for an average of 6 seconds, make sure to ...",
+      "snippet_highlighted_words": [
+        "AmbitionBox"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 2191
+          },
+          "extensions": [
+            "3.8(2,191)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Pro Tip by AmbitionBox: Keep your resume crisp and to the point. A recruiter looks at your resume for an average of 6 seconds, make sure to ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/sales-specialist",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZYUGxHMDFMTTczSVlub0lQeWt3SEhYVGk5T2R2UWQtc1hIUEpYYkpOUTZVMjNZWnUxRlBqSC0yenluR2FLTVd4clJsczdWSlUxeXZOYVJLZmpFRzdOZEQ5dzlDclJTWUtIX09McUFjV0QtOUMzYlI5TXI5MTlzVm5EeXBaQVRtS2syZHd2Xy1GQW9OTy1OT1g1TEdRZ0U0VGJSLTd0WUdnZE9EU2l1bUE4SHR2ZExDeEVSRkEwQy16ZnRPcmVZc2tsaVFsMzYwRXEwEgQaAggAGoAGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNwFCAAQABgAIAAqEAoJbWljcm9zb2Z0FZykZ0AqKwoIZW1wbG95ZWUVJ5lgPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxU30Tk_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVVuFdQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXqtpNAGgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My4QEvZ290bz91cmw9Q0FFU25BRUI2enN3RlhQbEcwMUxNNzNJWW5vSVB5a3dISFhUaTlPZHZRZC1zWEhQSlhiSk5RNlUyM1ladTFGUGpILTJ6eW5HYUtNV3hyUmxzN1ZKVTF5dk5hUktmakVHN05kRDl3OUNyUlNZS0hfT0xxQWNXRC05QzNiUjlNcjkxOXNWbkR5cFpBVG1LazJkd3ZfLUZBb05PLU5PWDVMR1FnRTRUYlItN3RZR2dkT0RTaXVtQThIdHZkTEN4RVJGQTBDLXpmdE9yZVlza2xpUWwzNjBFcTA6TjQgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBTYWxlcyBTcGVjaWFsaXN0IDxiPkludGVydmlldzwvYj4gUXVlc3Rpb25zIC4uLkKbAVBybyBUaXAgYnkgPGI-QW1iaXRpb25Cb3g8L2I-OiBLZWVwIHlvdXIgcmVzdW1lIGNyaXNwIGFuZCB0byB0aGUgcG9pbnQuIEEgcmVjcnVpdGVyIGxvb2tzIGF0IHlvdXIgcmVzdW1lIGZvciBhbiBhdmVyYWdlIG9mIDYgc2Vjb25kcywgbWFrZSBzdXJlIHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZYUGxHMDFMTTczSVlub0lQeWt3SEhYVGk5T2R2UWQtc1hIUEpYYkpOUTZVMjNZWnUxRlBqSC0yenluR2FLTVd4clJsczdWSlUxeXZOYVJLZmpFRzdOZEQ5dzlDclJTWUtIX09McUFjV0QtOUMzYlI5TXI5MTlzVm5EeXBaQVRtS2syZHd2Xy1GQW9OTy1OT1g1TEdRZ0U0VGJSLTd0WUdnZE9EU2l1bUE4SHR2ZExDeEVSRkEwQy16ZnRPcmVZc2tsaVFsMzYwRXEwEgQaAggAGoAGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNwFCAAQABgAIAAqEAoJbWljcm9zb2Z0FZykZ0AqKwoIZW1wbG95ZWUVJ5lgPhoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxU30Tk_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVVuFdQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXqtpNAGgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My4QEvZ290bz91cmw9Q0FFU25BRUI2enN3RlhQbEcwMUxNNzNJWW5vSVB5a3dISFhUaTlPZHZRZC1zWEhQSlhiSk5RNlUyM1ladTFGUGpILTJ6eW5HYUtNV3hyUmxzN1ZKVTF5dk5hUktmakVHN05kRDl3OUNyUlNZS0hfT0xxQWNXRC05QzNiUjlNcjkxOXNWbkR5cFpBVG1LazJkd3ZfLUZBb05PLU5PWDVMR1FnRTRUYlItN3RZR2dkT0RTaXVtQThIdHZkTEN4RVJGQTBDLXpmdE9yZVlza2xpUWwzNjBFcTA6TjQgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBTYWxlcyBTcGVjaWFsaXN0IDxiPkludGVydmlldzwvYj4gUXVlc3Rpb25zIC4uLkKbAVBybyBUaXAgYnkgPGI-QW1iaXRpb25Cb3g8L2I-OiBLZWVwIHlvdXIgcmVzdW1lIGNyaXNwIGFuZCB0byB0aGUgcG9pbnQuIEEgcmVjcnVpdGVyIGxvb2tzIGF0IHlvdXIgcmVzdW1lIGZvciBhbiBhdmVyYWdlIG9mIDYgc2Vjb25kcywgbWFrZSBzdXJlIHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/sales-specialist#:~:text=Pro%20Tip%20by%20AmbitionBox%3A,to%20leave%20the%20best%20impression."
+    },
+    {
+      "position": 2,
+      "title": "4 Microsoft Corporation Employee Relations Executive ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/employee-relations-executive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqAEB6zswFQQ7FEzt6kS1gqe36KbGPpSVdvaQTVBr_UqE7Pd-I_0QM51VvWxYlIcqYQcgHSs48l1_J4mzx1OH-13lV_lfbdzvgBIKGbtF4XxMUMnuBM70RGv1nm00JYCfsxDJM7flXQ-RJzKztIHqc157cQBG0DByd7GCINK04C78Lp-_w5MDe6lQOot6NL814EfT14HkRAapORlu3oMI3vov06AvwGeGBas&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › employee-...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "21 Mar 2025",
+      "snippet": "Find Microsoft Corporation Employee Relations Executive interview questions & answers shared by candidates. Prepare for Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Employee",
+        "interview",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 2254
+          },
+          "extensions": [
+            "3.8(2,254)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Find Microsoft Corporation Employee Relations Executive interview questions & answers shared by candidates. Prepare for Microsoft ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/employee-relations-executive",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZRUTdGRXp0NmtTMWdxZTM2S2JHUHBTVmR2YVFUVkJyX1VxRTdQZC1JXzBRTTUxVnZXeFlsSWNxWVFjZ0hTczQ4bDFfSjRtengxT0gtMTNsVl9sZmJkenZnQklLR2J0RjRYeE1VTW51Qk03MFJHdjFubTAwSllDZnN4REpNN2ZsWFEtUkp6S3p0SUhxYzE1N2NRQkcwREJ5ZDdHQ0lOSzA0Qzc4THAtX3c1TURlNmxRT290Nk5MODE0RWZUMTRIa1JBYXBPUmx1M29NSTN2b3YwNkF2d0dlR0JhcxIEGgIIABqdBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD5BQgAEAAYACAAKhAKCW1pY3Jvc29mdBVXHpZAKisKCGVtcGxveWVlFU7asUAaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVfLM5PxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FUI_XUAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVIqW5QBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZRUTdGRXp0NmtTMWdxZTM2S2JHUHBTVmR2YVFUVkJyX1VxRTdQZC1JXzBRTTUxVnZXeFlsSWNxWVFjZ0hTczQ4bDFfSjRtengxT0gtMTNsVl9sZmJkenZnQklLR2J0RjRYeE1VTW51Qk03MFJHdjFubTAwSllDZnN4REpNN2ZsWFEtUkp6S3p0SUhxYzE1N2NRQkcwREJ5ZDdHQ0lOSzA0Qzc4THAtX3c1TURlNmxRT290Nk5MODE0RWZUMTRIa1JBYXBPUmx1M29NSTN2b3YwNkF2d0dlR0JhczpMPGI-RW1wbG95ZWU8L2I-IFJlbGF0aW9ucyBFeGVjdXRpdmUgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgJmFtcDsgQW5zd2Vyc0KqAUZpbmQgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiA8Yj5FbXBsb3llZTwvYj4gUmVsYXRpb25zIEV4ZWN1dGl2ZSA8Yj5pbnRlcnZpZXc8L2I-IHF1ZXN0aW9ucyAmYW1wOyBhbnN3ZXJzIHNoYXJlZCBieSBjYW5kaWRhdGVzLiBQcmVwYXJlIGZvciA8Yj5NaWNyb3NvZnQ8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZRUTdGRXp0NmtTMWdxZTM2S2JHUHBTVmR2YVFUVkJyX1VxRTdQZC1JXzBRTTUxVnZXeFlsSWNxWVFjZ0hTczQ4bDFfSjRtengxT0gtMTNsVl9sZmJkenZnQklLR2J0RjRYeE1VTW51Qk03MFJHdjFubTAwSllDZnN4REpNN2ZsWFEtUkp6S3p0SUhxYzE1N2NRQkcwREJ5ZDdHQ0lOSzA0Qzc4THAtX3c1TURlNmxRT290Nk5MODE0RWZUMTRIa1JBYXBPUmx1M29NSTN2b3YwNkF2d0dlR0JhcxIEGgIIABqdBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD5BQgAEAAYACAAKhAKCW1pY3Jvc29mdBVXHpZAKisKCGVtcGxveWVlFU7asUAaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVfLM5PxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FUI_XUAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVIqW5QBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMvEBL2dvdG8_dXJsPUNBRVNxQUVCNnpzd0ZRUTdGRXp0NmtTMWdxZTM2S2JHUHBTVmR2YVFUVkJyX1VxRTdQZC1JXzBRTTUxVnZXeFlsSWNxWVFjZ0hTczQ4bDFfSjRtengxT0gtMTNsVl9sZmJkenZnQklLR2J0RjRYeE1VTW51Qk03MFJHdjFubTAwSllDZnN4REpNN2ZsWFEtUkp6S3p0SUhxYzE1N2NRQkcwREJ5ZDdHQ0lOSzA0Qzc4THAtX3c1TURlNmxRT290Nk5MODE0RWZUMTRIa1JBYXBPUmx1M29NSTN2b3YwNkF2d0dlR0JhczpMPGI-RW1wbG95ZWU8L2I-IFJlbGF0aW9ucyBFeGVjdXRpdmUgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgJmFtcDsgQW5zd2Vyc0KqAUZpbmQgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiA8Yj5FbXBsb3llZTwvYj4gUmVsYXRpb25zIEV4ZWN1dGl2ZSA8Yj5pbnRlcnZpZXc8L2I-IHF1ZXN0aW9ucyAmYW1wOyBhbnN3ZXJzIHNoYXJlZCBieSBjYW5kaWRhdGVzLiBQcmVwYXJlIGZvciA8Yj5NaWNyb3NvZnQ8L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "AmbitionBox"
+    },
+    {
+      "position": 3,
+      "title": "40+ Microsoft Corporation Intern Interview Questions & ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/intern",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFQg4CDCso01w1EdGo_o6G3UUlWdu8dfyqfrGi7tQzPuQ1dwrfyUDwE3QYFWwrBHh--pcFhoAP7olOrvf3zp0X6-alP7ZxcC1eNPh7etZlikUmTN1W6BlDw0dn27eN_EP-0RXzTbp7o2-jkA01-0uaHqK3-Trqz6_QX_t4bI-0J6cYDO1NGF4zMsRCaejTw&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › intern",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "30 Aug 2026",
+      "snippet": "Find Microsoft Corporation Intern interview questions & answers shared by 20+ candidates. Prepare for Microsoft Corporation interview with ...",
+      "snippet_highlighted_words": [
+        "Microsoft Corporation Intern interview questions & answers"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 2281
+          },
+          "extensions": [
+            "3.7(2,281)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Find Microsoft Corporation Intern interview questions & answers shared by 20+ candidates. Prepare for Microsoft Corporation interview with ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/intern",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZRZzRDRENzbzAxdzFFZEdvX282RzNVVWxXZHU4ZGZ5cWZyR2k3dFF6UHVRMWR3cmZ5VUR3RTNRWUZXd3JCSGgtLXBjRmhvQVA3b2xPcnZmM3pwMFg2LWFsUDdaeGNDMWVOUGg3ZXRabGlrVW1UTjFXNkJsRHcwZG4yN2VOX0VQLTBSWHpUYnA3bzItamtBMDEtMHVhSHFLMy1UcnF6Nl9RWF90NGJJLTBKNmNZRE8xTkdGNHpNc1JDYWVqVHcSBBoCCAAa8gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgUIABAAGAAgACoQCgltaWNyb3NvZnQVMONcQCorCghlbXBsb3llZRXVSgU9GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFY9EDT8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBXITzpAGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FWi5g0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUWc0Q0RDc28wMXcxRWRHb19vNkczVVVsV2R1OGRmeXFmckdpN3RRelB1UTFkd3JmeVVEd0UzUVlGV3dyQkhoLS1wY0Zob0FQN29sT3J2ZjN6cDBYNi1hbFA3WnhjQzFlTlBoN2V0Wmxpa1VtVE4xVzZCbER3MGRuMjdlTl9FUC0wUlh6VGJwN28yLWprQTAxLTB1YUhxSzMtVHJxejZfUVhfdDRiSS0wSjZjWURPMU5HRjR6TXNSQ2FlalR3Oko8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIEludGVybiA8Yj5JbnRlcnZpZXc8L2I-IFF1ZXN0aW9ucyBhbmQgQW5zd2Vyc0KeAUZpbmQgPGI-TWljcm9zb2Z0IENvcnBvcmF0aW9uIEludGVybiBpbnRlcnZpZXcgcXVlc3Rpb25zICZhbXA7IGFuc3dlcnM8L2I-IHNoYXJlZCBieSAyMCsgY2FuZGlkYXRlcy4gUHJlcGFyZSBmb3IgTWljcm9zb2Z0IENvcnBvcmF0aW9uIGludGVydmlldyB3aXRoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZRZzRDRENzbzAxdzFFZEdvX282RzNVVWxXZHU4ZGZ5cWZyR2k3dFF6UHVRMWR3cmZ5VUR3RTNRWUZXd3JCSGgtLXBjRmhvQVA3b2xPcnZmM3pwMFg2LWFsUDdaeGNDMWVOUGg3ZXRabGlrVW1UTjFXNkJsRHcwZG4yN2VOX0VQLTBSWHpUYnA3bzItamtBMDEtMHVhSHFLMy1UcnF6Nl9RWF90NGJJLTBKNmNZRE8xTkdGNHpNc1JDYWVqVHcSBBoCCAAa8gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgUIABAAGAAgACoQCgltaWNyb3NvZnQVMONcQCorCghlbXBsb3llZRXVSgU9GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFY9EDT8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBXITzpAGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FWi5g0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUWc0Q0RDc28wMXcxRWRHb19vNkczVVVsV2R1OGRmeXFmckdpN3RRelB1UTFkd3JmeVVEd0UzUVlGV3dyQkhoLS1wY0Zob0FQN29sT3J2ZjN6cDBYNi1hbFA3WnhjQzFlTlBoN2V0Wmxpa1VtVE4xVzZCbER3MGRuMjdlTl9FUC0wUlh6VGJwN28yLWprQTAxLTB1YUhxSzMtVHJxejZfUVhfdDRiSS0wSjZjWURPMU5HRjR6TXNSQ2FlalR3Oko8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIEludGVybiA8Yj5JbnRlcnZpZXc8L2I-IFF1ZXN0aW9ucyBhbmQgQW5zd2Vyc0KeAUZpbmQgPGI-TWljcm9zb2Z0IENvcnBvcmF0aW9uIEludGVybiBpbnRlcnZpZXcgcXVlc3Rpb25zICZhbXA7IGFuc3dlcnM8L2I-IHNoYXJlZCBieSAyMCsgY2FuZGlkYXRlcy4gUHJlcGFyZSBmb3IgTWljcm9zb2Z0IENvcnBvcmF0aW9uIGludGVydmlldyB3aXRoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "AmbitionBox"
+    },
+    {
+      "position": 4,
+      "title": "Microsoft review",
+      "link": "https://www.glassdoor.co.in/Reviews/Employee-Review-Microsoft-E1651-RVW104530340.htm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFSfnnnCtI9-fBGGvf7ln_Dhir8-EQ9ppBTxPtQ7em1nBEREyRMzrH6OfWXD6u-P37QfRo8UA6pm6OoUTYdF0qqmkr9vlyIfVqPc0cfsbnlrVnzj5q0GE1um7n1KL5fCoLKWs1XdMhwDibnOM_Qul8m7oR6UutSmlfEbmkT9UjGrhZMJlZAdOVshhgw&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.glassdoor.co.in › Reviews › Employee-Rev...",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp",
+      "snippet": "Microsoft reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+      "snippet_highlighted_words": [
+        "Microsoft reviews"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Microsoft reviews. A free inside look at company reviews and salaries posted anonymously by employees.",
+          "source_info_link": "https://www.glassdoor.co.in/Reviews/Employee-Review-Microsoft-E1651-RVW104530340.htm",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBACdASocABwAPtEutFooIagoGAEAGglsAM7saF_XElmMaLG_KCQCvZpciAAA_v7CJie1yWsSMQay3bxkbCDg7QbT_JTP8U8d7XkD8LO6-5-7Qe8_1Pf4nS2K4HSOvWmMQHKAXaN1VOxNWFQNWN1-7nUbUIspZr6WPaQrhzuSMFc6JoZ2pUHgoU_G1G4j_nwLdFrIc1OHAtnJ-TrXcj8HtwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZTZm5ubkN0STktZkJHR3ZmN2xuX0RoaXI4LUVROXBwQlR4UHRRN2VtMW5CRVJFeVJNenJINk9mV1hENnUtUDM3UWZSbzhVQTZwbTZPb1VUWWRGMHFxbWtyOXZseUlmVnFQYzBjZnNibmxyVm56ajVxMEdFMXVtN24xS0w1ZkNvTEtXczFYZE1od0RpYm5PTV9RdWw4bTdvUjZVdXRTbWxmRWJta1Q5VWpHcmhaTUpsWkFkT1ZzaGhndxIEGgIIABqcBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD4BAgAEAAYACAAKhAKCW1pY3Jvc29mdBXQTJ9AKisKCGVtcGxveWVlFbvCE0AaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV2PMKQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQSjIUAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FQAAAAAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZTZm5ubkN0STktZkJHR3ZmN2xuX0RoaXI4LUVROXBwQlR4UHRRN2VtMW5CRVJFeVJNenJINk9mV1hENnUtUDM3UWZSbzhVQTZwbTZPb1VUWWRGMHFxbWtyOXZseUlmVnFQYzBjZnNibmxyVm56ajVxMEdFMXVtN24xS0w1ZkNvTEtXczFYZE1od0RpYm5PTV9RdWw4bTdvUjZVdXRTbWxmRWJta1Q5VWpHcmhaTUpsWkFkT1ZzaGhndzoqPGI-TWljcm9zb2Z0PC9iPiByZXZpZXcgfCA8Yj5HbGFzc2Rvb3I8L2I-Qm08Yj5NaWNyb3NvZnQgcmV2aWV3czwvYj4uIEEgZnJlZSBpbnNpZGUgbG9vayBhdCBjb21wYW55IHJldmlld3MgYW5kIHNhbGFyaWVzIHBvc3RlZCBhbm9ueW1vdXNseSBieSBlbXBsb3llZXMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZTZm5ubkN0STktZkJHR3ZmN2xuX0RoaXI4LUVROXBwQlR4UHRRN2VtMW5CRVJFeVJNenJINk9mV1hENnUtUDM3UWZSbzhVQTZwbTZPb1VUWWRGMHFxbWtyOXZseUlmVnFQYzBjZnNibmxyVm56ajVxMEdFMXVtN24xS0w1ZkNvTEtXczFYZE1od0RpYm5PTV9RdWw4bTdvUjZVdXRTbWxmRWJta1Q5VWpHcmhaTUpsWkFkT1ZzaGhndxIEGgIIABqcBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD4BAgAEAAYACAAKhAKCW1pY3Jvc29mdBXQTJ9AKisKCGVtcGxveWVlFbvCE0AaCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MV2PMKQBoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQSjIUAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FQAAAAAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZTZm5ubkN0STktZkJHR3ZmN2xuX0RoaXI4LUVROXBwQlR4UHRRN2VtMW5CRVJFeVJNenJINk9mV1hENnUtUDM3UWZSbzhVQTZwbTZPb1VUWWRGMHFxbWtyOXZseUlmVnFQYzBjZnNibmxyVm56ajVxMEdFMXVtN24xS0w1ZkNvTEtXczFYZE1od0RpYm5PTV9RdWw4bTdvUjZVdXRTbWxmRWJta1Q5VWpHcmhaTUpsWkFkT1ZzaGhndzoqPGI-TWljcm9zb2Z0PC9iPiByZXZpZXcgfCA8Yj5HbGFzc2Rvb3I8L2I-Qm08Yj5NaWNyb3NvZnQgcmV2aWV3czwvYj4uIEEgZnJlZSBpbnNpZGUgbG9vayBhdCBjb21wYW55IHJldmlld3MgYW5kIHNhbGFyaWVzIHBvc3RlZCBhbm9ueW1vdXNseSBieSBlbXBsb3llZXMuIgIQAUgAWABoAA",
+      "source": "Glassdoor"
+    },
+    {
+      "position": 5,
+      "title": "3 Microsoft Corporation Technical Advisor Interview ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/technical-advisor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFcCLc72QcVZQw9IbrmLuh_OXRRngQQ8XaG-CRZCl_g-6o7gpCeGrE3noTOjgMsRotYqT4XNfhB848EqFGj_IdDb4Gxb9OxhqoODt_d_xn1CzXU9Nv5EATICxAMr1-lgionSRDzstP62pNRBWLRT-cikK3JVCC4mBXpsBeSXdW8X0VtgJ-rna-AiUgzos28xwoQotB3QWgGQv&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › technical-...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "24 May 2021",
+      "snippet": "This was a 60 minute technical round involving questions based on data structures, OOPS concepts, DBMS and projects that I had mentioned in my ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 2262
+          },
+          "extensions": [
+            "3.8(2,262)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This was a 60 minute technical round involving questions based on data structures, OOPS concepts, DBMS and projects that I had mentioned in my ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/technical-advisor",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZjQ0xjNzJRY1ZaUXc5SWJybUx1aF9PWFJSbmdRUThYYUctQ1JaQ2xfZy02bzdncENlR3JFM25vVE9qZ01zUm90WXFUNFhOZmhCODQ4RXFGR2pfSWREYjRHeGI5T3hocW9PRHRfZF94bjFDelhVOU52NUVBVElDeEFNcjEtbGdpb25TUkR6c3RQNjJwTlJCV0xSVC1jaWtLM0pWQ0M0bUJYcHNCZVNYZFc4WDBWdGdKLXJuYS1BaVVnem9zMjh4d29Rb3RCM1FXZ0dRdhIEGgIIABr-BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDaBQgAEAAYACAAKhAKCW1pY3Jvc29mdBWQX1hAKisKCGVtcGxveWVlFU8iIz8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MViAhwPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FVjCMEAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVqAOFQBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZjQ0xjNzJRY1ZaUXc5SWJybUx1aF9PWFJSbmdRUThYYUctQ1JaQ2xfZy02bzdncENlR3JFM25vVE9qZ01zUm90WXFUNFhOZmhCODQ4RXFGR2pfSWREYjRHeGI5T3hocW9PRHRfZF94bjFDelhVOU52NUVBVElDeEFNcjEtbGdpb25TUkR6c3RQNjJwTlJCV0xSVC1jaWtLM0pWQ0M0bUJYcHNCZVNYZFc4WDBWdGdKLXJuYS1BaVVnem9zMjh4d29Rb3RCM1FXZ0dRdjpPMyA8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIFRlY2huaWNhbCBBZHZpc29yIDxiPkludGVydmlldzwvYj4gUXVlc3Rpb25zIC4uLkKXAVRoaXMgd2FzIGEgNjAgbWludXRlIHRlY2huaWNhbCByb3VuZCBpbnZvbHZpbmcgcXVlc3Rpb25zIGJhc2VkIG9uIGRhdGEgc3RydWN0dXJlcywgT09QUyBjb25jZXB0cywgREJNUyBhbmQgcHJvamVjdHMgdGhhdCBJIGhhZCBtZW50aW9uZWQgaW4gbXkmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZjQ0xjNzJRY1ZaUXc5SWJybUx1aF9PWFJSbmdRUThYYUctQ1JaQ2xfZy02bzdncENlR3JFM25vVE9qZ01zUm90WXFUNFhOZmhCODQ4RXFGR2pfSWREYjRHeGI5T3hocW9PRHRfZF94bjFDelhVOU52NUVBVElDeEFNcjEtbGdpb25TUkR6c3RQNjJwTlJCV0xSVC1jaWtLM0pWQ0M0bUJYcHNCZVNYZFc4WDBWdGdKLXJuYS1BaVVnem9zMjh4d29Rb3RCM1FXZ0dRdhIEGgIIABr-BRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDaBQgAEAAYACAAKhAKCW1pY3Jvc29mdBWQX1hAKisKCGVtcGxveWVlFU8iIz8aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MViAhwPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FVjCMEAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVqAOFQBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZjQ0xjNzJRY1ZaUXc5SWJybUx1aF9PWFJSbmdRUThYYUctQ1JaQ2xfZy02bzdncENlR3JFM25vVE9qZ01zUm90WXFUNFhOZmhCODQ4RXFGR2pfSWREYjRHeGI5T3hocW9PRHRfZF94bjFDelhVOU52NUVBVElDeEFNcjEtbGdpb25TUkR6c3RQNjJwTlJCV0xSVC1jaWtLM0pWQ0M0bUJYcHNCZVNYZFc4WDBWdGdKLXJuYS1BaVVnem9zMjh4d29Rb3RCM1FXZ0dRdjpPMyA8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIFRlY2huaWNhbCBBZHZpc29yIDxiPkludGVydmlldzwvYj4gUXVlc3Rpb25zIC4uLkKXAVRoaXMgd2FzIGEgNjAgbWludXRlIHRlY2huaWNhbCByb3VuZCBpbnZvbHZpbmcgcXVlc3Rpb25zIGJhc2VkIG9uIGRhdGEgc3RydWN0dXJlcywgT09QUyBjb25jZXB0cywgREJNUyBhbmQgcHJvamVjdHMgdGhhdCBJIGhhZCBtZW50aW9uZWQgaW4gbXkmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/technical-advisor#:~:text=This%20was%20a%2060%20minute,had%20mentioned%20in%20my%20resume."
+    },
+    {
+      "position": 6,
+      "title": "5 Microsoft Corporation Executive Interview Questions & ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/executive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFTYJjk5aWm5A-cX7MB0r53s1rq3qTfwVH1naW2uD9QlYUoGmqBMWr1KUleEr2-T52GRwXRE1giOCbjLmKXhTw5ns4xcw7cJQnPZ8H9Jwblwpr6MXX8efaWxAgPr_b-PN_TP-hAOB3dbOijFmcpvUs9ZRrYc9uuNZKkLgEieMLMT2C5Ykdj6-sRiywK4i8PUGwQ&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › executive",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "15 Apr 2026",
+      "snippet": "Pro Tip by AmbitionBox: Keep your resume crisp and to the point. A recruiter looks at your resume for an average of 6 seconds, make sure to ...",
+      "snippet_highlighted_words": [
+        "AmbitionBox"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 2283
+          },
+          "extensions": [
+            "3.7(2,283)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Pro Tip by AmbitionBox: Keep your resume crisp and to the point. A recruiter looks at your resume for an average of 6 seconds, make sure to ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/executive",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZUWUpqazVhV201QS1jWDdNQjByNTNzMXJxM3FUZndWSDFuYVcydUQ5UWxZVW9HbXFCTVdyMUtVbGVFcjItVDUyR1J3WFJFMWdpT0NiakxtS1hoVHc1bnM0eGN3N2NKUW5QWjhIOUp3Ymx3cHI2TVhYOGVmYVd4QWdQcl9iLVBOX1RQLWhBT0IzZGJPaWpGbWNwdlVzOVpSclljOXV1TlpLa0xnRWllTUxNVDJDNVlrZGo2LXNSaXl3SzRpOFBVR3dREgQaAggAGvAFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMwFCAAQABgAIAAqEAoJbWljcm9zb2Z0FVwWd0AqKwoIZW1wbG95ZWUVNm8_PRoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxUxGCs_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVA9BJQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXG55tAGgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RlRZSmprNWFXbTVBLWNYN01CMHI1M3MxcnEzcVRmd1ZIMW5hVzJ1RDlRbFlVb0dtcUJNV3IxS1VsZUVyMi1UNTJHUndYUkUxZ2lPQ2JqTG1LWGhUdzVuczR4Y3c3Y0pRblBaOEg5SndibHdwcjZNWFg4ZWZhV3hBZ1ByX2ItUE5fVFAtaEFPQjNkYk9pakZtY3B2VXM5WlJyWWM5dXVOWktrTGdFaWVNTE1UMkM1WWtkajYtc1JpeXdLNGk4UFVHd1E6RzUgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBFeGVjdXRpdmUgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgLi4uQpsBUHJvIFRpcCBieSA8Yj5BbWJpdGlvbkJveDwvYj46IEtlZXAgeW91ciByZXN1bWUgY3Jpc3AgYW5kIHRvIHRoZSBwb2ludC4gQSByZWNydWl0ZXIgbG9va3MgYXQgeW91ciByZXN1bWUgZm9yIGFuIGF2ZXJhZ2Ugb2YgNiBzZWNvbmRzLCBtYWtlIHN1cmUgdG8mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZUWUpqazVhV201QS1jWDdNQjByNTNzMXJxM3FUZndWSDFuYVcydUQ5UWxZVW9HbXFCTVdyMUtVbGVFcjItVDUyR1J3WFJFMWdpT0NiakxtS1hoVHc1bnM0eGN3N2NKUW5QWjhIOUp3Ymx3cHI2TVhYOGVmYVd4QWdQcl9iLVBOX1RQLWhBT0IzZGJPaWpGbWNwdlVzOVpSclljOXV1TlpLa0xnRWllTUxNVDJDNVlrZGo2LXNSaXl3SzRpOFBVR3dREgQaAggAGvAFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMwFCAAQABgAIAAqEAoJbWljcm9zb2Z0FVwWd0AqKwoIZW1wbG95ZWUVNm8_PRoJZW1wbG95ZWVzGgplbXBsb3ltZW50GgNqb2IqIQoHcmV2aWV3cxUxGCs_Gghjb21tZW50cxoHcmF0aW5ncyo-CglnbGFzc2Rvb3IVAAAAABoKZ2xhc3MgZG9vchoOaXY7cDtnbGFzc2Rvb3IaCHNhbGFyaWVzGgZzYWxhcnkqMgoLYW1iaXRpb25ib3gVA9BJQBoMYW1iaXRpb24gYm94GhBpdjtwO2FtYml0aW9uYm94KioKCWludGVydmlldxXG55tAGgxpbnRlcnZpZXdpbmcaCmludGVydmlld3My2AEvZ290bz91cmw9Q0FFU2xRRUI2enN3RlRZSmprNWFXbTVBLWNYN01CMHI1M3MxcnEzcVRmd1ZIMW5hVzJ1RDlRbFlVb0dtcUJNV3IxS1VsZUVyMi1UNTJHUndYUkUxZ2lPQ2JqTG1LWGhUdzVuczR4Y3c3Y0pRblBaOEg5SndibHdwcjZNWFg4ZWZhV3hBZ1ByX2ItUE5fVFAtaEFPQjNkYk9pakZtY3B2VXM5WlJyWWM5dXVOWktrTGdFaWVNTE1UMkM1WWtkajYtc1JpeXdLNGk4UFVHd1E6RzUgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBFeGVjdXRpdmUgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgLi4uQpsBUHJvIFRpcCBieSA8Yj5BbWJpdGlvbkJveDwvYj46IEtlZXAgeW91ciByZXN1bWUgY3Jpc3AgYW5kIHRvIHRoZSBwb2ludC4gQSByZWNydWl0ZXIgbG9va3MgYXQgeW91ciByZXN1bWUgZm9yIGFuIGF2ZXJhZ2Ugb2YgNiBzZWNvbmRzLCBtYWtlIHN1cmUgdG8mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/executive#:~:text=Pro%20Tip%20by%20AmbitionBox%3A,to%20leave%20the%20best%20impression."
+    },
+    {
+      "position": 7,
+      "title": "Microsoft Corporation Data Entry jobs Interview Questions ...",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/data-entry-jobs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFUeEF2-qEW-5pu0n8l1w965Ga_6g6B_KeRi3ysHiYrPxWFCVWHKUvTRmJwFoQxsYKizIiOBj5xbCQEdrUD4wRxSKI6wvUC6K_SbMRlGtmKDJ4BhoJiJDprp5UV65-O7JWCb-OVJQ1Ev_NiLDemGfRk0c26Ug5CTpUddAfwh3F9xFkP7qoJb7wCToKIVBI48U9hZMypCChg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › data-entry...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "21 May 2026",
+      "snippet": "The test had a time limit. Every 10 minutes you had to do at least 4 questions. It was quite fast paced. The questions were from basic coding, ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.8,
+            "reviews": 2254
+          },
+          "extensions": [
+            "3.8(2,254)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The test had a time limit. Every 10 minutes you had to do at least 4 questions. It was quite fast paced. The questions were from basic coding, ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/data-entry-jobs",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZUVGMi1xRVctNXB1MG44bDF3OTY1R2FfNmc2Ql9LZVJpM3lzSGlZclB4V0ZDVldIS1V2VFJtSndGb1F4c1lLaXpJaU9CajV4YkNRRWRyVUQ0d1J4U0tJNnd2VUM2S19TYk1SbEd0bUtESjRCaG9KaUpEcHJwNVVWNjUtTzdKV0NiLU9WSlExRXZfTmlMRGVtR2ZSazBjMjZVZzVDVHBVZGRBZndoM0Y5eEZrUDdxb0piN3dDVG9LSVZCSTQ4VTloWk15cENDaGcSBBoCCAAa_AUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2AUIABAAGAAgACoQCgltaWNyb3NvZnQVfOJPQCorCghlbXBsb3llZRWIaLM8GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFYfuGj8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBXrLD5AGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FSoQgkAaDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLgAS9nb3RvP3VybD1DQUVTbXdFQjZ6c3dGVWVFRjItcUVXLTVwdTBuOGwxdzk2NUdhXzZnNkJfS2VSaTN5c0hpWXJQeFdGQ1ZXSEtVdlRSbUp3Rm9ReHNZS2l6SWlPQmo1eGJDUUVkclVENHdSeFNLSTZ3dlVDNktfU2JNUmxHdG1LREo0QmhvSmlKRHBycDVVVjY1LU83SldDYi1PVkpRMUV2X05pTERlbUdmUmswYzI2VWc1Q1RwVWRkQWZ3aDNGOXhGa1A3cW9KYjd3Q1RvS0lWQkk0OFU5aFpNeXBDQ2hnOk8xMCsgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBEYXRhIEVudHJ5IGpvYnMgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgLi4uQpcBVGhlIHRlc3QgaGFkIGEgdGltZSBsaW1pdC4gRXZlcnkgMTAgbWludXRlcyB5b3UgaGFkIHRvIGRvIGF0IGxlYXN0IDQgcXVlc3Rpb25zLiBJdCB3YXMgcXVpdGUgZmFzdCBwYWNlZC4gVGhlIHF1ZXN0aW9ucyB3ZXJlIGZyb20gYmFzaWMgY29kaW5nLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZVZUVGMi1xRVctNXB1MG44bDF3OTY1R2FfNmc2Ql9LZVJpM3lzSGlZclB4V0ZDVldIS1V2VFJtSndGb1F4c1lLaXpJaU9CajV4YkNRRWRyVUQ0d1J4U0tJNnd2VUM2S19TYk1SbEd0bUtESjRCaG9KaUpEcHJwNVVWNjUtTzdKV0NiLU9WSlExRXZfTmlMRGVtR2ZSazBjMjZVZzVDVHBVZGRBZndoM0Y5eEZrUDdxb0piN3dDVG9LSVZCSTQ4VTloWk15cENDaGcSBBoCCAAa_AUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA2AUIABAAGAAgACoQCgltaWNyb3NvZnQVfOJPQCorCghlbXBsb3llZRWIaLM8GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFYfuGj8aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBXrLD5AGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3FSoQgkAaDGludGVydmlld2luZxoKaW50ZXJ2aWV3czLgAS9nb3RvP3VybD1DQUVTbXdFQjZ6c3dGVWVFRjItcUVXLTVwdTBuOGwxdzk2NUdhXzZnNkJfS2VSaTN5c0hpWXJQeFdGQ1ZXSEtVdlRSbUp3Rm9ReHNZS2l6SWlPQmo1eGJDUUVkclVENHdSeFNLSTZ3dlVDNktfU2JNUmxHdG1LREo0QmhvSmlKRHBycDVVVjY1LU83SldDYi1PVkpRMUV2X05pTERlbUdmUmswYzI2VWc1Q1RwVWRkQWZ3aDNGOXhGa1A3cW9KYjd3Q1RvS0lWQkk0OFU5aFpNeXBDQ2hnOk8xMCsgPGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiBEYXRhIEVudHJ5IGpvYnMgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgLi4uQpcBVGhlIHRlc3QgaGFkIGEgdGltZSBsaW1pdC4gRXZlcnkgMTAgbWludXRlcyB5b3UgaGFkIHRvIGRvIGF0IGxlYXN0IDQgcXVlc3Rpb25zLiBJdCB3YXMgcXVpdGUgZmFzdCBwYWNlZC4gVGhlIHF1ZXN0aW9ucyB3ZXJlIGZyb20gYmFzaWMgY29kaW5nLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/data-entry-jobs#:~:text=The%20test%20had%20a%20time,basic%20coding%2C%20aptitude%20and%20debugging."
+    },
+    {
+      "position": 8,
+      "title": "Senior Engineering Manager Interview Questions & Answers",
+      "link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/senior-engineering-manager",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFcgFg6YFvlZbLYdW2jdyixxy2SNrHoEZVuVQF8PsOyF0omsx3CxtRXZgDbld5uYxViAKeEM_9Y7LdwDeiMSlVTsjhypgwwndNcCFfYlTE11DwXcMyUEjaQbT52AOtW4Fwq8P9434XsXX4r91gXE4PUmHTJScd6v_v3oSvpKYv2CsPRQ85P7QOLWRazm9osTLsCXzj_Gx2H4ISjn0sCfFzvLy&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › interviews › senior-eng...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "date": "15 Jun 2024",
+      "snippet": "... Microsoft Corporation interview with insights on experience, rounds, questions & tips on AmbitionBox. ... Ratings. based on 2.3k reviews. 3.7 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "interview",
+        "AmbitionBox",
+        "Ratings",
+        "reviews"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 2281
+          },
+          "extensions": [
+            "3.7(2,281)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "... Microsoft Corporation interview with insights on experience, rounds, questions & tips on AmbitionBox. ... Ratings. based on 2.3k reviews. 3.7 ...",
+          "source_info_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/senior-engineering-manager",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZjZ0ZnNllGdmxaYkxZZFcyamR5aXh4eTJTTnJIb0VaVnVWUUY4UHNPeUYwb21zeDNDeHRSWFpnRGJsZDV1WXhWaUFLZUVNXzlZN0xkd0RlaU1TbFZUc2poeXBnd3duZE5jQ0ZmWWxURTExRHdYY015VUVqYVFiVDUyQU90VzRGd3E4UDk0MzRYc1hYNHI5MWdYRTRQVW1IVEpTY2Q2dl92M29TdnBLWXYyQ3NQUlE4NVA3UU9MV1Jhem05b3NUTHNDWHpqX0d4Mkg0SVNqbjBzQ2ZGenZMeRIEGgIIABqoBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCEBggAEAAYACAAKhAKCW1pY3Jvc29mdBUeqWhAKisKCGVtcGxveWVlFRNaKz0aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVbx8hPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FUisSEAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVKCOYQBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZjZ0ZnNllGdmxaYkxZZFcyamR5aXh4eTJTTnJIb0VaVnVWUUY4UHNPeUYwb21zeDNDeHRSWFpnRGJsZDV1WXhWaUFLZUVNXzlZN0xkd0RlaU1TbFZUc2poeXBnd3duZE5jQ0ZmWWxURTExRHdYY015VUVqYVFiVDUyQU90VzRGd3E4UDk0MzRYc1hYNHI5MWdYRTRQVW1IVEpTY2Q2dl92M29TdnBLWXYyQ3NQUlE4NVA3UU9MV1Jhem05b3NUTHNDWHpqX0d4Mkg0SVNqbjBzQ2ZGenZMeTpDU2VuaW9yIEVuZ2luZWVyaW5nIE1hbmFnZXIgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgJmFtcDsgQW5zd2Vyc0LBAS4uLiA8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIDxiPmludGVydmlldzwvYj4gd2l0aCBpbnNpZ2h0cyBvbiBleHBlcmllbmNlLCByb3VuZHMsIHF1ZXN0aW9ucyAmYW1wOyB0aXBzIG9uIDxiPkFtYml0aW9uQm94PC9iPi4gLi4uIDxiPlJhdGluZ3M8L2I-LiBiYXNlZCBvbiAyLjNrIDxiPnJldmlld3M8L2I-LiAzLjcmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZjZ0ZnNllGdmxaYkxZZFcyamR5aXh4eTJTTnJIb0VaVnVWUUY4UHNPeUYwb21zeDNDeHRSWFpnRGJsZDV1WXhWaUFLZUVNXzlZN0xkd0RlaU1TbFZUc2poeXBnd3duZE5jQ0ZmWWxURTExRHdYY015VUVqYVFiVDUyQU90VzRGd3E4UDk0MzRYc1hYNHI5MWdYRTRQVW1IVEpTY2Q2dl92M29TdnBLWXYyQ3NQUlE4NVA3UU9MV1Jhem05b3NUTHNDWHpqX0d4Mkg0SVNqbjBzQ2ZGenZMeRIEGgIIABqoBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCEBggAEAAYACAAKhAKCW1pY3Jvc29mdBUeqWhAKisKCGVtcGxveWVlFRNaKz0aCWVtcGxveWVlcxoKZW1wbG95bWVudBoDam9iKiEKB3Jldmlld3MVbx8hPxoIY29tbWVudHMaB3JhdGluZ3MqPgoJZ2xhc3Nkb29yFQAAAAAaCmdsYXNzIGRvb3IaDml2O3A7Z2xhc3Nkb29yGghzYWxhcmllcxoGc2FsYXJ5KjIKC2FtYml0aW9uYm94FUisSEAaDGFtYml0aW9uIGJveBoQaXY7cDthbWJpdGlvbmJveCoqCglpbnRlcnZpZXcVKCOYQBoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZjZ0ZnNllGdmxaYkxZZFcyamR5aXh4eTJTTnJIb0VaVnVWUUY4UHNPeUYwb21zeDNDeHRSWFpnRGJsZDV1WXhWaUFLZUVNXzlZN0xkd0RlaU1TbFZUc2poeXBnd3duZE5jQ0ZmWWxURTExRHdYY015VUVqYVFiVDUyQU90VzRGd3E4UDk0MzRYc1hYNHI5MWdYRTRQVW1IVEpTY2Q2dl92M29TdnBLWXYyQ3NQUlE4NVA3UU9MV1Jhem05b3NUTHNDWHpqX0d4Mkg0SVNqbjBzQ2ZGenZMeTpDU2VuaW9yIEVuZ2luZWVyaW5nIE1hbmFnZXIgPGI-SW50ZXJ2aWV3PC9iPiBRdWVzdGlvbnMgJmFtcDsgQW5zd2Vyc0LBAS4uLiA8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uIDxiPmludGVydmlldzwvYj4gd2l0aCBpbnNpZ2h0cyBvbiBleHBlcmllbmNlLCByb3VuZHMsIHF1ZXN0aW9ucyAmYW1wOyB0aXBzIG9uIDxiPkFtYml0aW9uQm94PC9iPi4gLi4uIDxiPlJhdGluZ3M8L2I-LiBiYXNlZCBvbiAyLjNrIDxiPnJldmlld3M8L2I-LiAzLjcmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/interviews/microsoft-corporation-interview-questions/senior-engineering-manager#:~:text=Microsoft%20Corporation%20Reviews%20and%20Ratings,3.7%2F5"
+    },
+    {
+      "position": 9,
+      "title": "Microsoft recruiting process",
+      "link": "https://www.ambitionbox.com/p/microsoft-recruiting-process-h1xbzgd--8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFe61NyJ2Qsb2of5cStdUrwygg0Ud2ggWhj97Fd8GwVfLYSdbo41L1KG-r5BOFuHJx-JHQUXxD6y1oi9TxtOhBZHdz1Pt0SMmEbAdkQpAAItIhTWg8S9YZEiasi76IdzRRjNQ9w8fsXzbTXJPFEaqj_49Z_KWOp3WZYaeyA&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.ambitionbox.com › microsoft-recruiting-pr...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp",
+      "snippet": "I have given the first round of the interview and I am still waiting for my results. In the action centre it shows scheduling while I have not received any ...",
+      "snippet_highlighted_words": [
+        "interview"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I have given the first round of the interview and I am still waiting for my results. In the action centre it shows scheduling while I have not received any ...",
+          "source_info_link": "https://www.ambitionbox.com/p/microsoft-recruiting-process-h1xbzgd--8",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASocABwAPtE-tFooIigoFAEAGglsALsOIz3jkiGP2ADCQpl5OQ7V183e7nXQfwdkMUgAAP72Als7XKYY8ciPqT0zGi4L1vA_CDBDGjxTbpBubCvq8kI9QbOFordtDzarLZdOW5BlpyRrpdlQRPbOv-At5wrFfAv2LRhG6WzMT_MYffory1Q6xGB2oiXZnTwrxDX6_HeGOgf3H8GPn2nckaah3ROp9cGe9-VNgat0M7Bk-3X1gv_qfFCSn_N1JylTvsNB-aKwNrbLGjJ53ungumutwlNhen7KeU-D4Kfy_jmkNpto1531UgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "IN"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZlNjFOeUoyUXNiMm9mNWNTdGRVcnd5Z2cwVWQyZ2dXaGo5N0ZkOEd3VmZMWVNkYm80MUwxS0ctcjVCT0Z1SEp4LUpIUVVYeEQ2eTFvaTlUeHRPaEJaSGR6MVB0MFNNbUViQWRrUXBBQUl0SWhUV2c4UzlZWkVpYXNpNzZJZHpSUmpOUTl3OGZzWHpiVFhKUEZFYXFqXzQ5Wl9LV09wM1daWWFleUESBBoCCAAa1QUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAsQUIABAAGAAgACoQCgltaWNyb3NvZnQVYKFUQCorCghlbXBsb3llZRWohJg8GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFc3nYj0aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBWAfjlAGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3Fch9RD8aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGZTYxTnlKMlFzYjJvZjVjU3RkVXJ3eWdnMFVkMmdnV2hqOTdGZDhHd1ZmTFlTZGJvNDFMMUtHLXI1Qk9GdUhKeC1KSFFVWHhENnkxb2k5VHh0T2hCWkhkejFQdDBTTW1FYkFka1FwQUFJdEloVFdnOFM5WVpFaWFzaTc2SWR6UlJqTlE5dzhmc1h6YlRYSlBGRWFxal80OVpfS1dPcDNXWllhZXlBOjg8Yj5NaWNyb3NvZnQ8L2I-IHJlY3J1aXRpbmcgcHJvY2VzcyB8IDxiPkFtYml0aW9uQm94PC9iPkKrAUkgaGF2ZSBnaXZlbiB0aGUgZmlyc3Qgcm91bmQgb2YgdGhlIDxiPmludGVydmlldzwvYj4gYW5kIEkgYW0gc3RpbGwgd2FpdGluZyBmb3IgbXkgcmVzdWx0cy4gSW4gdGhlIGFjdGlvbiBjZW50cmUgaXQgc2hvd3Mgc2NoZWR1bGluZyB3aGlsZSBJIGhhdmUgbm90IHJlY2VpdmVkIGFueSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZlNjFOeUoyUXNiMm9mNWNTdGRVcnd5Z2cwVWQyZ2dXaGo5N0ZkOEd3VmZMWVNkYm80MUwxS0ctcjVCT0Z1SEp4LUpIUVVYeEQ2eTFvaTlUeHRPaEJaSGR6MVB0MFNNbUViQWRrUXBBQUl0SWhUV2c4UzlZWkVpYXNpNzZJZHpSUmpOUTl3OGZzWHpiVFhKUEZFYXFqXzQ5Wl9LV09wM1daWWFleUESBBoCCAAa1QUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAsQUIABAAGAAgACoQCgltaWNyb3NvZnQVYKFUQCorCghlbXBsb3llZRWohJg8GgllbXBsb3llZXMaCmVtcGxveW1lbnQaA2pvYiohCgdyZXZpZXdzFc3nYj0aCGNvbW1lbnRzGgdyYXRpbmdzKj4KCWdsYXNzZG9vchUAAAAAGgpnbGFzcyBkb29yGg5pdjtwO2dsYXNzZG9vchoIc2FsYXJpZXMaBnNhbGFyeSoyCgthbWJpdGlvbmJveBWAfjlAGgxhbWJpdGlvbiBib3gaEGl2O3A7YW1iaXRpb25ib3gqKgoJaW50ZXJ2aWV3Fch9RD8aDGludGVydmlld2luZxoKaW50ZXJ2aWV3czK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGZTYxTnlKMlFzYjJvZjVjU3RkVXJ3eWdnMFVkMmdnV2hqOTdGZDhHd1ZmTFlTZGJvNDFMMUtHLXI1Qk9GdUhKeC1KSFFVWHhENnkxb2k5VHh0T2hCWkhkejFQdDBTTW1FYkFka1FwQUFJdEloVFdnOFM5WVpFaWFzaTc2SWR6UlJqTlE5dzhmc1h6YlRYSlBGRWFxal80OVpfS1dPcDNXWllhZXlBOjg8Yj5NaWNyb3NvZnQ8L2I-IHJlY3J1aXRpbmcgcHJvY2VzcyB8IDxiPkFtYml0aW9uQm94PC9iPkKrAUkgaGF2ZSBnaXZlbiB0aGUgZmlyc3Qgcm91bmQgb2YgdGhlIDxiPmludGVydmlldzwvYj4gYW5kIEkgYW0gc3RpbGwgd2FpdGluZyBmb3IgbXkgcmVzdWx0cy4gSW4gdGhlIGFjdGlvbiBjZW50cmUgaXQgc2hvd3Mgc2NoZWR1bGluZyB3aGlsZSBJIGhhdmUgbm90IHJlY2VpdmVkIGFueSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "AmbitionBox",
+      "read_more_link": "https://www.ambitionbox.com/p/microsoft-recruiting-process-h1xbzgd--8#:~:text=I%20have%20given%20the%20first,update%20for%20the%20second%20round."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Microsoft employee reviews glassdoor ambitionbox interview for freshers",
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview+for+freshers&sa=X&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview+for+freshers"
+    },
+    {
+      "block_position": 1,
+      "query": "Microsoft employee reviews glassdoor ambitionbox interview 2022",
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview+2022&sa=X&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview+2022"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&ei=cJ_IaqTzFuKk5OUP7bGKqAE&start=10&sa=N&sstk=AS6-VmLjPnZ3VOMP9ptAxK29CmciAdnpgcEM58R-0Ig8EXaVAaBDgptX_JfkTkOG8Xo3yhq1Xgal-ruAfKbAhuqA2dF9cnswGsABfg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ8NMDegQIPRAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&ei=cJ_IaqTzFuKk5OUP7bGKqAE&start=10&sa=N&sstk=AS6-VmLjPnZ3VOMP9ptAxK29CmciAdnpgcEM58R-0Ig8EXaVAaBDgptX_JfkTkOG8Xo3yhq1Xgal-ruAfKbAhuqA2dF9cnswGsABfg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ8tMDegQIPRAE",
+      "3": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&ei=cJ_IaqTzFuKk5OUP7bGKqAE&start=20&sa=N&sstk=AS6-VmLjPnZ3VOMP9ptAxK29CmciAdnpgcEM58R-0Ig8EXaVAaBDgptX_JfkTkOG8Xo3yhq1Xgal-ruAfKbAhuqA2dF9cnswGsABfg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ8tMDegQIPRAG",
+      "4": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&ei=cJ_IaqTzFuKk5OUP7bGKqAE&start=30&sa=N&sstk=AS6-VmLjPnZ3VOMP9ptAxK29CmciAdnpgcEM58R-0Ig8EXaVAaBDgptX_JfkTkOG8Xo3yhq1Xgal-ruAfKbAhuqA2dF9cnswGsABfg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ8tMDegQIPRAI",
+      "5": "https://www.google.com/search?q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnuWaqITQRsLrJPdHPB5Q5U8SwbkgA:1791532912382&ei=cJ_IaqTzFuKk5OUP7bGKqAE&start=40&sa=N&sstk=AS6-VmLjPnZ3VOMP9ptAxK29CmciAdnpgcEM58R-0Ig8EXaVAaBDgptX_JfkTkOG8Xo3yhq1Xgal-ruAfKbAhuqA2dF9cnswGsABfg&ved=2ahUKEwik6-GWvKyXAxViErkGHe2YAhUQ8tMDegQIPRAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+employee+reviews+glassdoor+ambitionbox+interview&start=40"
+    }
+  }
+}

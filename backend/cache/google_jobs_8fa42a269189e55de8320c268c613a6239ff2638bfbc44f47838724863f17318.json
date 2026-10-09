@@ -1,0 +1,381 @@
+{
+  "search_metadata": {
+    "id": "6ac89f6e6f082bfa5b736758",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RMuz8DDFxDBm8LdWNbwv8v0ZmK5RKZfOs-0pfTVjwxk/6ac89f6e6f082bfa5b736758.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RMuz8DDFxDBm8LdWNbwv8v0ZmK5RKZfOs-0pfTVjwxk/6ac89f6e6f082bfa5b736758.md",
+    "created_at": "2026-10-09 08:01:50 UTC",
+    "processed_at": "2026-10-09 08:01:50 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Microsoft+Senior+Python+Backend+Engineer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/RMuz8DDFxDBm8LdWNbwv8v0ZmK5RKZfOs-0pfTVjwxk/6ac89f6e6f082bfa5b736758.html",
+    "total_time_taken": 0.94
+  },
+  "search_parameters": {
+    "q": "Microsoft Senior Python Backend Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjaoNIu_zWFnZ7EF3rmgGsn8Gi2kTsfIb1VcuBr4KrUMSNvJW7qH4rhGbhGdFqHEeYQKzzL7bZBbL6SEXOupj5vAFG361h6vxn0VVf2zz4DS3ufVkP4WCatcLuJVQjx06yX1e_m7FkUjnpZEFYnM6mRKjFt6kRUtj5h6QviaT6YNsqS1NrA",
+        "q": "Microsoft Senior Python Backend Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjaoNIu_zWFnZ7EF3rmgGsn8Gi2kTsfIb1VcuBr4KrUMSNvJW7qH4rhGbhGdFqHEeYQKzzL7bZBbL6SEXOupj5vAFG361h6vxn0VVf2zz4DS3ufVkP4WCatcLuJVQjx06yX1e_m7FkUjnpZEFYnM6mRKjFt6kRUtj5h6QviaT6YNsqS1NrA&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQxKsJKAB6BAgZEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjaoNIu_zWFnZ7EF3rmgGsn8Gi2kTsfIb1VcuBr4KrUMSNvJW7qH4rhGbhGdFqHEeYQKzzL7bZBbL6SEXOupj5vAFG361h6vxn0VVf2zz4DS3ufVkP4WCatcLuJVQjx06yX1e_m7FkUjnpZEFYnM6mRKjFt6kRUtj5h6QviaT6YNsqS1NrA"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s",
+            "q": "Microsoft Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n",
+            "q": "Microsoft Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8",
+            "q": "Microsoft Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI",
+            "q": "Microsoft Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s",
+            "q": "Microsoft Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vtDZ8YEawx_s1OFZpQpkb6PunsuimO1qkuCrLwCPo4PBamguE7GwtmgqUbKpSJC4GtqjNu6WuChkl511_t6R_bfvMwAoypD8_ndVSJbrDkQ5XbRr-96jSKU7aqYuakEil2nmgaJrd_xXZiI1gKBc2II7luiTMJLYHgNO3x1RqZEf_43cwZYaHp6zgR0IUBuAIIF_TziGQ81WkTQtWcADi7h0WvYSPmOOsSlOwCzUbIcGZcqFmJ43KGhDKN-9LkeNv4GS5KvENAbNx9DNE9nt5IJNb4-s"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n",
+            "q": "Microsoft Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcFsiLihCBYjmeycNa8vqUnbU6OrshPlBqDqFomz2_M2BvL5FIeIwv1XoROYHd5IXna0QVmlmxYZsxMNKoC59vlwCLJD2LZnp1qpCAOThuxqh793dNvI4aWvHktGvZsJJDuAT9RcqbZtiSR5RBIC-rGZ-XnNYvn69mXf5XA6GqJPe0chrCBpm8uC9dvhVZ-Cb0WuZCzGjL3gSu1Gt5c0HyMHI6ye33ONvbFa8i93q5MbFi9KPJxP33R1BEe5qUg3MDBd3BmwUpeRzbGy3zbbrVl3KuKNtnVJKXs6wxJ5Qu3p5oT5Kls8AG1qISoz9XZiWySrWJeO2vJe_0IXyylFprCRbt6Ejsu2VfeFof-vm-9IPuR2n"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8",
+            "q": "Microsoft Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rPehd8JSULZY9bV3Ak5g-nzF6pyLjKomsnFTqI0jC2K-Hyqe57B2g1lAXhCEX-1AlNXtslGJU6KFhT6NrUwjzAHp9yUPgdxTq4qZ4g4nZvm3TkMhftsFA2nOlICLfxPFF3G4Y2LE6Gc644g9gpE8S4vPxRBuXZKg2jThSYZcNn_mIqON08575wsdXz7NmGov9aYfuegFHYN4SaRTAmtGf0k-KsdiFqnVF2rbCjPWgbHSWXqjWpw5g_WVOQSjr4fy7MscmOb99PJZYOOL5EhCLKjvuadGVObu7rktZ39ri8hKK9K1rTg0GtULJgZL2ZGIGaKXQ6bQwMbUx-KP0_W27pC_OXp8"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI",
+            "q": "Microsoft Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYy2N5Ls9hYfzWQkBrQ-B2S6QyCmPwEqHywMUkaaQ75XJFjPeTrEF4CDJsd6S-cBt8wsARkcSktpbErO223VZYmWJe7Nn1SvngXbCJ9JEpZIQx0qiCwqpQd6T9VET28tmoT3uU3hvpmhrCnTkUdS1EULJCYLUh_kbbe0EUCiwa_5rAWEvJ6-NjMHtJLl6crcLXg2MP4_yUeXFTK6wa1gDlsnn_9OPYD1q-bwIOyucNPOMQcYejxb4XEGez1Ivck_sGfV6hZOtevXt57J38GG71dCgBRL7f3-o5mzOiNxXXSuYL-n-OH-YPcZy0j_w-M-y2qY2m6c5b-x-h4Fhyr8WNIkrQyI"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w",
+            "q": "Microsoft Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g",
+            "q": "Microsoft Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw",
+            "q": "Microsoft Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA",
+            "q": "Microsoft Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w",
+            "q": "Microsoft Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rGRrbM0TazvYzzvi_UwlWQ1ri11iTJa0caMrjOE2UX5zsr5ZK_Sx_N0hEZb_mnk6ih1TPcqHQZrb2gZVv0b-OTp3SgHvGBuf0Fcmg92SOjMMIAh4bxi9oRYuCAdEbUqsJ3IcKalcnlvUTMop9Oh60VI9xAZk0Gs1UsV5g2fCE1SWKyLPJcuTDEBTX-1BGre4VVUjskXZNUMkBi_FwesbsYB14O4A8LzdNTDWv6sUp_f_GZxt5p_IVVA_Oq_ypcF4f8AsskRiSt8RgO_uAegr8oWdfn9yLJDJrUQ_aCpPnav6UU2QRLPQd6fZN31WxYQgXoqgO0WcwCKrAXIHd2lB80jnWBzuHP892nPC4u1BlalCMeUdtjzH3wyTYR70pjQ29eFFo1w"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g",
+            "q": "Microsoft Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4refC5EMyV7wRGDVRjPmEpY0pmbOKR28Avahnk3X7J4iDN5RXXr4ZkkRpmEF0KkyH32N4-1FYNadOK_eABZhqN7BnLuO6bo2wjro3la7NHfkg9zYFOKYTjWIFjFdhWo7q5d4GeKYzFw0KNQRGjZsRLcbgeRgqPurG-I6GlDYrhmGNni7Pu9HIN138QrvBVvXEdpiCHfcJpLfdTjjTNjybIxQNcb4o9Z4ujU52Eke07yS-Hs-JbTvRvHeogZIdMpDkdw-u4kN640jintPEXQTeMzVhsrKzG8m1GBZnKfKS3Czq5MkzhExmJYVsXrxxbF-ZFWM3UUke4Y0vrNcdgPRv9hmT-qiABKa7TnrPs75k00_YrRac0ZwwptfiNfNpdEEOcrSWH7g"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw",
+            "q": "Microsoft Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rirUk_GIK80NVHXbCU7PPfyFGV2uGnq73pZfi3PqC7i6qJ7CHRx4rKREQpnMwEW-sPYwdYyjkpbAw4Zmn3UPc1CQcz9SOq58yLVCdwXnJu_OfHiJIQprLQYHmcMlFaD3hqO3Q8fCqGZpUEVzsElx-_iM5c-rrjkYTrkVGMzZV8wmRiY-nhHmDhb621KKzk-arGaWijBRf5W7yM9VLP0mrMe8dScxl8quFlwQ5QQMO5PN7m2xTcx9T0mQslFtVbPySvKpUJxDx5ad9TMCHyzS3afh5-87XN7xq-Hi_LaFe4WqzZR3E2_MhRwoKeWtvDjTsVsina0rqjtB989WEpnr-AwWP29Kgmcb_MVkI3awMy9_lQEFioliK0GpWYI8VlcTN_gplgw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA",
+            "q": "Microsoft Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnu6Ai3qGjZFOo611gUrhSsK7uqVrg:1791532910510&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA&udm=8&sa=X&ved=2ahUKEwiZx--VvKyXAxUkMdAFHeX7LtQQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Microsoft+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rzUTYh6YDjzw334e8jGO54gnvgB3357VlVAKRufF-oGpA6RpQm6MKpfik9Z1T8ogvMmMO4sWqE1TB1HotFVf3KvHC_viNEZwODRHXwOIM1WWqoVhgjHAFKYVeZPPZBAxFVXyLcrQUw4JwSscufW2oft62_OljuqKSO8Oasz7OllSmZtSGZ-Z8e6NhOtRwg8kcQRbjLwDHQXVK8L4Ocg9RAbmIuL7MfAHsmqVHLamsZyOeJLihoeg_6-KV5_dHURIDgxe6X882PWUsB0FwUZqf5vZSrQLi26SmYHc74NA4tzBPWxegNCEOOl6Lxx-vIFHNDiqJBPd1gtDvTVIEY1a7vzlR4wuZK4q65a2j4iQz5HWfKhQqUCxcpP_rH4F8TJ5ZatWuaA"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Senior Azure Python Developer - Backend Architecture",
+      "company_name": "BharatHire.Com",
+      "location": "Bengaluru, Karnataka (+1 other)",
+      "via": "Hirist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=U305VlOVWyeuJqteAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBAAsc0TrLayEE1EsNEqUVAQQfABYXMuyZnL7XG3kWjlH_yKL_Ilns0Uw0zyGSWnC1nNHvJn7wnOD2nYwo7uZNiRhzkUqFqyV8i9arSQkn_3fb3hxhUEwqghLnvm2tB404i4sM6yEExaB0HRKlXcZWyp4iGLU_ijDA16cgaFyuVqMaTO1tNJESXKQXtKt9yBtlCQrdH0vp_BEb1FwRZ_4_vsGrcAAAA&shmds=v1_ARwrE226kGIA17U66CaY7-zn1VavVnCYSCMv3YY9Ri4ldw4Kxg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=U305VlOVWyeuJqteAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac89f6e6f082bfa5b736758/images/vw8STjqYqFKw1irwiIV1iS1XOujvZmG3-KAtyyx33fY.jpeg",
+      "extensions": [
+        "14 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.hirist.tech/j/senior-azure-python-developer-backend-architecture-1674997",
+      "job_title": "Senior Azure Python Developer - Backend Architecture",
+      "description": "Role Overview:\n\nWe are looking for an experienced Senior Azure Python Developer to design, develop, deploy, and maintain scalable cloud-native applications and middleware services on Microsoft Azure. The role will involve building Python-based REST APIs and microservices, working with PostgreSQL, containerizing applications using Docker, deploying workloads on Kubernetes/AKS, and implementing robust CI/CD and monitoring practices.\n\nKey Responsibilities:\n\n- Design, develop, and maintain Python-based middleware, backend services, and microservices on Azure.\n\n- Build scalable and secure RESTful APIs using Python frameworks such as FastAPI, Flask, or equivalent.\n\n- Design and implement efficient data access and integration solutions using PostgreSQL.\n\n- Develop modular, reusable, and maintainable microservices following cloud-native architecture principles.\n\n- Containerize applications using Docker and deploy and manage workloads on Azure Kubernetes Service (AKS).\n\n- Implement and maintain CI/CD pipelines for automated build, testing, deployment, and release management.\n\n- Monitor application performance, infrastructure health, logs, and operational metrics and proactively address issues.\n\n- Troubleshoot application, API, database, deployment, integration, and infrastructure issues and perform root-cause analysis.\n\n- Optimize application performance, API latency, resource utilization, and database queries.\n\n- Implement secure coding practices, authentication/authorization, secrets management, and appropriate API security controls.\n\n- Collaborate with DevOps, cloud, architecture, QA, and product teams to deliver end-to-end solutions.\n\n- Participate in code reviews and establish development, testing, and engineering best practices.\n\n- Use AI-assisted development tools to improve coding, testing, debugging, and developer productivity where appropriate.\n\n- Maintain technical documentation, deployment procedures, runbooks, and operational standards.\n\nRequired Skills & Experience:\n\n- 8 - 10 years of experience in software development, backend engineering, or cloud application development.\n\n- Strong hands-on expertise in Python.\n\n- Strong experience developing REST APIs and microservices.\n\n- Hands-on experience with Microsoft Azure and cloud-native application development.\n\n- Strong experience with PostgreSQL and relational database concepts.\n\n- Hands-on experience with Docker and Kubernetes, preferably Azure Kubernetes Service (AKS).\n\n- Strong understanding of CI/CD pipelines, Git, automated testing, and deployment practices.\n\n- Experience with application monitoring, logging, troubleshooting, performance tuning, and production support.\n\n- Strong understanding of secure application development and cloud security practices.\n\n- Experience working with FastAPI, Flask, or similar Python frameworks.\n\n- Strong analytical, debugging, and problem-solving skills.\n\n- Good communication and cross-functional collaboration skills.\n\n- Ability to independently own technical deliverables and work effectively in a fast-paced engineering environment.",
+      "apply_options": [
+        {
+          "title": "Hirist",
+          "link": "https://www.hirist.tech/j/senior-azure-python-developer-backend-architecture-1674997?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/capgemini-python-developer-azure-databricks/capgemini-technology-services-india-limited/19513332?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/1535474050021689031?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQXp1cmUgUHl0aG9uIERldmVsb3BlciAtIEJhY2tlbmQgQXJjaGl0ZWN0dXJlIiwiY29tcGFueV9uYW1lIjoiQmhhcmF0SGlyZS5Db20iLCJodGlkb2NpZCI6IlUzMDVWbE9WV3lldUpxdGVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFwUk0xQmtTRlZmV1hSMlowZFlSMEZxYWtKM1N6SkROMkpYVlU5cGJrUnJkVFZNVUd0TGNVSlRkRE5JUVVoYVJuQnpPVnBDUTI0M2JHSnBaWGRQWVZvMFdGODBkMWwwVFVONlZGbEZVRlJvVlZkNWJVbEZWRVpTV1dOSVpXRllUMjVVTlhoNmNqTnZWbHByYUVwT04wZGFTVEZJUm1KSWVsWm1SR05zYjIxUFduSmthbXNTRjJKd1gwbGhjRzVaU0hGVWFYZE9ORkExWm1VM2IxRXdHaUpCUkhOeU9XWlNWbWhrTm5WNVJraGZVVmxRZGtkNlRFSjNhMnBhZWs0M1JXZFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJVMzA1VmxPVld5ZXVKcXRlQUFBQUFBPT0ifQ=="
+    },
+    {
+      "title": "Senior Python Backend Engineer / Technical Lead",
+      "company_name": "Innovatz Global",
+      "location": "India",
+      "via": "Shine",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=A4Ov0jOBPIMwxtwRAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMQrCQBBAUWxzArGa2iIrgo12gsSAhaB9mGyG3dV1JuwsEq28gyfwap7E2Pzu8YvPpNifiIMkOD6yF4Yt2itxBzt2gYkSGDiT9RwsRjgQdvB9veEiLShhsh5GU4m4SLONz7nXtTGqsXSaMQdbWrkZYWplMCPSfxr1mKiPmKlZrhZD2bObT2tmuWN-QhWlHV-BoeYu4A_kgWWkpAAAAA&shmds=v1_ARwrE22GiO63bji2SrTQNQdWwaW8rkde7Bza2c4C73LF2j751w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=A4Ov0jOBPIMwxtwRAAAAAA%3D%3D",
+      "extensions": [
+        "7 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.shine.com/jobs/senior-python-backend-engineer-technical-lead/innovatz-global/19679915",
+      "job_title": "Senior Python Backend Engineer / Technical Lead",
+      "description": "Senior Python Backend Engineer / Technical Lead\n\n\nShift timing: 1:30PM to 10:30 PM IST\n\n\nSummary:\n\n\nWe are looking for an experienced Senior Python Backend Engineer / Technical Lead\n\n\nto join our engineering team. This role is ideal for a passionate backend engineer who\n\n\nenjoys building scalable distributed systems, leveraging AI technologies, and mentoring\n\n\nengineering teams while driving technical excellence.\n\n\nRole Overview\n\n\nAs a Senior Python Backend Engineer / Technical Lead, you will be responsible for\n\n\ndesigning and developing scalable backend applications, architecting distributed systems,\n\n\nintegrating AI/ML capabilities, and delivering high-quality software solutions. You will\n\n\ncollaborate with cross-functional teams to build cloud-native, high-performance applications\n\n\nwhile contributing to architecture, engineering best practices, and technical leadership.\n\n\nKey Responsibilities\n\n\nBackend Development & Architecture\n\n\n\n Design, develop, and maintain scalable backend applications using Python and\n\nFastAPI.\n\n\n\n Build secure, high-performance REST APIs and microservices.\n Design reusable, maintainable, and scalable software components.\n Participate in architecture discussions and technical design reviews.\n Improve application performance, scalability, reliability, and security.\n Design fault-tolerant distributed systems for enterprise-scale applications.\n\nAI/ML & Intelligent Systems\n\n\n\n Integrate AI/ML models into production applications.\n Build APIs and backend services for AI-powered solutions.\n Work with LLMs, embeddings, vector databases, and Retrieval-Augmented\n\nGeneration (RAG) architectures\n\n\n\n Collaborate with Data Science and AI teams to deploy, optimize, and monitor AI\n\nworkloads.\n\n\n\n Evaluate AI-assisted development tools to improve engineering productivity.\n\nDatabase & Data Engineering\n\n\n\n Design efficient database schemas and optimize data access patterns.\n Write highly optimized SQL queries for large datasets.\n Optimize database performance through indexing, partitioning, and query tuning.\n Work extensively with PostgreSQL and Snowflake.\n\nPlatform Engineering & Microservices\n\n\n\n Design and implement microservices-based applications.\n Build asynchronous and event-driven processing systems.\n Develop service integrations and RESTful APIs.\n Implement observability through logging, monitoring, and alerting.\n Contribute to CI/CD automation and deployment processes.\n\nLeadership & Collaboration\n\n\n\n Conduct code reviews andestablish engineering best practices.\n Mentor junior engineers and support technical growth within the team.\n Collaborate with Product Managers, Architects, QA teams, and business stakeholders\n\nto deliver high-quality solutions.\n\n\nRequired Skills & Experience\n\n\nExperience\n\n\n\n 68 years of professional software development experience.\n Strong expertise in backend application development using Python.\n Hands-on experience with FastAPI and modern API development.\n Experience building scalable, high-throughput backend systems.\n Strong understanding of asynchronous programming and concurrency.\n\nSoftware Architecture\n\n\n\n Experience designing scalable distributed systems.\n Strong understanding of software architecture and design patterns.\n Hands-on experience with microservices architecture.\n Knowledge of caching, resiliency, scalability, and performance optimization.\n\nAI/ML\n\n\n\n Experience integrating AI/ML models into production applications.\n Good understanding of LLMs, Prompt Engineering, Embeddings, Vector\n\nDatabases, and RAG architectures.\n\n\n\n Experience exposing AI capabilities through APIs.\n Familiarity with AI development frameworks and model deployment.\n\nDatabases\n\n\n\n Advanced expertise in PostgreSQL.\n Strong experience with Snowflake.\n Strong SQL optimization and database performance tuning skills.\n\nDevOps & Engineering Practices\n\n\n\n Experience with Git and CI/CD pipelines.\n Familiarity with Docker and Kubernetes.\n Understanding of cloud-native application deployment.\n Strong debugging and troubleshooting capabilities.\n\nPreferred Qualifications\n\n\n\n Experience with Microsoft Azure, AWS, or GCP.\n Experience with workflow orchestration platforms.\n Knowledge of Kafka or other event-streaming technologies.\n Experience building data-intensive platforms.\n Exposure to MLOps and AI model lifecycle management.\n Experience working in Agile/Scrum environments.\n Prior experience leading technical teams or mentoring engineers.\n\nNice-to-Have Technologies\n\n\n\n Python\n FastAPI\n PostgreSQL\n Snowflake\n Docker\n Kubernetes\n Microsoft Azure Services\n LangChain\n LangGraph\n OpenAI, Anthropic, Gemini APIs\n Vector Databases\n GitHub Actions / Azure DevOps\n AI-assisted development tools (GitHub Copilot, Cursor, Windsurf, Claude Code)\n\nCompensation: 100,000.00 - 115,000.00 per month\n\n\nBenefits:\n\n\n\n Work from home\n\nWork Location: Hybrid remote in Bhilai, Chhattisgarh .",
+      "apply_options": [
+        {
+          "title": "Shine",
+          "link": "https://www.shine.com/jobs/senior-python-backend-engineer-technical-lead/innovatz-global/19679915?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/python-fastapi-backend-engineer--indore-district--pune-district--bengaluru--e99ec7455d4ff7c2e32b06c1b2c8f7229?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kit Job",
+          "link": "https://www.kitjob.in/job/340589309/senior-python-backend-engineer-technical-lead-india?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHl0aG9uIEJhY2tlbmQgRW5naW5lZXIgLyBUZWNobmljYWwgTGVhZCIsImNvbXBhbnlfbmFtZSI6Iklubm92YXR6IEdsb2JhbCIsImh0aWRvY2lkIjoiQTRPdjBqT0JQSU13eHR3UkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMjF0TTBWSGRqRnphSGRuUVhVd09FbzFiR1pMTlVoNlNIaE5XR0l5ZUdNemNucEVOMk4wY0dOTWNXeFFXVTkzU1ZsdGJtUTFNRWhsVTAweFIxTktUREZ6ZG5sb1gxQTVTRUozTUU1RGJHaEdaMjlaVTJNMk5YRnZibXc1YkMxR1ZETlZabUZ1WW1wTVJXaExVbTlMY1hOc1ZuUXpiWEZNTmpoa1pIUkZTRzUxTmpoMVRHNFNGMkp3WDBsaGNHNVpTSEZVYVhkT05GQTFabVUzYjFFd0dpSkJSSE55T1daU2RqaFVhMXBFZFUxRmJ6UTNMVVE1WkhocU1VMXFlR1J6ZVRCbiIsImZjdiI6IjMiLCJmY19pZCI6IkE0T3Ywak9CUElNd3h0d1JBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Software Engineer at Microsoft",
+      "company_name": "Microsoft",
+      "location": "Hyderabad, Telangana",
+      "via": "Peerlist",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=A_zEB8M19-DR4sH5AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WNMQrCQBBFsc0RrMZWJCuCjYKdaGMV-zDZjJuVdSbsDBg77-AFPJsnMVY2v3m894v3pNhVxFEyVHKxO2aCPYfIRBnQ4BR9Fh0JfJ4vuEoDSph9B8JwEAmJptvOrNeNc6qpDGpo0Zdebk6YGhncKOlvau3Gep_QqF6tl0PZc5jP_geR4fhoKWOD7QLOlJADMn4BJjiiB6MAAAA&shmds=v1_ARwrE23GtQWn1iHmhSvRhRPDHU0TiP0-fPeG9BIUPQpvQTvG1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=A_zEB8M19-DR4sH5AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEXzUyWBvAYFpvD_ugjz8_Pz-fr39fr19fP69vPy9foAo_D_uADznYm01H7zTBZ9ugDzTx3ze1-byFJRt_F-yPH603_9x1LzsKDB2pjzRwrzdlmY0fL9xUz42pjzwrbP4a_zloKv2_L34LAcbNkUAAAAoUlEQVRIie3VyRKCMBRE0agNITLIDGFw-v-P1IjLTqWKDZt39nfbrbCTAiIfIPZxYXTPuAEYc-4RuzCzBWMnoL5x-RYWiikrF54YCSWUUMIjQlsyRXDlhqlipieQ19zowi_NhC-AZsFUIZkbrtXolp5ZVuPC9so1GkvKdf_wzLiwTy-MhBJKKOEh4b6V06-WmzXWjnub35InHoDxwfYde3wA001EezFVtRAAAAAASUVORK5CYII.png",
+      "extensions": [
+        "Full–time"
+      ],
+      "source_link": "https://peerlist.io/company/microsoft/careers/senior-software-engineer/jobhmq68aop9leqgmfbqb9bmddn8m9",
+      "job_title": "Senior Software Engineer at Microsoft",
+      "description": "Microsoft is hiring with Peerlist for a Full-time Senior Software Engineer. Required skills: MLOps,Distributed Systems,Cloud Technology,C,C++,C#,Java,JavaScript,Python",
+      "apply_options": [
+        {
+          "title": "Peerlist",
+          "link": "https://peerlist.io/company/microsoft/careers/senior-software-engineer/jobhmq68aop9leqgmfbqb9bmddn8m9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "NexisGrow",
+          "link": "https://www.nexisgrow.com/non-tech-job/ikea-senior-sales-generalist-hyderabad-9krul?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgYXQgTWljcm9zb2Z0IiwiY29tcGFueV9uYW1lIjoiTWljcm9zb2Z0IiwiaHRpZG9jaWQiOiJBX3pFQjhNMTktRFI0c0g1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6RmZURkJEVFZCdFlYSXpiRUZoVWxSR01DMUdVVnB1VmkxZlFXRnFOVmxMUmtGa2VIVlFXVlZwTWxwRFYxOHlja3hRY0hSUFQya3pjbnBYTFhsR1VsQkxUbWR6YVRsb2NUUnFUMVZEZVdSQ2FXeFllV0YzTmxSUWFXVlFWR1U1Y2pOb1N6SlBNSGw0VEZKbWFYWkVRV2hhYUdaT2VpMTJNV3BCY0RsbU5GTTNkbFJVY0hRU0YySndYMGxoY0c1WlNIRlVhWGRPTkZBMVptVTNiMUV3R2lKQlJITnlPV1pUY1hvd1IwRjRhekF3U1dzdFExOUtiVWxIVlhWRFJreGZaVlJSIiwiZmN2IjoiMyIsImZjX2lkIjoiQV96RUI4TTE5LURSNHNINUFBQUFBQT09In0="
+    },
+    {
+      "title": "Full Stack Developer – Python & Azure",
+      "company_name": "Agivant Technologies",
+      "location": "Chennai, Tamil Nadu",
+      "via": "JobLeads",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=_mltSlLbf-_iTFaEAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LMQrCMBRAce0RnP7koNKI4KKLRdFNBLuXb_wk0TQ_JGmpTt7Ba3gqT2J1ecN7vOw9yNa7xlo4JZQ32FJLlj0F-DxfcLwnzQ5GUDyaQH915TNEwiA19GXPrCwNVzolH5dCxGhzFRMmI3PJtWBHZ-5EP8UfqqgxkLeYqJovZl3unRpPCmVadAlKktqxZWUognGw0eQcmimUWBsLB7w0X2efqxGvAAAA&shmds=v1_ARwrE23HVbxKq611IVfcwov_RJlTXK_075wGlM4YlVW540WquQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=_mltSlLbf-_iTFaEAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "₹16L–₹22L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.jobleads.com/in/job/full-stack-developer-python-azure--chennai-district--e7f2f6f53a5c663906bff9bdff185b001",
+      "job_title": "Full Stack Developer – Python & Azure",
+      "description": "We are looking for an experienced Full Stack Developer with strong Python and Microsoft Azure expertise to join our engineering team building and scaling a PCI DSS v4.0-ready, microservices-based order processing platform. This platform running on a secure, private-network Azure architecture.\n\n\nYou will work across the full stack - from API design and serverless compute to database design and CI/CD - building secure, cost-efficient, and highly available services in a regulated, payment-adjacent environment.\n\n\nWhat You'll Work On\n\nDesign, build, and maintain Python-based microservices on Azure Functions (Python 3.11/3.12) across domains such as order intake, customer management, catalog, orchestration, tax, payment/PCI, fulfillment, notifications, and support APIs.\nBuild and secure APIs exposed through Azure API Management (APIM) - including authentication, throttling, CORS, brand-scoped RBAC, and correlation-ID based tracing.\nWork within a Private VNet architecture, integrating Function Apps, Private Endpoints, NSGs, and NAT Gateway-based outbound connectivity to third-party partners (payment gateways, tax providers, OMS, email/mail services).\nDesign and maintain schemas in a shared Azure SQL Database using module-owned table prefixes, optimizing for cost and performance at moderate transaction volume.\nImplement secrets and credential management via Azure Key Vault using Managed Identity - ensuring no hardcoded credentials anywhere in the platform.\nBuild tokenized payment integrations (e.g., CyberSource/PayPal) ensuring PAN/CVV data never touches application code or storage - token-only handling.\nContribute to PCI DSS v4.0 compliance controls: network segmentation, encryption in transit/at rest, access logging, audit trails, and secure system design.\nSupport queue- and timer-triggered async processing (cron/orchestration patterns) for order lifecycle management with retry logic.\nCollaborate on cost-optimization decisions - right-sizing Function plans (Elastic Premium), SQL tiers, and reserved capacity planning.\nMonitor and troubleshoot production systems using Application Insights, Log Analytics, and Microsoft Defender for Cloud.\nPartner with stakeholders to translate deployment architecture and solution design into working, well-tested code.\n\nRequirements\nWhat We're Looking For\nRequired:\n\n6-9 years of professional software development experience, with strong full-stack capability.\nDeep hands-on experience with Python (3.x) for backend/microservice development.\nSolid experience building and deploying on Microsoft Azure, specifically:\nAzure Functions (serverless compute, VNet integration)\nExperience designing RESTful APIs and microservices architectures.\nExperience with relational database design (schema design, query optimization, TDE/encryption-at-rest concepts).\nUnderstanding of secure application design: secrets management, least-privilege access, RBAC, TLS/encryption in transit.\nFamiliarity with asynchronous/queue-based or timer-based processing patterns.\nExperience integrating with third-party APIs (payment gateways, tax engines, OMS, email/notification providers, etc.).\nWorking knowledge of monitoring/observability tools (Application Insights, Log Analytics or equivalent).\nStrong understanding of CI/CD pipelines and cloud deployment practices.\n\nPreferred / Nice to Have:\n\nExperience working in a PCI DSS-regulated environment.\nExposure to e-commerce order management systems (Shopify, OMS platforms, or similar).\nExperience with tokenized payment processing (CyberSource, PayPal, Stripe, or similar gateways).\nFamiliarity with Infrastructure as Code (Bicep, ARM templates, or Terraform on Azure).\nFront-end development experience (React/Angular/Vue) for full-stack contributions beyond APIs.\nExperience with cost optimization on cloud platforms (reserved capacity, right-sizing).\nAzure certifications (e.g., AZ-204, AZ-400, AZ-305) are a plus.\n\nSoft Skills\n\nStrong ownership mindset - comfortable working across the stack from database to API to deployment.\nAbility to work in a security- and compliance-conscious environment with attention to detail.\nClear communicator, able to work with architects and cross-functional stakeholders.\nComfortable in a fast-paced environment balancing scalability, security, and cost.",
+      "apply_options": [
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/full-stack-developer-python-azure--chennai-district--e7f2f6f53a5c663906bff9bdff185b001?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIERldmVsb3BlciDigJMgUHl0aG9uIFx1MDAyNiBBenVyZSIsImNvbXBhbnlfbmFtZSI6IkFnaXZhbnQgVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJfbWx0U2xMYmYtX2lURmFFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlFtVnVaMkZzZFhKMUxFdGhjbTVoZEdGcllTeEpibVJwWVEiLCJnbCI6ImluIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMycFJaM0pYZVRSTlFXRjJSRFpYVVdwNVluSnhTVjlqYlV0b1FqVjBSWEIxU0Vwc2FFbFJSM0ZSWTFRMk0zTTJNWEZ1TW1SWVMwMW9ZM1JKUVVSdmVGbEJWR2xxV2xKclJ6WjRNWFkyYkdGdVlrbDVMVmRDTVRaVVJ6WmthVlJhWDNGaVZFVTVXRWcwU3pGSVozcHVaRUp0Wm05U1NuZDBZbkpEY1djM05WSldNV2RtYTJ3U0YySndYMGxoY0c1WlNIRlVhWGRPTkZBMVptVTNiMUV3R2lKQlJITnlPV1pSZDNKb2FuSjJOREphVVU5T2JtaHlPVWR1UkRaSGNIbENlVlYzIiwiZmN2IjoiMyIsImZjX2lkIjoiX21sdFNsTGJmLV9pVEZhRUFBQUFBQT09In0="
+    },
+    {
+      "title": "Python Developer – Azure",
+      "company_name": "vmysmartpros",
+      "location": "Anywhere",
+      "via": "USA Remote Jobs Mysmartpros",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=03x2R3rAvhfg7HibAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2LIQ4CMRAAgz2PQa1GtASCAUVCQnD84NIrm7ak7Tbd5XKHwqL5IS_hwExGzDSvWbO5jOIpwxF7jFSwwuf5hsPjXvFvN-qA0VTrYapORC7iYu9FCu-0Zo7KsRgJVllKmjJ2NOhp4h9a9qZiiUawXW9XgyrZLed9GjmZKqUSQ8hwztdgvnsFTj6MAAAA&shmds=v1_ARwrE20XiycZrLk14taagx4x7_JsG9WFVZa8g9NAofKoEs0M_w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=03x2R3rAvhfg7HibAAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "Work from home",
+        "Full–time"
+      ],
+      "source_link": "https://remoteworld.mysmartpros.com/job/python-developer-azure-4856c578/",
+      "job_title": "Python Developer – Azure",
+      "description": "At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees have been key factors in our company''s growth and market presence. By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA and for the people who work here.\n\nFor more than 25 years, NTT DATA Services have focused on impacting the core of your business operations with industry-leading outsourcing services and automation. With our industry-specific platforms, we deliver continuous value addition, and innovation that will improve your business outcomes. Outsourcing is not just a method of gaining a one-time cost advantage, but an effective strategy for gaining and maintaining competitive advantages when executed as part of an overall sourcing strategy.\n\nNTT DATA''s Client is seeking a Python Developer with strong experience in designing, developing, and deploying cloud-based applications on Microsoft Azure. The resource should have hands-on experience in Python development, API development, data processing, cloud integrations, and working with Azure services in an enterprise environment.\n\nKey Responsibilities:\n• Design, develop, test, and maintain Python-based applications, services, and APIs.\n• Build and deploy scalable solutions using Azure cloud services.\n• Develop REST APIs and backend services using frameworks such as FastAPI, Flask.\n• Knowledge of messaging queues such as KAFKA\n• Work with Azure services such as Azure Functions, App Service, Azure SQL, Blob Storage, Key Vault, Logic Apps, Service Bus, Event Grid, and Azure Data Factory.\n• Integrate applications with external systems, databases, APIs, and cloud services.\n• Develop data ingestion, transformation, and processing pipelines using Python and Azure services.\n• Experience with Docker and containerized deployments.\n• Knowledge of Kubernetes or Azure Kubernetes Service.\n• Implement authentication, authorization, logging, monitoring, and error handling.\n• Collaborate with architects, business analysts, data engineers, QA teams, and client stakeholders.\n• Troubleshoot production issues, optimize performance, and support deployment activities.\n• Follow coding standards, security best practices, and cloud governance guidelines.\n\nRequired Skills:\n• Strong hands-on experience in Python programming.\n• Experience with REST API development using FastAPI, Flask\n• Working knowledge of Azure cloud services.\n• Experience with App Services, Azure SQL, Blob Storage, and Key Vault.\n• Good understanding of cloud-native application design and microservices architecture.\n• Experience with SQL and relational databases.\n• Ability to write clean, reusable, well-documented, and testable code.\n• Understanding of authentication mechanisms such as Entra ID, OAuth, JWT, managed identities, and service principals.\n• Strong debugging, troubleshooting, and problem-solving skills.\n• Microsoft Azure certifications such as AZ-204\n\nExperience Level:\n• 7+ years of overall IT experience\n• 3+ years of Python development\n• 2+ years of hands-on Azure experience\nEducation:\n• Bachelor''s degree in Computer Science, Engineering, Information Technology, or a related field.\nGood to Have:\n• Microsoft Azure certifications such as AZ-900.\n\nAbout NTT DATA Services:\n\nNTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients'' long-term success. Visit nttdata.com or LinkedIn to learn more.\n\nNTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team.\n\nNTT DATA provides a reasonable range of compensation for Canada-based positions. The starting pay range for this remote role is $65 to $75/hour CAD. This range reflects the minimum and maximum target compensation for the position across all Canada locations. Actual compensation will depend on a number of factors, including the candidate''s actual work location, relevant experience, technical skills, and other qualifications.\nThis position is eligible for NTT DATA''s Employee Assistance Program (EAP) and Discount Perks.\n\nThis position is eligible for company benefits that will depend on the nature of the role offered. Company benefits may include medical, dental, and vision insurance, flexible spending or health savings account, life, and AD&D insurance, short-and long-term disability coverage, paid time off, employee assistance, participation in a 401k program with company match, and additional voluntary or legally required benefits.\n#indist\n#li-northamerica\n\nApply To this Job",
+      "apply_options": [
+        {
+          "title": "USA Remote Jobs Mysmartpros",
+          "link": "https://remoteworld.mysmartpros.com/job/python-developer-azure-4856c578/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJQeXRob24gRGV2ZWxvcGVyIOKAkyBBenVyZSIsImNvbXBhbnlfbmFtZSI6InZteXNtYXJ0cHJvcyIsImh0aWRvY2lkIjoiMDN4MlIzckF2aGZnN0hpYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUQzFGTUVkc2FtRk1MVWhzTWtKYU9FbzVkVjl1VjJOM1puQkdjVkV0UzNobFNuVm1kRXBSY3pkc1dsZE9OV2xZY2xwb05tUlVMVWMyVVZsSVExVktXR2hJTkRCMVptdG1Oa3BGVGsxUllraEJORE5wVDBkTmNrTTFNamsxYUhCNU0yNWZWMFZKT0dKUWVWSnZhVTFLT1dsVWJGZElWVFZZUVRCRFJqWTVPR3RDVm5Wa1JuQVNGMkp3WDBsaGNHNVpTSEZVYVhkT05GQTFabVUzYjFFd0dpSkJSSE55T1daVWFVUmlkRlZpUlVaTlQxaFBkMFpvWlhCRVRpMWpURzFDTFRaQiIsImZjdiI6IjMiLCJmY19pZCI6IjAzeDJSM3JBdmhmZzdIaWJBQUFBQUE9PSJ9"
+    },
+    {
+      "title": "Senior Software Engineer- .Net C Restful API backend Dev",
+      "company_name": "NEC Technologies India",
+      "location": "Mumbai, Maharashtra",
+      "via": "Foundit",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Microsoft+Senior+Python+Backend+Engineer&htidocid=FyAAtMx3W2RxD1GoAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNMU5CQRCH8dhyBKt_beQ9YkKjlUFCKCAo9mTeMuyuLDMvO4NScgcP5F08ic_m6375Rj83o9ctS9aKrR78iypjLjELcx2jWbNjhjc2P5wLnjdLdBSOLHu88Cd-r9_40A7GVEOCChaqsfDtU3Lv7bFtzUoTzclzaIKeWhXu9NIOyP6zszQM-0LOu4fp5NL0Eu_G6_kM7xySaNGY2bCUfSZkwep86ijfY0WDI0te6Q_4TVhAwgAAAA&shmds=v1_ARwrE23ql46tZoB0r9muljlejai6Tvt5ZPJEWg_G89dWd97E9g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Microsoft+Senior+Python+Backend+Engineer&htidocid=FyAAtMx3W2RxD1GoAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac89f6e6f082bfa5b736758/images/3K7VODX_gYzqe7YWCpEELgOX1nSYhd5u_0wLSV7IRtg.jpeg",
+      "extensions": [
+        "11 days ago",
+        "Full–time"
+      ],
+      "source_link": "https://www.foundit.in/job/senior-software-engineer-net-c-restful-api-backend-dev-nec-technologies-india-mumbai-69169590",
+      "job_title": "Senior Software Engineer- .Net C Restful API backend Dev",
+      "description": "Company Description\n\nOur philosophy is to understand our customers business first before we get to the technology.\n\nThis approach leads to clever software; streamlining old processes, saving money and delivering positive change.\n\nOur technology has helped the NHS screen millions of babies for hearing loss, ensures hundreds of housing providers are managing their homes efficiently and helps officers in over a dozen different police forces to make better decisions at the frontline.\n\nBased in the UK but working around the world, our 2,000 employees help improve the services that matter most.\n\nWe are now part of the NEC corporation, a leader in the integration of IT and network technologies that benefit businesses and people worldwide – this brings in new opportunities without limits for growth and innovation.\n\nJob Description\n\nEssential Skills\n\nCore Development\n\nStrong commercial experience with C# and .NET Framework 4.7.2Experience designing, developing and maintaining RESTful APIsStrong understanding of JSON-based API design and integrationExcellent knowledge of object-oriented design and development principlesExperience working with multi-layered enterprise applicationsStrong debugging, troubleshooting and problem-solving skills\n\nDatabase Development\n\nStrong experience working with Microsoft SQL ServerAbility to design, develop and optimize:SQL queriesStored proceduresViewsDatabase indexesUnderstanding of database performance tuning and query optimizationExperience working with large or business-critical data sets\n\nData Access & Application Architecture\n\nExperience working with custom or proprietary data access layersUnderstanding of data access patterns and application layeringExperience integrating with internal and third-party systems and servicesAbility to design maintainable and scalable back-end solutions\n\nAPI & Security\n\nStrong understanding of:HTTP and HTTPSREST principlesAPI versioningAuthentication and authorization conceptsError handling and loggingUnderstanding of secure coding practices and application security principles\n\nEngineering Practices\n\nExperience using source control systems such as Git and Azure DevOpsAbility to write clean, maintainable and testable codeExperience conducting code reviews and providing constructive feedbackExperience investigating and resolving production issuesAbility to contribute to technical design discussions and solution reviews\n\nAI-Assisted Development\n\nExperience using AI-assisted software development tools such as GitHub Copilot, Microsoft Copilot, Cursor or equivalentAbility to utilize AI tools to improve development productivity and accelerate deliveryExperience reviewing, validating and testing AI-generated codeUnderstanding of responsible and secure use of AI-assisted development practices\n\nAdditional Information\n\nNA",
+      "apply_options": [
+        {
+          "title": "Foundit",
+          "link": "https://www.foundit.in/job/senior-software-engineer-net-c-restful-api-backend-dev-nec-technologies-india-mumbai-69169590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Smart Recruiters Jobs",
+          "link": "https://jobs.smartrecruiters.com/NECSWS/744000151347819-senior-software-engineer-net-c-restful-api-backend-dev?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/senior-software-engineer-net-c-restful-api-backend-dev/11327177?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SimplyHired",
+          "link": "https://www.simplyhired.co.in/job/BBYBk-_yxOxVezahwCdk7_S-YnvInQStl0ajx_JvuVdnn7RnRK9Lig?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://bebee.com/in/jobs/senior-software-engineer-net-c-restful-api-backend-dev-nec-software-solutions-mumbai--ss-in-1jbitjb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "The SaaS Jobs",
+          "link": "https://www.thesaasjobs.com/jobs/718864632-senior-software-engineer-netc-sharprestful-api-backend-dev?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://in.jooble.org/jdp/7148247871144252730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "JobLeads",
+          "link": "https://www.jobleads.com/in/job/senior-software-engineer-net-c-restful-api-backend-dev--mumbai--e9801d9bd74b22cd8f4ec4e60070e9a47?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXItIC5OZXQgQyBSZXN0ZnVsIEFQSSBiYWNrZW5kIERldiIsImNvbXBhbnlfbmFtZSI6Ik5FQyBUZWNobm9sb2dpZXMgSW5kaWEiLCJodGlkb2NpZCI6IkZ5QUF0TXgzVzJSeEQxR29BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dsSldtMU9iRFk0VFd0UFJGaHhaMkpXY3pkc2RrdHlNMFZRY0RCMGNIRmFkVFJNU3pOemVrZHJMV0ZYVDFkYVIxZ3hTMWxTWms1RFYwbHJVM1J3ZEdkU2JXdHRNMk5YVTNaR055MTJPR0p4UzJjM00yWm5VMmcyYmxWaFF6ZzBiSHByWlZBMGNISlFabVp5YkZFM09VWk9SMFZrT1VReWJVdDVOV0ZxY3pSSmNXWkZRa1FTRjJKd1gwbGhjRzVaU0hGVWFYZE9ORkExWm1VM2IxRXdHaUpCUkhOeU9XWlRZek5aYlVsSmFYWlZhMnByYVRKc1ZqWm1XRUZGTlZSTVFVUkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJGeUFBdE14M1cyUnhEMUdvQUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMXBSTTFCa1NGVmZXWFIyWjBkWVIwRnFha0ozU3pKRE4ySlhWVTlwYmtScmRUVk1VR3RMY1VKVGRETklRVWhhUm5Cek9WcENRMjQzYkdKcFpYZFBZVm8wV0Y4MGQxbDBUVU42VkZsRlVGUm9WVmQ1YlVsRlZFWlNXV05JWldGWVQyNVVOWGg2Y2pOdlZscHJhRXBPTjBkYVNURklSbUpJZWxabVJHTnNiMjFQV25Ka2Ftc1NGMkp3WDBsaGNHNVpTSEZVYVhkT05GQTFabVUzYjFFd0dpSkJSSE55T1daU1ZtaGtOblY1UmtoZlVWbFFka2Q2VEVKM2EycGFlazQzUldkUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMXBSTTFCa1NGVmZXWFIyWjBkWVIwRnFha0ozU3pKRE4ySlhWVTlwYmtScmRUVk1VR3RMY1VKVGRETklRVWhhUm5Cek9WcENRMjQzYkdKcFpYZFBZVm8wV0Y4MGQxbDBUVU42VkZsRlVGUm9WVmQ1YlVsRlZFWlNXV05JWldGWVQyNVVOWGg2Y2pOdlZscHJhRXBPTjBkYVNURklSbUpJZWxabVJHTnNiMjFQV25Ka2Ftc1NGMkp3WDBsaGNHNVpTSEZVYVhkT05GQTFabVUzYjFFd0dpSkJSSE55T1daU1ZtaGtOblY1UmtoZlVWbFFka2Q2VEVKM2EycGFlazQzUldkUiIsImZjdiI6IjMifQ%3D%3D&q=Microsoft+Senior+Python+Backend+Engineer"
+  }
+}

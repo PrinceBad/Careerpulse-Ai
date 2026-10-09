@@ -1,0 +1,559 @@
+{
+  "search_metadata": {
+    "id": "6ac89f6fc4f20faf33d86391",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VKqel7pS7iXdBRWETxn1u0RCG-0Mif-SiJ8vtCVz4OU/6ac89f6fc4f20faf33d86391.json",
+    "markdown_endpoint": "https://serpapi.com/searches/VKqel7pS7iXdBRWETxn1u0RCG-0Mif-SiJ8vtCVz4OU/6ac89f6fc4f20faf33d86391.md",
+    "created_at": "2026-10-09 08:01:51 UTC",
+    "processed_at": "2026-10-09 08:01:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Microsoft+headquarters+Bengaluru%2C+India/@12.9716,77.5946,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/VKqel7pS7iXdBRWETxn1u0RCG-0Mif-SiJ8vtCVz4OU/6ac89f6fc4f20faf33d86391.html",
+    "prettify_html_file": "https://serpapi.com/searches/VKqel7pS7iXdBRWETxn1u0RCG-0Mif-SiJ8vtCVz4OU/6ac89f6fc4f20faf33d86391.prettify",
+    "total_time_taken": 4.93
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Microsoft headquarters Bengaluru, India",
+    "ll": "@12.9716,77.5946,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "Microsoft headquarters Bengaluru, India"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Microsoft Corporation (India) Pvt Ltd",
+      "place_id": "ChIJj4Gk63YTrjsRTtHjhy6dHLs",
+      "data_id": "0x3bae1376eba4818f:0xbb1c9d2e87e3d14e",
+      "data_cid": "13482824207614333262",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1376eba4818f%3A0xbb1c9d2e87e3d14e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1376eba4818f%3A0xbb1c9d2e87e3d14e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9216374,
+        "longitude": 77.6685834
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj4Gk63YTrjsRTtHjhy6dHLs",
+      "provider_id": "/g/11c80k22jv",
+      "rating": 4.7,
+      "reviews": 2965,
+      "unclaimed_listing": true,
+      "type": "Software company",
+      "types": [
+        "Software company"
+      ],
+      "type_id": "software_company",
+      "type_ids": [
+        "software_company"
+      ],
+      "address": "Prestige Business Park, 33, Marathahalli - Sarjapur Outer Ring Rd, Bellandur, Bellandur Amanikere, Bengaluru, Karnataka 560103, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours"
+      },
+      "website": "https://www.microsoft.com/en-in",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Microsoft is one of the best for providing services\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIG4gwB29U8WcNLpFWSCaWqNQMc5DsfuiLhMLajQdMNuLE5m6G_S1ScHqP3wJF5Acksudz2U6jQ62Fijve9-eYlLyVVG3-_T7fpcmuDcN4rrf8GbaKWy5mlJ69b1nJ6nF1pdkQ8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IQKLlXicHcTdToMwGADQJ-r4GxVMvJhuMLE0Nrg1Xi3soxQYlI5SCb6hj-DbmHguzu9PM8_aPDpO3wQbOY6yF9aICUY1CzVvYBwcqQ0Cg4yzo7xdY_aabuXy7MeniAMlOuHFS8nvlOUQ7k1tW9LkpOxYlVNLDuGA00vhFXC8vwdLloQ7uBlbffsn3DHsJ233JWIkPnuyns9pgC4fD7WGwe6BbqepjtJr-cbXcOgzHF89lWGVeLq6sUg-LZ7ruqj5H5D6A59uRHU"
+    },
+    {
+      "position": 2,
+      "title": "Microsoft Research",
+      "place_id": "ChIJpRq69dcVrjsR8E0Gu7Jy-40",
+      "data_id": "0x3bae15d7f5ba1aa5:0x8dfb72b2bb064df0",
+      "data_cid": "10230897090469711344",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d7f5ba1aa5%3A0x8dfb72b2bb064df0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d7f5ba1aa5%3A0x8dfb72b2bb064df0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9660882,
+        "longitude": 77.5963316
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpRq69dcVrjsR8E0Gu7Jy-40",
+      "provider_id": "/g/11bwkgf7dw",
+      "rating": 4.6,
+      "reviews": 1122,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office",
+        "Cell phone store",
+        "Research foundation"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office",
+        "cell_phone_store",
+        "research_foundation"
+      ],
+      "address": "Vigyan 1st floor, 9, Lavelle Road, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM",
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM"
+      },
+      "phone": "+91 80665 86000",
+      "website": "https://www.microsoft.com/en-us/research/lab/microsoft-research-india/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"This office is located at neat and posh area.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TIRW7EDKiv27N_or96WpwChiUVhmYWBRkaKW_HJlyzmXC_omNQMBAwmoeZUGAsFg2gwyTTzJkWPgerEPEMDvXSjmyPGvy20XwKiBWyFjrdRaMm24_wejAQD2z8F5RsvyayQrhCaw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5FhjRXicHcRJDoIwAADAFyFYdxMPrC4EAggWvRCCTQtSSlqkKT_0Cf7GxDnM90OGoRd7XW_JYoYZwy16C8Qr1g2oG2YVozruhVYJTehmCGu1S88J3LiOX49gExaM79awlzapsxuhd2glr9KHxenSqonmdsFoGAeWKSlDj-xoCg8DLFWaTpcXjDDibuQGzphfG6qi46iAkUu_tqDyGv5MyoCCZSFRY8YOmLbeKhGjKlXMiV3Kg5wbhqGR_5XW_QB98EdZ"
+    },
+    {
+      "position": 3,
+      "title": "Microsoft Luxor North Tower",
+      "place_id": "ChIJ50n6aGUXrjsRL6ehOpv-T8E",
+      "data_id": "0x3bae176568fa49e7:0xc14ffe9b3aa1a72f",
+      "data_cid": "13929632115137292079",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae176568fa49e7%3A0xc14ffe9b3aa1a72f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae176568fa49e7%3A0xc14ffe9b3aa1a72f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9843738,
+        "longitude": 77.7040555
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ50n6aGUXrjsRL6ehOpv-T8E",
+      "provider_id": "/g/11ry5z3023",
+      "rating": 4.6,
+      "reviews": 172,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "4-8th floor, Luxor North Tower, Bagmane Capital Campus, Mahadevapura Village, KR Puram Hobli, Bengaluru East, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Most beautiful office of all MS offices in Bangalore!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMRsqb7EmU-JOk3ZP0rj7v1xQ6_5QZZ4IXkc6CjTEUmiVvhHMAG2bklI7xVXP5lwFAA4K3TOl-5RqkQGfy9DCuhfvbCM5Zdi3GiXGFB0GRXtdN33n6haeIoAm052PvNM2BfuB-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A2nu9nicHcRRDoIgAADQE5EkoautD7Qia5q6MudPS1IxUSrQ6oSdodu09T7e98O1vqmZYQiORpWUlSh6VTyY7HTR6RGTrVHdFGAKKIMEx_o9jf1Y3XN72R7AZtegLISPqz2MX5F1wlGWTby0YZZ73S8PbZ0MfO0TauaN8OxXkoZYPFeETLZovxMAx_cmouV7unB7Xg656-PsUiNap3TlQBqn-hIg1Fn8XHiStBCb4RD4plP2Dpg_xxBCwP8z0P0A3SJCnA"
+    },
+    {
+      "position": 4,
+      "title": "Microsoft office, Cosmo Lavelle",
+      "place_id": "ChIJt4vp9dcVrjsRvfZfrC1z_mo",
+      "data_id": "0x3bae15d7f5e98bb7:0x6afe732dac5ff6bd",
+      "data_cid": "7709726252107560637",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d7f5e98bb7%3A0x6afe732dac5ff6bd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d7f5e98bb7%3A0x6afe732dac5ff6bd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9658731,
+        "longitude": 77.5965508
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt4vp9dcVrjsRvfZfrC1z_mo",
+      "provider_id": "/g/1ptz3xymp",
+      "rating": 4,
+      "reviews": 13,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "XH8W+8JV, Lavelle Road, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "friday": "10 AM–5 PM",
+        "saturday": "10 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM",
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJeIs-P6esgwZbrNZpkY4-h8y7FGHQ3YheTPupzrpEg4bU4q-OSdz38Q3Q3snyDeYUbj5GIi7UKSdZ6990AIURknvFsinMfF6OpcWvAZ8rF7uJ3XQq8cyETU78o6x6LvrzDg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3jN0G3icHcTdboIwGADQJ6pgiqUs2QUJouimMmwULqm1xZ-29gMcvN8eYm9j4rk4_3-qbS18eN5N4Yk0Rt5EB8Jxo1uh2wk3d09aQBwQePHm0AxRsRIZoB0RIJ9V7TaVvZYBUnQI08Uyx6US-11nR2fnMqhZ8EDb4jRimuMcgx4SUbL6MltkTcjWxakiUeTHGfu56j6FRn-fU7K1_NDHFXVp2K3wMX9QPsz3LKSG_JKv3o2J_HxOfd9H6j1H-gXMAUOr"
+    },
+    {
+      "position": 5,
+      "title": "Microsoft Reactor Bengaluru",
+      "place_id": "ChIJO_joeRkXrjsRKAqC2eRF7Pw",
+      "data_id": "0x3bae171979e8f83b:0xfcec45e4d9820a28",
+      "data_cid": "18225018641265592872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae171979e8f83b%3A0xfcec45e4d9820a28&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae171979e8f83b%3A0xfcec45e4d9820a28&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9661806,
+        "longitude": 77.5963804
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO_joeRkXrjsRKAqC2eRF7Pw",
+      "provider_id": "/g/11j4xysw77",
+      "rating": 4.8,
+      "reviews": 95,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Technology park"
+      ],
+      "type_id": "event_venue",
+      "type_ids": [
+        "event_venue",
+        "technology_park"
+      ],
+      "address": "Ground Floor, Vigyan”, No. 9, Lavelle Road, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "friday": "8 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM",
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM"
+      },
+      "phone": "+91 80665 86000",
+      "website": "https://www.meetup.com/microsoft-reactor-bengaluru/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Very well managed and supported by Microsoft for startups to thrive.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0i4vWWNyREiiAnLbIvw-EluhgqM7mNhlRp4bUXasiHDDyVbtMv0EWTZ08XKnDqOZ5GRIeIl2zYw4n-sxQrcgDN4R8p3skTEXFvcAVMaqn0UIt7yt9yU9ocD05RYzJiNPrUyuO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vRwPI3icHcRRDoIgAADQE5FUtrKtDzesrKSiTOsvmQMWgQpqdMHO0G3aeh_v--HWVmbueZKPB0xrJsvWlA3VypbKDqh-eqwygBpgvBBnwgUnKPwuy7AjkRCh2hVx14NItpzVyfSJuSSVX6T53Yg1Qu5S2KSDUXa-wVm-Vaje3yYrEpexHL2vva-AeR0byhD2yawam8c5ypcdDS_JvVYwje3U2cClgaYITsj1vRH40KSu3S_6IYQQ8P8UqB-9YEWT"
+    },
+    {
+      "position": 6,
+      "title": "Office",
+      "place_id": "ChIJZdQnd9QVrjsRrJkK2twJwJc",
+      "data_id": "0x3bae15d47727d465:0x97c009dcda0a99ac",
+      "data_cid": "10934750739411147180",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d47727d465%3A0x97c009dcda0a99ac&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d47727d465%3A0x97c009dcda0a99ac&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9649378,
+        "longitude": 77.5995726
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZdQnd9QVrjsRrJkK2twJwJc",
+      "provider_id": "/g/11qh90wzv7",
+      "rating": 4,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "93, Richmond Rd, Langford Gardens, Bengaluru, Karnataka 560025, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "friday": "8 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "8 AM–10 PM",
+        "monday": "8 AM–10 PM",
+        "tuesday": "8 AM–10 PM",
+        "wednesday": "8 AM–10 PM",
+        "thursday": "8 AM–10 PM"
+      },
+      "website": "http://www.hjsgrp.com/",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UeUE3jwaFyaDxQ5_GWfnsQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=145.43877&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/x7xvNXicHc1NEoIgGADQ27ALMXW0Zpg2_axdOC2dT_wCGgRGSPQ2Xavb1HSB9z5vFaMPxywLcUaMi8bk9Yom7DxQ6Zw0CF4HKtyULXkW1WsaLGhz8mCdHnmH3aV4JrhucF7bqr_dHza0RAy9MBpt5AFhForK9BNnN1LpA0m8YUTxw55skHheVrQsmromXkehOCP_5eEWnjP2BY6KOc8"
+    },
+    {
+      "position": 7,
+      "title": "Facebook Bengaluru",
+      "place_id": "ChIJzQlTiFYVrjsRo73UM4XHSR8",
+      "data_id": "0x3bae1556885309cd:0x1f49c78533d4bda3",
+      "data_cid": "2254552463389801891",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1556885309cd%3A0x1f49c78533d4bda3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1556885309cd%3A0x1f49c78533d4bda3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.950979199999999,
+        "longitude": 77.644257
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzQlTiFYVrjsRo73UM4XHSR8",
+      "provider_id": "/g/11flbd377t",
+      "rating": 4.3,
+      "reviews": 119,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "Microsoft Signature Building, off Intermediate Ring Road, Embassy Golf Links Business Park, Domlur, Bengaluru, Karnataka 560071, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours"
+      },
+      "phone": "+91 63691 15433",
+      "website": "https://www.facebook.com/mds.alman786aliFacebooks-Corporate-Human-Rights-Policy.pdfhttps://www.instagram.com/reel/CiBx83hJY-l/?igshid=YmMyMTA2M2Y=",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        }
+      ],
+      "user_review": "\"Nicely maintained office with good cafeteria\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QXY-oxQjYz9-SUmv8qcN_uVrjr5eAPpXfcLoV4a840BDHYnaqIAob3tYLnpIGrCEzubU0hpUXtUAhqa0MilXQjhAhf9vKhAcU0J24orFBVdvm1u8Wn-SDPvwud-dEJXQN_Kwl5=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cHCxT3icHcRJDoIwAADAF1WqYgImHqriLpGYQjkZKEgl0JYuoH7QN_gbE-cw3w8zRuq54zRsOqqEqJrS6lJRwU3JzYiK1qmkBlQD7aAwebz8iKRAPKM6ffvgitve62h4s7Gq1axEF0nu9CRiN_NcuFzvUp51eyTyqUlPXO63ahW8bY4hk5gYjFiXwfOjIVHNELv7_ZEhiuFh4gq1WcZF346tl3BwXV_6wRagCA4kCm_HoZkthjGEELD_FPAfwshFdA"
+    },
+    {
+      "position": 8,
+      "title": "Google RMZ Infinity",
+      "place_id": "ChIJeaCOITYRrjsRkq2rieogv8Y",
+      "data_id": "0x3bae1136218ea079:0xc6bf20ea89abad92",
+      "data_cid": "14321201531765632402",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1136218ea079%3A0xc6bf20ea89abad92&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1136218ea079%3A0xc6bf20ea89abad92&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9940549,
+        "longitude": 77.6605491
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeaCOITYRrjsRkq2rieogv8Y",
+      "provider_id": "/g/1tycv262",
+      "rating": 4.6,
+      "reviews": 2314,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "3, Old Madras Rd, Sadanandanagar, Bennigana Halli, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM",
+        "tuesday": "9 AM–6 PM",
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM"
+      },
+      "phone": "+91 80672 18000",
+      "website": "https://www.google.com/about/company/facts/locations/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Infra inside the Google Office & in IT park is good.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QVzLwzSPW9-wqTnUSP11o0c37DNStPjpL3o6d2YNOckG83z-udoWRI6LwfS96UVSuhO3A5D91qdzUCFXcV56T37AE8bmnNKQY2gSkSVPjcxXPjeoAOHPVFDgSdBpPB0mAX6P88=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FZ2hRnicHcRdDoIgAADgE5EYk7StB8r-llOKRHsNDbMEC5zlBTtDt2nre_i-n8ra1kwd516hkdRa3svOlE-hlS2VHQndOLI1QBhgHBJn13ew50PUD4xmAegfR5Uy6roaCjQJY2Zp3UZI42J8ihNxW_toAF2hs8MWR_2FBTjlrKsSRLwwcB_FkC5WueAePqIJWfrnRsW7_Wks2Y1xWotXTutSk2RD-SqUrJi3dA4bkmPq-7PehRCC6r8A6gfg60Kh"
+    },
+    {
+      "position": 9,
+      "title": "New Office",
+      "place_id": "ChIJ73umBPgTrjsRjG4r96CB4rY",
+      "data_id": "0x3bae13f804a67bef:0xb6e281a0f72b6e8c",
+      "data_cid": "13178237987981061772",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13f804a67bef%3A0xb6e281a0f72b6e8c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13f804a67bef%3A0xb6e281a0f72b6e8c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9588022,
+        "longitude": 77.6543731
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ73umBPgTrjsRjG4r96CB4rY",
+      "provider_id": "/g/11g6yjx1m3",
+      "rating": 2.3,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Corporate office",
+      "types": [
+        "Corporate office"
+      ],
+      "type_id": "corporate_office",
+      "type_ids": [
+        "corporate_office"
+      ],
+      "address": "XM53+GPH, Wind Tunnel Rd, Murugeshpalya, Kaveri Nagar, Bengaluru, Karnataka 560017, India",
+      "country": "India",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UdO4xoCFYyfyS-cBD8WR1g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=97.46136&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eqGi-XicHc1fCsIgHADg2_g2_9RYWyBBRa9BEdFTOOdUcCrz19xO07m6TdEFvu_zNgAxbQlJMCoFk1U52lm5VESBdQjaKRFtwjIMZGIEzGtovbBuF4UPtuO37lzO4XB6LP1yLeT-WN8vTCPZPqWzygNPSozSYJ1_4hg6rGNCmdcUGd6s0CIybza4rNi6QtGCNJyif9KHiTNKvzBHORo"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "search_metadata": {
+    "id": "6ac89f75b8b4a5d85b534b68",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cNPzVdzPKoEGKGrxRoOLBEhF-Zi0lwktqCeRzEENiPY/6ac89f75b8b4a5d85b534b68.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cNPzVdzPKoEGKGrxRoOLBEhF-Zi0lwktqCeRzEENiPY/6ac89f75b8b4a5d85b534b68.md",
+    "created_at": "2026-10-09 08:01:57 UTC",
+    "processed_at": "2026-10-09 08:01:57 UTC",
+    "google_news_url": "https://news.google.com/search?q=Microsoft+layoffs+confirmed+severance+details&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/cNPzVdzPKoEGKGrxRoOLBEhF-Zi0lwktqCeRzEENiPY/6ac89f75b8b4a5d85b534b68.html",
+    "total_time_taken": 2.53
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Microsoft layoffs confirmed severance details"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Amazon layoff to impact employees in India, UK; email is viral: 'These decisions weren't made lightly'",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/trends/amazon-layoff-to-impact-employees-in-india-uk-email-is-viral-these-decisions-weren-t-made-lightly-14047874.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260219091637_amazon-new.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNaRjlmUWxOR09XTkRObkZwVFJDZkF4ampCU2dLTWdZSk1ZUzFIQVk",
+      "date": "10/08/2026, 01:15 PM, +0000 UTC",
+      "iso_date": "2026-10-08T13:15:14Z"
+    },
+    {
+      "position": 2,
+      "title": "Oracle layoffs: What severance pay can Indian workers expect?",
+      "source": {
+        "name": "The Week",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theweek.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theweek.in/news/biz-tech/2026/09/15/oracle-layoffs-what-severance-pay-can-indian-workers-expect.html",
+      "thumbnail": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/9/15/oracle-new-shutterstock.jpg/photos/1x1/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZOM1p6YVhSTVJETXpXa1JvVFJDcUJCaXFCQ2dLTWdhWms1S01PUVk",
+      "date": "09/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-15T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Microsoft Layoffs 2026: Latest News, Xbox Restructuring & Severance Pay in Canada",
+      "source": {
+        "name": "Samfiru Tumarkin LLP",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stlawyers.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://stlawyers.ca/blog-news/microsoft-canada-layoffs-severance/",
+      "thumbnail": "https://stlawyers.ca/wp-content/uploads/2024/01/microsoft-canada-severance-packages.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdhbFJXU1RWcU1qTjBNMFZRVFJDUUF4aUFCaWdLTWdPRlFnbw",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "'No warning, no severance': Employee claims 150 engineers were laid off overnight",
+      "source": {
+        "name": "People Matters - HR News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.peoplematters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samriddhi Srivastava"
+        ]
+      },
+      "link": "https://www.peoplematters.in/news/strategic-hr/no-warning-no-severance-employee-claims-150-engineers-were-laid-off-overnight-50555",
+      "thumbnail": "https://asset.peoplematters.in/images/23ef1561-e10a-49b9-bd3c-3103f41b297a.png?w=800&auto=format,compress",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJPV2d3YjFOUVpTMVZZbk0wVFJDZkF4ampCU2dLTWdhTmtZb3dNUVk",
+      "date": "06/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-28T07:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Oracle layoffs: Severance pay details emerge as fresh India job cuts hit 3,000",
+      "source": {
+        "name": "Firstpost",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.firstpost.com/tech/oracle-layoffs-severance-pay-details-emerge-as-fresh-india-job-cuts-hit-3000-14047202.html",
+      "thumbnail": "https://images.firstpost.com/uploads/2026/02/2026-02-01T233951Z_1_LYNXMPEM100XE_RTROPTP_4_ORACLE-RESULTS-2026-02-239906a2a3efec916704f2ba0a2d15fe-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxNVGhyZVhOQ01UTktORk5tVFJDZkF4ampCU2dLTWdZbEFJUE8wQUk",
+      "date": "09/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Microsoft Layoffs: Employees Could Get Up To 39 Weeks' Salary; Here's The Full Severance Package",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/viral/microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-heres-the-full-severance-package-ws-l-10197712.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/07/someone-reserved-3-2026-07-b6908cc3bd173a67e7869bd0b45d7916.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFRMVF3TTE5WWQwOHpTR1psVFJDZkF4ampCU2dLTWdrUm9ZeHVRV2FTendF",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Microsoft Layoffs: Employees to Get Up to 39 Weeks’ Salary as Severance",
+      "source": {
+        "name": "Analytics Insight",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.analyticsinsight.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.analyticsinsight.net/news/microsoft-layoffs-employees-to-get-up-to-39-weeks-salary-as-severance",
+      "thumbnail": "https://media.assettype.com/analyticsinsight/2026-07-08/jgn91g1f/Microsoft-reveals-severance-benefits-after-layoffs-offers-up-to-39-weeks-salary-1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhSV2RKWDBORFNscGtNMnMwVFJDY0F4am5CU2dLTWdhZFFJUllWQUk",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Here's what Microsoft is offering laid-off employees in severance",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Stewart"
+        ]
+      },
+      "link": "https://www.businessinsider.com/microsoft-severance-offers-layoffs-plan-2026-7",
+      "thumbnail": "https://i.insider.com/6a4d6aed94175b768171fdbf?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJNalJ3YmpCTU5HNVZUekJUVFJEUEF4aVhCU2dLTWdZQkZKNlFqUXM",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Intuit slashes staff, signs deals with Anthropic and Open AI",
+      "source": {
+        "name": "Human Resources Director",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hcamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hcamag.com/us/specialization/transformation/intuit-slashes-staff-signs-deals-with-anthropic-and-open-ai/576021",
+      "thumbnail": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/035/0356_639149086088886303.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViSE50UjFWYVNITTBjbU5xVFJDdEF4akxCU2dLTWdZVjQ0aElTUVE",
+      "date": "05/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-20T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Microsoft Q4 FY2026: Xbox Content & Services Revenue Falls 10% YoY Amid Layoffs",
+      "source": {
+        "name": "Shane the Gamer",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.shanethegamer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.shanethegamer.com/news/microsoft-q4-fy2026-xbox-content-services-revenue-falls-10-yoy-amid-layoffs/",
+      "thumbnail": "https://www.shanethegamer.com/wp-content/uploads/2026/07/stg-xbox-86334-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9Oa0pVWjJKQlpuWXRlbUV3VFJDUkF4ajhCU2dLTWdZQlFKSWlwd2c",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs",
+      "source": {
+        "name": "IGN",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ign.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cade Onder"
+        ]
+      },
+      "link": "https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs",
+      "thumbnail": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1200&height=900&fit=crop&format=jpg&auto=webp&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhSGRqUjBGMk15MUdhalJ4VFJEZ0F4aUFCU2dLTWdZcGhJNnRNUVk",
+      "date": "06/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-29T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Game Workers March at Six Xbox Studios Over 440 Union Cuts and Stalled Contracts",
+      "source": {
+        "name": "Tech Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techtimes.com/articles/320606/20260715/game-workers-march-six-xbox-studios-over-440-union-cuts-stalled-contracts.htm",
+      "thumbnail": "https://d.techtimes.com/en/full/468876/onebgs.png?w=836&f=db9da009a7b805847f1a01f2555ffb45",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlRbEZ4VmkwM0xUUkNXa3B4VFJDZkF4ampCU2dLTWdZcFpZek9xUVk",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Bungie Hit With Major Layoffs Affecting Destiny 2 and Marathon Teams Following Sony Restructuring",
+      "source": {
+        "name": "gHacks",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ghacks.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ghacks.net/2026/06/26/bungie-hit-with-major-layoffs-affecting-destiny-2-and-marathon-teams-following-sony-restructuring/",
+      "thumbnail": "https://www.ghacks.net/wp-content/uploads/2026/06/gHacks-articles-2026-06-26T121253.415.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVXSGhOUVhkdlFUWjBkV2R3VFJEZ0F4aUFCU2dLTWdtSlFZekV0S1p6WndJ",
+      "date": "06/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-26T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Oracle layoffs 2026: What should employees do after losing their jobs? 7 steps to take immediately",
+      "source": {
+        "name": "StoryBoard 18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/how-it-works/oracle-layoffs-2026-what-should-employees-do-after-losing-their-jobs-7-steps-to-take-immediately-109418.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-26T124354.588-2026-07-231c104e5aed42464e3bbcd8d1a4652a-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpiMWhzVms1UllscGxWVzVNVFJEOEFoaWpCU2dLTWdB",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Xbox Fires Thousands, Shuts Five Studios in Largest Gaming Layoff in Years",
+      "source": {
+        "name": "Tech Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techtimes.com/articles/319765/20260706/xbox-fires-thousands-shuts-five-studios-largest-gaming-layoff-years.htm",
+      "thumbnail": "https://d.techtimes.com/en/full/468102/photo-shows-logo-xbox-gamescom-video-games.jpg?w=836&f=c72258ffe67f77c7ae2886c322f46e11",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRSV1phTUdob1JtZE1PRWxpVFJERUF4aW5CU2dLTWdrVlE0WXBvaVZrOUFB",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Google, Microsoft, Facebook, Salesforce and others tech companies that announced layoffs in the first mon",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-microsoft-facebook-salesforce-and-others-tech-companies-that-announced-layoffs-in-the-first-month-of-2025/articleshow/117920743.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-117920708,width-1280,height-720,resizemode-4/117920708.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaM055Y0dGQmFscHJkREo0VFJDZkF4ampCU2dLTWdZUk5JUk1xUWM",
+      "date": "02/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-05T08:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Microsoft cuts another 40 jobs in Washington state, continuing layoffs amid AI investment surge",
+      "source": {
+        "name": "GeekWire",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.geekwire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Todd Bishop"
+        ]
+      },
+      "link": "https://www.geekwire.com/2025/microsoft-cuts-another-40-jobs-in-washington-state-continuing-layoffs-amid-ai-investment-surge/",
+      "thumbnail": "https://www.geekwire.com/wp-content/uploads/2025/08/msft-sign-1260x945.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxWV051UVdwd1dVRlpOV3RyVFJEZ0F4aUFCU2dLTWdNQmtnQQ",
+      "date": "08/04/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-04T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Microsoft layoffs mount as it cuts 40 jobs - 3,160 fired in Washington since May, employees call it a cult",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/international/us/microsoft-layoffs-washington-2025-microsoft-layoffs-mount-as-it-cuts-40-jobs-3160-fired-in-washington-since-may-employees-call-it-a-cultural-crisis/articleshow/123166137.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-123166098,width-1200,height-900,resizemode-4,imgsize-46440/microsoft-layoffs-mount-as-it-cuts-40-jobs-3160-fired-in-washington-since-may-employees-call-it-a-cultural-crisis.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNYMnhYZW1NNGJFSmZkSGMyVFJEZ0F4aUFCU2dLTWdaSlFZeldIQWs",
+      "date": "08/07/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-07T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Microsoft cuts deeper into its workforce with another major round of layoffs",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Stewart",
+          "Sarah Jackson",
+          "Jyoti Mann"
+        ]
+      },
+      "link": "https://www.businessinsider.com/microsoft-layoffs-major-round-managers-workers-2025-7",
+      "thumbnail": "https://i.insider.com/663240500dfb1341e9011444?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRMFZtY1hoUlQzTjJZVFJqVFJEZ0F4aUFCU2dLTWdZZFpvNExLZ2c",
+      "date": "07/02/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-07-02T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Microsoft Performance-Based Job Cuts Have Started: Termination Letters",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Stewart"
+        ]
+      },
+      "link": "https://www.businessinsider.com/microsoft-performance-based-job-cuts-have-started-termination-letters-2025-1",
+      "thumbnail": "https://i.insider.com/679bcc03196626c40985d625?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRNVGRvUmkxbGNFVllYMUp1VFJERUF4aW5CU2dLTWdhOUE0WlRqUWc",
+      "date": "01/30/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-30T08:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Meta to lay off 8,000 employees in May, memo confirms",
+      "source": {
+        "name": "The American Bazaar",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://americanbazaaronline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://americanbazaaronline.com/2026/04/24/meta-to-lay-off-8000-employees-in-may-memo-confirms-479611/",
+      "thumbnail": "https://americanbazaaronline.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-18-2026-10_06_02-PM.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUbEF5TWxSUWFHVlJiblEwVFJERUF4aW1CU2dLTWdZTlFZalZwQU0",
+      "date": "04/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-24T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Here are the layoff severance packages Google, Microsoft, Amazon and other tech giants have promised",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rohan Goswami"
+        ]
+      },
+      "link": "https://www.cnbc.com/2023/01/20/google-amazon-microsoft-meta-twitter-severance-packages-compared.html",
+      "thumbnail": "https://image.cnbcfm.com/api/v1/image/107174526-1672936194759-gettyimages-1243527503-AA_26092022_878864.jpeg?v=1687878691&w=1600&h=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJPSHAwZFdOelNHbzNlRVI2VFJDZkF4ampCU2dLTWdrQlFJaGpJQ2hFa1FF",
+      "date": "01/20/2023, 08:00 AM, +0000 UTC",
+      "iso_date": "2023-01-20T08:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Microsoft’s First-Ever Employee Buyout: Here’s What They Could Get",
+      "source": {
+        "name": "Forbes",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ty Roush"
+        ]
+      },
+      "link": "https://www.forbes.com/sites/tylerroush/2026/04/23/microsoft-issues-first-ever-employee-buyout-heres-how-much-employees-might-receive/",
+      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/69308cd8109d8d883ef1d301/Microsoft-Office-in-New-York-City/960x0.jpg?height=464&width=711&fit=bounds",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhhalJoV1dwdlRTMVBka1IxVFJEQUF4aXRCU2dLTWdtTkFvNUxEU3hNamdF",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Meta begins laying off 5% of its global workforce—are all of them really low performers?",
+      "source": {
+        "name": "People Matters Global",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://me.peoplemattersglobal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://me.peoplemattersglobal.com/news/performance-management/meta-begins-laying-off-5-of-its-global-workforceare-all-of-them-really-low-performers-44335",
+      "thumbnail": "https://asset.peoplematters.in/images/c2544bfc-6d11-4332-a5ea-67c462d0416f.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROemRIZGtOdmRYSnhlbGxuVFJEZkFoandCQ2dLTWdZTlFZeG5MZ2M",
+      "date": "09/03/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-03T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Google rolls out voluntary buyouts for UK staff",
+      "source": {
+        "name": "hrme.economictimes.indiatimes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://hrme.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://hrme.economictimes.indiatimes.com/news/industry/google-initiates-voluntary-buyouts-for-employees-in-the-uk-amid-global-restructuring/125534103",
+      "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-125534103,width-1600,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUtjbFIyZEV3eGMyaHFibnBXVFJDZkF4ampCU2dLTWdNQkpCSQ",
+      "date": "11/24/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-24T08:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Microsoft offers to buy out 7% of its workforce as it pivots towards AI",
+      "source": {
+        "name": "hcamag.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hcamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matthew Sellers"
+        ]
+      },
+      "link": "https://www.hcamag.com/ca/news/general/microsoft-offers-to-buy-out-7-of-its-workforce-as-it-pivots-towards-ai/572926",
+      "thumbnail": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/035/0343_639125688350397889.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVTSG90Vmkwd1dUSnZlRlYyVFJDdEF4akxCU2dLTWdZbGdZaE5OUVk",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Meta to lay off 8,000 workers to offset AI spending, improve efficiency Meta Platforms is set to lay off 8,000 workers or about 10% of the entire company by May 20 to offset their AI investments. It released the internal memo on Thursday, April 23, and a company",
+      "source": {
+        "name": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/rapplerdotcom/videos/meta-to-lay-off-8000-workers-to-offset-ai-spending-improve-efficiencymeta-platfo/1880359329330712/",
+      "date": "04/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-24T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Microsoft laid her off. A layoff support group helped her bounce back — and she got a job at Meta 2 months later.",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jacob Zinkula"
+        ]
+      },
+      "link": "https://www.businessinsider.com/former-microsoft-employee-shares-how-landed-job-meta-after-layoff-2025-10",
+      "thumbnail": "https://i.insider.com/68f1525dcc993f9955d05b41?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZVRmxMTUhCNWQxbHJZbXd3VFJEZ0F4aUFCU2dLTWdheGRKS1BMUWM",
+      "date": "10/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-17T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Country club no more: Inside Microsoft's move to cull staff on performance",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Stewart"
+        ]
+      },
+      "link": "https://www.businessinsider.com/microsoft-performance-management-low-performers-country-club-2025-2",
+      "thumbnail": "https://i.insider.com/67c647ed69253ccddf982a30?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlWM1pCZVhGRlFVVlpPR05NVFJEZ0F4aUFCU2dLTWdaSmdZaTNNQVk",
+      "date": "03/06/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-03-06T08:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
+      "source": {
+        "name": "The Verge",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tom Warren"
+        ]
+      },
+      "link": "https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25247723/1237824985.jpg?quality=90&strip=all&crop=0.44236602628918%2C0%2C99.115267947422%2C100&w=2400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxhVlJGUlZWdGFsTmZVSFJhVFJERUF4aW1CU2dLTWdZRmM0UW1XUU0",
+      "date": "01/25/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-25T08:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Bell Canada Layoffs 2026: News, Restructuring & Severance Pay",
+      "source": {
+        "name": "Samfiru Tumarkin LLP",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://stlawyers.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://stlawyers.ca/blog-news/bell-canada-layoffs/",
+      "thumbnail": "https://stlawyers.ca/wp-content/uploads/2024/12/bell-canada-layoffs-1200x625.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNkVUZ6UkVwSlZ6Y3RkMWRHVFJDUUF4aUFCaWdLTWdhQm9ZSndPUVU",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "From immigration support to free office furniture: How severance packages for laid-off tech employees compare",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Paolo Confino"
+        ]
+      },
+      "link": "https://fortune.com/2022/11/21/tech-layoffs-severance-package-meta-twitter-netflix-lyft-snap-shopify-microsoft-amazon-stripe/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2022/11/web-crop-GettyImages-1349794820.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxhMmRKWjFWQmFrcHNWVloyVFJERUF4aW1CU2dLTWdNSlFRNA",
+      "date": "11/21/2022, 08:00 AM, +0000 UTC",
+      "iso_date": "2022-11-21T08:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Microsoft video games division lays off 1,900 staff",
+      "source": {
+        "name": "BBC",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bbc.co.uk/news/newsbeat-68093970",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/F543/production/_130478726_dragonflight_return_to_the_forbidden_reach_sarkareth_-1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRRVkJsYVdKcVlrcExSR0k0VFJDZkF4ampCU2dLTWdhaEJvb3NpZ3M",
+      "date": "01/25/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-01-25T08:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Bethesda union confirms Xbox layoff protests: ‘We won’t quietly disappear’",
+      "source": {
+        "name": "Video Games Chronicle",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.videogameschronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Andy Robinson"
+        ]
+      },
+      "link": "https://www.videogameschronicle.com/news/bethesda-union-confirms-xbox-layoff-protests-we-wont-quietly-disappear/",
+      "thumbnail": "https://www.videogameschronicle.com/files/2026/07/1500x500-768x432.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhaMkZKY21jeFFXZHdWRkZtVFJDZkF4ampCU2dLTWdhaFZJTE5LUVk",
+      "date": "07/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-10T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Oracle Details Severance Package for Latest Round of Layoffs Amid Cost-Cutting Efforts",
+      "source": {
+        "name": "SSBCrack",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://news.ssbcrack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.ssbcrack.com/oracle-details-severance-package-for-latest-round-of-layoffs-amid-cost-cutting-efforts/",
+      "thumbnail": "https://news.ssbcrack.com/wp-content/uploads/2026/09/Oracle-Details-Severance-Package-for-Latest-Round-of-Layoffs-Amid-860x430.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXVEJFY0VWSGFUQXdXVVo2VFJDSEF4aVBCaWdLTWdhVmNwWXByUWM",
+      "date": "09/18/2026, 08:28 PM, +0000 UTC",
+      "iso_date": "2026-09-18T20:28:57Z"
+    },
+    {
+      "position": 36,
+      "title": "Oracle Job Cuts: 30,000 Roles Eliminated, Top Tech Layoffs",
+      "source": {
+        "name": "RS Web Solutions",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.rswebsols.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Souvik Banerjee"
+        ]
+      },
+      "link": "https://www.rswebsols.com/news/oracle-job-cuts-30000-positions-eliminated-in-6-am-email-see-top-tech-layoffs-including-amazon-tcs-and-intel/",
+      "thumbnail": "https://cdn.rswebsols.com/wp-content/uploads/2025/12/31206cb9-2323-4282-bbb1-64b8df8bc4d1-256x144.jpg?strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVaTEzZEVoaloySjNSVFJwVFJDUUFSaUFBaWdLTWdhQklvWUlLUWc",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Microsoft Cuts 4,800 Jobs While Providing Industry-Leading Severance Package",
+      "source": {
+        "name": "International Business Times UK",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ibtimes.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akshay Puri"
+        ]
+      },
+      "link": "https://www.ibtimes.co.uk/microsoft-job-cuts-ai-investment-1807794",
+      "thumbnail": "https://d.ibtimes.co.uk/en/full/1688239/microsoft.jpg?w=736&f=ac83a66a9cd01af65a94fccdbd8533f3",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtibWR3UlhWeWNWVmlOMnhRVFJENUFoamdCU2dLTWdhRm9KTEp0QVk",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Morgan Stanley Layoffs Hit 2,500 Workers — What We Know About Severance and Benefits",
+      "source": {
+        "name": "International Business Times UK",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ibtimes.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ibtimes.co.uk/morgan-stanley-job-cuts-2025-1783256",
+      "thumbnail": "https://d.ibtimes.co.uk/en/full/1794383/morgan-stanley.jpg?w=736&f=1af60e696580169287111d1ea7c98eae",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZjRVYzU0VsWVFsSTNhV2c1VFJERUF4aW5CU2dLTWdNQmtnZw",
+      "date": "03/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-05T08:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "China bans AI-driven layoffs – All about $43K severance case that set a precedent",
+      "source": {
+        "name": "The Financial Express",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashima Grover"
+        ]
+      },
+      "link": "https://www.financialexpress.com/world-news/china-bans-ai-driven-layoffs-all-about-43k-severance-case-that-set-a-precedent/4224880/",
+      "thumbnail": "https://images.financialexpressdigital.com/2026/05/ai-replacement-chinese-workers.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhRak4yUTFSbVpsVkthbWhWVFJDZkF4ampCU2dLTWdhaEJZRHREUUU",
+      "date": "05/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-02T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

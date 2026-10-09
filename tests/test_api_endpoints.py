@@ -98,6 +98,26 @@ def test_resume_upload_unsupported_format():
     assert res.status_code == 400
     assert "Unsupported file format" in res.json()["detail"]
 
+def test_resume_parse_success():
+    resume_text = """
+    Jane Doe - Senior Python Backend Engineer
+    Bengaluru, India | jane.doe@example.com
+    Experience:
+    - Designed distributed pipeline handling 10k req/sec with FastAPI and Redis.
+    - Reduced database latency by 45% using PostgreSQL indexing.
+    Skills: Python, FastAPI, Redis, PostgreSQL, Docker, Kubernetes.
+    """
+    res = client.post(
+        "/api/resume/parse",
+        data={"raw_text": resume_text}
+    )
+    assert res.status_code == 200
+    data = res.json()
+    assert "Python" in data["extracted_skills"]
+    assert data["detected_role"] == "Senior Python Backend Engineer"
+    assert data["detected_location"] == "Bengaluru, India"
+    assert "10k req/sec" in data["candidate_snippet"]
+
 def test_serve_frontend_root():
     res = client.get("/")
     assert res.status_code == 200
