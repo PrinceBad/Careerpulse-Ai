@@ -205,6 +205,14 @@ if frontend_dir.exists():
     if (frontend_dir / "js").exists():
         app.mount("/js", StaticFiles(directory=str(frontend_dir / "js")), name="js")
 
+    @app.get("/favicon.ico")
+    @app.get("/favicon.svg")
+    def serve_favicon():
+        fav = frontend_dir / "favicon.svg"
+        if fav.exists():
+            return FileResponse(fav, media_type="image/svg+xml")
+        raise HTTPException(status_code=404, detail="Favicon not found")
+
     @app.get("/")
     def serve_frontend_root():
         index_file = frontend_dir / "index.html"

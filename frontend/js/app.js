@@ -461,11 +461,39 @@ const modalCitVisitLink = document.getElementById('modalCitVisitLink');
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
   setupEventListeners();
   loadScenario('razorpay');
   renderAllViews();
   checkBackendHealth();
 });
+
+function initTheme() {
+  const saved = localStorage.getItem('cp_theme') || 'indigo';
+  applyTheme(saved);
+
+  document.querySelectorAll('[data-set-theme]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const theme = btn.getAttribute('data-set-theme');
+      applyTheme(theme);
+      try {
+        localStorage.setItem('cp_theme', theme);
+      } catch (err) {}
+    });
+  });
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  document.querySelectorAll('[data-set-theme]').forEach(btn => {
+    if (btn.getAttribute('data-set-theme') === theme) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+}
 
 function setupEventListeners() {
   // Preset buttons

@@ -8,6 +8,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="alternate icon" href="favicon.ico">
   <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
@@ -34,12 +36,26 @@
       </div>
 
       <div class="header-indicators">
+        <!-- Light Theme Palette Selector -->
+        <div class="theme-switcher-pill" id="themeSwitcherGroup" title="Customize Light Color Theme">
+          <span class="theme-switcher-label">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+            <span>Theme:</span>
+          </span>
+          <div class="theme-dots">
+            <button class="theme-dot dot-indigo active" data-set-theme="indigo" title="Royal Indigo Aurora (Default)" aria-label="Royal Indigo Theme"></button>
+            <button class="theme-dot dot-warm" data-set-theme="warm" title="Warm Editorial Sand & Ivory" aria-label="Warm Sand Theme"></button>
+            <button class="theme-dot dot-emerald" data-set-theme="emerald" title="Nordic Mint & Emerald" aria-label="Emerald Mint Theme"></button>
+            <button class="theme-dot dot-azure" data-set-theme="azure" title="Nordic Azure Ice" aria-label="Azure Ice Theme"></button>
+            <button class="theme-dot dot-rose" data-set-theme="rose" title="Blush Rose & Orchid" aria-label="Blush Rose Theme"></button>
+          </div>
+        </div>
         <div class="cache-pill" id="cacheStatusBadge">
           <span class="pulse-dot"></span>
           <span id="cacheStatusLabel">SerpApi Resilient Cache (38 Verified Snapshots)</span>
         </div>
         <div class="pydelhi-pill">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="2"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 17 10 11 4 5"/><line x1="12" x2="20" y1="19" y2="19"/></svg>
           <span>PyDelhi 2026 Edition</span>
         </div>
         <button id="btnHeaderGuard" class="btn-guard-shortcut">
