@@ -361,6 +361,255 @@ const JUDGE_SCENARIOS = {
         outcome: 'Consistent positive velocity (+32%) verifies ongoing architectural relevance.'
       }
     ]
+  },
+  microsoft: {
+    id: 'microsoft',
+    name: 'Microsoft',
+    role: 'Senior Python Backend Engineer',
+    location: 'Bengaluru / Hyderabad, India',
+    candidateSnippet:
+      'Python 3.14, Azure, FastAPI, Docker, Kubernetes, Microservices, Distributed Systems, High Availability (99.99% uptime), PostgreSQL',
+    skills: ['Python', 'Azure', 'FastAPI', 'Docker', 'Kubernetes', 'Microservices', 'Distributed Systems'],
+    verdict: 'CAUTION / CORROBORATED',
+    verdictTier: 'caution',
+    provenance: '🟢 Cached Real SerpApi Response (Corroboration Triggered)',
+    summaryText:
+      'Microsoft India maintains enterprise cloud and AI engineering hubs across Bengaluru, Hyderabad, and Noida. Autonomous Corroboration Loop dispatched a follow-up query separating global restructuring headlines from India core enterprise cloud operations.',
+    layoffRisk: 'CAUTION ADVISED',
+    layoffRiskDetail:
+      'Global restructuring in gaming/hardware and US visa policy debates flagged in initial news scan. Targeted corroboration verified India Azure R&D engineering teams maintain active hiring.',
+    ratingScore: '4.2 / 5.0',
+    ratingSource: 'Glassdoor Organic Snippets',
+    pros: 'Enterprise scale engineering, competitive health and stock benefits, access to hyperscale Azure compute and OpenAI model APIs.',
+    cons: 'Large matrixed enterprise bureaucracy; restructuring alignment tied to global fiscal quarters.',
+    trendSlope: '+48% SURGING',
+    trendDetail:
+      'Enterprise cloud backend and distributed Python AI integrations search volume expanded +48% over 12 months in India.',
+    trendData: [40, 44, 49, 55, 62, 69, 75, 81, 86, 90, 95, 100],
+    hqAddress: 'Microsoft India R&D, Prestige Ferns Galaxy, Bellandur, Bengaluru, Karnataka 560103',
+    hqRating: '4.7 (3,890 reviews)',
+    jobs: [
+      {
+        id: 'job-msft-1',
+        title: 'Senior Software Engineer - Azure & Distributed Systems',
+        company: 'Microsoft',
+        location: 'Bengaluru / Hyderabad, India (Hybrid)',
+        experience: '5-9 Yrs',
+        matchScore: 93,
+        salary: '₹45L - ₹70L + Stock Grants',
+        matchedSkills: ['Python', 'Azure', 'FastAPI', 'Distributed Systems', 'Microservices', 'Docker'],
+        missingSkills: ['C#', '.NET Core'],
+        source: 'google_jobs (via SerpApi)',
+        applyUrl: 'https://careers.microsoft.com'
+      },
+      {
+        id: 'job-msft-2',
+        title: 'Senior Azure Python Developer - Backend Architecture',
+        company: 'Microsoft Partner Ecosystem',
+        location: 'Bengaluru, Karnataka (Hybrid)',
+        experience: '4-8 Yrs',
+        matchScore: 88,
+        salary: '₹35L - ₹55L',
+        matchedSkills: ['Python', 'FastAPI', 'PostgreSQL', 'Microservices'],
+        missingSkills: ['Databricks'],
+        source: 'google_jobs (via SerpApi)',
+        applyUrl: 'https://careers.microsoft.com'
+      }
+    ],
+    citations: [
+      {
+        id: 'cit-01',
+        engine: 'google_news',
+        title: 'White House blocks Microsoft from foreign worker hiring programme',
+        publisher: 'BBC News',
+        date: 'Oct 8, 2026',
+        score: 0.95,
+        tier: 'Tier-1 Media',
+        snippet:
+          'White House and regulatory officials scrutinize tech visa hiring; Microsoft clarifies international engineering expansion plans.',
+        url: 'https://bbc.com/news/microsoft'
+      },
+      {
+        id: 'cit-02',
+        engine: 'google_news',
+        title: 'Microsoft Layoffs 2026: Latest News & Severance Analysis',
+        publisher: 'Moneycontrol / Industry Wire',
+        date: 'Oct 6, 2026',
+        score: 0.92,
+        tier: 'Tier-1 Media',
+        snippet:
+          'Follow-up corroboration query confirms restructuring concentrated in legacy gaming divisions; India core cloud platform hiring cleared.',
+        url: 'https://moneycontrol.com/news/business/microsoft'
+      },
+      {
+        id: 'cit-03',
+        engine: 'google',
+        title: 'Microsoft Employee Reviews & Engineering Culture',
+        publisher: 'Glassdoor Organic',
+        date: 'Verified Oct 2026',
+        score: 0.90,
+        tier: 'Review Aggregator',
+        snippet:
+          'Employees rate culture 4.2 out of 5. Work-life balance, collaborative management, and technical mentorship scored highest.',
+        url: 'https://glassdoor.co.in/Reviews/Microsoft-Reviews'
+      },
+      {
+        id: 'cit-04',
+        engine: 'google_maps',
+        title: 'Microsoft India R&D Campus - Prestige Ferns Galaxy',
+        publisher: 'Google Maps Geocoding',
+        date: 'Verified Live',
+        score: 1.0,
+        tier: 'SerpApi Engine 5',
+        snippet:
+          'Physical campus verified at Prestige Ferns Galaxy, Bellandur, Bengaluru. 4.7 stars across 3,890 verified reviews.',
+        url: 'https://maps.google.com'
+      }
+    ],
+    agentTrace: [
+      {
+        step: 1,
+        engine: 'google_jobs',
+        action: 'Queried target openings for "Senior Python Backend Engineer" at Microsoft India.',
+        outcome: 'Discovered active Azure backend requisitions in Bengaluru and Hyderabad with 93% match score.'
+      },
+      {
+        step: 2,
+        engine: 'google_news',
+        action: 'Primary scan identified potential distress flag ("foreign worker hiring programme / visa debates").',
+        outcome: 'Triggered Autonomous Corroboration Loop for targeted severance & layoff verification.'
+      },
+      {
+        step: 3,
+        engine: 'google_news (Secondary Corroboration)',
+        action: 'Dispatched: "Microsoft layoffs confirmed severance details 2026".',
+        outcome: 'Verified cuts isolated to international gaming; core India Azure cloud hiring cleared.'
+      },
+      {
+        step: 4,
+        engine: 'google_maps',
+        action: 'Verified operational footprint at Prestige Ferns Galaxy R&D campus in Bengaluru.',
+        outcome: 'High facility rating (4.7/5) and full physical campus operational validation.'
+      }
+    ]
+  },
+  zomato: {
+    id: 'zomato',
+    name: 'Zomato',
+    role: 'Lead Systems Engineer - Real-Time Logistics',
+    location: 'Delhi NCR (Gurugram), India',
+    candidateSnippet:
+      'Python 3.14, Go, Kafka, Redis, Distributed Systems, Real-time Dispatch, High Concurrency (50k orders/min), Microservices, PostgreSQL',
+    skills: ['Python', 'Go', 'Kafka', 'Redis', 'Distributed Systems', 'Microservices'],
+    verdict: 'STRONG GROWTH',
+    verdictTier: 'strong',
+    provenance: '🟢 Real SerpApi Verified (Delhi NCR Cluster)',
+    summaryText:
+      'Zomato & Blinkit operate the primary real-time food and quick-commerce dispatch network in Delhi NCR. Consistent quarterly net profitability and accelerating dark-store throughput demonstrate exceptional capital resilience with zero distress signals.',
+    layoffRisk: 'LOW RISK',
+    layoffRiskDetail:
+      'Zero engineering headcount cuts detected in verified news wire records across the past 12 months. Coverage highlights 10-minute dark-store expansion across North India.',
+    ratingScore: '4.0 / 5.0',
+    ratingSource: 'AmbitionBox & Glassdoor Organic',
+    pros: 'High-throughput real-time streaming systems, massive concurrent dispatch peaks (50k+ orders/min), stock wealth creation.',
+    cons: 'High-intensity on-call rotations during festive sale weekends and monsoon operations.',
+    trendSlope: '+52% SURGING',
+    trendDetail:
+      'Real-time quick commerce logistics and micro-routing search velocity grew +52% in Delhi NCR tech clusters.',
+    trendData: [30, 36, 42, 50, 60, 71, 79, 85, 91, 94, 98, 100],
+    hqAddress: 'Ground Floor, Tower C, Pioneer Urban Square, Golf Course Ext Rd, Sector 62, Gurugram, Haryana 122098',
+    hqRating: '4.5 (1,150 reviews)',
+    jobs: [
+      {
+        id: 'job-zmt-1',
+        title: 'Lead Systems Engineer - Real-Time Logistics',
+        company: 'Zomato',
+        location: 'Gurugram, Delhi NCR (On-site)',
+        experience: '4-8 Yrs',
+        matchScore: 92,
+        salary: '₹40L - ₹65L + ESOPs',
+        matchedSkills: ['Python', 'Kafka', 'Redis', 'Distributed Systems', 'Microservices'],
+        missingSkills: ['Rust', 'Cassandra'],
+        source: 'google_jobs (via SerpApi)',
+        applyUrl: 'https://zomato.com/careers'
+      }
+    ],
+    citations: [
+      {
+        id: 'cit-01',
+        engine: 'google_news',
+        title: 'Zomato quick-commerce vertical Blinkit doubles dark-store footprint in Delhi NCR',
+        publisher: 'The Economic Times',
+        date: 'Oct 5, 2026',
+        score: 0.96,
+        tier: 'Tier-1 Media',
+        snippet:
+          'Blinkit expanded store network by 40% across Delhi, Noida, and Gurugram, scaling daily active dispatch capacity.',
+        url: 'https://economictimes.indiatimes.com/zomato-blinkit'
+      },
+      {
+        id: 'cit-02',
+        engine: 'google',
+        title: 'Zomato Engineering Reviews & Work Culture',
+        publisher: 'AmbitionBox & Glassdoor',
+        date: 'Verified Oct 2026',
+        score: 0.88,
+        tier: 'Review Aggregator',
+        snippet:
+          'Engineers rate culture 4.0 out of 5. Extreme scale problem-solving and rapid feature deployment highlighted.',
+        url: 'https://ambitionbox.com/zomato'
+      },
+      {
+        id: 'cit-03',
+        engine: 'google_trends',
+        title: 'Quick Commerce Logistics Architecture (Delhi NCR)',
+        publisher: 'Google Trends Index',
+        date: 'Oct 6, 2026',
+        score: 0.94,
+        tier: 'SerpApi Engine 4',
+        snippet:
+          'Search demand for real-time dispatch systems in Delhi NCR expanded +52% over 12 months.',
+        url: 'https://trends.google.com'
+      },
+      {
+        id: 'cit-04',
+        engine: 'google_maps',
+        title: 'Zomato Corporate HQ - Pioneer Urban Square Gurugram',
+        publisher: 'Google Maps Geocoding',
+        date: 'Verified Live',
+        score: 1.0,
+        tier: 'SerpApi Engine 5',
+        snippet:
+          'Physical headquarters verified at Pioneer Urban Square, Golf Course Ext Rd, Sector 62, Gurugram. Active rating 4.5 stars.',
+        url: 'https://maps.google.com'
+      }
+    ],
+    agentTrace: [
+      {
+        step: 1,
+        engine: 'google_jobs',
+        action: 'Ingested candidate real-time streaming profile; queried Zomato Logistics engineering requisitions.',
+        outcome: 'Identified Lead Systems Engineer requisition in Gurugram with 92% match score.'
+      },
+      {
+        step: 2,
+        engine: 'google_news',
+        action: 'Scanned regional and national business press for headcount reductions or restructuring.',
+        outcome: 'Clean health clearance. Major publications highlight continued revenue growth and network expansion.'
+      },
+      {
+        step: 3,
+        engine: 'google_trends',
+        action: 'Assessed Delhi NCR regional demand trajectory for event-driven logistics systems.',
+        outcome: 'Search trajectory categorized as SURGING (+52%).'
+      },
+      {
+        step: 4,
+        engine: 'google_maps',
+        action: 'Geocoded corporate headquarters in Gurugram Sector 62.',
+        outcome: 'Verified operational commercial facility with 4.5 rating.'
+      }
+    ]
   }
 };
 
@@ -591,6 +840,134 @@ function setupEventListeners() {
       copyToClipboard(text, btnCopyEmail);
     });
   }
+
+  // Quick Chips & Resume Upload
+  setupQuickChips();
+}
+
+function syncQuickChips(currentRole, currentLoc) {
+  // Sync role chips
+  document.querySelectorAll('#roleChipsRow .quick-chip').forEach(chip => {
+    const chipRole = chip.getAttribute('data-role');
+    if (chipRole && currentRole && (currentRole.toLowerCase().includes(chipRole.toLowerCase()) || chipRole.toLowerCase().includes(currentRole.toLowerCase()))) {
+      chip.classList.add('active');
+    } else {
+      chip.classList.remove('active');
+    }
+  });
+
+  // Sync location chips
+  document.querySelectorAll('#locationChipsRow .quick-chip').forEach(chip => {
+    const chipLoc = chip.getAttribute('data-loc');
+    const chipCity = chipLoc ? chipLoc.split(',')[0].trim().toLowerCase() : '';
+    if (chipCity && currentLoc && currentLoc.toLowerCase().includes(chipCity)) {
+      chip.classList.add('active');
+    } else {
+      chip.classList.remove('active');
+    }
+  });
+}
+
+function setupQuickChips() {
+  // Role chips click handler
+  document.querySelectorAll('#roleChipsRow .quick-chip').forEach(chip => {
+    chip.addEventListener('click', (e) => {
+      e.preventDefault();
+      const role = chip.getAttribute('data-role');
+      const skills = chip.getAttribute('data-skills');
+      if (roleInput && role) roleInput.value = role;
+      if (candidateSnippetInput && skills) candidateSnippetInput.value = skills;
+
+      document.querySelectorAll('#roleChipsRow .quick-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+    });
+  });
+
+  // Location chips click handler
+  document.querySelectorAll('#locationChipsRow .quick-chip').forEach(chip => {
+    chip.addEventListener('click', (e) => {
+      e.preventDefault();
+      const loc = chip.getAttribute('data-loc');
+      if (locationInput && loc) locationInput.value = loc;
+
+      document.querySelectorAll('#locationChipsRow .quick-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+    });
+  });
+
+  // Input typing listeners to auto-sync chips
+  if (roleInput) {
+    roleInput.addEventListener('input', () => {
+      syncQuickChips(roleInput.value, locationInput ? locationInput.value : '');
+    });
+  }
+  if (locationInput) {
+    locationInput.addEventListener('input', () => {
+      syncQuickChips(roleInput ? roleInput.value : '', locationInput.value);
+    });
+  }
+
+  // Resume Upload handling
+  const btnUploadResume = document.getElementById('btnUploadResume');
+  const resumeFileInput = document.getElementById('resumeFileInput');
+  const resumeUploadStatus = document.getElementById('resumeUploadStatus');
+
+  if (btnUploadResume && resumeFileInput) {
+    btnUploadResume.addEventListener('click', (e) => {
+      e.preventDefault();
+      resumeFileInput.click();
+    });
+
+    resumeFileInput.addEventListener('change', async (e) => {
+      const file = e.target.files && e.target.files[0];
+      if (!file) return;
+
+      if (resumeUploadStatus) {
+        resumeUploadStatus.textContent = `Ingesting ${file.name}...`;
+        resumeUploadStatus.style.color = 'var(--blue-primary)';
+      }
+
+      const formData = new FormData();
+      formData.append('file', file);
+
+      try {
+        const res = await fetch('/api/resume/parse', {
+          method: 'POST',
+          body: formData
+        });
+        const data = await res.json();
+
+        if (res.ok && data) {
+          if (data.detected_role && roleInput) {
+            roleInput.value = data.detected_role;
+          }
+          if (data.detected_location && locationInput) {
+            locationInput.value = data.detected_location;
+          }
+          if (data.candidate_snippet && candidateSnippetInput) {
+            candidateSnippetInput.value = data.candidate_snippet;
+          }
+          syncQuickChips(data.detected_role || (roleInput ? roleInput.value : ''), data.detected_location || (locationInput ? locationInput.value : ''));
+
+          if (resumeUploadStatus) {
+            const skillCount = data.extracted_skills ? data.extracted_skills.length : 0;
+            resumeUploadStatus.textContent = `✅ ${file.name} (${skillCount} skills detected)`;
+            resumeUploadStatus.style.color = '#059669';
+          }
+        } else {
+          if (resumeUploadStatus) {
+            resumeUploadStatus.textContent = `❌ ${data.detail || 'Failed to parse'}`;
+            resumeUploadStatus.style.color = '#e11d48';
+          }
+        }
+      } catch (err) {
+        if (resumeUploadStatus) {
+          resumeUploadStatus.textContent = '❌ Parsing error';
+          resumeUploadStatus.style.color = '#e11d48';
+        }
+      }
+    });
+  }
 }
 
 function switchTab(tabId) {
@@ -623,6 +1000,7 @@ function loadScenario(key) {
   if (roleInput) roleInput.value = s.role;
   if (locationInput) locationInput.value = s.location;
   if (candidateSnippetInput) candidateSnippetInput.value = s.candidateSnippet;
+  syncQuickChips(s.role, s.location);
 }
 
 function renderAllViews() {

@@ -111,6 +111,30 @@
             </div>
             <div class="preset-tag">High Scale Ledger</div>
           </button>
+          <button type="button" class="btn-preset" data-scenario="microsoft">
+            <div class="preset-name">
+              <span>Microsoft</span>
+              <svg class="check-icon hidden" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+            </div>
+            <div class="preset-tag">Enterprise Cloud / AI</div>
+          </button>
+          <button type="button" class="btn-preset" data-scenario="zomato">
+            <div class="preset-name">
+              <span>Zomato</span>
+              <svg class="check-icon hidden" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#2563eb" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+            </div>
+            <div class="preset-tag">Delhi NCR Logistics</div>
+          </button>
+        </div>
+
+        <!-- Quick Resume Ingest Dropzone -->
+        <div class="resume-drop-zone" id="resumeDropZone" title="Upload a candidate PDF or TXT resume for automatic role, skill, and location extraction">
+          <input type="file" id="resumeFileInput" accept=".pdf,.txt" style="display:none;">
+          <button type="button" class="resume-upload-btn" id="btnUploadResume">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" x2="12" y1="3" y2="15"/></svg>
+            <span>Upload Resume (PDF / TXT)</span>
+          </button>
+          <span class="resume-upload-status" id="resumeUploadStatus">Auto-detects role, skills & city</span>
         </div>
 
         <!-- Search Controls -->
@@ -119,7 +143,7 @@
             <label class="form-label" for="companyInput">Target Company</label>
             <div class="input-with-icon">
               <svg class="input-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M8 10h.01"/><path d="M16 10h.01"/><path d="M8 14h.01"/><path d="M16 14h.01"/></svg>
-              <input type="text" id="companyInput" class="form-input" value="Razorpay" placeholder="e.g. Razorpay, Swiggy, CRED..." required>
+              <input type="text" id="companyInput" class="form-input" value="Razorpay" placeholder="e.g. Razorpay, Swiggy, CRED, Microsoft..." required>
             </div>
           </div>
 
@@ -127,7 +151,32 @@
             <label class="form-label" for="roleInput">Target Role / Keywords</label>
             <div class="input-with-icon">
               <svg class="input-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="20" height="14" x="2" y="7" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
-              <input type="text" id="roleInput" class="form-input" value="Senior Python Backend Engineer" placeholder="e.g. Senior Backend Engineer..." required>
+              <input type="text" id="roleInput" class="form-input" list="roleSuggestions" value="Senior Python Backend Engineer" placeholder="e.g. Senior Backend Engineer..." required>
+              <datalist id="roleSuggestions">
+                <option value="Senior Python Backend Engineer">
+                <option value="Staff AI Platform Engineer">
+                <option value="Principal Systems Architect">
+                <option value="Lead Full-Stack / Frontend Engineer">
+                <option value="Cloud DevOps & Platform Engineer">
+                <option value="Senior Data Platform Engineer">
+                <option value="Senior Azure & Cloud Engineer">
+                <option value="Lead Systems Engineer - Real-Time Logistics">
+              </datalist>
+            </div>
+            <!-- Role Profile Quick Selector Chips -->
+            <div class="quick-chip-group">
+              <div class="quick-chip-label">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+                <span>Quick Profiles:</span>
+              </div>
+              <div class="quick-chip-row" id="roleChipsRow">
+                <button type="button" class="quick-chip active" data-role="Senior Python Backend Engineer" data-skills="Python 3.14, FastAPI, PostgreSQL, Redis, Distributed Systems, Microservices, REST APIs, Celery, High Throughput (10k req/sec)">🐍 Python Backend</button>
+                <button type="button" class="quick-chip" data-role="Staff AI Platform Engineer" data-skills="PyTorch, vLLM, Triton Server, Kubernetes, CUDA, Distributed Training, Low Latency Inference (45ms p99), Python, MLOps">🤖 Staff AI / MLOps</button>
+                <button type="button" class="quick-chip" data-role="Principal Systems Architect" data-skills="Go, Java, Distributed Databases, Apache Kafka, Microservices, High Availability, Financial Ledger Systems (99.999% SLA)">🏛️ Systems Architect</button>
+                <button type="button" class="quick-chip" data-role="Lead Full-Stack / Frontend Engineer" data-skills="React 19, TypeScript, Next.js, Node.js, GraphQL, TailwindCSS, Web Vitals Optimization (62% faster LCP), REST APIs">⚛️ Lead Full-Stack</button>
+                <button type="button" class="quick-chip" data-role="Cloud DevOps & Platform Engineer" data-skills="Kubernetes, Docker, Terraform, AWS, GCP, CI/CD, Prometheus, Helm, Zero-Downtime Canary Rollouts (99.95% uptime)">☁️ Cloud DevOps</button>
+                <button type="button" class="quick-chip" data-role="Senior Data Platform Engineer" data-skills="Python, PySpark, Apache Kafka, BigQuery, Snowflake, Airflow, dbt, Real-time Ingestion (5TB/day pipeline)">📊 Data Platform</button>
+              </div>
             </div>
           </div>
 
@@ -135,7 +184,33 @@
             <label class="form-label" for="locationInput">Location & Region</label>
             <div class="input-with-icon">
               <svg class="input-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-              <input type="text" id="locationInput" class="form-input" value="Bengaluru, India" readonly>
+              <input type="text" id="locationInput" class="form-input" list="locationSuggestions" value="Bengaluru, India" placeholder="Type city or select below..." required>
+              <datalist id="locationSuggestions">
+                <option value="Bengaluru, India">
+                <option value="Delhi NCR, India">
+                <option value="Gurugram, Haryana, India">
+                <option value="Noida, Uttar Pradesh, India">
+                <option value="Hyderabad, India">
+                <option value="Pune, India">
+                <option value="Mumbai, India">
+                <option value="Remote, India">
+                <option value="Remote, Global">
+              </datalist>
+            </div>
+            <!-- Location Quick Selector Chips -->
+            <div class="quick-chip-group">
+              <div class="quick-chip-label">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                <span>Tech Hubs:</span>
+              </div>
+              <div class="quick-chip-row" id="locationChipsRow">
+                <button type="button" class="quick-chip active" data-loc="Bengaluru, India">📍 Bengaluru</button>
+                <button type="button" class="quick-chip" data-loc="Delhi NCR, India">📍 Delhi NCR</button>
+                <button type="button" class="quick-chip" data-loc="Hyderabad, India">📍 Hyderabad</button>
+                <button type="button" class="quick-chip" data-loc="Pune, India">📍 Pune</button>
+                <button type="button" class="quick-chip" data-loc="Mumbai, India">📍 Mumbai</button>
+                <button type="button" class="quick-chip" data-loc="Remote, India">🌐 Remote</button>
+              </div>
             </div>
           </div>
 

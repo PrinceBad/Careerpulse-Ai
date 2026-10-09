@@ -40,12 +40,14 @@ else:
 from backend.app.config import settings
 from backend.app.services.serpapi_client import SerpApiClient
 
-DEMO_COMPANIES = ["Razorpay", "Swiggy", "CRED"]
+DEMO_COMPANIES = ["Razorpay", "Swiggy", "CRED", "Microsoft", "Zomato"]
 
 JOB_TARGETS = [
     ("Senior Python Backend Engineer", "Bengaluru, India"),
     ("Staff AI Platform Engineer", "Bengaluru, India"),
     ("Backend Architect - Real-Time Systems", "Bengaluru, India"),
+    ("Lead Systems Engineer - Real-Time Logistics", "Delhi NCR, India"),
+    ("Senior Azure Python Developer", "Hyderabad, India"),
 ]
 
 def verify_disk_cache():
