@@ -205,7 +205,7 @@ copy backend\.env.example backend\.env
   * **Total consumption**: **5 to 6 searches per target company** (or 4 to 5 for due diligence alone if opportunity radar is skipped). A single free tier account powers 40–50 full company investigations.
 
 ### 3. Run Automated Tests
-Verify all **35 unit and integration tests** pass:
+Verify all **36 unit and integration tests** pass:
 ```bash
 pytest -v
 # Or directly via Python module:
@@ -222,6 +222,8 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
 
 ## 🎬 3-Beat Demo Walkthrough (~2:30 Target)
 
+> 📹 **Live Demo Recording**: A complete high-definition walkthrough recorded live in Chrome Incognito is available at [`demo/careerpulse_live_job_demo.webm`](demo/careerpulse_live_job_demo.webm).
+
 * **Beat 1: The Problem & Opportunity Radar (0:00 – 0:45)**  
   Click **Razorpay** in the 1-Click Demo Scenarios. Show the Real-Time Opportunity Radar fetching live positions via `google_jobs`, with real-time candidate skill overlap scoring (`94% Skill Overlap`). Point out the honest provenance indicator: `🟢 Cached Real SerpApi Response`.
 
@@ -229,7 +231,7 @@ Open your browser and navigate to: **`http://127.0.0.1:8000`**
   Review the 360° Employer Due Diligence dossier. Highlight the **Autonomous Agent Investigation Trace** panel, which explains the trigger and outcome for each of the 5 engines. Note the layoff scanner (`google_news`), review intel (`google`), search-interest velocity (`google_trends`), and physical office verification (`google_maps`). Click any `[cit-01]` badge to show the modal with the heuristic verification confidence and snippet.
 
 * **Beat 3: Grounding Guard Demonstration (1:40 – 2:30)**  
-  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `35 passed in 0.95s`.
+  Scroll to the **Evidence-Grounded Outreach Pack**. Click `🧪 Simulate Hallucination Guard`. Watch the code-level validator intercept the simulated draft, flag `[cit-99]` and the fake 35% layoff metric, display the red interception alert box, and present the side-by-side comparison showing `2 Sentences Blocked & Stripped`. Conclude with a quick terminal cut showing `36 passed in 0.92s`.
 
 ---
 
