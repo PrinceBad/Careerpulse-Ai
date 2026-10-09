@@ -1,0 +1,201 @@
+{
+  "search_metadata": {
+    "id": "6ac897f70c3a083f6656b660",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CTEekUouCYtCRk_AjA-QNrHCsBeEnxZlZTx-YwSbXgk/6ac897f70c3a083f6656b660.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CTEekUouCYtCRk_AjA-QNrHCsBeEnxZlZTx-YwSbXgk/6ac897f70c3a083f6656b660.md",
+    "created_at": "2026-10-09 07:29:59 UTC",
+    "processed_at": "2026-10-09 07:29:59 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Razorpay+Senior+Python+Backend+Engineer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/CTEekUouCYtCRk_AjA-QNrHCsBeEnxZlZTx-YwSbXgk/6ac897f70c3a083f6656b660.html",
+    "total_time_taken": 76.86
+  },
+  "search_parameters": {
+    "q": "Razorpay Senior Python Backend Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r27E1_7Ryeiuc3CNVRbfYUXNiynLVvxJFHb7QUPbXtqVViV9SafxL4Glmp4TWHhgjTLumk0Mu5DscvSxs0G1xGvoX7WZlTUa8Zj-hZY3NBAasObkvnhkW0uYeGJlvckKe68PA6fxSetfBhEPzAIhtxJknyhuI-LDdKKQvBsvuBQ6EZgfF-3VwNv0GwTZzmkCDxon4EA",
+        "q": "Razorpay Senior Python Backend Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r27E1_7Ryeiuc3CNVRbfYUXNiynLVvxJFHb7QUPbXtqVViV9SafxL4Glmp4TWHhgjTLumk0Mu5DscvSxs0G1xGvoX7WZlTUa8Zj-hZY3NBAasObkvnhkW0uYeGJlvckKe68PA6fxSetfBhEPzAIhtxJknyhuI-LDdKKQvBsvuBQ6EZgfF-3VwNv0GwTZzmkCDxon4EA&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQxKsJKAB6BAgaEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r27E1_7Ryeiuc3CNVRbfYUXNiynLVvxJFHb7QUPbXtqVViV9SafxL4Glmp4TWHhgjTLumk0Mu5DscvSxs0G1xGvoX7WZlTUa8Zj-hZY3NBAasObkvnhkW0uYeGJlvckKe68PA6fxSetfBhEPzAIhtxJknyhuI-LDdKKQvBsvuBQ6EZgfF-3VwNv0GwTZzmkCDxon4EA"
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow",
+            "q": "Razorpay Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ",
+            "q": "Razorpay Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA",
+            "q": "Razorpay Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw",
+            "q": "Razorpay Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow",
+            "q": "Razorpay Senior Python Backend Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHDGoQagBIjwMdIO3ye20lwmKS0ZoPoC1tgdOgv6gZAkVsuJ02qHzwver8P0jhcxrVcBq10DtywwXdkDzXHg3U_D2aE4IZgUVTAkuK62vNrlLw4m8ag_Muqrn_nd_9SHktKcaZo8VwjU67_ApqgvOEJ6czMrPocOcBOcscNtijoAbuMaTSI42deKo242QJtHL4tLTXFBfoCgqQ8oNNEVXH6acYkkelgECMmCo-bPhTRIbWfvN46BH1m5mzpwtyTe5u5hGvHbjSBEUQYXaPI2N38usdXL9ZHxiCq_waYodC06z69mM4-DFhbxZ0BsNzk_PSRmlDtfbp7yp88JSYpEMuCVNse2-nIwDDcY0jrGapBFAQlZMEcxKwf7ofmbUPygKcrl6ow"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ",
+            "q": "Razorpay Senior Python Backend Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rXBY6XPkw_TYpWJ3v9gTF7IE3UL-nWqmN0F-9AxrjzjjhO2QcF9I1aLi3EEmcwvAqPkAVOL8bcjFgY5IWpL7IrLuzQZM65NKIszkj4xVSEJnm-YOWQw_X36HCYWwvbv2JaveZrc_DTQfgLTjp0pki2dpil_GDxEkah_v302Cd3G0ArWU6AtBV6UFZSsLM6WHxjNdpuIRkCMXUwx1n1BUHZPN8lteEA2YViGkK2_U0JGXP9NnX6X2V9rvTtGGhM1bu3UtLaSm7wGf74H-CBpq6hjodYyxILcObRL2Sti8UxIvG3fOC81FB0LvGjhK66Gwkp42Ak39A57Th4y9gZiEUVd21VzaemXj-2uH0Kzp2YdrlnXsqEegbJkUlHgb2mBDkDpwUlQ"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA",
+            "q": "Razorpay Senior Python Backend Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r5cLqZ5uVKqGRxIKqXAK7MYcNTRyU9T3Az8wMxQU_VePoxQuqZY4V045yUUgEXWhA393Fvz5ZIKaWiWJDkUveP8RWQhF6t-iLCqeRZBzkwoDdcI-TzAFzncE8Wemq75mDl8dCJxbDBF8lO1rL7c00vw8FVBiF6fAvSGHtfOeSV-F4_mXWpolMB15ciGM-zpzIzf711TUVzYTCLX2-wskN7fpZLKvOoGMweN7-x9CgJYENDmX-mc1K3J1M9isA8JZhSeeWth7PLkfx9hL-OuLmOcU_Nq3eudpPSaNZTPyipoC55B6bR9LVvfYpTNIgoO7OJQ4SxBi2-VdEGUrWZUrMhd3dDH6_IT-Nrko2MH9_PhzEvCyJySSbn9jII5O42AozqgGcaA"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw",
+            "q": "Razorpay Senior Python Backend Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r9W0N_wdeMlNNjepgRSmaNQ3VTyu0X1Z39nx_fFE6ENKBAeoH_ey0COHh57qjw7dWc_9N7kfcAeNwYTKcU0fxZNjcWhP0i_gagHmpPgLTwkm9_JJb1p0AKA--k_a2avaMD4HuOqQkv7db1_x2rRiFpT8SJ4Cd7rjT5BFVzURVpEz6P75J58o5sAuIvRoX-i5isWDGoPFm6ucDRILl_bu3_91qVwLqgbqRrq0006iVPd99GTA-RWnHIgfabWyu2xqoWcgLBpWe9Nvu6cRVB-x_ouovt88xylFr2bpLShHCldnFsqZ1KZC40s6QrD2s8yPFs9OGVbUOoDt2xJTxsJk7kqB0qJBE_-EwWhQVj8V4fyzynlh0Eqbh2cmjIkGYrif6b0wXDw"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek",
+            "q": "Razorpay Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG",
+            "q": "Razorpay Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM",
+            "q": "Razorpay Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc",
+            "q": "Razorpay Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek",
+            "q": "Razorpay Senior Python Backend Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCUMpDiF62g8pELZqeqW94HPLARXgMxYutOmoVKquf9pvzAtKTBoX-suXtR10WIzEVyNFyVSr0AEGsMN9rQCHmk0UKFxbgRSZm0St13-ktAOXnfaDrEhF27J2SnqBjy9AxVQVwJin3RCIIG4ctgzePrVaJ5LWb0xkp7GB3typNdvC1o3cXtGzFGPonZtiQgPXuFnfpUiPb3qaAUIrScAFNIR0FA0EPSogTKycZtN5rJIBdAqi_sLIQNbVboCWbX8ahjqLKxW6VxIVwjFHaKo_rwd3lHQLpwIDsTGeJoUl7XkgYYlek"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG",
+            "q": "Razorpay Senior Python Backend Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rh09RVWAo5F8yxtOLYYo_rFdsBR_NhVg8gWT9vEuLG1HDTwRjq3Nj2dP3di8c8SuCg3-NzRJJVrG8GAcgVpDc5DXhIPMvoMYM4MhH79l8iutymS7oKlyJRyP-jpYXHPhgBFhh2GkbCFh6otXoenj3-uFlAYOe7D1bd0BQrE5XyenH5QI59mCWm7jCHLQnAFcQvhVEttVXXNqRVAQg695ImUFhMOckESB3WftJai8NiWmgkRTOYaEh0oyrh9elPFATHbh2cn3oHeYTDLw6dLpTI3B6BlgwC8c5ymjb2cwv7Lgc4XRtoPXImNXMm6P7TDE-LoqItq2ywpXny4c8FPG6kpyO2NZy3ivqOrfeuzaYsRF2N6OG"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM",
+            "q": "Razorpay Senior Python Backend Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rukOQfmlKfWaVMlaXUwfTFfI05ZeZh2AFRMTdyNx1Vk2n8KjpX0fCaZ041HUebakrRrXoZt05x4ouwvVHLDay0UTGhhjtFzMcVaopR3o-KgwWAJdVoinvQPfOzdnGvD4IndVlIcKJ5u8WnaQx78LHGQ5VpOTAkuxeKIQqUP1YZ0AtxqM14HnymFPfoXSfoIxS6t_2cw-zFbJSJ54U6w2lesDFaxxbvQhEdbX1i5df1nGRMKjSjB3bWkyv7fwQkHe3zgwRlWgE1HJwvGFKiHv-XUKac-FzY0zFhGAgISZEH27Pc6Ea1KXMi-no3WMoQvek1dqpbbhCscZetyocmaaO7KUpscM"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc",
+            "q": "Razorpay Senior Python Backend Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnvo4iqJTUlsZho9NleLPtg7AFd6Eg:1791531075663&q=Razorpay+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc&udm=8&sa=X&ved=2ahUKEwiav_mqtayXAxWr78kDHXs6LbYQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Razorpay+Senior+Python+Backend+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r4ToPUc5na--DTdor8BLs6bMcyYeGgjOrXZ1qNA6J6fhtTr8h_24AcR6e8EkkxqvA-j3dsyHn2ipqVJS6TyBKG230U0fzGZ3Wo4Mviu8TfbZYRxR6idN7GZkrlT2th1ycWJbwB_2fM-JLn8CWuHwq12y651HSS0L_xJSGu4RUlJzyk6TsH3EPRZeG7p-6gRn2YrPLqEM1dd5MWq0_zDcBEYNMLREW3uPh_v9O_SNl371-VoixF_dX8vmlTMWyqiIYO53OD6aZhZzQQu5mai7YeeIfSmhupbcQOmYmZumj-s54wJj9ujxYnKTQFC-dJ4EcifQKPub8X-Nrw6vdaSfT3s5THMc"
+        }
+      ]
+    }
+  ],
+  "search_information": {
+    "jobs_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

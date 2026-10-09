@@ -1,0 +1,201 @@
+{
+  "search_metadata": {
+    "id": "6ac8984a8d50e65e8f411f2b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6VCI7OpmaIAOUU18Lw9ELtIjJCtRYmKjda_U6mO3lQM/6ac8984a8d50e65e8f411f2b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6VCI7OpmaIAOUU18Lw9ELtIjJCtRYmKjda_U6mO3lQM/6ac8984a8d50e65e8f411f2b.md",
+    "created_at": "2026-10-09 07:31:22 UTC",
+    "processed_at": "2026-10-09 07:31:22 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=CRED+Backend+Architect+-+Real-Time+Systems&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/6VCI7OpmaIAOUU18Lw9ELtIjJCtRYmKjda_U6mO3lQM/6ac8984a8d50e65e8f411f2b.html",
+    "total_time_taken": 22.01
+  },
+  "search_parameters": {
+    "q": "CRED Backend Architect - Real-Time Systems",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rnLiUJofidH-w32pUWxHOgV8AXBSKy5GE1frsKN2jtktesL1QtS7NPell74DsPRA1IPE5aYezZuWw3RmbcFcJZnpCyljLYQhKodeCg4M_G0wH90lFrMBPgKgTsUSDqkhvsvWSNfy8MR-5uDAhDKTplS-y8Wc8Vb0kUlcNB5EHYc_fwanmih9jOxpngCFDGJAcb7bf1g",
+        "q": "CRED Backend Architect - Real-Time Systems remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnLiUJofidH-w32pUWxHOgV8AXBSKy5GE1frsKN2jtktesL1QtS7NPell74DsPRA1IPE5aYezZuWw3RmbcFcJZnpCyljLYQhKodeCg4M_G0wH90lFrMBPgKgTsUSDqkhvsvWSNfy8MR-5uDAhDKTplS-y8Wc8Vb0kUlcNB5EHYc_fwanmih9jOxpngCFDGJAcb7bf1g&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rnLiUJofidH-w32pUWxHOgV8AXBSKy5GE1frsKN2jtktesL1QtS7NPell74DsPRA1IPE5aYezZuWw3RmbcFcJZnpCyljLYQhKodeCg4M_G0wH90lFrMBPgKgTsUSDqkhvsvWSNfy8MR-5uDAhDKTplS-y8Wc8Vb0kUlcNB5EHYc_fwanmih9jOxpngCFDGJAcb7bf1g"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q",
+            "q": "CRED Backend Architect - Real-Time Systems full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7",
+            "q": "CRED Backend Architect - Real-Time Systems part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA",
+            "q": "CRED Backend Architect - Real-Time Systems contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc",
+            "q": "CRED Backend Architect - Real-Time Systems internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q",
+            "q": "CRED Backend Architect - Real-Time Systems full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vcMYtVb7Ickb7UBo_D_1SScafIyNbvC58bV-bd_JfubL0fWAMH_rvJN_b9uTSQDl5aOxmuxPt3w3Pt4I-5rM13axy8J3fRauifpcxPQTb8tB5mSFE0X3ZrLAxMDXRugz0AIQYB4IFZNTLBcvTzuy5ml_LyRaojXK-kYP_Y7P-duZhha5EIOnCzgrviJjNQydXu0RXv_im91j1jYVMFCd9K3N8TeCDPhnftpYIBhL6kNuG6hrKf5sQQhxfONV_DviTEY2islDgVWS6G1K4s4DwnPGlW3Q"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7",
+            "q": "CRED Backend Architect - Real-Time Systems part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rICyilhMkWIEbAj4CZHmIrCTAZQJoj6C2q19PWXS9oekIToPWQGS94msl_epCuHRAGHDJvD9QqG4EUt7aMCL-vetI7b7zrl7mmCFQUQVTbEm3QSLs2RSzcBaybJpEYcbJltxhY8EcU6On3vkG7UekpgFmeSGAz7WDguxVgGaYnRCohLlTclsFTf1fv_9aRjIBJrzGRAnee_2_8aGQsf3494OYaO8Iyq5XCZsrMKGXcAvs8pGJ7rdyA0IC_SvImmnIQWkEkZBtmNZExnqsa2gTbFlNv6Bb6T4TjrMSkmq5wK2q1XnVwg5L7XtfVno37zwh3s-8-vPbFLHszJ8_uM5tD0muS_Lx2vwREOIz-Q4ijhZDfaE7"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA",
+            "q": "CRED Backend Architect - Real-Time Systems contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rHq74fdKt4fOV5fUm9SBovm6twlq9twjhUOMEQKap2mLCJhJp_89WoYwhH9qYLsFV98aslwyg85j4fj_d07lbH1lrtFeZOPA-KuQqgmrIdFW_lfTXtvHCYecoc5v9I8DvNMgUi_xeeWUYAPUBX_TPFpzCIlNX_ELHR1-kggdRc3w1U-lkf5H1Vp-gjirWqDPveBeJCfKBA03njlgCREy-eKzr9ztNKQP4Ri-QGyr2gBZG4k1wVaDd4uEMpY6Nb-9WViXQvS3zloMeDSg_POcQaW55cSKc7lPmHOK82VzdIoqLiHmojTTvY6UhGPSXEF0t3jnwuOm8XhNNaJN3-HbJjIIyvSA"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc",
+            "q": "CRED Backend Architect - Real-Time Systems internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIHBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rQxmzcfQPK0DMvdaosK1zqbfvCKNdzH8pF2QveYmSCcICdJt_GcFtmNGzfC1G_bzczK75F5VArExYBXMRtkaJiHLEcBlfSy0uw5BTadFVeNNTpxmzKZc-J9HTpz_dOr6uJqI1Ii5SVOBDohWXBfWWEqZhhkdcoTaMwjt4x4ehvwxMVULGCVZJ5bOY6Q2EzKLU5b2fmieUGoaUQdKoWkYOHhiPYFqnTv-j3dOfNi-r1rJEyNLiD6Ezj4fCrWE-_H7x8G14YX7Wwe8LdYW_0RSKh4I-0GhCOW2k5nwjCJFZqQVLwUpUw7IYQcrkTHaw8Np9R7jruIpiI2orBGcGShrsWdQhmUv_TBSjbzx8zwVGtghghUXc"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw",
+            "q": "CRED Backend Architect - Real-Time Systems since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw",
+            "q": "CRED Backend Architect - Real-Time Systems in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw",
+            "q": "CRED Backend Architect - Real-Time Systems in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA",
+            "q": "CRED Backend Architect - Real-Time Systems in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw",
+            "q": "CRED Backend Architect - Real-Time Systems since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLlJPXE5a1fF8wk-5R0JcEKN3eNAC-kbBiDMGO8ri6f78FAQADVliGSDc_70fjx0otKVvVeVfwYE9PCTyTIzVKmxF1esj7S0XEEWIaDZWUnPRN6OllsiVXowuqOrDavy7_kmGYLNSIHFD947vZ2kOhIqpm2ubSE8OLsWWaXpushJF1P1XrMKD2V8kfVnZAm1BoUHYedbADdMbYIAz1GLHsXZjOODNrQ5TMHuSI2CKnhnu0qaqin8JAuvwiPDjQ-nStLstHbAlFUou_QHbYXEaF5Gru4_DMC7kQFPJQkIKMHJbBn782u__rgdyB6neSVkN78Ovgx64QYHQxwJwP83oRCVpFdC3QeeKzyCwxwa-y1XATMr95DL-l55q0D-HWMTlrg-iRw"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw",
+            "q": "CRED Backend Architect - Real-Time Systems in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rigJCuHa4c9IPkoezzzpkLRgxCgIbZJUPDezvb5WekyYanHX3INYqCepGiqi_X5uxAWxgo_qgS8GfuhmovbGgQSr9pneO12gjuWAPFTe_XAD0AZF_zWiBDEOOFKcw_044Jewwj3U9SvbaI88SqVIibC0Vut3mowpG1bJTCFJC41w0G56G2ZEkrLmmBccWH7OL3sH3kIXnNcOWXZLWJBQLfPDBwbuYbalnIdpMS8SyVK5mpeh472rBRU_lgQ1duplCqi4HiX2lQb9kykD2EUOaCNvij2HmzQgvdFq5qRX4cOgJukLvKtNonnUnbazYV5fJeiot5RAfO_lu_ZzOb9ppU40doTb8oOqIiirS4co9SubTax_Lz8TQIb9dPWqeC8AEsx2_mw"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw",
+            "q": "CRED Backend Architect - Real-Time Systems in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4ri4Azt3zDstLHo2QC0uar3_c7hJFMMEmoT_yvPib6pgXxpPthxmZmhIME2N_T8ZjbDp97XiT5QZ2OdW63W_NybBIGbd4wx2wd__Arz7RVo3TeGytNRMrR9b1auM_2-rSdUj56SGLAu_AX1FajEWMkiFOLrgbvytjraEudCsNavBwTaBs7-IRqZle1Dfm5YktDuuXbAv3WYetLajXDCvmmbsAY7g4c3dXwM1mTZ8kwt3j2e-m8oxIty1yr8HH7oNlPYFF_9hXAxfHy9hMoN476XQn9saWD3DHa7vOA0sw05rl3KKUW0-cDd8W24f25-x8DexaPeikDOwFXu5GM0plfe1IbgwPNLf8NtIESskNz0hUXZpqgto6oxozYQHEkSi3CWixEaw"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA",
+            "q": "CRED Backend Architect - Real-Time Systems in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&hl=en&gl=in&sxsrf=APpeQnv-u1v2LldPwNnSC4t196CHNOXrSQ:1791531104184&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA&udm=8&sa=X&ved=2ahUKEwj8kca4tayXAxV_GFkFHU_1K7sQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=CRED+Backend+Architect+-+Real-Time+Systems+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZGNgMkOMU3JZ9-vp-T8L_a2XyutEV9mdU2rZP2-GhYKqypkCfGRfdi4Gd6kgQogfOtaBowOYTkyxkltBvUPBmOIBqRx9FCrLfEs7w7NfEqObtVOTKCyr2XBPfgAZ-JErkad_pBznqouNX7sOCtFesRCF-z7C-qufL3ga7PBX5alANZbS7bnyUn12FlK_fr7qLZsTlZ965cEDo2KmgzDoRyjcRxryLfOkck4kMFmDWebCJ3EzBpYjz2b7nYY_SMpZA1gL-StpVCd8rKDNNjPiAk-D74GFXocm962KTLR5QuSNKgLppMkPwCQFueDPvNeYj1xR_-5GcVwz_aRvgkVBAfUVflYppl7-Ir41z-NGvKux3l2-SbPjZ2j9NKFjKeDySl-gyA"
+        }
+      ]
+    }
+  ],
+  "search_information": {
+    "jobs_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query."
+}

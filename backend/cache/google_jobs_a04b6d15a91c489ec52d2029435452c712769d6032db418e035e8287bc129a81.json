@@ -1,0 +1,247 @@
+{
+  "search_metadata": {
+    "id": "6ac8984a7bf2f91d350055d7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ukxPRK0wtCNmqp_1Jl9e616Bh-M_haHMaMndURHr3v8/6ac8984a7bf2f91d350055d7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ukxPRK0wtCNmqp_1Jl9e616Bh-M_haHMaMndURHr3v8/6ac8984a7bf2f91d350055d7.md",
+    "created_at": "2026-10-09 07:31:22 UTC",
+    "processed_at": "2026-10-09 07:31:22 UTC",
+    "google_jobs_url": "https://www.google.com/search?q=Swiggy+Staff+AI+Platform+Engineer&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/ukxPRK0wtCNmqp_1Jl9e616Bh-M_haHMaMndURHr3v8/6ac8984a7bf2f91d350055d7.html",
+    "total_time_taken": 3.19
+  },
+  "search_parameters": {
+    "q": "Swiggy Staff AI Platform Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Bengaluru, India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "in"
+  },
+  "filters": [
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rKtci0RFO1IKV7asnqjGA6UwJuZ-GKLk3AbtD6YqPyyoIxlFVx_t5gbewSLAAXzwl0GhEeOOYlw6bw-M5JUYkpqMp8CPXk_bGETGBx37snQ_vseXbPmy_j5FyrwkHFznT43G4hK-tDAaLTOdlO1nbhvW35OiWi8Dye_SrJeFpc34GTki8",
+        "q": "Swiggy Staff AI Platform Engineer remote"
+      },
+      "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKtci0RFO1IKV7asnqjGA6UwJuZ-GKLk3AbtD6YqPyyoIxlFVx_t5gbewSLAAXzwl0GhEeOOYlw6bw-M5JUYkpqMp8CPXk_bGETGBx37snQ_vseXbPmy_j5FyrwkHFznT43G4hK-tDAaLTOdlO1nbhvW35OiWi8Dye_SrJeFpc34GTki8&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQxKsJKAB6BAgYEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+remote&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rKtci0RFO1IKV7asnqjGA6UwJuZ-GKLk3AbtD6YqPyyoIxlFVx_t5gbewSLAAXzwl0GhEeOOYlw6bw-M5JUYkpqMp8CPXk_bGETGBx37snQ_vseXbPmy_j5FyrwkHFznT43G4hK-tDAaLTOdlO1nbhvW35OiWi8Dye_SrJeFpc34GTki8"
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30",
+            "q": "Swiggy Staff AI Platform Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10",
+            "q": "Swiggy Staff AI Platform Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao",
+            "q": "Swiggy Staff AI Platform Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g",
+            "q": "Swiggy Staff AI Platform Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30",
+            "q": "Swiggy Staff AI Platform Engineer full time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+full+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfhAkeB9igVPbEc78BxE7onH-TMhxjYYjfr9WqXTAbNuGHoqnBt2bCdffFRR0ZoiE_aA9EdECOuXCReoz77hS5CtAmhHGuZIPhavib1qsJnh6OS0mEI_LLO_2wGqwfat_Pj82TPJ-viDWHpQB5D_ga_2mNcKizwnTg5WJm6JmBmuPVDDLa7jlIXkhB8W-QPcgZyXHMpxcfvlce77fjKYd7IFfjM_oW92H0YNsQCVtjSQBicgLRGJhODNFSRF4vQonURXJv3a8J_Y0dK3Kp0oIh3Xwas30"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10",
+            "q": "Swiggy Staff AI Platform Engineer part time"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+part+time&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rszsiurCTboY9Ae6L4vpHt23m-7WV5v20-SCDN5Wg-igGKNc9VTR3d8zHnIrOzdlfJ-spxCmnsy9FTZ_BSEye6OMMzay3cXJ4HkoCbRnvAPrY-Z9QO7gDfRXTW-VMl7RLpGQx19y2q01HCHhprhxhvzofawMgSiXKEZk3VVmyM-yzP0OjPdojc6ky-4G7JMhIs2lJmpbsnkHAlNle2yV0jwSd8ZtckIih19AJMYO0fw29wTF7ZoUPCK_sHGhnUzHcP_FYzGbw135EhQyYiB7YOlqxqxg9noap_k4ON9prQieJVvTMP6X8m_NFjxAM4BrA9icxhD2BUuo3mlH4yu1ZfKolQ10"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao",
+            "q": "Swiggy Staff AI Platform Engineer contract"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+contract&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rOMxXW_w2PkTqOFEJ-0nlVrsBzOr7MeVvsCtWVY_fdn_DMDK14mVyD4pUt_CHa-4TTWH6b61V_gw-BXNVLmxiI0K6jeaV2QkriIJSMOgkPqne3aB_zA34I29c3z2HvxWZ16YeiB3FvCOdS8nHT8cjEyxXQyDoALMMePMnHjwCyIX-HZVCoXZooDt8QrJlh_LF20KUpgcBjF0rj_ixjDoevizGTqmxq1kMY-FapSWZ69lfX-Ba5XteoRNWdr7nJfmYBGOp0d9wq_HdcXZeJUxXKNIGdM5Ss9BK2u7rKNTJcOLlZYlE_7557myZ5dbvH2OEBe8CQWjSPwdgEgdki5CJOzupfao"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g",
+            "q": "Swiggy Staff AI Platform Engineer internship"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGhAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+internship&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rmejzzu1LbpR50-dNFc88xTgPrkQHLeDAPKzuS_uTQoYRqOSWNKWKwwL1LeU8jtlk1lopK6BZSRknGIW3Y4ZgqqExevWsVttyNfnLDHnWoRfnDYkrtfGsNOrbt2kEaNS5UMW7BegWrgt9WwF-LzuwHJzKz8XQo_EgBllx92L7mVojimQ4XJM2MZmOs_fwVyLXazo1sq8QCoiG5EB4WGzkZB5Eh0_Z55a4J4ujJcMwQSFSQcXugEFxc_6aUYezJPSbdzjuGZK2MX4t1nDW9EYPNy9DAi9xX7sB1KLKjBFjlDQQXMg19NvYiJGrLZ-TwGFFcqvo_wG4tZWwGdvw5O2-LZclg5g"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt",
+            "q": "Swiggy Staff AI Platform Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy",
+            "q": "Swiggy Staff AI Platform Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7",
+            "q": "Swiggy Staff AI Platform Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm",
+            "q": "Swiggy Staff AI Platform Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt",
+            "q": "Swiggy Staff AI Platform Engineer since yesterday"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+since+yesterday&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZse-omkRDGrzaLyEgSqBh9UlT4_suCAFuFpn49nVXbPEWgAS_GVsizQ3kGgc4fWhFvUDRfTLMk2gKLIY9dWe8IAsAyaK_KGjRD-GBG0Zd9Old2-xdsplKpecVIuaP7cD9rQlHWboMnCHagQPMAQ1QuD407aI4GL-7c3uOrflX7WQyQ6_tAe-NcDueikzlgQGhlXBlLeZWhTFX5G1TtrPBgN4yjf7Jq7zUj2awksX8yKvCU6nsPOsx_MjQ7Vul7V1LkfiWwK3rupxKuiSgfT_oo_evp2fCsAPFTgzBDOXivK1I9FTgRqA7XQz75jYEUf2O6qOgyVZLAOcoCIYHp5FMASUQok_hbkaBoqc6fCZkOYSWlGt"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy",
+            "q": "Swiggy Staff AI Platform Engineer in the last 3 days"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+3+days&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r0b_Ci_bpNl_yS2zewZNj-nzWC0norBLgP8JTkZwTfEg7J3cJLLRr-ZCYK9nfLtMMJx2xcyXWTme-1XhwE255-5m2ClvmSeRiT-6U3NAiP33DhZOEDSupAeFsD_MaJo9w3lCLh8mb-Hy7yvtKDhrZTTQb2bKI3RV_KRF1Ar-keyGgfiaAkWcj1skOaB0nSLlOqO1nZ_-yC01WfpIrUIKcBKKbz-xro6r5u7FkX36_iGIdQxUJ4H390bm7SEfEcjuq4biXVQi4WhrYiWHZTnypiojXQSRCam4xzQXtRAsItrS_Px8ktiEQ3t-7e56oxw7QZmf8pDhoWeGZ_gRSIvU5yk6DQyFmXmad_ZO-Tbv5vchHlOyy"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7",
+            "q": "Swiggy Staff AI Platform Engineer in the last week"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+week&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZW4jMkDqx42sIAIVGm3V4X2JXOZx1lieIWdPLRx9hhCoO8HWIt6MVfMUAcMv40QSt0iMh64X0tiSIeeFMlhdoI8dRtl2knH3x2Mih3HX2DDz2qg6NReuO0ZnaOGkDp8bLUaJ0mBZCJKUYRPVpCOI_os3AaeULkovfLbS1s5kG_Koxl8G8fx4Muh8u6dWTGZ_yvzpaZm2_9KEsndKDy5he7c9BqNVgFFdu104OTjuoXsc8asxXsLmN8RD--X4vGqwc-GpyUCiJ5Ecbtz5tnZNLSf2_QEMX3uUof8b63jIro4fi9_Q-gbpeFohYu7fr5HgD3BBpbGVh9_wj8UgHLa8ijZ0HC6kO6wcC-I_E4jVdRlYWiI7"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm",
+            "q": "Swiggy Staff AI Platform Engineer in the last month"
+          },
+          "link": "https://www.google.com/search?sca_esv=afb89ae158309890&gl=in&hl=en&sxsrf=APpeQntVO2Umj6MGtOUAWL5BIvycbmsljw:1791531083841&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm&udm=8&sa=X&ved=2ahUKEwiAxuyutayXAxXWslYBHft2PKkQkbEKegQIGxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&q=Swiggy+Staff+AI+Platform+Engineer+in+the+last+month&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rcLo6M3jywRA0OlUVLrfMCJswECR3YfPJCm5_s4-QRaNRbQMRdZK0Dg12PBG5E2WEEI2ZvJpX5dRzz0A2_SQeoLwFORHs9ivULlvq7RLPF18fLvupkIdnJ8hlHWcObNlbAIdQ2sRwTvK6aAV-yKeCLeUOLzhxgFVag5XTt95rcqKqiw_d6MoqrfmsD_79hiLPKoiHlvo2K9hy1hHyZvyxsToXRyW4rUmd9MTagjYl_vRFfwghDHDZqTM4o9rhF2Fp09tjryIpCZ2DyDdAztSjO_sic7kUHv8KDZu__aGdglJmt4M5voYwdkNjSDRruBWpiTMq1MHo45yOt0RV6J07burBnatvzJgjOzS-OsMoYUF3CvJm"
+        }
+      ]
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Swiggy Hiring Data Scientist I (0-3 Yrs) in Bangalore",
+      "company_name": "Swiggy",
+      "location": "Bengaluru, Karnataka",
+      "via": "Talentd",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Swiggy+Staff+AI+Platform+Engineer&htidocid=WNQHT6-JmtyXU-ENAAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQrCQBAAsc0TLGRLFc0FxUY7EVQEm1RWYXMsl9PzLtxuMHb-wXf4KV9iAjbTDTPJZ5Cc84c15gkHG603sENByLUlL5YFjjDO5ku4RJ6A9bBFb9CFSPB9veEaSmDCqCsIHvYhGEfDTSVS81opZpcaFhSrUx3uKngqQ6s6iXsUXGGk2qFQsVhlbVp7Mx39Z_oU9akmNjM4YfTd1g1_TIrYwLAAAAA&shmds=v1_ARwrE22ftMomuriPpw4WhuMuFaXXq2KgWj-M6M2RiMg6TAeS6A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Swiggy+Staff+AI+Platform+Engineer&htidocid=WNQHT6-JmtyXU-ENAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ac8984a7bf2f91d350055d7/images/4WHQFQ2pAj2R6xL9Xai5V93BYehdQAbMQebKn2tlC4Q.jpeg",
+      "extensions": [
+        "₹6L–₹15L a year",
+        "Full–time"
+      ],
+      "source_link": "https://www.talentd.in/jobs/swiggy-hiring-data-scientist-i-0-3-yrs-in-bangalore-dtjk",
+      "job_title": "Swiggy Hiring Data Scientist I (0-3 Yrs) in Bangalore",
+      "description": "About the Team and RoleData Science and applied machine learning are deeply embedded in decision making and product development at Swiggy. Data scient[…]",
+      "apply_options": [
+        {
+          "title": "Talentd",
+          "link": "https://www.talentd.in/jobs/swiggy-hiring-data-scientist-i-0-3-yrs-in-bangalore-dtjk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTd2lnZ3kgSGlyaW5nIERhdGEgU2NpZW50aXN0IEkgKDAtMyBZcnMpIGluIEJhbmdhbG9yZSIsImNvbXBhbnlfbmFtZSI6IlN3aWdneSIsImh0aWRvY2lkIjoiV05RSFQ2LUptdHlYVS1FTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRbVZ1WjJGc2RYSjFMRXRoY201aGRHRnJZU3hKYm1ScFlRIiwiZ2wiOiJpbiIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDE0WW5aWVRXNXJlbWhHWWt0UFNFcDVibU42YVRrMVFWRk1SRFUzU2poZlZHOVdaMjQwZWxCb1pXMTBZMk15TUVRd1lVMWtOVlE0ZWtWcmVtWmFSWEZQWkhGSE1WVnVUemQzWTNCTFowbEpka3RJYVRkSk1uSjFWM1pyV2pKTFRVaHBXa2x0VVdabVNrZGxZbmwwT0RVeU9WOVZVbTF5TFVkUU1qQk5TbEJrUnpGS1ZXMFNGMU0xYWtsaGMwUXdUWFJpYkRKeWIxQXRMVE40ZVZGdkdpSkJSSE55T1daVFpIbHZOM0pLV0VGT05tNXRjbm94ZVVaWFEyOXdRbVpLTFdWUiIsImZjdiI6IjMiLCJmY19pZCI6IldOUUhUNi1KbXR5WFUtRU5BQUFBQUE9PSJ9"
+    },
+    {
+      "title": "AI/ML Engineering Intern",
+      "company_name": "Swiggy",
+      "location": "Kochi, Keralam",
+      "via": "MyInternships.in",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Swiggy+Staff+AI+Platform+Engineer&htidocid=EmfSbQtqFIQIpmK7AAAAAA%3D%3D&hl=en-IN&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7BeJ0s0iigotODiKlOvkBJQ3HJSW9K7mAdXN29Q_9EnV526tes2pzrO31AiemyIg5MkHNBTPD5_mGXjpQdNkHEIazCCVcHEIpo-6tVU2GtLgSvfEyWGHsZLK_pH9aDS7jmFzBdrtbT2ZkWs5v90j0gMjQiA9xBQ1ml9zwBbVZsFWNAAAA&shmds=v1_ARwrE23lsHBPxZM8nnPrXsl_fzEl2umsVTAHSdf_Cib4bHE6vQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Swiggy+Staff+AI+Platform+Engineer&htidocid=EmfSbQtqFIQIpmK7AAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAPFBMVEXi4uJ4eHjn5-d1dXVxcXHe3t6QkJBubm6hoaHJycmkpKS6urrCwsKysrKBgYGcnJzQ0NDW1taKioqrq6ub-gD2AAABCElEQVRIie2UyZKDMAxEbUne18D__2ssMMlVnttU3BegikcLtWSltrb-vQDgL5QJqaT8WoShWyJCJFfTCgnFob6FdBg5l9yFDE--Vrkjv08t5eRx3NIprBYSDZ8OLFPZU1ppRI3tdoHsEF0Xgu0LKmOHgtxRY5gJwsIcZOLmHKWr1dnRVwxIaM-gVtiOM3-G_UuOgmlI39nJC6Zgcqs0YWkcEx3p51i5T59sBAw8d_nyFJrFGP2TORQOVbYgwM30jyeHKhxWsGwyQ-AHrMJ_zLyOOo36TOCPUJE2x14LyTVyICubfJD-CKv87Bi91OOoYhF5OcakCmcbmxiTWT5c4dYqtrW19Qt6A0WOBnkf8ZY1AAAAAElFTkSuQmCC.png",
+      "extensions": [
+        "₹28K a month",
+        "Internship"
+      ],
+      "source_link": "https://myinternships.in/internships/swiggy-ai-ml-engineering-intern-kochi-4207ce",
+      "job_title": "AI/ML Engineering Intern",
+      "description": "Swiggy is hiring a AI/ML Engineering Intern in Kochi — a hands-on, mentor-led internship built for students and 2026 freshers who want real exposure to AI engineering rather than a certificate-only programme.\n\nAbout the role\nAs a AI/ML Engineering Intern at Swiggy, your core focus will be wiring models into user-facing features, APIs and pipelines. You are attached to a named mentor, join the team's stand-ups and reviews, and are trusted with work that matters rather than filler tasks. Questions are encouraged, your output is reviewed properly, and you get the feedback you need to actually improve.\n\nWhat you'll do day to day\n• Work on wiring models into user-facing features, APIs and pipelines alongside the core team\n• Use Python, FastAPI, REST APIs, LLM Integration, Docker on live, production-facing problems\n• Turn your work into clear documentation, notes or decks for reviewers\n• Take part in reviews and act on the feedback you receive\n• Collaborate across functions — engineering, product, design or business as the work demands\n• Follow the team's quality, testing and documentation standards\n• Track and report your own progress against an agreed plan\n\nSkills you'll build\nYou will build practical, demonstrable experience in Python, FastAPI, REST APIs, LLM Integration, Docker, Model Deployment, Cloud Platforms, Git, Prompt Engineering, Testing — the exact toolkit that separates a hireable fresher from a CV full of coursework. No prior work experience is required. Curiosity, problem-solving ability and a willingness to learn matter far more here than a polished résumé, and every one of these skills is taught on the job.\n\nWho should apply\nStudents in their final year or recent graduates from B.E./B.Tech/BCA/MCA/M.Sc (CS, AI) based in or willing to work from Kochi. You should be willing to learn Python, FastAPI, REST APIs and able to communicate clearly in writing. Personal projects, coursework, certifications or open-source contributions strengthen your application, but none of them are mandatory.\n\nInternship details\nThis is a 3-month internship in Kochi, Kerala, with a stipend of ₹28,000 per month. You will be given a defined project so that you leave with an AI feature live in front of real users. Working hours follow the team's normal business hours and the internship includes a certificate on successful completion.\n\nExpect to leave with real project experience, exposure to professional tooling and process, and mentorship that helps you plan a concrete next step in your career. Outstanding interns can convert to a full-time offer at the end of the internship.\n\nHow to apply\nClick Apply Now. If you are not logged in you will be asked to sign in and register first, after which you will be taken to Swiggy's official careers page to complete your application. Applications are reviewed on a rolling basis and seats are limited, so apply early. Responsibilities: Work on wiring models into user-facing features, APIs and pipelines alongside the core team; Apply Python, FastAPI, REST APIs, LLM Integration to live, production-facing problems; Document your work clearly for reviewers and stakeholders; Participate in reviews and act on the feedback you receive; Collaborate across engineering, product, design or business as required; Follow the team's quality, testing and documentation standards. Requirements: Pursuing or recently completed B.E./B.Tech/BCA/MCA/M.Sc (CS, AI) — 2026 freshers & final-year students welcome; Working knowledge of Python, FastAPI, REST APIs (or a genuine willingness to learn them); Strong fundamentals in your discipline and clear problem-solving ability; Care with detail and the discipline to document your work; Clear written and verbal communication in English; Based in or willing to work from Kochi, Kerala.",
+      "apply_options": [
+        {
+          "title": "MyInternships.in",
+          "link": "https://myinternships.in/internships/swiggy-ai-ml-engineering-intern-kochi-4207ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJBSS9NTCBFbmdpbmVlcmluZyBJbnRlcm4iLCJjb21wYW55X25hbWUiOiJTd2lnZ3kiLCJodGlkb2NpZCI6IkVtZlNiUXRxRklRSXBtSzdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUW1WdVoyRnNkWEoxTEV0aGNtNWhkR0ZyWVN4SmJtUnBZUSIsImdsIjoiaW4iLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21kSlEwUTNXVmhUV2tGYWExTXpYM1ZvVVhSTk9Vb3hkamhEYmxKMVVIZEtaMHBMVjNkRFkwaEhhWFJUUm1Kd2REbHpVbFJGYTJWZllXTXdVbFl3WTJGWmQyNUxiWEIxVlZOUFlYbG1SVVZCTWt0V2RFbFpVVFpNUVUxQ1lta3lNbmN3V205a1VtaFNRbkJoWkRCdFZuRmlSekJ3Ym1kbUxXdEdhVU5KUTBzd2RERnZYM0VTRjFNMWFrbGhjMFF3VFhSaWJESnliMUF0TFRONGVWRnZHaUpCUkhOeU9XWlNRbE5SYWpoRFZWQm5iMGRrTWpsblVsUk5lR28yVlhkWGFYcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJFbWZTYlF0cUZJUUlwbUs3QUFBQUFBPT0ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDE0WW5aWVRXNXJlbWhHWWt0UFNFcDVibU42YVRrMVFWRk1SRFUzU2poZlZHOVdaMjQwZWxCb1pXMTBZMk15TUVRd1lVMWtOVlE0ZWtWcmVtWmFSWEZQWkhGSE1WVnVUemQzWTNCTFowbEpka3RJYVRkSk1uSjFWM1pyV2pKTFRVaHBXa2x0VVdabVNrZGxZbmwwT0RVeU9WOVZVbTF5TFVkUU1qQk5TbEJrUnpGS1ZXMFNGMU0xYWtsaGMwUXdUWFJpYkRKeWIxQXRMVE40ZVZGdkdpSkJSSE55T1daVFpIbHZOM0pLV0VGT05tNXRjbm94ZVVaWFEyOXdRbVpLTFdWUiIsImZjdiI6IjMifQ==",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=en&location=Bengaluru%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDE0WW5aWVRXNXJlbWhHWWt0UFNFcDVibU42YVRrMVFWRk1SRFUzU2poZlZHOVdaMjQwZWxCb1pXMTBZMk15TUVRd1lVMWtOVlE0ZWtWcmVtWmFSWEZQWkhGSE1WVnVUemQzWTNCTFowbEpka3RJYVRkSk1uSjFWM1pyV2pKTFRVaHBXa2x0VVdabVNrZGxZbmwwT0RVeU9WOVZVbTF5TFVkUU1qQk5TbEJrUnpGS1ZXMFNGMU0xYWtsaGMwUXdUWFJpYkRKeWIxQXRMVE40ZVZGdkdpSkJSSE55T1daVFpIbHZOM0pLV0VGT05tNXRjbm94ZVVaWFEyOXdRbVpLTFdWUiIsImZjdiI6IjMifQ%3D%3D&q=Swiggy+Staff+AI+Platform+Engineer"
+  }
+}
